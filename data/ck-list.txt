@@ -1,0 +1,14 @@
++------------------------------+
+| Job:                  20-xxx |
++------------------------------+
+| Check in Job-Book        : X |
+| Create Job-Book entry    : X |
+| Get Tax Map Printout     :   |
+| Create Deed Outline      :   |
+| Get Deeds parcels        :   |
+| Note Stored Maps/Deeds   :   |
+| Enter Deeds to CAD       :   |
+| Create Plot Map          :   |
+| Band related Files       :   |
+| Sticky Note Stored Items :   |
++------------------------------+
