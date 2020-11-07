@@ -127,7 +127,10 @@ public class TaxRollParcel {
     }
 
     public String getSecBlkPcl() {
-        return String.format("%s-%s-%s",this.section, this.block, this.parcel);
+        if(this.parcel != null)
+            return String.format("%s-%s-%s",this.section, this.block, this.parcel);
+        else
+            return String.format("%s-%s",this.section, this.block);
     }
 
     @Override

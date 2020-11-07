@@ -18,29 +18,37 @@ public class TaxRollFormatting {
                 userInput[0] = userInput[0] + ".0";
             }
 
-            String[] sec = userInput[0].split("\\.");
-            String[] parcels = userInput[2].split(",");
-
             ArrayList<TaxRollParcel> formattedValues = new ArrayList<>();
 
-            // Split parcels into multiples.
+            String[] sec = userInput[0].split("\\.");
 
-            for(String pcl : parcels) {
-                if (pcl.contains(".")) {
-                    String [] tempPcls = pcl.split("\\.");
-                    formattedValues.add(this.getFormattedTaxNumbers(
-                            Integer.parseInt(sec[0]),
-                            Integer.parseInt(sec[1]),
-                            Integer.parseInt(userInput[1]),
-                            Integer.parseInt(tempPcls[0]),
-                            Integer.parseInt(tempPcls[1])));
-                } else {
-                    formattedValues.add(this.getFormattedTaxNumbers(
-                            Integer.parseInt(sec[0]),
-                            Integer.parseInt(sec[1]),
-                            Integer.parseInt(userInput[1]),
-                            Integer.parseInt(pcl)));
+            if(userInput.length > 2) {
+                String[] parcels = userInput[2].split(",");
+
+                // Split parcels into multiples.
+
+                for (String pcl : parcels) {
+                    if (pcl.contains(".")) {
+                        String[] tempPcls = pcl.split("\\.");
+                        formattedValues.add(this.getFormattedTaxNumbers(
+                                Integer.parseInt(sec[0]),
+                                Integer.parseInt(sec[1]),
+                                Integer.parseInt(userInput[1]),
+                                Integer.parseInt(tempPcls[0]),
+                                Integer.parseInt(tempPcls[1])));
+                    } else {
+                        formattedValues.add(this.getFormattedTaxNumbers(
+                                Integer.parseInt(sec[0]),
+                                Integer.parseInt(sec[1]),
+                                Integer.parseInt(userInput[1]),
+                                Integer.parseInt(pcl)));
+                    }
                 }
+            } else {
+                formattedValues.add(this.getFormattedTaxNumbers(
+                        Integer.parseInt(sec[0]),
+                        Integer.parseInt(sec[1]),
+                        Integer.parseInt(userInput[1])));
             }
 
             return formattedValues;
@@ -56,6 +64,11 @@ public class TaxRollFormatting {
     private TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block, int parcel) throws TaxRollFormattingException {
         String [] fmt = getWholeParcelFormat();
         return new TaxRollParcel(String.format(fmt[0], section1, section2), String.format(fmt[1], block), String.format(fmt[2], parcel), "Not Found! Double Check Rolls", "X", "X", "X", "X", "X", "X");
+    }
+
+    private TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block) throws TaxRollFormattingException {
+        String [] fmt = getWholeParcelFormat();
+        return new TaxRollParcel(String.format(fmt[0], section1, section2), String.format(fmt[1], block), null, "Not Found! Double Check Rolls", "X", "X", "X", "X", "X", "X");
     }
 
     private String[] getWholeParcelFormat() throws TaxRollFormattingException {

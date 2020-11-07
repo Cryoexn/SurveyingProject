@@ -1,9 +1,9 @@
 public interface CityTownVillageVals {
 
     // Current know formats for Tax Roll parcels
-    public static final String[] ROME_FMT   = new String[] { "%03d.%03d", "%03d", "%03d"};
-    public static final String[] DEFAULT_FMT = new String[] { "%03d.%03d", "%d", "%d"};
-    public static final String[] DEFAULT_DML_FMT = new String[] { "%03d.%03d", "%d", "%d.%d"};
+    public static final String[] ROME_FMT   = new String[] { "%d.%03d", "%04d", "%03d"};
+    public static final String[] DEFAULT_FMT = new String[] { "%d.%03d", "%d", "%d"};
+    public static final String[] DEFAULT_DML_FMT = new String[] { "%d.%03d", "%d", "%d.%d"};
 
     public static final String [] CTV_LIST = {
         "Annsville",
@@ -36,33 +36,33 @@ public interface CityTownVillageVals {
     };
     
     // Tax Rolls For Oneida County.
-    public static final String ANNSVILLE_ROLL    = "Annsville-Tax-Rolls.txt";
-    public static final String AUGUSTA_ROLL      = "Augusta-Tax-Rolls.txt";
-    public static final String AVA_ROLL          = "Ava-Tax-Rolls.txt";
-    public static final String BOONVILLE_ROLL    = "Boonville-Tax-Rolls.txt";
-    public static final String BRIDGEWATER_ROLL  = "Bridgewater-Tax-Rolls.txt";
-    public static final String CAMDEN_ROLL       = "Camden-Tax-Rolls.txt";
-    public static final String DEERFIELD_ROLL    = "Deerfield-Tax-Rolls.txt";
-    public static final String FLORENCE_ROLL     = "Florence-Tax-Rolls.txt";
-    public static final String FLOYD_ROLL        = "Floyd-Tax-Rolls.txt";
-    public static final String FORESTPORT_ROLL   = "Forestport-Tax-Rolls.txt";
-    public static final String KIRKLAND_ROLL     = "Kirkland-Tax-Rolls.txt";
-    public static final String LEE_ROLL          = "Lee-Tax-Rolls.txt";
-    public static final String MARCY_ROLL        = "Marcy-Tax-Rolls.txt";
-    public static final String MARSHALL_ROLL     = "Marshall-Tax-Rolls.txt";
-    public static final String NEW_HARTFORD_ROLL = "New Hartford-Tax-Rolls.txt";
-    public static final String PARIS_ROLL        = "Paris-Tax-Rolls.txt";
-    public static final String REMSEN_ROLL       = "Remsen-Tax-Rolls.txt";
-    public static final String SANGERFIELD_ROLL  = "Sangerfield-Tax-Rolls.txt";
-    public static final String STEUBEN_ROLL      = "Steuben-Tax-Rolls.txt";
-    public static final String TRENTON_ROLL      = "Trenton-Tax-Rolls.txt";
-    public static final String VERNON_ROLL       = "Vernon-Tax-Rolls.txt";
-    public static final String VERONA_ROLL       = "Verona-Tax-Rolls.txt";
-    public static final String VIENNA_ROLL       = "Vienna-Tax-Rolls.txt";
-    public static final String WESTERN_ROLL      = "Western-Tax-Rolls.txt";
-    public static final String WESTMORELAND_ROLL = "Westmoreland-Tax-Rolls.txt";
-    public static final String WHITESTOWN_ROLL   = "Whitestown-Tax-Rolls.txt";
-    public static final String ROME_ROLL         = "Rome-Tax-Rolls.txt";
+    public static final String ANNSVILLE_ROLL    = "Annsville-Tax-Rolls-Parcels.txt";
+    public static final String AUGUSTA_ROLL      = "Augusta-Tax-Rolls-Parcels.txt";
+    public static final String AVA_ROLL          = "Ava-Tax-Rolls-Parcels.txt";
+    public static final String BOONVILLE_ROLL    = "Boonville-Tax-Rolls-Parcels.txt";
+    public static final String BRIDGEWATER_ROLL  = "Bridgewater-Tax-Rolls-Parcels.txt";
+    public static final String CAMDEN_ROLL       = "Camden-Tax-Rolls-Parcels.txt";
+    public static final String DEERFIELD_ROLL    = "Deerfield-Tax-Rolls-Parcels.txt";
+    public static final String FLORENCE_ROLL     = "Florence-Tax-Rolls-Parcels.txt";
+    public static final String FLOYD_ROLL        = "Floyd-Tax-Rolls-Parcels.txt";
+    public static final String FORESTPORT_ROLL   = "Forestport-Tax-Rolls-Parcels.txt";
+    public static final String KIRKLAND_ROLL     = "Kirkland-Tax-Rolls-Parcels.txt";
+    public static final String LEE_ROLL          = "Lee-Tax-Rolls-Parcels.txt";
+    public static final String MARCY_ROLL        = "Marcy-Tax-Rolls-Parcels.txt";
+    public static final String MARSHALL_ROLL     = "Marshall-Tax-Rolls-Parcels.txt";
+    public static final String NEW_HARTFORD_ROLL = "New Hartford-Tax-Rolls-Parcels.txt";
+    public static final String PARIS_ROLL        = "Paris-Tax-Rolls-Parcels.txt";
+    public static final String REMSEN_ROLL       = "Remsen-Tax-Rolls-Parcels.txt";
+    public static final String SANGERFIELD_ROLL  = "Sangerfield-Tax-Rolls-Parcels.txt";
+    public static final String STEUBEN_ROLL      = "Steuben-Tax-Rolls-Parcels.txt";
+    public static final String TRENTON_ROLL      = "Trenton-Tax-Rolls-Parcels.txt";
+    public static final String VERNON_ROLL       = "Vernon-Tax-Rolls-Parcels.txt";
+    public static final String VERONA_ROLL       = "Verona-Tax-Rolls-Parcels.txt";
+    public static final String VIENNA_ROLL       = "Vienna-Tax-Rolls-Parcels.txt";
+    public static final String WESTERN_ROLL      = "Western-Tax-Rolls-Parcels.txt";
+    public static final String WESTMORELAND_ROLL = "Westmoreland-Tax-Rolls-Parcels.txt";
+    public static final String WHITESTOWN_ROLL   = "Whitestown-Tax-Rolls-Parcels.txt";
+    public static final String ROME_ROLL         = "Rome-Tax-Rolls-Parcels.txt";
 
     // City/Town/Village Constants.
     public static final String ANNSVILLE    = "Annsville";

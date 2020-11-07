@@ -1,6 +1,11 @@
 import java.io.*;
+import java.lang.reflect.Array;
+import java.nio.charset.Charset;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Objects;
 
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
@@ -11,67 +16,83 @@ import org.apache.pdfbox.text.PDFTextStripper;
 
 public class ConvertTaxRolls {
     public static void main(String []args) {
+        try {
+            File pdfFolder            = new File("taxrolls-pdf/");
+            File[] pdfFiles = Objects.requireNonNull(pdfFolder.listFiles());
 
-        if(args.length == 1) {
-            File pdfFile            = new File(args[0]);
-            File textFile           = new File(args[0].replace(".pdf", "") + ".txt");
-            File textParcelFmtdFile = new File(args[0].replace(".pdf", "-") + "Parcels.txt");
+            for (File pdfFile : pdfFiles) {
 
-            try {
+                System.out.println("--");
 
                 ArrayList<String> lineList = convertPDFToTxt(pdfFile);
+                ArrayList<String> listCopy = new ArrayList<>(lineList);
 
                 removeUnwantedText(lineList);
-
                 lineList = getPayRollParcels(lineList);
-
-                lineList.removeIf(line -> line.contains("UNDER AGDIST"));
-
-                writeTxtToFile(lineList, textFile);
-
-                createFormattedParcelFile(lineList, textParcelFmtdFile);
-
-            } catch(IOException ex) {
-                System.out.println(ex.getMessage());
+                writeTxtToFile(lineList, new File(pdfFile.toString().replace("taxrolls-pdf/", "taxrolls-txt/").replace(".pdf", ".txt")));
+                createFormattedParcelFile(lineList, listCopy, new File(pdfFile.toString().replace("taxrolls-pdf/", "taxrolls-txt/").replace(".pdf", "-Parcels.txt")));
             }
-
-            System.out.println("Complete.");
-
-        } else {
-            System.out.println("Usage - java ConvertTaxRolls \"City/Town/Village\"-Tax-Rolls.pdf <- pdf file");
+        } catch(IOException ex) {
+            System.out.println(ex.getMessage());
         }
+
+        System.out.println("Complete.");
     }
 
     private static void removeUnwantedText(ArrayList<String> list) {
-        list.removeIf(line -> line.length() != 132 && line.contains("*"));
+
+        System.out.print("Removing Unwanted Lines... ");
+
+        list.removeIf(line -> line.equals("************************************************************************************************************************************ "));
+        list.removeIf(line -> line.equals(" ************************************************************************************************************************************"));
         list.removeIf(line -> line.contains("COUNTY -"));
         list.removeIf(line -> line.contains("TOWN -"));
         list.removeIf(line -> line.contains("VILLAGE -"));
+        list.removeIf(line -> line.contains("CITY -"));
         list.removeIf(line -> line.contains("SWIS -"));
-        list.removeIf(line -> line.contains("CODE-"));
+        list.removeIf(line -> line.contains("CODE -"));
+        list.removeIf(line -> line.contains("INSIDE -") || line.contains("INSIDE  -"));
+        list.removeIf(line -> line.contains("UNDER AGDIST"));
         list.removeIf(line -> line.contains("CURRENT OWNERS"));
         list.removeIf(line -> line.contains("STATE OF NEW YORK"));
-        list.removeIf(line -> line.charAt(0) == ' ' && line.contains("EAST") || line.contains("NRTH") || line.contains("FULL MARKET VALUE") || line.contains("DPTH") || line.contains("FRNT") );
+        list.removeIf(line -> line.contains("TAX MAP PARCEL NUMBER"));
+        list.removeIf(line -> line.strip().equals(","));
+        list.removeIf(line -> line.charAt(0) == ' ' && line.contains("EAST") || line.contains("NRTH") || line.contains("FULL MARKET VALUE") || line.contains("DPTH") || line.contains("FRNT"));
+
+        System.out.println("Done");
     }
 
     private static ArrayList<String> getPayRollParcels(ArrayList<String> list) {
         ArrayList<String> updatedText = new ArrayList<>();
 
+        String sepSBL;
+        String laSep;
+
+        System.out.print("Seperating Parcels... ");
+
         for(int i = 0; i < list.size(); i++) {
             if(list.get(i).contains("DEED") || list.get(i).contains("BOOK") || list.get(i).contains("ACRES") || list.get(i).contains("LIBER")) {
                 list.set(i, list.get(i).strip());
             } else if(list.get(i).contains("******************************************************************************************************* ")) {
-                list.set(i+1, list.get(i+1).strip());
-            } else if(list.get(i).contains("S U B - T O T A L")) {
-                list.set(i, "******************************************************************************************************* ");
+                 sepSBL = list.get(i).split("( +)")[1].strip().replace("*", "");
+                 laSep = list.get(i+1).split("( +)")[0].strip();
+
+                 if(!laSep.equals(sepSBL)) {
+                     list.set(i + 1, list.get(i+1).strip());
+                 } else {
+                     list.set(i + 1, "No Address");
+                     String tempName = list.get(i + 2);
+                     list.set(i + 2, laSep.strip());
+                     list.set(i + 3, tempName.split("(  +)")[0] + ", " + list.get(i+3).split("(  +)")[0].strip());
+                 }
             }
         }
 
         for(String line : list) {
             if (!(line.contains("DEED") || line.contains("BOOK") || line.contains("ACRES") || line.contains("LIBER"))) {
-                String firstComp = line.split(" {2}")[0];
+                String firstComp = line.split(" {3}")[0];
                 if (!firstComp.isBlank())
-                    updatedText.add(line.split(" {2}")[0]);
+                    updatedText.add(firstComp);
 
             } else if (line.contains("ACRES") && line.replaceAll("( +)", " ").split(" ")[0].equals("ACRES")) {
                 String[] acresComps = line.replaceAll("( +)", " ").split(" ");
@@ -91,9 +112,6 @@ public class ConvertTaxRolls {
 
             } else if((line.contains("DEED BOOK") || line.contains("LIBER")) && line.replaceAll("( +)", " ").split(" ")[0].equals("DEED") || line.replaceAll("( +)", " ").split(" ")[0].equals("LIBER")) {
                 String [] deedComps = line.replaceAll("( +)", " ").split(" ");
-
-                for(String comp : deedComps)
-                    System.out.println(comp);
 
                 if (!deedComps[2].equals("00000") && deedComps.length > 3)
                     updatedText.add(deedComps[0] + " " + deedComps[1] + " " + deedComps[2] + " " + deedComps[3]);
@@ -120,6 +138,20 @@ public class ConvertTaxRolls {
             }
         }
 
+        for(int i = 0; i < updatedText.size() - 1; i++) {
+            boolean lineContainsAcres = updatedText.get(i).split(" ")[0].equals("ACRES");
+            boolean nextLineDoesntContainDeedLiberStar = !(updatedText.get(i+1).split(" ")[0].equals("DEED") ||
+                                                         updatedText.get(i+1).split(" ")[0].equals("LIBER") ||
+                                                         updatedText.get(i+1).split(" ")[0].equals("*".repeat(103)));
+            if(lineContainsAcres && nextLineDoesntContainDeedLiberStar) {
+                String temp = updatedText.get(i+1);
+                updatedText.set(i+1, updatedText.get(i));
+                updatedText.set(i, temp);
+            }
+        }
+
+        System.out.println("Done");
+
         return updatedText;
     }
 
@@ -127,11 +159,13 @@ public class ConvertTaxRolls {
         PDDocument document = PDDocument.load(pdf);
         PDFTextStripper pdfStripper = new PDFTextStripper();
 
-        System.out.println("Converting PDF to Txt...");
+        System.out.printf("Converting %s to Txt... ", pdf.toString());
 
         ArrayList<String> lines = new ArrayList<String>(Arrays.asList(pdfStripper.getText(document).split("\n")));
 
         document.close();
+
+        System.out.println("Done");
 
         return lines;
     }
@@ -140,7 +174,7 @@ public class ConvertTaxRolls {
 
         BufferedWriter bw = new BufferedWriter(new FileWriter(file));
 
-        System.out.println("Writing Unformatted Parcels to File...");
+        System.out.print("Writing Unformatted Parcels to File... ");
 
         for (String line : text) {
             bw.write(line + "\n");
@@ -148,16 +182,19 @@ public class ConvertTaxRolls {
 
         bw.flush();
         bw.close();
+
+        System.out.println("Done");
     }
 
-    private static void createFormattedParcelFile(ArrayList<String> lineList, File formattedParcelFile) {
-        System.out.println("Creating Formatted Parcels File...");
+    private static void createFormattedParcelFile(ArrayList<String> lineList, ArrayList<String> copy, File formattedParcelFile) {
+        System.out.print("Creating Formatted Parcels File... ");
 
         try {
             BufferedWriter bw = new BufferedWriter(new FileWriter(formattedParcelFile));
 
             boolean containedAcres;
             boolean containedDeedbook;
+            int numLines;
 
             for(int i = 0; i < lineList.size(); i++) {
 
@@ -166,18 +203,19 @@ public class ConvertTaxRolls {
                 containedDeedbook = false;
 
                 if (lineList.get(i).contains("******************************************************************************************************* ")) {
-                    i++;
-                    String address = lineList.get(i);
-                    i++;
-                    String secBlkPcl = lineList.get(i);
-                    i++;
-                    String name = lineList.get(i);
-                    i++;
+                    // Maybe Change the get sec-blk-pcl to the seperator numbers.
+                    String address = lineList.get(++i);
+                    String secBlkPcl = lineList.get(++i);
+                    String name = lineList.get(++i);
 
                     StringBuilder mailing = new StringBuilder();
+                    numLines = 0;
 
-                    while (!lineList.get(i).contains("ACRES") && !lineList.get(i).contains("DEED BOOK") && !lineList.get(i).contains("******************************************************************************************************* ")) {
+                    i++;
+
+                    while (!lineList.get(i).contains("ACRES") && !lineList.get(i).contains("DEED BOOK") && numLines <= 10 && !lineList.get(i).contains("******************************************************************************************************* ")) {
                         mailing.append(lineList.get(i));
+                        numLines++;
                         i++;
                     }
 
@@ -203,13 +241,17 @@ public class ConvertTaxRolls {
 
                     bw.write(String.format("%s|%s|%s|%s|%s|%s|%s|%s\n", secBlkPcl, name, address, mailing.toString(), acres != null ? acres : "NOT IN ROLLS", instrType != null ? instrType : "NOT IN ROLLS", instrNum != null ? instrNum : "NOT IN ROLLS", page != null ? page : "NOT IN ROLLS"));
 
-                    if(containedAcres && !containedDeedbook)
+                    if(containedAcres && !containedDeedbook || (!containedAcres && !containedDeedbook))
                         i--;
                 }
             }
 
             bw.flush();
             bw.close();
+
+            System.out.println("Done");
+
+            checkNumOfParcelsConverted(formattedParcelFile, copy);
 
         } catch (IOException e) {
             System.out.println(e.getMessage());
@@ -231,5 +273,53 @@ public class ConvertTaxRolls {
         br.close();
 
         return list;
+    }
+
+    private static void checkNumOfParcelsConverted(File fmtdParcels, ArrayList<String> pdflist) {
+        pdflist.removeIf(line -> line.equals("************************************************************************************************************************************ "));
+        pdflist.removeIf(line -> !line.contains("******************************************************************************************************* "));
+
+        ArrayList<String> conSBLS = getConvertedSBLS(fmtdParcels);
+        ArrayList<String> nonMatches = new ArrayList<>();
+
+        int matched = 0;
+
+        System.out.print("Checking Number of Parcels Converted Successfully... ");
+
+        for(String pdfline : pdflist) {
+            pdfline = pdfline.replaceAll("\\*", "");
+            pdfline = pdfline.strip();
+            for(String conline : conSBLS) {
+                if(pdfline.equals(conline)){
+                    matched++;
+                }
+            }
+        }
+
+        System.out.println("Done");
+        System.out.printf("Total PDF SBLs: %d, Total CON SBLs: %d, Matched: %d/%d\n", pdflist.size(), conSBLS.size(), matched, pdflist.size());
+
+        for(String non : nonMatches)
+            System.out.println(non);
+    }
+
+    private static ArrayList<String> getConvertedSBLS(File fmtdParcels) {
+
+        ArrayList<String> sbls = new ArrayList<>();
+
+        try {
+            sbls = (ArrayList<String>) Files.readAllLines(fmtdParcels.toPath(), Charset.defaultCharset());
+
+            for(int i = 0; i < sbls.size(); i++) {
+                sbls.set(i, sbls.get(i).split("\\|")[0].strip());
+            }
+
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return sbls;
     }
 }

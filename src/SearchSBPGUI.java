@@ -5,15 +5,13 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.StandardCopyOption;
 import java.util.ArrayList;
+import java.util.regex.PatternSyntaxException;
 
-public class SearchSBPGUI extends JFrame {
+public class SearchSBPGUI extends JPanel {
 
     private final int INPUT_H_GAP = 30;
     private final int INPUT_V_GAP = 20;
@@ -27,11 +25,11 @@ public class SearchSBPGUI extends JFrame {
     private final int FRAME_X = 700;
     private final int FRAME_Y = 345;
 
-    private JTextField txtfJobNumEntry;
     private JTextField txtfParcelInput;
     private JTextArea txtaParcelList;
-
+    private JComboBox<String> comboBoxCTV;
     private JLabel lblParcels;
+    private JButton btnClearParcels;
 
     private String jobNum;
     private String jobBaseDir;
@@ -43,9 +41,9 @@ public class SearchSBPGUI extends JFrame {
     private ArrayList<TaxRollParcel> parcelsSearch;
     private ArrayList<TaxRollParcel> parcelsFound;
 
-    public SearchSBPGUI(TaxRollParser parser, TaxRollFormatting formatter, String jobBaseDir, String templateDir) {
+    public SearchSBPGUI(TaxRollParser parser, TaxRollFormatting formatter, String jobBaseDir, String templateDir, String jobNum) {
 
-        this.jobNum = "";
+        this.jobNum = jobNum;
         this.jobBaseDir = jobBaseDir;
         this.templateDir = templateDir;
         this.parcelsSearch = new ArrayList<>();
@@ -60,10 +58,6 @@ public class SearchSBPGUI extends JFrame {
         this.parser.setCityTownVillage(CityTownVillageVals.CTV_LIST[0]);
         this.formatter.setTownCity(CityTownVillageVals.CTV_LIST[0]);
 
-        this.setName("SearchSBP");
-        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        this.setSize(FRAME_X, FRAME_Y);
-
         JPanel panelMain = new JPanel(new BorderLayout());
         JScrollPane mainFrameScrollPane = new JScrollPane(panelMain, JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED, JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
 
@@ -72,11 +66,7 @@ public class SearchSBPGUI extends JFrame {
         panelMain.add(createWaterMark(), BorderLayout.NORTH);
         panelMain.add(createPanelInput(), BorderLayout.CENTER);
 
-        // Use for errors that occur.
-        // JOptionPane.showMessageDialog(null, "My Goodness, this is so concise");
-
-        this.setVisible(true);
-        this.setResizable(true);
+        this.add(panelMain);
     }
 
     private JPanel createPanelInput() {
@@ -94,7 +84,7 @@ public class SearchSBPGUI extends JFrame {
         lblGbc.weighty = 2;
         lblGbc.weightx = 1;
         lblGbc.anchor = GridBagConstraints.LINE_START;
-        lblGbc.insets = new Insets(0,5,0,5);
+        lblGbc.insets = new Insets(5,5,0,5);
 
         inpGbc.ipady = 5;
         inpGbc.fill = GridBagConstraints.HORIZONTAL;
@@ -102,39 +92,22 @@ public class SearchSBPGUI extends JFrame {
         inpGbc.weighty = 2;
         inpGbc.weightx = 1;
         inpGbc.anchor = GridBagConstraints.CENTER;
-        inpGbc.insets = new Insets(0,5,0,5);
-
-        JLabel lblJobNum = new JLabel("Enter Job #", JLabel.RIGHT);
-        lblJobNum.setFont(labelFont);
-
-        lblGbc.gridx = 0;
-        lblGbc.gridy = 0;
-
-        panelInput.add(lblJobNum, lblGbc);
-
-        txtfJobNumEntry = new JTextField();
-        txtfJobNumEntry.addActionListener(new TextFieldJobNumDocListener());
-        txtfJobNumEntry.setFont(inputFont);
-
-        inpGbc.gridx = 1;
-        inpGbc.gridy = 0;
-
-        panelInput.add(txtfJobNumEntry, inpGbc);
+        inpGbc.insets = new Insets(5,5,0,5);
 
         JLabel lblSelectTCV = new JLabel("Town/City/Village", JLabel.RIGHT);
         lblSelectTCV.setFont(labelFont);
 
         lblGbc.gridx = 0;
-        lblGbc.gridy = 1;
+        lblGbc.gridy = 0;
 
         panelInput.add(lblSelectTCV, lblGbc);
 
-        JComboBox<String> comboBoxCTV = new JComboBox<>(CityTownVillageVals.CTV_LIST);
+        comboBoxCTV = new JComboBox<>(CityTownVillageVals.CTV_LIST);
         comboBoxCTV.setFont(labelFont);
         comboBoxCTV.addActionListener(new ComboBoxTownCityVillageListener());
 
         inpGbc.gridx = 1;
-        inpGbc.gridy = 1;
+        inpGbc.gridy = 0;
 
         panelInput.add(comboBoxCTV, inpGbc);
 
@@ -142,16 +115,16 @@ public class SearchSBPGUI extends JFrame {
         lblParcelInput.setFont(labelFont);
 
         lblGbc.gridx = 0;
-        lblGbc.gridy = 2;
+        lblGbc.gridy = 1;
 
         panelInput.add(lblParcelInput, lblGbc);
 
         txtfParcelInput = new JTextField(10);
-        txtfParcelInput.addActionListener(new TextFieldParcelInputListener());
+        txtfParcelInput.addActionListener(new SearchParcelsListener());
         txtfParcelInput.setFont(inputFont);
 
         inpGbc.gridx = 1;
-        inpGbc.gridy = 2;
+        inpGbc.gridy = 1;
 
         panelInput.add(txtfParcelInput, inpGbc);
 
@@ -160,10 +133,21 @@ public class SearchSBPGUI extends JFrame {
 
         lblGbc.insets = new Insets(10, 5, 0,5);
         lblGbc.gridx = 0;
-        lblGbc.gridy = 3;
+        lblGbc.gridy = 2;
         lblGbc.gridwidth = 2;
 
         panelInput.add(lblParcels, lblGbc);
+
+        btnClearParcels = new JButton("Clear");
+        btnClearParcels.setFont(inputFont);
+        btnClearParcels.addActionListener(new ClearButtonListener());
+
+        inpGbc.gridx = 2;
+        inpGbc.gridy = 2;
+        inpGbc.gridwidth = 1;
+        inpGbc.anchor = GridBagConstraints.LINE_END;
+
+        panelInput.add(btnClearParcels, inpGbc);
 
         // Reset GridBagConstraints
         lblGbc.insets = new Insets(0, 5, 0,5);
@@ -172,8 +156,9 @@ public class SearchSBPGUI extends JFrame {
         JScrollPane scpParcelList = new JScrollPane(txtaParcelList, JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED, JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
 
         inpGbc.gridx = 0;
-        inpGbc.gridy = 4;
+        inpGbc.gridy = 3;
         inpGbc.gridwidth = 3;
+        inpGbc.anchor = GridBagConstraints.LINE_START;
 
         panelInput.add(scpParcelList, inpGbc);
 
@@ -184,7 +169,7 @@ public class SearchSBPGUI extends JFrame {
         btnCreateFolder.setFont(labelFont);
 
         inpGbc.gridx = 0;
-        inpGbc.gridy = 5;
+        inpGbc.gridy = 4;
 
         panelInput.add(btnCreateFolder, inpGbc);
 
@@ -193,16 +178,16 @@ public class SearchSBPGUI extends JFrame {
         btnCreateDeedOutline.setFont(labelFont);
 
         inpGbc.gridx = 1;
-        inpGbc.gridy = 5;
+        inpGbc.gridy = 4;
 
         panelInput.add(btnCreateDeedOutline, inpGbc);
 
         JButton btnSearchParcels = new JButton("Search Parcels");
-        btnSearchParcels.addActionListener(new ButtonSearchParcelsListener());
+        btnSearchParcels.addActionListener(new SearchParcelsListener());
         btnSearchParcels.setFont(labelFont);
 
         inpGbc.gridx = 2;
-        inpGbc.gridy = 5;
+        inpGbc.gridy = 4;
 
         panelInput.add(btnSearchParcels, inpGbc);
 
@@ -211,15 +196,17 @@ public class SearchSBPGUI extends JFrame {
 
     private JLabel createWaterMark() {
         // new JLabel(new ImageIcon("output-onlinepngtools.png"));
-        JLabel lbl = new JLabel("Moore Land Surveying");
+        JLabel lbl = new JLabel(String.format("%s : %s", "Moore Land Surveying", jobNum));
         lbl.setFont(new Font("Times New Roman", Font.BOLD, 30));
         return lbl;
     }
 
-    private class TextFieldJobNumDocListener implements ActionListener {
+    private class ClearButtonListener implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
-            jobNum = txtfJobNumEntry.getText();
+            System.out.println("Clearing");
+            parcelsFound.clear();
+            updateFoundParcels();
         }
     }
 
@@ -232,73 +219,86 @@ public class SearchSBPGUI extends JFrame {
 
             formatter.setTownCity(townCityVillage);
             parser.setCityTownVillage(townCityVillage);
-        }
-    }
 
-    private class TextFieldParcelInputListener implements ActionListener {
-        @Override
-        public void actionPerformed(ActionEvent e) {
-            JTextField txtF = (JTextField) e.getSource();
-
-            String sbls = txtF.getText();
-
-            if(!sbls.equals("")) {
-                try {
-                    parcelsSearch = formatter.getFormattedUserInput(sbls.split("-"));
-                    parcelsFound = parser.searchTaxRollsForValues(parcelsSearch);
-
-                    txtaParcelList.setText("");
-                    lblParcels.setText(String.format("Current Parcel List: Found (%s)", getNumFound()));
-
-                    for (TaxRollParcel parcel : parcelsFound)
-                        if(!parcel.getName().equals("Not Found! Double Check Rolls"))
-                            txtaParcelList.append(parcel.getSecBlkPcl() + "\n");
-
-                } catch (TaxRollFormattingException ex) {
-                    JOptionPane.showMessageDialog(null, ex.getMessage());
-                }
-            }
-        }
-    }
-
-    private class ButtonSearchParcelsListener implements ActionListener {
-        @Override
-        public void actionPerformed(ActionEvent e) {
             if(!txtfParcelInput.getText().equals("")) {
-                try {
-                    parcelsSearch = formatter.getFormattedUserInput(txtfParcelInput.getText().split("-"));
-                    parcelsFound = parser.searchTaxRollsForValues(parcelsSearch);
+                searchRolls();
+            }
+        }
+    }
 
-                    txtaParcelList.setText("");
-                    lblParcels.setText(String.format("Current Parcel List: Found (%s)", getNumFound()));
+    private class SearchParcelsListener implements ActionListener {
+        @Override
+        public void actionPerformed(ActionEvent e) {
+            searchRolls();
+        }
+    }
 
+    private void searchRolls() {
+        if(!txtfParcelInput.getText().equals("") && isValidFmt(txtfParcelInput.getText())) {
+            try {
+                String ctv = (String) comboBoxCTV.getSelectedItem();
 
-                    for (TaxRollParcel parcel : parcelsFound)
-                        if(!parcel.getName().equals("Not Found! Double Check Rolls"))
-                            txtaParcelList.append(parcel.getSecBlkPcl() + "\n");
+                formatter.setTownCity(ctv);
+                parser.setCityTownVillage(ctv);
 
-                } catch (TaxRollFormattingException ex) {
-                    JOptionPane.showMessageDialog(null, ex.getMessage());
+                parcelsSearch = formatter.getFormattedUserInput(txtfParcelInput.getText().split("-"));
+                parcelsFound = parser.searchTaxRollsForValues(parcelsSearch);
+
+                if(parcelsFound != null) {
+                    updateFoundParcels();
+                } else {
+                    System.out.println(parcelsFound);
+                    lblParcels.setText(String.format("Current Parcel List: %s", "No Tax Roll File"));
+                }
+
+            } catch (TaxRollFormattingException ex) {
+                JOptionPane.showMessageDialog(null, ex.getMessage());
+            }
+        } else {
+            lblParcels.setText(String.format("Current Parcel List: %s", "Invalid Format"));
+        }
+    }
+
+    private void updateFoundParcels() {
+        if(parcelsFound.size() != 0){
+            for (TaxRollParcel parcel : parcelsFound) {
+                if (!parcel.getName().equals("Not Found! Double Check Rolls")) {
+                    txtaParcelList.append(parcel.getSecBlkPcl() + "\n");
                 }
             }
+            lblParcels.setText(String.format("Current Parcel List: Found (%s)", getNumFound()));
+        } else {
+            txtaParcelList.setText("");
+            lblParcels.setText(String.format("Current Parcel List: ", getNumFound()));
+        }
+    }
+
+    private boolean isValidFmt(String parcels) {
+        try {
+            return parcels.split("-").length == 3 || parcels.split("-").length == 2;
+        } catch (PatternSyntaxException ignored){
+            return false;
         }
     }
 
     private String getNumFound() {
         int found = 0;
 
-        for(TaxRollParcel parcel : parcelsFound)
-            if(!parcel.getName().equals("Not Found! Double Check Rolls"))
-                found++;
+        if(parcelsFound != null) {
+            for (TaxRollParcel parcel : parcelsFound)
+                if (!parcel.getName().equals("Not Found! Double Check Rolls"))
+                    found++;
 
-        return String.format("%d/%d", found, parcelsSearch.size());
+            return String.format("%d/%d", found, parcelsSearch.size());
+        }
+
+        return null;
     }
 
     private class ButtonCreateDeedOutlineListener implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
             try {
-                jobNum = txtfJobNumEntry.getText();
                 createDeedOutlineForJobNumber(jobBaseDir, jobNum, parcelsFound);
             } catch (TaxRollFileException ex) {
                 JOptionPane.showMessageDialog(null, ex.getMessage());
@@ -309,9 +309,6 @@ public class SearchSBPGUI extends JFrame {
     private class ButtonCreateJobFolderListener implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
-
-            jobNum = txtfJobNumEntry.getText();
-
             if(!jobNum.equals("")) {
                 try {
                     createDirForJobNumber(jobBaseDir, jobNum);
@@ -323,7 +320,7 @@ public class SearchSBPGUI extends JFrame {
         }
     }
 
-    private static void createDirForJobNumber(String jobFileDir, String jobNum) throws TaxRollFileException {
+    private void createDirForJobNumber(String jobFileDir, String jobNum) throws TaxRollFileException {
 
         File jobDir = new File(jobFileDir + jobNum + "/");
 
@@ -333,7 +330,7 @@ public class SearchSBPGUI extends JFrame {
             throw new TaxRollFileException("Folder Could Not Be Created! Check that there is not already a folder named \"" + jobNum + "\" in \"" + jobFileDir + "\"\n");
     }
 
-    private static void createCADTemplateForJobNumber(String templateDir, String jobNum) throws TaxRollFileException {
+    private void createCADTemplateForJobNumber(String templateDir, String jobNum) throws TaxRollFileException {
         String programResourceDir = templateDir + "template.txt";
 
         File cadTemplateSrc = new File(programResourceDir);
@@ -353,7 +350,7 @@ public class SearchSBPGUI extends JFrame {
         }
     }
 
-    private static String createTaxParcelSummary(ArrayList<TaxRollParcel> parcels) {
+    private String createTaxParcelSummary(ArrayList<TaxRollParcel> parcels) {
         StringBuilder summary = new StringBuilder();
 
         if(parcels.size() > 0) {
@@ -386,7 +383,7 @@ public class SearchSBPGUI extends JFrame {
         return summary.toString();
     }
 
-    private static void createDeedOutlineForJobNumber(String jobBaseDir, String jobNum, ArrayList<TaxRollParcel> parcels) throws TaxRollFileException {
+    private void createDeedOutlineForJobNumber(String jobBaseDir, String jobNum, ArrayList<TaxRollParcel> parcels) throws TaxRollFileException {
 
         if(!jobNum.equals("")) {
             File jobDir = new File(jobBaseDir + jobNum + "/");

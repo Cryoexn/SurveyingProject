@@ -1,0 +1,14 @@
++------------------------------+
+| Job:                  20-246 |
++------------------------------+
+| Check in Job-Book        :   |
+| Create Job-Book entry    :   |
+| Get Tax Map Printout     :   |
+| Create Deed Outline      :   |
+| Get Deeds parcels        :   |
+| Note Stored Maps/Deeds   :   |
+| Enter Deeds to CAD       : X |
+| Create Plot Map          :   |
+| Band related Files       :   |
+| Sticky Note Stored Items :   |
++------------------------------+
