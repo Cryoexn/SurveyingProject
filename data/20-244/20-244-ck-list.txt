@@ -1,0 +1,9 @@
+Check in Job-Book,X
+Create Job-Book entry, 
+Get Tax Map Printout,X
+Create Deed Outline, 
+Get Deeds parcels,X
+Note Stored Maps/Deeds, 
+Enter Deeds to CAD,X
+Create Plot Map, 
+Band related Files,X

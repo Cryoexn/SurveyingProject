@@ -1,7 +1,7 @@
 Check in Job-Book, 
 Create Job-Book entry, 
-Get Tax Map Printout,X
-Create Deed Outline,X
+Get Tax Map Printout, 
+Create Deed Outline, 
 Get Deeds parcels, 
 Note Stored Maps/Deeds, 
 Enter Deeds to CAD, 

@@ -1,24 +1,21 @@
 import javax.swing.*;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
+import javax.swing.event.ListSelectionEvent;
+import javax.swing.event.ListSelectionListener;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.io.*;
-import java.util.ArrayList;
+import java.awt.event.WindowAdapter;
+import java.awt.event.WindowEvent;
 
 public class DeedResearchGUI extends JFrame {
 
-    private final int NUM_ITEMS = 10;
+    private JLabel lblWater;
+    private JTabbedPane tbPanes;
+    private JPanel mainPanel;
 
-    private JTextField txtJobNumInput;
-    private JButton btnJobNumInput;
-
-    JTabbedPane tbPanes;
-
-    private JPanel jobInpPanel;
-    private JPanel taxRollPanel;
-    private JPanel ckListPanel;
+    private ActiveJobsPanel activeJobsPanel;
+    private JobSummaryPanel jobSummaryPanel;
+    private SearchParcelsPanel searchParcelsPanel;
 
     private TaxRollParser parser;
     private TaxRollFormatting formatter;
@@ -32,148 +29,85 @@ public class DeedResearchGUI extends JFrame {
         this.jobBaseDir = jobBaseDir;
         this.templateDir = templateDir;
 
+        this.mainPanel = new JPanel(new BorderLayout());
+        this.mainPanel.setBorder(BorderFactory.createEmptyBorder(4, 4, 4, 4));
+
+        // Set Values for Main Frame.
         this.setName("DeedResearchHelper");
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        this.setSize(new Dimension(600, 360));
+        this.setSize(new Dimension(600, 320));
+        this.setLayout(new BorderLayout(0,10));
+        this.setResizable(true);
+        this.setIconImage(new ImageIcon(jobBaseDir+"moore_logo.png").getImage());
+        this.setLocationRelativeTo(null);
 
+        this.lblWater = new JLabel();
         this.tbPanes = new JTabbedPane();
 
-        this.jobInpPanel = new JPanel();
-        this.taxRollPanel = null;
-        this.ckListPanel = null;
+        // Initialize JPanel with list of active jobs.
+        this.activeJobsPanel = new ActiveJobsPanel(this.jobBaseDir);
+        this.activeJobsPanel.setPreferredSize(new Dimension(150, this.getHeight()));
+        this.activeJobsPanel.setListListener(new ListListener());
+        this.mainPanel.add(activeJobsPanel, BorderLayout.WEST);
 
-        Font inputFont = new Font("Courier New", Font.BOLD, 30);
+        // Initialize JPanel with list of check boxes.
+        this.jobSummaryPanel = new JobSummaryPanel(this.jobBaseDir, this.activeJobsPanel.getSelectedJob());
+        this.tbPanes.addTab("Job Summary", null, this.jobSummaryPanel, "Job Summary");
 
-        txtJobNumInput = new JTextField(15);
-        txtJobNumInput.setFont(inputFont);
-        txtJobNumInput.addActionListener(new JobNumSubmitListener());
-        jobInpPanel.add(txtJobNumInput);
+        // Initialize JPanel with components to search tax roll parcels.
+        this.searchParcelsPanel = new SearchParcelsPanel(this.parser, this.formatter, this.jobBaseDir, this.templateDir, this.activeJobsPanel.getSelectedJob());
+        this.tbPanes.addTab("Tax Roll Search", null, this.searchParcelsPanel, "Search Tax Rolls For Parcels");
 
-        btnJobNumInput = new JButton("Submit");
-        btnJobNumInput.setFont(inputFont);
-        btnJobNumInput.addActionListener(new JobNumSubmitListener());
-        this.jobInpPanel.add(btnJobNumInput);
+        this.tbPanes.addChangeListener(new TabChangeListener());
 
-        tbPanes.addTab("Job Num", null, this.jobInpPanel, "Enter Job Number");
-        tbPanes.addTab("Tax Roll", null, this.taxRollPanel, "Search Tax Rolls For Parcels");
-        tbPanes.addTab("Check List", null, this.ckListPanel, "Check list for specified job");
+        this.mainPanel.add(tbPanes, BorderLayout.CENTER);
 
-        tbPanes.setEnabledAt(1, false);
-        tbPanes.setEnabledAt(2, false);
+        // Create water-mark label for top of Frame.
+        this.lblWater.setText(String.format("%s : %s", "Moore Land Surveying", activeJobsPanel.getSelectedJob() == null ? "No Job" : activeJobsPanel.getSelectedJob()));
+        this.lblWater.setFont(new Font("Times New Roman", Font.BOLD, 30));
+        this.mainPanel.add(lblWater, BorderLayout.NORTH);
 
-        tbPanes.addChangeListener(new TabChangeListener());
-
-        this.add(tbPanes);
-
+        this.add(mainPanel, BorderLayout.CENTER);
         this.setVisible(true);
+        this.pack();
 
-        this.txtJobNumInput.requestFocus();
+        this.addWindowListener(new WindowAdapter() {
+            @Override
+            public void windowClosing(WindowEvent e) {
+                super.windowClosing(e);
+                jobSummaryPanel.saveStateOfCheckList();
+            }
+        });
+    }
+
+    private void updateWaterMark() {
+        lblWater.setText(String.format("%s : %s", "Moore Land Surveying", activeJobsPanel.getSelectedJob() == null ? "No Job" : activeJobsPanel.getSelectedJob()));
     }
 
     private class TabChangeListener implements ChangeListener {
         @Override
         public void stateChanged(ChangeEvent e) {
             JTabbedPane source = (JTabbedPane)e.getSource();
-
-            if(source.getSelectedIndex() == 2) {
-                tbPanes.setComponentAt(source.getSelectedIndex(), initalizeListPanel(txtJobNumInput.getText()));
+            if(source.getSelectedIndex() == 0) {
+                jobSummaryPanel.updateJobNum(activeJobsPanel.getSelectedJob());
+                source.setComponentAt(0, jobSummaryPanel);
+            } else if (source.getSelectedIndex() == 1) {
+                searchParcelsPanel.updateJobNum(activeJobsPanel.getSelectedJob());
+                jobSummaryPanel.saveStateOfCheckList();
             }
         }
     }
 
-    private class JobNumSubmitListener implements ActionListener {
+    private class ListListener implements ListSelectionListener {
         @Override
-        public void actionPerformed(ActionEvent e) {
-            tbPanes.setComponentAt(1, new SearchSBPGUI(parser, formatter, jobBaseDir, templateDir, txtJobNumInput.getText()));
-            tbPanes.setComponentAt(2, initalizeListPanel(txtJobNumInput.getText()));
-
-            tbPanes.setEnabledAt(1, true);
-            tbPanes.setEnabledAt(2, true);
-
-            tbPanes.requestFocus();
-        }
-    }
-
-    private JPanel initalizeListPanel(String jobNum) {
-        ArrayList<JCheckBox> checks = new ArrayList<JCheckBox>();
-        JPanel panel = new JPanel(new GridBagLayout());
-
-        GridBagConstraints gc = new GridBagConstraints();
-
-        gc.gridx = 0;
-        gc.anchor = GridBagConstraints.LINE_START;
-
-        Font listFont = new Font("Times New Roman", Font.BOLD, 15);
-        try {
-            File checkList = new File(jobBaseDir+jobNum+"/"+jobNum+"-ck-list.txt");
-
-            if(checkList.exists()) {
-                BufferedReader br = new BufferedReader(new FileReader(checkList));
-
-                String [] lines = new String[NUM_ITEMS + 4];
-                String lineComps[];
-
-                for(int i = 0; i < lines.length; i++)
-                    lines[i] = br.readLine();
-
-                JCheckBox tempCk;
-
-                for(int i = 3; i < lines.length - 1; i ++) {
-                    lineComps = lines[i].replace("|", "").split(":");
-                    tempCk = new JCheckBox(lineComps[0].strip(), lineComps[1].strip().equals("X"));
-                    tempCk.setFont(listFont);
-                    checks.add(tempCk);
-                }
-
-                for(int i = 0; i < checks.size(); i++){
-                    gc.gridy = i;
-                    panel.add(checks.get(i), gc);
-                }
-
-                br.close();
-            } else {
-                createCheckListForJobNumber(jobBaseDir, txtJobNumInput.getText());
+        public void valueChanged(ListSelectionEvent e) {
+            if(!e.getValueIsAdjusting()) {
+                jobSummaryPanel.updateJobNum(activeJobsPanel.getSelectedJob());
+                tbPanes.setComponentAt(0, jobSummaryPanel);
+                searchParcelsPanel.updateJobNum(activeJobsPanel.getSelectedJob());
+                tbPanes.setComponentAt(1, searchParcelsPanel);
+                updateWaterMark();
             }
-
-        } catch (IOException ex) {
-            JOptionPane.showMessageDialog(null, ex.getMessage());
-        }
-
-        return panel;
-    }
-    private void createCheckListForJobNumber(String jobBaseDir, String jobNum) {
-        StringBuilder checkList = new StringBuilder();
-
-        File checkListFile = new File(jobBaseDir+jobNum+"-ck-list.txt");
-
-        if(!checkListFile.exists()) {
-            checkList.append("+------------------------------+\n");
-            checkList.append(String.format("| Job:                  %s |\n", jobNum));
-            checkList.append("+------------------------------+\n");
-            checkList.append("| Check in Job-Book        :   |\n");
-            checkList.append("| Create Job-Book entry    :   |\n");
-            checkList.append("| Get Tax Map Printout     :   |\n");
-            checkList.append("| Create Deed Outline      :   |\n");
-            checkList.append("| Get Deeds parcels        :   |\n");
-            checkList.append("| Note Stored Maps/Deeds   :   |\n");
-            checkList.append("| Enter Deeds to CAD       :   |\n");
-            checkList.append("| Create Plot Map          :   |\n");
-            checkList.append("| Band related Files       :   |\n");
-            checkList.append("| Sticky Note Stored Items :   |\n");
-            checkList.append("+------------------------------+");
-
-            try {
-                BufferedWriter bw = new BufferedWriter(new FileWriter(jobBaseDir+jobNum+"/"+jobNum+"-ck-list.txt"));
-
-                bw.write(checkList.toString());
-                bw.flush();
-                bw.close();
-
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-        } else {
-            System.out.println("File exists");
         }
     }
 }
