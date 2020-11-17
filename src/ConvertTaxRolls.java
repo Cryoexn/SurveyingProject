@@ -15,7 +15,7 @@ import org.apache.pdfbox.text.PDFTextStripper;
 public class ConvertTaxRolls {
     public static void main(String []args) {
         try {
-            File pdfFolder            = new File("taxrolls-pdf/");
+            File pdfFolder            = new File(args[0] + "taxrolls-pdf/");
             File[] pdfFiles = Objects.requireNonNull(pdfFolder.listFiles());
 
             for (File pdfFile : pdfFiles) {
@@ -27,13 +27,17 @@ public class ConvertTaxRolls {
 
                 removeUnwantedText(lineList);
                 lineList = getPayRollParcels(lineList);
-                writeTxtToFile(lineList, new File(pdfFile.toString().replace("taxrolls-pdf/", "taxrolls-txt/").replace(".pdf", ".txt")));
-                createFormattedParcelFile(lineList, listCopy, new File(pdfFile.toString().replace("taxrolls-pdf/", "taxrolls-txt/").replace(".pdf", "-Parcels.txt")));
+
+                // Change the pdf Dir String to the txt Dir
+                final String parcelTxtDir = pdfFile.toString().replace("taxrolls-pdf" + File.separator, "taxrolls-txt" + File.separator);
+
+                writeTxtToFile(lineList, new File(parcelTxtDir.replace(".pdf", ".txt")));
+                createFormattedParcelFile(lineList, listCopy, new File(parcelTxtDir.replace(".pdf", "-Parcels.txt")));
             }
         } catch(IOException ex) {
             System.out.println(ex.getMessage());
         }
-
+        System.out.println("--");
         System.out.println("Complete.");
     }
 
@@ -53,6 +57,7 @@ public class ConvertTaxRolls {
         list.removeIf(line -> line.contains("UNDER AGDIST"));
         list.removeIf(line -> line.contains("CURRENT OWNERS"));
         list.removeIf(line -> line.contains("STATE OF NEW YORK"));
+        list.removeIf(line -> line.contains("TAX MAP PARCEL NUMBER"));
         list.removeIf(line -> line.contains("TAX MAP PARCEL NUMBER"));
         list.removeIf(line -> line.strip().equals(","));
         list.removeIf(line -> line.charAt(0) == ' ' && line.contains("EAST") || line.contains("NRTH") || line.contains("FULL MARKET VALUE") || line.contains("DPTH") || line.contains("FRNT"));

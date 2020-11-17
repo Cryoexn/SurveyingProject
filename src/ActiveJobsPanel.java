@@ -3,8 +3,10 @@ import javax.swing.event.ListSelectionListener;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.io.File;
+import java.awt.image.AreaAveragingScaleFilter;
+import java.io.*;
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class ActiveJobsPanel extends JPanel {
 
@@ -19,7 +21,7 @@ public class ActiveJobsPanel extends JPanel {
 
     public ActiveJobsPanel(String jobBaseDir) {
         this.jobBaseDir = jobBaseDir;
-        this.activeJobs = new ArrayList<>();
+        this.activeJobs = loadActiveJobs();
 
         this.setLayout(new BorderLayout());
 
@@ -57,6 +59,37 @@ public class ActiveJobsPanel extends JPanel {
         this.add(this.lblJobList, BorderLayout.NORTH);
         this.add(this.scrollPane, BorderLayout.CENTER);
         this.add(this.btnPanel, BorderLayout.SOUTH);
+    }
+
+    private ArrayList<String> loadActiveJobs() {
+        ArrayList<String> jobsList = new ArrayList<>();
+
+        try {
+            BufferedReader br = new BufferedReader(new FileReader(new File(this.jobBaseDir+"active-jobs.txt")));
+            String activeJobsLine = br.readLine();
+            if(activeJobsLine != null)
+                jobsList.addAll(Arrays.asList(activeJobsLine.split(",")));
+
+            br.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return jobsList;
+    }
+
+    public void saveActiveJobs() {
+        try {
+            BufferedWriter bw = new BufferedWriter(new FileWriter(new File(this.jobBaseDir+"active-jobs.txt")));
+
+            for(String job : this.activeJobs)
+                bw.write(job+",");
+
+            bw.flush();
+            bw.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     public String getSelectedJob() {

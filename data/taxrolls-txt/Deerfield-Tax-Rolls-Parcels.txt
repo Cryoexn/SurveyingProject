@@ -212,7 +212,7 @@
 250.000-1-14.2|Crown Atlantic Company LLC|North Gage Rd (Off Of)|PMB 3534017 Washington Rd|6.44|DEED BOOK|2950|253
 250.000-1-15.1|Lamphere Robert|7136 Harris Rd|Lamphere Jody M7165 Harris RdPoland, NY 13431MAY BE SUBJECT TO PAYMENT|210.30|DEED BOOK|2009|20004
 250.000-1-15.2|Lamphere Robert P|7165 Harris Rd|Lamphere Jody M7165 Harris RdPoland, NY 13431|5.00|DEED BOOK|2006|6668
-250.000-1-16|Miller Abe A|Harris Rd|Miller Susie E471 Strumlock RdPoland, NY 13431|18.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+250.000-1-16|Miller Abe A|Harris Rd|Miller Susie E471 Strumlock RdPoland, NY 13431 ************************************************************************************************************************************|18.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 250.000-1-17.1|Hershberger Gideon S|7034 Harris Rd|Hershberger Ida D7034 Harris RdPoland, NY 13431MAY BE SUBJECT TO PAYMENT|70.13|DEED BOOK|2014|8414
 250.000-1-17.2|Szczepkowski Thomas|Harris Rd|Szczepkowski Jean1706 Airport RdElysburg, PA 17824|71.87|DEED BOOK|2009|10752
 250.000-1-19.1|Hershberger Samuel A|7031 Harris Rd|Hershberger Delila7031 Harris RdPoland, NY 13413|141.42|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -1256,7 +1256,7 @@
 295.000-1-38|Aiello Joseph J IV|Graham Rd|Aiello Julia A149 Newport RdUtica, NY 13502|23.39|DEED BOOK|3024|287
 295.000-1-39|Sykes Kevin|South of Bell Hill Rd|Smith ZanePO Box 1089Morrisville, NY 13408|20.60|DEED BOOK|2008|12848
 295.000-1-40|Gaetano Wm C|Graham Rd|Gaetano Wf11123 Cosby Manor RdUtica, NY 13502|28.40|DEED BOOK|2078|00821
-295.000-1-41.1|Pizzo Joseph M|5558 Grace Rd|5558 Grace RdDeerfield, NY 13502|98.60|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+295.000-1-41.1|Pizzo Joseph M|5558 Grace Rd|5558 Grace RdDeerfield, NY 13502 ************************************************************************************************************************************|98.60|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 295.000-1-41.2|Leuthauser Joseph|5537 Grace Rd|5537 Grace RdDeerfield, NY 13502|1.66|DEED BOOK|2058|00143
 295.000-1-42.2|Kasprowicz Gregory|5602 Grace Rd|Kasprowicz Gloria5602 Grace RdDeerfield, NY 13502|1.00|DEED BOOK|2098|00895
 295.000-1-43.1|Mierek Marty|5620 Grace Rd|Mierek Linda5760 Grace RdDeerfield, NY 13502|184.60|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -2004,21 +2004,21 @@
 308.003-1-36|Didio Carol|10854 Cosby Manor Rd|54 North Highland Ave|0.04|DEED BOOK|2006|10666
 308.003-1-37|Balls Marco|10848 Cosby Manor Rd|D'Accurzio Andrea10848 Cosby Manor RdDeerfield, NY 13502|NOT IN ROLLS|DEED BOOK|2012|15849
 308.003-1-53|Bowens Keila|10838 Cosby Manor Rd|10838 Cosby Manor RdDeerfield, NY 13502|0.51|DEED BOOK|2010|11160
-532.000-1-1|Niagara Mohawk Power Corp|Whitesboro Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-532.000-1-2|Niagara Mohawk Power Corp|Whitesboro Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+532.000-1-1|Niagara Mohawk Power Corp|Whitesboro Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+532.000-1-2|Niagara Mohawk Power Corp|Whitesboro Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 532.000-1-3|Niagara Mohawk Power Corp|Whitesboro Sch Dist|Attn: Real Estate Tax Dept|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-532.000-1-4|Niagara Mohawk Power Corp|Poland Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-532.000-1-5|Niagara Mohawk Power Corp|West Canada Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-532.000-1-6|Niagara Mohawk Power Corp|Holland Patent Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+532.000-1-4|Niagara Mohawk Power Corp|Poland Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+532.000-1-5|Niagara Mohawk Power Corp|West Canada Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+532.000-1-6|Niagara Mohawk Power Corp|Holland Patent Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 532.000-2-1|Verizon New York Inc|Whitesboro Sch Dist|Property Tax DepartmentIrving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 532.000-2-2|Verizon New York Inc|West Canada Sch Dist|Property Tax DepartmentIrving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 532.000-2-3|Verizon New York Inc|Holland Patent Sch Dist|Property Tax DepartmentIrving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 532.000-2-4|Verizon New York Inc|Poland Sch Dist|Property Tax DepartmentIrving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-532.000-2-5|Newport Telephone Co|Poland Sch Dist|PO Box 201|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+532.000-2-5|Newport Telephone Co|Poland Sch Dist|PO Box 201 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 532.000-2-6|Northland Networks|Whitesboro Sch Dist| StHolland Patent, NY 13354-0419|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 532.000-3-1|Time Warner - Utica|Whitesboro Sch Dist|PO Box 7467|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-532.000-4-1|Independent Optical Net|Whitesboro Sch Dist|PO Box 495|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-532.000-4-2|Independent Optical Net|Whitesboro Sch Dist|PO Box 495CODE  DISTRICT NAME  PARCELSFD013 Deerfield fd1FD014 Deerfield fd2FD016 Poland fireSW001 Drfld swrSW022 Co sw drfldSW059 Sw1 o & mCODE  DISTRICT NAME212402 West Canada Central213803 Poland Central|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+532.000-4-1|Independent Optical Net|Whitesboro Sch Dist|PO Box 495 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+532.000-4-2|Independent Optical Net|Whitesboro Sch Dist|PO Box 495 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD013 Deerfield fd1FD014 Deerfield fd2FD016 Poland fireSW001 Drfld swrSW022 Co sw drfldSW059 Sw1 o & mCODE  DISTRICT NAME212402 West Canada Central|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 280.000-2-15|American Towers Inc|Bell Hill Rd|PO Box 723597Atlanta, GA 31139|2.18|DEED BOOK|2912|485
 294.000-1-45|Niagara Mohawk Power Corp|Poland Walker Rd|Attn: Real Estate Tax Dept300 Erie Blvd West|155.84|DEED BOOK|01634|00235
 294.000-1-52|Niagara Mohawk Power Corp|Mulaney Rd|Attn: Real Estate Tax Dept300 Erie Blvd West|14.80|DEED BOOK|00853|00337
@@ -2029,27 +2029,27 @@
 632.000-0000-744.860/1881|Intellifiber Networks|Fiber Optics|PO Box 2629|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-0000-744.860/1882|Intellifiber Networks|Fiber Optics|PO Box 2629|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-0000-744.860/1883|Intellifiber Networks|Fiber Optics|PO Box 2629|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-632.000-0000-744.860/1884|Intellifiber Networks|Fiber Optics|PO Box 2629|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+632.000-0000-744.860/1884|Intellifiber Networks|Fiber Optics|PO Box 2629 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-1-1|Niagara Mohawk Power Corp, Attn: Real Estate Tax Dept|No Address||NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-1-2|Niagara Mohawk Power Corp|Facilities|Attn: Real Estate Tax Dept300 Erie Blvd West|0.01|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-1-3|Niagara Mohawk Power Corp|Mulaney Rd|Attn: Real Estate Tax Dept|NOT IN ROLLS|DEED BOOK|00860|00141
 632.000-1-4|Niagara Mohawk Power Corp|Facilities|Attn: Real Estate Tax Dept300 Erie Blvd West|0.01|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-1-5|Niagara Mohawk Power Corp|Gas|Attn: Real Estate Tax Dept300 Erie Blvd West|0.01|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-632.000-4-1|Amer Tele & Tele Co|Relay Bldg|Property Tax UnitMorristown, NJ 07960-1329|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+632.000-4-1|Amer Tele & Tele Co|Relay Bldg|Property Tax UnitMorristown, NJ 07960-1329 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-9999-221.500/1001|Herkimer Water Dept|Pipe Poland|120 Green StHerkimer, NY 13350|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-9999-628.350/1881|MCI Telecomm|Outside Plant|PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-9999-628.350/1882|MCI Telecomm|Outside Plant|PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-9999-628.350/1883|MCI Telecomm|Outside Plant|PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-632.000-9999-628.350/1884|MCI Telecomm|Outside Plant|PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+632.000-9999-628.350/1884|MCI Telecomm|Outside Plant|PO Box 152206Irving, TX 75015-2206 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-9999-630.500/1881|Newport Telephone Co|Poles Poland|PO Box 201|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-9999-630.500/1882|Newport Telephone Co|Poles Whitesboro|PO Box 201|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-9999-630.500/1883|Newport Telephone Co|Poles Whitesboro|PO Box 201|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-9999-630.500/1884|Newport Telephone Co|Poles Holland Patent|PO Box 201|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-632.000-9999-631.900/1881|Verizon New York Inc|Poles Poland|Property Tax Department1095 Avenue Of AmericasNew York, NY 10036|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+632.000-9999-631.900/1881|Verizon New York Inc|Poles Poland|Property Tax Department1095 Avenue Of AmericasNew York, NY 10036 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-9999-631.900/1882|Verizon New York Inc|Poles West Canada|Property Tax Department1095 Avenue Of AmericasNew York, NY 10036|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-9999-631.900/1883|Verizon New York Inc|Whitesboro|Proprety Tax Department1095 Avenue Of AmericasNew York, NY 10036|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-9999-631.900/1884|Verizon New York Inc|Whitesboro Sch Dist|Proprety Tax Department1095 Avenue Of AmericasNew York, NY 10036|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-632.000-9999-744.850/1883|Elantic Telecom Inc.|Fiber Optics|PO Box 54288Lexington, KY 40555CODE  DISTRICT NAME  PARCELSFD013 Deerfield fd1FD014 Deerfield fd2FD016 Poland fireSW001 Drfld swrSW022 Co sw drfldSW059 Sw1 o & mCODE  DISTRICT NAME212402 West Canada Central|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+632.000-9999-744.850/1883|Elantic Telecom Inc.|Fiber Optics|PO Box 54288Lexington, KY 40555 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD013 Deerfield fd1FD014 Deerfield fd2FD016 Poland fireSW001 Drfld swrSW022 Co sw drfldSW059 Sw1 o & mCODE  DISTRICT NAME|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 231.000-1-27|Union Church|11600 North Gage Rd|11600 North Gage RdUtica, NY 13502|3.62|DEED BOOK|00755|00336
 232.000-1-6.2|State Of|Rt 28 & 8|D E C50 Wolf RdAlbany, NY 12233|0.29|DEED BOOK|2626|374
 249.000-1-38|Town Of Deerfield|Roberts Rd|6329 Walker RdDeerfield, NY 13502|1.00|DEED BOOK|1021|00190
@@ -2090,11 +2090,11 @@
 308.000-1-11.2|Somali Bantu Assoc NY Inc|Cosby Manor Rd Ns|1030 Bleeker StUtica, NY 13502Somali Bantu Assoc NY Inc|26.98|DEED BOOK|2019|14164
 308.000-1-12.1|Bosnian Islamic Assoc of Utica Whitesboro Cent 307002|10977 Cosby Manor Rd|PO Box 318Utica, NY 13502|53.00|DEED BOOK|2011|4486
 308.003-1-17|NY Conf Seventh-Day Adventis|Keyes Rd Ws|4930 N Seneca TpkeSyracuse, NY 13215|NOT IN ROLLS|DEED BOOK|2016|11373
-632.000-7-1|Upper Mohawk Valley Reg|6 Inch Pipe|Water BoardUtica, NY 13502|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+632.000-7-1|Upper Mohawk Valley Reg|6 Inch Pipe|Water BoardUtica, NY 13502 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-7-2|Upper Mohawk Valley Reg|20 Inch Pipe|Water BoardUtica, NY 13502|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-7-3|Upper Mohawk Valley Reg|001020|Water BoardUtica, NY 13502|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-7-4|Upper Mohawk Valley Reg|001030|Water BoardUtica, NY 13502|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-7-5|Upper Mohawk Valley Reg|001040|Water BoardUtica, NY 13502|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-632.000-7-6|Upper Mohawk Valley Reg|001080|Water Board1 Kennedy PlzUtica, NY 13502|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+632.000-7-6|Upper Mohawk Valley Reg|001080|Water Board1 Kennedy PlzUtica, NY 13502 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 632.000-7-7|Upper Mohawk Valley Reg|001090|Water Board1 Kennedy Plz|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-632.000-7-8|Upper Mohawk Valley Reg|001100|Water Board1 Kennedy PlzCODE  DISTRICT NAME  PARCELSFD013 Deerfield fd1FD014 Deerfield fd2FD016 Poland fireSW001 Drfld swrSW022 Co sw drfldSW059 Sw1 o & mWD002 Csby mnr wd1WD004 Hrto art wd3|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+632.000-7-8|Upper Mohawk Valley Reg|001100|Water Board1 Kennedy Plz ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD013 Deerfield fd1FD014 Deerfield fd2FD016 Poland fireSW001 Drfld swrSW022 Co sw drfldSW059 Sw1 o & mWD002 Csby mnr wd1|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS

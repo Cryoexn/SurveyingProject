@@ -69,7 +69,7 @@
 128.009-1-12|Grant Lyle III|51 River Rd|Grant Maria1105 Lovers Ln|NOT IN ROLLS|DEED BOOK|2004|8879
 128.009-1-13|DeCarolis Gladys T|55 River Rd|55 River RdCamden, NY 13316|NOT IN ROLLS|DEED BOOK|2017|281
 128.009-1-16.1|Halukiewicz John E|31 River Rd|Halukiewicz Kelly K31 River RdCamden, NY 13316|10.03|DEED BOOK|2007|24077
-128.009-1-16.2|Kirch Harold S|Parnassus St|Parnassus St|0.18|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+128.009-1-16.2|Kirch Harold S|Parnassus St|Parnassus St ************************************************************************************************************************************|0.18|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 128.010-1-1.1|Hurley James|River Rd|Hurley Brenda J10274 River RdCamden, NY 13316|10.80|DEED BOOK|1858|00554
 128.010-1-1.2|Kirch Harold S|2 Highview Ter|Kirch Jeanne F2 Highview Ter|1.50|DEED BOOK|2525|00013
 128.013-1-2|Wallace Gary E|21 North St|21 North StCamden, NY 13316|NOT IN ROLLS|DEED BOOK|2015|15412
@@ -250,7 +250,7 @@
 128.014-1-10.2|Arvidson Douglas S|48 Wolcott Hill St|48 Wolcott StCamden, NY 13316|1.12|DEED BOOK|2002|17720
 128.014-1-11|BMK Living Trust|58 Wolcott Hill St|SLK Living Trust10668 Wolcott Hill Rd|0.83|DEED BOOK|2002|5643
 128.014-1-12|Shah Pradip|Wolcott St|Shah Meena58 Main StCamden, NY 13316|12.70|DEED BOOK|2111|00833
-128.014-1-13|O'Rourke Irr. Trust|64 Wolcott St|Roberts Traci OGary, Debra & Justin O'Rourke  Comins  ShahCamden, NY 13316|1.00|DEED BOOK|2015|4177
+128.014-1-13|O'Rourke Irr. Trust|64 Wolcott St|Roberts Traci OGary, Debra & Justin O'Rourke  Comins  ShahCamden, NY 13316|1.00|DEED BOOK|2015|4177
 128.014-1-14|Trnchik Mark A|Wolcott St|Trnchik Michael A4713 Sheehan RdTaberg, NY 13471|0.69|DEED BOOK|2016|2043
 128.014-1-15|Comins Morgan|61 Wolcott St|61 Wolcott StCamden, NY 13316|NOT IN ROLLS|DEED BOOK|01831|00063
 128.014-1-16|Donlon Megan|59 Wolcott St|Conklin John59 Wolcott St|0.43|DEED BOOK|2018|9967
@@ -846,7 +846,7 @@
 147.009-1-1.1|Clarke Jon G|43 Preston Hill St|Clark Ronald1897 Hillsboro RdCamden, NY 13316|2.90|DEED BOOK|2007|2473
 147.009-1-1.2|Lallier Matthew P|45 Preston Hill St|Lallier Sherry45 Preston Hill St|NOT IN ROLLS|DEED BOOK|2147|00451
 147.009-1-1.4|Baker Robert M|41 Preston Hill St|41 Preston Hill StCamden, NY 13316|0.33|DEED BOOK|2010|16625
-147.009-1-1.5|Stiltner Crystal Brooke|Preston Hill St|11525 Old Glenn HighwayEagle River, AK 99577|25.90|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+147.009-1-1.5|Stiltner Crystal Brooke|Preston Hill St|11525 Old Glenn HighwayEagle River, AK 99577 ************************************************************************************************************************************|25.90|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 147.009-1-1.6|Baker Kim M|39 Preston Hill St|39 Preston Hill StCamden, NY 13316|0.36|DEED BOOK|2016|10505
 147.009-1-2|Tate William H|35 Preston St|35 Preston StCamden, NY 13316|4.24|DEED BOOK|2005|25463
 147.009-1-3|Duell Charles|27 Preston Hill St|Dreswick Michelle27 Preston Hill St|4.00|DEED BOOK|2018|5588
@@ -878,19 +878,19 @@
 147.010-1-14|Community Bank|41 Harden Blvd|41 Harden BlvdCamden, NY 13316|0.39|DEED BOOK|2891|475
 147.010-1-15|Takacs Susan L|37 Harden Blvd|Jones, Raney Richard, Linda35 Harden BlvdCamden, NY 13316|0.36|DEED BOOK|2005|5593
 147.010-1-16|Takacs Tibor|35 Harden Blvd|Takacs Susan35 Harden Blvd|NOT IN ROLLS|DEED BOOK|2890|41
-530.001-1-1|National Grid|080000|Property Tax Dep'tSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-530.001-2-1|Verizon New York Inc.|VERIZON NY INC|C/O DUFFS & PHELPSADDISON, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-530.001-3-1|Time Warner - East Region|Camden|PO Box 7467Charlotte, NC 28241CODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME303001 Camden Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 5 SPECIAL FRANCHISE|1.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+530.001-1-1|National Grid|080000|Property Tax Dep'tSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+530.001-2-1|Verizon New York Inc.|VERIZON NY INC|C/O DUFFS & PHELPSADDISON, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+530.001-3-1|Time Warner - East Region|Camden|PO Box 7467Charlotte, NC 28241 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME303001 Camden Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 5 SPECIAL FRANCHISE|1.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.016-1-18|National Grid|Mill St|Property Tax DeptSyracuse, NY 13202|NOT IN ROLLS|DEED BOOK|01234|00090
 128.017-2-16|VERIZON NEW YORK INC|VERIZON NY INC|C/O DUFF 7 PHELPSADDISON, TX 75001|NOT IN ROLLS|DEED BOOK|01671|00101
 147.005-1-3|National Grid|Lehigh Ave|Tax Dept|NOT IN ROLLS|DEED BOOK|01431|00262
 147.005-1-13|National Grid|090130|300 Erie Blvd WestSyracuse, NY 13202|3.90|DEED BOOK|01852|00825
-630.001-2-1|Verizon New York, Inc.|090050|Verizon Comm BldgIrving, TX 75015|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-630.001-9999-132.350/1001|National Grid|090140|300 Erie Blvd West  B2|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+630.001-2-1|Verizon New York, Inc.|090050|Verizon Comm BldgIrving, TX 75015|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+630.001-9999-132.350/1001|National Grid|090140|300 Erie Blvd West  B2 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 630.001-9999-132.350/1011|National Grid|Niagara Mohawk|300 Erie Blvd W  B-2|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 630.001-9999-132.350/1021|National Grid|Niagara Mohawk|300 Erie Blvd W  B-2|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 630.001-9999-132.350/1031|National Grid|Niagara Mohawk|300 Erie Blvd W  B-2|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-630.001-9999-132.350/1881|National Grid|Niagara Mohawk|300 Erie Blvd W  B-2CODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME303001 Camden Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 6 UTILITIES & N.C.|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+630.001-9999-132.350/1881|National Grid|Niagara Mohawk|300 Erie Blvd W  B-2 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME303001 Camden Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 6 UTILITIES & N.C.|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.016-1-11.2|Town Of Camden|Oswego St|Second StCamden, NY 13316|NOT IN ROLLS|DEED BOOK|2660|268
 127.016-1-13|Camden Central School District Camden Central  303001|53 Oswego St|51 Third StCamden, NY 13316|0.88|DEED BOOK|2012|8738
 127.016-1-14.2|Town Of Camden|Oswego St|Town HallSecond StCamden, NY 13316|9.30|DEED BOOK|2652|569
@@ -910,7 +910,7 @@
 128.017-2-23|Cluster 13 Cluster|84 Main St|PO Box 113Camden, NY 13316|NOT IN ROLLS|DEED BOOK|2006|14110
 128.017-2-37|Mex St Cemetery|Mexico St|Mexico StCamden, NY 13316|NOT IN ROLLS|DEED BOOK|00042|00163
 128.017-3-65|Living Hope Assembly of God|119 Main St|Attn: Paster Aaron L. Gravett  N Snow E Liddy2488 Nys Rt 69|NOT IN ROLLS|DEED BOOK|2355|00300
-128.017-4-3|Camden Historical Soc|Park St|D/b/a Carriage House/muse|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+128.017-4-3|Camden Historical Soc|Park St|D/b/a Carriage House/muse ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 128.017-4-11|Camden Library Asso|55 Second|D/b/a Camden Public Libra55 Second St|NOT IN ROLLS|DEED BOOK|00680|00454
 128.017-4-14|Town Of Camden|Second|Parking Lot & Police Sta49 2nd St|NOT IN ROLLS|DEED BOOK|1829|00637
 128.017-4-15|Town Of Camden|085360|Town Hall2nd St|NOT IN ROLLS|DEED BOOK|00532|00162
@@ -929,7 +929,7 @@
 128.018-1-4|Camden Central School|44 Union St|51 Third StCamden, NY 13316|NOT IN ROLLS|DEED BOOK|01824|00579
 128.018-1-13.2|Rome Developmental Center|Wolcott St|Comm ResidWolcott St|2.44|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 128.018-1-19|Camden Marine Corp League D|21 Moran Post Rd|PO Box 296Camden, NY 13316|6.60|DEED BOOK|2003|33518
-128.018-1-43|Village Of Camden|Wolcott St|14 Church StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+128.018-1-43|Village Of Camden|Wolcott St|14 Church StCamden, NY 13316 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 128.018-2-35|Village Of Camden|Nys Rte 69|14 Church StCamden, NY 13316|12.50|DEED BOOK|2558|00148
 128.018-2-69|Village Lot|Church & 6 Th St|14 Church StCamden, NY 13316|1.20|DEED BOOK|00000|ChkRolls
 147.005-1-42.3|Rome Developmental Center|43 Voorhees Ave|Comm ResidVoorhees Ave|0.91|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -941,7 +941,7 @@
 147.006-1-29|Village Of Camden|Ripley Dr|Forest Park14 Church StCamden, NY 13316|107.50|DEED BOOK|1557|00528
 147.006-1-30.5|Village of Camden|Ripley Ave|14 Church StCamden, NY 13316|1.17|DEED BOOK|2673|294
 147.010-1-1|Camden Cem Assoc|085245|Harden BlvdCamden, NY 13316|12.80|DEED BOOK|01658|00493
-147.010-1-2|Catholic Cemetery|085110|Harden BlvdCamden, NY 13316CODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME303001 Camden Central S U B - T O T A L T O T A LCODE  DESCRIPTION50000 WHOLLY EX T O T A LCODE  DESCRIPTION|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+147.010-1-2|Catholic Cemetery|085110|Harden BlvdCamden, NY 13316 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME303001 Camden Central S U B - T O T A L T O T A LCODE  DESCRIPTION50000 WHOLLY EX T O T A L|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 88.000-1-1|Walker Gary S|N Amboy Rd Ns|92 CC RdWilliamstown, NY 13493|95.00|DEED BOOK|354|2795
 88.000-1-2.1|Lamb Stacy|649 North Amboy Rd|649 North Amboy Rd|262.30|DEED BOOK|2890|683
 88.000-1-2.2|Huntley Harold K Sr|673 N Amboy Rd|Huntley Laurie673 N Amboy RdWestdale, NY 13483|6.20|DEED BOOK|2980|329
@@ -1395,7 +1395,7 @@
 109.000-2-38|Plumley John D|Jones Rd Ws & Mad River R|Plumley Christine M4340 Willson Rd EastPO Box 133|47.00|DEED BOOK|2002|20805
 109.000-2-39|Plumley's Road End, LLC|Jones & Mad River Int by|10045 Pennymix RdCamden, NY 13316|0.87|DEED BOOK|2940|99
 109.000-2-39.2|Plumley's Road End.  LLC|Jones & Mad River|10045 Pennymix RdCamden, NY 13316|6.60|DEED BOOK|2940|99
-109.000-2-39.3|Plumley John D|Jones Rd & Mad River Int|Plumley ChristinePO Box 133Taberg, NY 13471|34.10|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+109.000-2-39.3|Plumley John D|Jones Rd & Mad River Int|Plumley ChristinePO Box 133Taberg, NY 13471|34.10|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 109.000-2-40|Plumley's Road End, LLC.|Jones Rd & Mad River Int|10045 Pennymix Rd|12.90|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 109.000-2-41|Wickwire Sport Club|Jones Rd|Box 13Rome, NY 13440|82.65|DEED BOOK|01824|00335
 109.000-2-42|Wickwire Sport Club|River Rd|Box 13Rome, NY 13440|9.00|DEED BOOK|01895|00830
@@ -1442,7 +1442,7 @@
 109.000-2-66|Secrest Robert|3166 Walker Rd|Secrest Patricia A3166 Walker Rd|1.49|DEED BOOK|2293|00044
 109.000-2-67|Pellegrino Mandy A|3156 Walker Rd|Pernat Dairen3156 Walker RdCamden, NY 13316|2.00|DEED BOOK|2019|9947
 109.000-2-68.1|LaFleur Gary A|10421 River Rd|LaFleur Lena M10467 River RdCamden, NY 13316|5.60|DEED BOOK|2015|7254
-109.000-2-68.2|LaFleur Lena M|Walker Rd|LaFleur Gary A10467 River Rd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+109.000-2-68.2|LaFleur Lena M|Walker Rd|LaFleur Gary A10467 River Rd ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 109.000-2-68.3|Osborne James A|3136 Walker Rd|Osborne Sharon3136 Walker RdCamden, NY 13316|3.82|DEED BOOK|2007|3996
 109.000-2-69|Whitney Mark R|10520 Wandel Rd|Whitney Marilyn P10510 Wandel Rd|NOT IN ROLLS|DEED BOOK|2006|5954
 109.000-2-70|Martineau John D|Wandall Rd|PO Box 208Camden, NY 13316|1.26|DEED BOOK|2015|749
@@ -1452,7 +1452,7 @@
 109.000-2-74|Wiggins Jody L|10425 Wandell Rd|Hunt Ronald L10425 Wandell Rd WsCamden, NY 13316|14.60|DEED BOOK|2009|16605
 109.000-2-75|Kowalski Ambur L|10535 River Rd|10535 River RdCamden, NY 13316|1.80|DEED BOOK|2012|12995
 109.000-2-76.1|Bridgman Donald|10575 River Rd|10575 River RdCamden, NY 13316|1.35|DEED BOOK|2016|34
-109.000-2-77|Plumley's Road End.  LLC|Jones Rd & Mad River Int|10045 Pennymix Rd|13.80|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+109.000-2-77|Plumley's Road End.  LLC|Jones Rd & Mad River Int|10045 Pennymix Rd ************************************************************************************************************************************|13.80|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 109.000-2-78|Onderko Brenda L|1990 Walker Rd.|1990 Walker Rd.Camden, NY 13316|1.12|DEED BOOK|2008|13527
 110.000-2-2.1|Drought Eugene F|Skinner Settlemant Rd|4423 Hawthorne DrVernon, NY 13476|NOT IN ROLLS|DEED BOOK|2004|10207
 110.000-2-2.2|Whitney Karl E|2767 Skinner Settlment Rd|Whitney Marianne A2767 Skinner Settlement RdCamden, NY 13316|175.50|DEED BOOK|2967|32
@@ -1491,7 +1491,7 @@
 110.000-2-21.1|Skinner Milton W|3041 Skinner Settlement Rd|3041 Skinner Settlement RCamden, NY 13316|18.08|DEED BOOK|01839|00807
 110.000-2-22|Pickard Mary|3025 Skinner Sttlmnt Rd Ns|Haywood Mary3025 Skinner Settlement RdCamden, NY 13316|5.80|DEED BOOK|2006|1054
 110.000-2-23.1|Skinner Richard|3020 Skinner Settlement Rd|Skinner BetsyDaughter/owner Lori Schwartz3020 Skinner Settlement Rd|65.90|DEED BOOK|2882|168
-110.000-2-23.2|Jones Robert|2999 Skinner Settlement Rd|Jones Pamela2999 Skinner Settlement Rd|1.20|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+110.000-2-23.2|Jones Robert|2999 Skinner Settlement Rd|Jones Pamela2999 Skinner Settlement Rd ************************************************************************************************************************************|1.20|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 110.000-2-23.3|Schwartz Lori L|Skinner Settlement Rd|3000 Skinner Sett RdCamden, NY 13316|1.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 110.000-2-25|Deeley John P Jr|2973 Skinner Rd|2973 Skinner SettlementCamden, NY 13316|NOT IN ROLLS|DEED BOOK|2597|316
 110.000-2-26|Halsey Heidi L|2946 Skinner Settlement Rd|Willson Brent J2946 Skinner Settlement Rd|1.18|DEED BOOK|2018|7052
@@ -1666,7 +1666,7 @@
 126.000-1-34.17|Grinnell Zacharia J|688 N Hillsboro Rd|712 N Hillsboro RdCamden, NY 13316|3.83|DEED BOOK|2017|5568
 126.000-1-35|Waldau Michael D|641 N Hillsboro Rd|641 N Hillsboro RdCamden, NY 13316|0.75|DEED BOOK|2019|17091
 126.000-1-36|Grinnell Fred C|Steam Mill Rd|2711 Steam Mill RdCamden, NY 13316|1.00|DEED BOOK|2010|16499
-127.000-1-1.1|Milliman Doris|Mexico Rd|Attn: c/o Carol Estes1330 Swartz RdCamden, NY 13316|126.07|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+127.000-1-1.1|Milliman Doris|Mexico Rd|Attn: c/o Carol Estes1330 Swartz RdCamden, NY 13316 ************************************************************************************************************************************|126.07|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.000-1-1.2|Milliman Carol A|1263 Mexico Rd|1330 Swartz RdCamden, NY 13316|2.00|DEED BOOK|2011|1881
 127.000-1-1.3|Taskey Nancy E|1289 Mexico Rd|1289 State Rt. 69Camden, NY 13316|2.06|DEED BOOK|2011|1882
 127.000-1-2.1|Dupont Michael T|1321 Mexico Rd|Dupont Brenda Lee1329 Mexico Rd|1.03|DEED BOOK|2019|10575
@@ -1822,22 +1822,22 @@
 127.007-1-12|Fish Creek Develop Corp|13 Billington Ave.|63 Main StCamden, NY 13316|NOT IN ROLLS|DEED BOOK|2840|042
 127.007-1-13|Fish Creek Develop Corp|12 Billington Ave.|63 Main StCamden, NY 13316|NOT IN ROLLS|DEED BOOK|2840|042
 127.007-1-14|Plumley John D|19 Carpenter Ave.|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-127.007-1-15|Plumley John D|20 Carpenter Ave.|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+127.007-1-15|Plumley John D|20 Carpenter Ave.|Plumley Helen J52 Elm StCamden, NY 13316 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-16|Plumley John D|21 Carpenter Ave.|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-17|Plumley John D|22 Carpenter Ave.|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-18|Plumley John D|23 Carpenter Ave.|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-19|Plumley John D|17 McFern Cir|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-127.007-1-20|Plumley John D|24 Mcfern Cir|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+127.007-1-20|Plumley John D|24 Mcfern Cir|Plumley Helen J52 Elm StCamden, NY 13316 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-21|Plumley John D|32 McFern Cir|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-22|Plumley John D|31 McFern Cir|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-23|Plumley John D|30 Carpenter Ave.|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-24|Plumley John D|29 Carpenter Ave.|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-127.007-1-25|Plumley John D|28 Carpenter Ave.|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+127.007-1-25|Plumley John D|28 Carpenter Ave.|Plumley Helen J52 Elm StCamden, NY 13316 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-26|Plumley John D|27 Carpenter Ave.|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-27|Plumley John D|26 Carpenter Ave.|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-28|Plumley John D|33 Plumley Ln|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-29|Plumley John D|34 Plumley Ln|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-127.007-1-30|Plumley John D|35 Plumley Ln|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+127.007-1-30|Plumley John D|35 Plumley Ln|Plumley Helen J52 Elm StCamden, NY 13316 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-31|Plumley John D|36 Plumley Ln|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-32|Plumley John D|37 Plumley Ln|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-33|Plumley John D|38 Plumley Ln|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -1851,7 +1851,7 @@
 127.007-1-41|Plumley John D|39 Audas Cir|Plumley Helen J52 Elm StCamden, NY 13316|3.50|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-42|Plumley John D|25 Audas Cir|Plumley Helen J52 Elm StCamden, NY 13316|1.44|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-43|Plumley John D|18 Johnson Dr|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-127.007-1-44|Plumley John D|11 Johnson Dr|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+127.007-1-44|Plumley John D|11 Johnson Dr|Plumley Helen J52 Elm StCamden, NY 13316 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-45|Plumley John D|4 Johnson Dr|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-46|Plumley John D|1 Johnson Dr|Plumley Helen J52 Elm StCamden, NY 13316|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 127.007-1-47|Plumley John D & Helen J|Public Area|52 Elm StCamden, NY 13316|7.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -1901,7 +1901,7 @@
 128.000-1-41|Simkins William L|Waldron & S Lake|2600 Waldron RdCamden, NY 13316|31.70|DEED BOOK|02070|00747
 128.000-1-42.1|Willson Darrell W|Shady Lane Rd|Calhoun, GA 30701|1.03|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 128.000-1-42.2|Laduc Darlene|Shady Lake Rd|The Villages, FL 32163|1.03|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-128.000-1-42.3|Willson Darrell W|Shady Lane Rd|Calhoun, GA 30701|1.04|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+128.000-1-42.3|Willson Darrell W|Shady Lane Rd|Calhoun, GA 30701 ************************************************************************************************************************************|1.04|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 128.000-1-43|Littler Christopher R|9911 Shady Lake Rd|Littler Juana S9911 Shady Lake RdCamden, NY 13316|1.03|DEED BOOK|2015|1664
 128.000-1-44.1|Hawkes Michael G|S Lake & M Post|Hawkes Sharon A2668 Moran Post RdCamden, NY 13316|28.61|DEED BOOK|2010|19824
 128.000-1-44.2|Camden Rod & Gun Club|S Lake & M Post|PO Box 297Camden, NY 13316|22.89|DEED BOOK|2017|16848
@@ -2087,7 +2087,7 @@
 129.000-1-25|Stratton Edward T|2860 Waldron Rd|Stratton Kelli M2860 Waldron Rd|1.57|DEED BOOK|2013|9160
 129.000-1-26|Widrig Kara L|2741 Moran Post Rd|2741 Moran Post Rd Rd 2Camden, NY 13316|NOT IN ROLLS|DEED BOOK|2016|18541
 129.000-1-27.1|Willson Harold E|2755 Moran Post Rd|303 Sandringham RdRochester, NY 14610|28.75|DEED BOOK|2006|23672
-129.000-1-27.2|Dunlap James E|2717 Moran Post Rd|Dunlap Tanya LCamden, NY 13316|32.75|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+129.000-1-27.2|Dunlap James E|2717 Moran Post Rd|Dunlap Tanya LCamden, NY 13316|32.75|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 129.000-1-29.1|Stace Patricia A|2682 Waldron Rd|Bergin Frank2682 Waldron Rd|41.00|DEED BOOK|2658|618
 129.000-1-29.2|Sullivan Talie|2629 Waldron Rd|Sullivan John2396 Brewster RdCamden, NY 13316|69.40|DEED BOOK|2018|10686
 129.000-1-29.3|Burton John P|2778 Waldron Rd|Burton Debra A2778 Waldron RdCamden, NY 13316|40.00|DEED BOOK|2898|161
@@ -2116,7 +2116,7 @@
 144.000-2-4|Spink Glen Jr|Hillsboro Rd|10984 Empeyville RdCamden, NY 13316|21.11|DEED BOOK|2907|08
 144.000-2-5.1|McDonald Steven W|9565 Hopkins Rd|McDonald Janet L15266 Draco RdStewartstown, PA 17363|87.00|DEED BOOK|2007|991
 144.000-2-5.2|Sparaco Lee M|next to428 Hillsboro Rd|Cherry Sandra Marie428 Hillsboro Rd|10.12|DEED BOOK|2431|00004
-144.000-2-5.4|Cherry Sandra Marie|428 Hillsboro Rd|Sparaco LeeCamden, NY 13316|14.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+144.000-2-5.4|Cherry Sandra Marie|428 Hillsboro Rd|Sparaco LeeCamden, NY 13316 ************************************************************************************************************************************|14.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 144.000-2-6.1|Hedrick Paulette|9589 Hopkins Rd|516 W 3rd St|10.32|DEED BOOK|2014|1590
 144.000-2-6.2|Bielak Gerald S|2 Hopkins Rd|Quade Mary TN. Syracuse, NY 13212|8.55|DEED BOOK|2008|5715
 144.000-2-6.3|Folmsbee Edson W III|Lot 3 Hopkins Rd|Folmsbee Darnille TPO Box 160Stuyvesant, NY 12173|9.73|DEED BOOK|2015|12816
@@ -2221,7 +2221,7 @@
 145.000-1-35|Salmon River Timberlands LLC|Hillsboro Rd Ss|PO Box 198Scottsville, NY 14546|121.30|DEED BOOK|2012|13491
 145.000-1-36.1|McNamara James L|756 Hillsboro Rd|McNamara Michelle1084 Hillsboro RdCamden, NY 13316|35.80|DEED BOOK|2007|11865
 145.000-1-36.2|Musch John H|Hillsboro Rd Ss|Musch Ruth A604 Hillsboro RdCamden, NY 13316|68.00|DEED BOOK|01936|00790
-145.000-1-36.3|Mc Namara James L|Hillsboro Rd|Mc Namara Michelle1084 Hillsboro RdCamden, NY 13316|49.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+145.000-1-36.3|Mc Namara James L|Hillsboro Rd|Mc Namara Michelle1084 Hillsboro RdCamden, NY 13316 ************************************************************************************************************************************|49.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 145.000-1-36.4|Musch Jedediah J|660 Hillsboro Rd|Musch Kristina M660 Hillsboro RdCamden, NY 13316|18.70|DEED BOOK|2009|1037
 145.000-1-36.5|McNamara James L|Hillsboro Rd Ss|McNamara Michelle1084 Hillsboro Rd SsCamden, NY 13316|93.84|DEED BOOK|2003|3116
 145.000-1-36.6|Little Stephen P|756 Hillsboro Rd|Little Becky A13467 Durkee RdGrafton, OH 44044|92.94|DEED BOOK|2017|12109
@@ -2255,7 +2255,7 @@
 146.000-1-23|Coriale Jamie J|1813 Hillsboro Rd Ns|1813 Hillsboro Rd NsCamden, NY 13316|19.00|DEED BOOK|2019|1845
 146.000-1-24.1|Wakeman Zachary|1795 Hillsboro Rd Ns|Wakeman Jesse643 Lower RdWest Monroe, NY 13167|43.96|DEED BOOK|2008|13204
 146.000-1-24.2|LaGasse Alice|1775 Hillsboro Rd|1775 Hillsboro RdCamden, NY 13316|1.00|DEED BOOK|2005|27379
-146.000-1-24.3|Cardwell Teresa|Hillsboro Rd|5572 Rome-Taberg RdRome, NY 13440|20.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+146.000-1-24.3|Cardwell Teresa|Hillsboro Rd|5572 Rome-Taberg RdRome, NY 13440 ************************************************************************************************************************************|20.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 146.000-1-25|Mulvaney Edward|Dunbar Rd Es|9425 Dunbar RdCamden, NY 13316|44.33|DEED BOOK|2673|274
 146.000-1-26|Plato Rosemary|9506 Dunbar Rd Es|9506 Dunbar RdCamden, NY 13316|1.22|DEED BOOK|02009|00197
 146.000-1-27|Dupont Thomas M|9488 Dunbar Rd|Walker Beverly J9488 Dunbar RdCamden, NY 13316|4.45|DEED BOOK|2013|436
@@ -2306,7 +2306,7 @@
 147.000-1-8.5|Lombardi Salvatore W|9498 Preston Hill Rd.|Lombardi Constance M129 Clydes Ridge RdCamden, NY 13316|11.33|DEED BOOK|20042|27851
 147.000-1-8.6|Gilsenan Jared A|Preston Hill Rd|10111 Florence Hill RdCamden, NY 13316|6.41|DEED BOOK|2019|17625
 147.000-1-8.7|Christmas Bryan|9496 Preston Hill Rd|Christmas Jennifer S9496 Preston Hill RdCamden, NY 13316|6.97|DEED BOOK|2002|12961
-147.000-1-8.35|Crown Atlantic Company, LLC|9500 Preston Hill Rd|PMB 3534017 Washington Rd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+147.000-1-8.35|Crown Atlantic Company, LLC|9500 Preston Hill Rd|PMB 3534017 Washington Rd ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 147.000-1-9.1|Kelley Charles J|9575 Maple Ter|9575 Maple TerCamden, NY 13316|17.70|DEED BOOK|2056|00183
 147.000-1-9.2|Picente Candace L|9585 Maple Terr|9585 Maple TerrCamden, NY 13316|0.91|DEED BOOK|2006|25195
 147.000-1-9.3|Snow Angela|2170 Woodside Dr|Parker Fred2170 Woodside DrCamden, NY 13316|1.92|DEED BOOK|2017|15642
@@ -2505,7 +2505,7 @@
 163.000-2-3.3|Portner Christopher L|Babcock Rd|Portner Misty W1175 Hillsboro RdCamden, NY 13316|39.20|DEED BOOK|2017|8488
 164.000-2-1.1|Beebe Raymond E|Hillsboro Rd|Beebe Cathy E1551 Hillsboro RdCamden, NY 13316|39.30|DEED BOOK|2398|00225
 164.000-2-1.2|Hilliker Ronald|Hillsboro Rd|Hilliker June K1636 Hillsboro Rd|41.00|DEED BOOK|2398|00347
-164.000-2-1.3|Hilliker Ronald E|1636 Hillsboro Rd|Hilliker June1636 Hillsboro Rd|5.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+164.000-2-1.3|Hilliker Ronald E|1636 Hillsboro Rd|Hilliker June1636 Hillsboro Rd ************************************************************************************************************************************|5.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 164.000-2-1.4|Hilliker Brandon R|1610 Hillsboro Rd|1610 Hillsboro RdCamden, NY 13316|2.00|DEED BOOK|2004|9900
 164.000-2-1.5|Palmer Autumn L|1594 Hillsboro Rd|1594 Hillsboro RdCamden, NY 13316|2.00|DEED BOOK|2017|814
 164.000-2-2|Clark Jon G|Hillsboro Rd Ss|1897 Hillsboro Rd SsCamden, NY 13316|39.73|DEED BOOK|2003|14448
@@ -2573,7 +2573,7 @@
 165.000-1-25.1|Parker Bruce E|9220 Nys Rt 13|Parker Renee A9220 Nys Rt 13|2.00|DEED BOOK|2011|13543
 165.000-1-25.2|Campbell Arthur K|N Y S Rt 13|Campbell Rodney JArthur K. & Penny Sue Campbell Davis2523 Buell RdCamden, NY 13316|90.70|DEED BOOK|2014|7382
 165.000-1-25.3|Campbell Richard W|Buell Rd|2594 Buell RdCamden, NY 13316|22.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-165.000-1-25.4|Campbell Richard W|Buell Rd|Campbell Patricia A2594 Buell Rd|2.71|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+165.000-1-25.4|Campbell Richard W|Buell Rd|Campbell Patricia A2594 Buell Rd ************************************************************************************************************************************|2.71|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 165.000-1-25.5|Campbell Rich Jr|2572 Buell Rd|Campbell Patty2572 Buell RdCamden, NY 13316|3.65|DEED BOOK|2861|677
 165.000-1-26|Campbell Richard|2594 Buell Rd|Campbell Patricia A2594 Buell RdCamden, NY 13316|NOT IN ROLLS|DEED BOOK|01722|00378
 165.000-1-27|Parker Renee|2670 Buell Rd|Parker Bruce9220 Rt 13|0.43|DEED BOOK|2005|20292
@@ -2647,22 +2647,22 @@
 166.000-1-5|State Owned|Buell Rd|0190001 Lot 55,|140.29|DEED BOOK|1007|00002
 166.000-1-6|State Owned|Trestle Rd|0200001 Lot 62,|102.69|DEED BOOK|1650|00096
 166.000-1-8|State Owned|Trestle Rd Es|0180001 Lot 62B,|49.96|DEED BOOK|1005|00128
-333.000-30-1|State Of New York|8000001|Attn: County TreasurerCounty Office Building Oneida  County PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-30-1|State Of New York|8000001|Attn: County TreasurerCounty Office Building Oneida  County PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 333.000-30-2|State Of New York|8000002|Attn: County TreasurerCounty Office Building Oneida  Town Purposes800 Park Ave|0.01|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-333.000-30-3|State Of New York|8303001|Attn: County TreasurerCounty Office Building Oneida  School Purposes800 Park AveCODE  DISTRICT NAME  PARCELSFD012 Camden fireCODE  DISTRICT NAME303001 Camden Central S U B - T O T A L T O T A LCODE  DESCRIPTION50001 SCHL TAXBL|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-30-3|State Of New York|8303001|Attn: County TreasurerCounty Office Building Oneida  School Purposes800 Park Ave ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD012 Camden fireCODE  DISTRICT NAME303001 Camden Central S U B - T O T A L T O T A LCODE  DESCRIPTION|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 530.089-1-1|National Grid|080010|300 Erie Blvd W|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 530.089-2-1|Verizon New York, Inc.|080020|Verizon Comm BldgIrving, TX 75015|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 530.089-3-1|Time Warner - East Region|Camden|PO Box 7467Charlotte, NC 28241|1.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-530.089-4-1|Citizens Telecom U-C-I|080030|Tax DeptStamford, CT 06905CODE  DISTRICT NAME  PARCELSFD012 Camden fireLT006 Westdale ltCODE  DISTRICT NAME303001 Camden Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+530.089-4-1|Citizens Telecom U-C-I|080030|Tax DeptStamford, CT 06905 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD012 Camden fireLT006 Westdale ltCODE  DISTRICT NAME303001 Camden Central S U B - T O T A L T O T A LROLL|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 165.000-1-41|National Grid|Nys Rt 13 Es|Property Tax Dept300 Erie Blvd West|5.44|DEED BOOK|01855|00406
 630.089-2-1|Verizon New York, Inc.|VERIZON NY INC.|C/O DUFF & PHELPSADDISON, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-630.089-4-1|Citizens Gte|090100|Tax DeptStamford, CT 06905|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+630.089-4-1|Citizens Gte|090100|Tax DeptStamford, CT 06905|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 630.089-9999-132.350/1001|National Grid|Niagara Mohawk|300 Erie Blvd  DeptB-2|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 630.089-9999-132.350/1011|National Grid|Niagara Mohawk|300 Erie Blvd W  B-2|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 630.089-9999-132.350/1021|National Grid|Niagara Mohawk|300 Erie Blvd W  DeptB-2|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-630.089-9999-132.350/1031|National Grid|Niagara Mohawk|300 Erie Blvd W  B-2|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+630.089-9999-132.350/1031|National Grid|Niagara Mohawk|300 Erie Blvd W  B-2 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 630.089-9999-132.350/1041|National Grid|Trans Facilities|Tax Dept300 Erie Blvd West|0.01|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-630.089-9999-132.350/1881|National Grid|090170|Tax DeptSyracuse, NY 13202CODE  DISTRICT NAME  PARCELSFD012 Camden fireLT006 Westdale ltCODE  DISTRICT NAME303001 Camden Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+630.089-9999-132.350/1881|National Grid|090170|Tax DeptSyracuse, NY 13202 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD012 Camden fireLT006 Westdale ltCODE  DISTRICT NAME303001 Camden Central S U B - T O T A L T O T A LROLL|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 89.002-1-20|Town Of Camden|Westdale Cemetary Association St|47 Church StCamden, NY 13316|NOT IN ROLLS|DEED BOOK|2054|00985
 89.004-1-3|State Of New York|Cemetery Rd Es|Cem St WestdaleCamden, NY 13316|4.37|DEED BOOK|00997|00043
 89.004-2-3.2|Benjamin Michelle|11170 State Route 13|PO Box 88Westdale, NY 13483|NOT IN ROLLS|DEED BOOK|2630|369
@@ -2682,7 +2682,7 @@
 128.000-1-70|State Of New York|Moran Post Rd|Moran Post RdCamden, NY 13316|NOT IN ROLLS|DEED BOOK|1851|00427
 128.011-1-6.1|Queen Village Bible Church|10050 Wolcott Hill Rd|Of Camden New York10050 Wolcott Hill Rd|NOT IN ROLLS|DEED BOOK|2819|508
 128.011-1-6.2|Queen Village Bible Church|10048 Wolcott Hill Rd|10048 Wolcott Hill Rd|NOT IN ROLLS|DEED BOOK|2819|508
-144.000-2-8|Town Of Camden|Hillsboro Rd|CemeteryHillsboro Rd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+144.000-2-8|Town Of Camden|Hillsboro Rd|CemeteryHillsboro Rd ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 145.000-1-5|Hillsboro Baptist Church|Hillsboro Rd|Comm HouseHillsboro Rd|NOT IN ROLLS|DEED BOOK|625|00442
 145.000-1-6.1|First Baptist Church|Hillsboro Rd|Hillsboro RdCamden, NY 13316|22.20|DEED BOOK|852|00431
 145.000-1-7|Town Of Camden|Steam M Rd|CemetarySteam M RdCamden, NY 13316|2.10|DEED BOOK|1900|00405

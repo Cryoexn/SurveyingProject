@@ -2,3 +2,5 @@ out/
 .idea/
 JobHelper.iml
 src/META-INF/
+data/taxrolls-pdf/
+data/taxrolls-txt/

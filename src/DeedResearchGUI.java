@@ -33,7 +33,7 @@ public class DeedResearchGUI extends JFrame {
         this.mainPanel.setBorder(BorderFactory.createEmptyBorder(4, 4, 4, 4));
 
         // Set Values for Main Frame.
-        this.setName("DeedResearchHelper");
+        this.setName("Job-Helper");
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setSize(new Dimension(600, 320));
         this.setLayout(new BorderLayout(0,10));
@@ -76,6 +76,7 @@ public class DeedResearchGUI extends JFrame {
             public void windowClosing(WindowEvent e) {
                 super.windowClosing(e);
                 jobSummaryPanel.saveStateOfCheckList();
+                activeJobsPanel.saveActiveJobs();
             }
         });
     }

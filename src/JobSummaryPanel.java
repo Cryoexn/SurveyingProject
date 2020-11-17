@@ -113,13 +113,16 @@ public class JobSummaryPanel extends JPanel {
             checkList.append(check.isSelected() ? "X" : " ");
             checkList.append("\n");
         }
-        try {
-            File checkListFile = new File(this.jobBaseDir + this.jobNum + "/" + this.jobNum + "-ck-list.txt");
-            BufferedWriter bw = new BufferedWriter(new FileWriter(checkListFile));
-            bw.write(checkList.toString());
 
-            bw.flush();
-            bw.close();
+        try {
+            if(this.jobNum != null) {
+                File checkListFile = new File(this.jobBaseDir + this.jobNum + "/" + this.jobNum + "-ck-list.txt");
+                BufferedWriter bw = new BufferedWriter(new FileWriter(checkListFile));
+                bw.write(checkList.toString());
+
+                bw.flush();
+                bw.close();
+            }
         } catch (IOException ex) {
             System.out.println(ex.getMessage());
         }
