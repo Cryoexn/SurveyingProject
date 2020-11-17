@@ -36,7 +36,7 @@ public class ConvertTaxRolls {
         } catch(IOException ex) {
             System.out.println(ex.getMessage());
         }
-        
+
         System.out.println("--\nComplete.");
     }
 
@@ -44,7 +44,7 @@ public class ConvertTaxRolls {
 
         System.out.print("Removing Unwanted Lines... ");
 
-        list.removeIf(line -> line.equals("************************************************************************************************************************************ "));
+        list.removeIf(line -> line.contains("************************************************************************************************************************************"));
         list.removeIf(line -> line.equals(" ************************************************************************************************************************************"));
         list.removeIf(line -> line.contains("COUNTY -"));
         list.removeIf(line -> line.contains("TOWN -"));
@@ -215,7 +215,7 @@ public class ConvertTaxRolls {
 
                     i++;
 
-                    while (!lineList.get(i).contains("ACRES") && !lineList.get(i).contains("DEED BOOK") && numLines <= 10 && !lineList.get(i).contains("******************************************************************************************************* ")) {
+                    while (!lineList.get(i).contains("ACRES") && !lineList.get(i).contains("DEED BOOK") && numLines <= 20 && !lineList.get(i).contains("******************************************************************************************************* ")) {
                         mailing.append(lineList.get(i));
                         numLines++;
                         i++;
@@ -263,8 +263,8 @@ public class ConvertTaxRolls {
     }
 
     private static void checkNumOfParcelsConverted(File fmtdParcels, ArrayList<String> pdflist) {
-        pdflist.removeIf(line -> line.equals("************************************************************************************************************************************ "));
         pdflist.removeIf(line -> !line.contains("******************************************************************************************************* "));
+        pdflist.removeIf(line -> line.contains("************************************************************************************************************************************ "));
 
         ArrayList<String> conSBLS = getConvertedSBLS(fmtdParcels);
         ArrayList<String> notMatched = new ArrayList<>();
@@ -275,6 +275,7 @@ public class ConvertTaxRolls {
         System.out.print("Checking Number of Parcels Converted Successfully... ");
 
         for(String pdfline : pdflist) {
+            System.out.println(pdfline);
             pdfline = pdfline.replaceAll("\\*", "");
             pdfline = pdfline.strip();
             for(String conline : conSBLS) {
