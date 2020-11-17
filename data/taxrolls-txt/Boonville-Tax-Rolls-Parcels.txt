@@ -820,7 +820,7 @@
 33.010-1-18|Pritchard David O|224 Academy St|Boonville, NY 13309|NOT IN ROLLS|DEED BOOK|3028|66
 33.010-1-19|Delta Boonville, LLC|Park Ave|Ava, NY 13303|2.41|DEED BOOK|2013|3363
 33.010-1-20|Delta Boonville, LLC|Park Ave|6804 Stokes-Westernville Rd|1.00|DEED BOOK|2013|3363
-33.010-1-21|Pfendler Rodney|124 Park Ave| ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+33.010-1-21|Pfendler Rodney|124 Park Ave||NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 33.010-1-23|Light Heath W|122 Park Ave||NOT IN ROLLS|DEED BOOK|2007|14838
 33.010-1-24.1|Veterans of Foreign Wars|108 Park Ave|108 Park Ave|2.98|DEED BOOK|2009|1180
 33.010-1-24.2|C & D Rauscher Leasing LLC|Park Ave|PO Box 153|2.50|DEED BOOK|2018|8561
@@ -889,15 +889,15 @@
 33.012-1-3|Palmer Michele M|13080 State Route 12|Old Forge, NY 13420|2.74|DEED BOOK|2008|5650
 33.012-1-4|Palmer Michele M|Enterprise Lane|172 Gingerbread Point RdOld Forge, NY 13420|4.00|DEED BOOK|2008|5650
 33.012-1-5|Crounse Elmer S Jr.|Enterprise Lane|PO Box 581Old Forge, NY 13420|2.71|DEED BOOK|2007|4981
-526.001-1-1|Frontier Communications|Special Franchise|c/o Duff & Phelps, LLCAddison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+526.001-1-1|Frontier Communications|Special Franchise|c/o Duff & Phelps, LLCAddison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 526.001-2-1|Niagara Mohawk Power Corp|Special Franchise Propert|Attn: Real Estate Tax Dept.300 Erie Blvd WestSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-526.001-3-1|Time Warner - East Region|080020|PO Box 7467 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 5 SPECIAL FRANCHISE|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+526.001-3-1|Time Warner - East Region|080020|PO Box 7467CODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 5 SPECIAL FRANCHISE|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 22.017-2-51|Citizens Telecom Co of NY|140 Erwin St|c/o Duff & Phelps, LLCPO Box 2629Addison, TX 75001|NOT IN ROLLS|DEED BOOK|2017|15979
-626.001-0000-618.750/1881|Frontier Communictions|Telecommunications Ceilin|c/o Duff & Phelps, LLCAddison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+626.001-0000-618.750/1881|Frontier Communictions|Telecommunications Ceilin|c/o Duff & Phelps, LLCAddison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 626.001-9999-103.500/1011|Municipal Commission|Water Transmission|Village of BoonvilleBoonville, NY 13309-4943|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 626.001-9999-132.350/1001|Niagara Mohawk Power Corp|T-086 Boonville Alder Cre|Attn: Real Estate Tax Dept300 Erie Blvd West|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 626.001-9999-132.350/1881|Niagara Mohawk Power Corp|Electric Distribution|Attn: Real Estate Tax Dept300 Erie Blvd WestSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-626.001-9999-132.350/2881|Niagara Mohawk Power Corp|Gas Distribution in Villa|Attn: Real Estate Tax Dept300 Erie Blvd WestSyracuse, NY 13202 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LCODE  DESCRIPTION13650 VILL GEN|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+626.001-9999-132.350/2881|Niagara Mohawk Power Corp|Gas Distribution in Villa|Attn: Real Estate Tax Dept300 Erie Blvd WestSyracuse, NY 13202CODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LCODE  DESCRIPTION13650 VILL GEN T O T A L|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 22.017-2-35|First Baptist Church Boonville Adirondack Cent 302601|325 Post St|Boonville, NY 13309|NOT IN ROLLS|DEED BOOK|00286|00199
 22.017-2-83|Baptist Church Parsonage|Erwin St||NOT IN ROLLS|DEED BOOK|00485|00362
 22.017-2-90|Village of Boonville|Sunset Dr|13149 State Route 12|3.70|DEED BOOK|2603|266
@@ -913,7 +913,7 @@
 22.018-2-2|Village of Boonville|3040 State Route 12|13149 State Route 12Boonville, NY 13309|3.60|DEED BOOK|01810|00517
 22.018-2-3|Village of Boonville|State Route 12|13149 State Route 12|3.70|DEED BOOK|01810|00517
 22.018-2-15|St Joseph's Catholic Cemetery  Adirondack Cent 302601|Moose River Rd|Boonville, NY 13309|3.80|DEED BOOK|00519|00354
-22.018-2-16|State Of New York|Black River Canal|, ************************************************************************************************************************************|5.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+22.018-2-16|State Of New York|Black River Canal|,|5.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 33.005-1-47|Erwin Library and Institute|104 Schuyler St|Boonville, NY 13309|0.44|DEED BOOK|00443|00213
 33.005-1-48|Erwin Library and Institute|401 Post St|104 Schuyler St|NOT IN ROLLS|DEED BOOK|2015|11937
 33.005-1-49|Erwin Library and Institute|401 Post St|104 Schuyler St|NOT IN ROLLS|DEED BOOK|2015|11937
@@ -958,7 +958,7 @@
 33.011-1-21|Town of Boonville|13217 State Route 12|13149 State Route 12|3.20|DEED BOOK|01631|00109
 33.011-1-25|Village of Boonville|State Route 12|13149 State Route 12|1.33|DEED BOOK|2008|21288
 826.001-1-1|Municipal Commission|Electric Distrib'n in Vil|Village of Boonville13169 State Route 12|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-826.001-1-2|Municipal Commission|Water Distribution in Vil|Village of BoonvilleBoonville, NY 13309 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LCODE  DESCRIPTION50000 WHOLLY EX T O T A L|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+826.001-1-2|Municipal Commission|Water Distribution in Vil|Village of BoonvilleBoonville, NY 13309CODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LCODE  DESCRIPTION50000 WHOLLY EX T O T A LCODE  DESCRIPTION|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 6.000-1-1|Pritchard Maldwyn A|9620 Brown Rd|9620 Brown Rd|3.19|DEED BOOK|1901|00895
 6.000-1-2|Kessler Wendy|2326 Compo Rd|Boonville, NY 13309|3.40|DEED BOOK|2142|00470
 6.000-1-3|Oneida County Reforestation|Compo Rd|6000 Airport Rd|86.14|DEED BOOK|928|00350
@@ -1143,7 +1143,7 @@
 15.000-1-55.30|Browne Michelle E|8889 Wheelock Dr|PO Box 449Boonville, NY 13309|1.78|DEED BOOK|2019|8576
 15.000-1-55.31|Roberts Mark A Jr|8872 Wheelock Dr|Roberts MelissaBoonville, NY 13309|NOT IN ROLLS|DEED BOOK|2015|15636
 15.000-1-55.32|Browne Jason M|8875 Wheelock Dr|Boonville, NY 13309|NOT IN ROLLS|DEED BOOK|2020|1679
-15.000-1-55.33|VanAernam Steven|8887 Wheelock Dr|8887 Wheelock DrBoonville, NY 13309 ************************************************************************************************************************************|1.01|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+15.000-1-55.33|VanAernam Steven|8887 Wheelock Dr|8887 Wheelock DrBoonville, NY 13309|1.01|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 15.000-1-55.34|Ward Jonathan|Wheelock Dr|Boonville, NY 13309|NOT IN ROLLS|DEED BOOK|2017|17598
 15.000-1-55.35|Moore Richard|Wheelock Dr|Hadyk Anne3338 Devoe Rd|1.00|DEED BOOK|2018|1306
 15.000-1-55.36|Muller Michael|8809 Wheelock Dr|Muller Wendy8809 Wheelock DrBoonville, NY 13309|NOT IN ROLLS|DEED BOOK|2018|2685
@@ -2190,7 +2190,7 @@
 47.000-1-17|Moore Elroy Jr.|12334 Potato Hill Rd|Boonville, NY 13309|NOT IN ROLLS|DEED BOOK|2008|18482
 47.000-1-19|Wanat Sharon L|12319 Potato Hill Rd||NOT IN ROLLS|DEED BOOK|2017|4578
 47.000-1-21.1|Wolfe Carolyn A|12226 Potato Hill Rd|73 Mt Airy Rd|96.50|DEED BOOK|2017|15526
-47.000-1-21.2|Rocky's Recreation Area, Inc.  Adirondack Cent 302601|12255 Potato Hill Rd|PO Box 91 ************************************************************************************************************************************|8.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+47.000-1-21.2|Rocky's Recreation Area, Inc.  Adirondack Cent 302601|12255 Potato Hill Rd|PO Box 91|8.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 47.000-1-21.3|The Clem Irrevocable Trust|2114 Echo Lake Rd|Boonville, NY 13309|1.72|DEED BOOK|2019|15753
 47.000-1-22|Evans Sherry B|12179 Potato Hill Rd|Boonville, NY 13309-4831|2.00|DEED BOOK|2007|15171
 47.000-1-23|Larrabee Daphne|12135 Potato Hill Rd|12135 Potato Hill Rd|24.00|DEED BOOK|01897|00397
@@ -2822,7 +2822,7 @@
 35.000-1-9.2-ESMT|State Of New York|Edmonds Rd|C/O County TreasurerPRIOR OWNER ON 3/01/2020|30.19|DEED BOOK|2020|1003
 35.000-1-9.3-ESMT|State Of New York|Edmonds Rd|C/O County TreasurerOneidaPRIOR OWNER ON 3/01/2020Northland Boonville Property L|836.52|DEED BOOK|2020|1003
 63.000-2-10|State of New York|Jackson Hill Rd|50 Wolf RdAlbany, NY 12233|271.26|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-63.000-2-11|State of New York|Jackson Hill Rd|Albany, NY 12233 ************************************************************************************************************************************|353.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+63.000-2-11|State of New York|Jackson Hill Rd|Albany, NY 12233|353.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 63.000-2-12.6|State of New York|Jackson Hill Rd|625 BroadwayAlbany, NY 12233-4256|246.41|DEED BOOK|2008|2249
 64.000-1-24|State of New York|Jackson Hill Rd||190.23|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 81.000-2-1|State of New York|State Route 46|Albany, NY 12233|84.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -2831,11 +2831,11 @@
 82.000-1-17|State of New York|State Route 46|Albany, NY 12233|122.74|DEED BOOK|00907|00042
 333.000-26-4|State of New York|Park Ave|Park Ave|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 333.000-26-5|State of New York|Park Ave|Park Ave|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-333.000-26-6|State of New York|Park Ave|Park Ave ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD010 Boonville FireCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LCODE  DESCRIPTION50001 SCHL TAXBL50005 TOWN TAXBL|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-526.089-1-1|Citizens Telecom Co|Special Franchise|c/o Duff & Phelps, LLCAddison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-26-6|State of New York|Park Ave|Park AveCODE  DISTRICT NAME  PARCELSFD010 Boonville FireCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LCODE  DESCRIPTION50001 SCHL TAXBL50005 TOWN TAXBL50006 CNTY TAXBL|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+526.089-1-1|Citizens Telecom Co|Special Franchise|c/o Duff & Phelps, LLCAddison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 526.089-2-1|Niagara Mohawk Power Corp|Special Fanchise Property|Attn: Real Estate Tax Dept.300 Erie Blvd WestSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 526.089-3-1|Time Warner - East Region|080025|PO Box 7467|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-526.089-4-1|Oneida County Rural Tel. Co.|080007|9560 Main St ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD010 Boonville FireCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 5 SPECIAL FRANCHISE|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+526.089-4-1|Oneida County Rural Tel. Co.|080007|9560 Main StCODE  DISTRICT NAME  PARCELSFD010 Boonville FireCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 5 SPECIAL FRANCHISE|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 15.000-1-4.2|Iroquois Gas Transmission|3338 East Rd|One Corporate Drive Ste 600Shelton, CT 06484|45.92|DEED BOOK|2839|257
 21.000-1-22|Municipal Commission|8128 West Leyden Rd|Village of Boonville|NOT IN ROLLS|DEED BOOK|01370|00293
 21.000-1-23|Municipal Commission|8128 West Leyden Rd|Village of Boonville|NOT IN ROLLS|DEED BOOK|01020|00067
@@ -2850,19 +2850,19 @@
 626.089-0000-618.750/1881|Citizens Telecom|Telecommunications Ceilin|c/o Duff & Phelps, LLCPO Box 2629|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 626.089-0000-618.750/1882|Citizens Telecom Co. of NY Inc Remsen Central  305201|Telecommunications Ceilin|c/o Duff & Phelps, LLCPO Box 2629|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 626.089-3-1|Iroquois Gas Transmission|Pipeline in Adirondack SD|One Corporate Dr Ste 606Shelton, CT 06484|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-626.089-3-2|Iroquois Gas Transmission|Pipeline in Remsen SD|Attn: Joseph Criscuolo1 Corporate Dr Ste 606 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-626.089-9999-103.500/1011|Municipal Commission|Water Distribution in Tow|Village of BoonvilleBoonville, NY 13309-4943|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+626.089-3-2|Iroquois Gas Transmission|Pipeline in Remsen SD|Attn: Joseph Criscuolo1 Corporate Dr Ste 606|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+626.089-9999-103.500/1011|Municipal Commission|Water Distribution in Tow|Village of BoonvilleBoonville, NY 13309-4943|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 626.089-9999-132.350/1001|Niagara Mohawk Power Corp|T-328 Adirondack-Porter #|Attn: Real Estate Dept300 Erie Blvd WestSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 626.089-9999-132.350/1011|Niagara Mohawk Power Corp|T 329 Adirondack-Porter #|Attn: Real Estate Tax Dept Adirondack-Porter #12 T3300 Erie Blvd WestSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 626.089-9999-132.350/1022|Niagara Mohawk Power Corp|T-324 Boonville-Turin #3|Attn: Real Estate Tax Dept300 Erie Blvd WestSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 626.089-9999-132.350/1031|Niagara Mohawk Power Corp|T-353 Boonville-Porter 1|Attn: Real Estate Tax Dept300 Erie Blvd West|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-626.089-9999-132.350/1042|Niagara Mohawk Power Corp|West St Substa. Porter 2|Attn: Real Estate Tax Dept300 Erie Blvd WestSyracuse, NY 13202 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+626.089-9999-132.350/1042|Niagara Mohawk Power Corp|West St Substa. Porter 2|Attn: Real Estate Tax Dept300 Erie Blvd WestSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 626.089-9999-132.350/1051|Niagara Mohawk Power Corp|T-086 Boonville-Alder Cre|Attn: Real Estate Tax Dept300 Erie Blvd West|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 626.089-9999-132.350/1061|Niagara Mohawk Power Corp|T-086A Boonville-Alder Cr|Attn: Real Estate Tax Dept300 Erie Blve West|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 626.089-9999-132.350/1071|Niagara Mohawk Power Corp|Tap to Trafalgar Hydro|Attn: Real Estate Tax Dept300 Erie Blvd West|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 626.089-9999-132.350/1881|Niagara Mohawk Power Corp|Electric Distribution - A|Attn: Real Estate Tax Dept300 Erie Blvd WestSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 626.089-9999-132.350/1882|Niagara Mohawk Power Corp|Electric Distribution - R|Attn: Real Estate Tax Dept300 Erie Blvd WestSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-626.089-9999-132.350/2881|Niagara Mohawk Power Corp|Gas Distribution in Town|Attn: Real Estate Dept300 Erie Blvd West ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD010 Boonville FireCODE  DISTRICT NAME302601 Adirondack Central305201 Remsen Central S U B - T O T A L T O T A LCODE  DESCRIPTION|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+626.089-9999-132.350/2881|Niagara Mohawk Power Corp|Gas Distribution in Town|Attn: Real Estate Dept300 Erie Blvd WestCODE  DISTRICT NAME  PARCELSFD010 Boonville FireCODE  DISTRICT NAME302601 Adirondack Central305201 Remsen Central S U B - T O T A L T O T A LCODE  DESCRIPTION13746 VLG SW WTR|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 16.000-1-8|Town of Boonville|Moose River Rd|13149 State Route 12|53.60|DEED BOOK|2004|486
 16.000-2-13.3|Town of Boonville|Smith Rd|13149 State Route 12|15.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 16.000-2-21|Joslyn Cemetery|3504 Pines Rd||NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -2872,7 +2872,7 @@
 22.000-1-47.4|United Cerebral Palsy Assoc.|4033 State Route 12D||NOT IN ROLLS|DEED BOOK|2356|00014
 22.000-1-57|Town of Boonville|Canal Towpath|Village of Boonville13149 State Route 12|1.50|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 22.000-2-12|Boonville Cemetery|Moose River Rd|c/o Alan Salmon|19.20|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-22.000-2-13|St Joseph's Catholic Cemetery  Adirondack Cent 302601|Moose River Rd|Boonville, NY 13309 ************************************************************************************************************************************|7.50|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+22.000-2-13|St Joseph's Catholic Cemetery  Adirondack Cent 302601|Moose River Rd|Boonville, NY 13309|7.50|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 23.000-1-48|Cemetery Association|Wingert Rd|Town of Boonville|NOT IN ROLLS|DEED BOOK|00000|ChkRolls
 23.000-1-68|Town of Boonville|Hayes Rd W|13149 State Route 12|18.10|DEED BOOK|01678|00287
 23.000-1-69|State of New York|Wingert Rd|50 Wolf RdAlbany, NY 12233|0.64|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -2887,7 +2887,7 @@
 33.000-2-5|Christian Alliance Church|12593 Potato Hill Rd|Boonville, NY 13309-9519|NOT IN ROLLS|DEED BOOK|00746|00086
 33.000-2-8.1|United Cerebral Palsy Assoc.|12592 Potato Hill Rd|1020 Mary St|10.73|DEED BOOK|2360|00165
 33.012-2-14|BPO Elks #2158|13054 State Route 12|PO Box 281|5.20|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-34.000-1-28|State Of New York|Black River Canal|, ************************************************************************************************************************************|175.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+34.000-1-28|State Of New York|Black River Canal|,|175.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 34.000-1-36.1|Alder Creek Beverages, LLC|12044 State Route 12|Forestport, NY 13338|313.00|DEED BOOK|2015|19392
 34.000-1-36.2|Abundant Life Fellowship|12644 State Route 12|Boonville, NY 13309|7.00|DEED BOOK|2890|281
 35.000-1-5|State of New York|Edmonds Rd|Albany, NY 12233|1.06|DEED BOOK|2738|337
@@ -2932,7 +2932,7 @@
 81.000-2-3|State of New York|State Route 46|Albany, NY 12233|172.60|DEED BOOK|1765|00445
 81.000-2-4|State of New York|State Route 46|50 Wolf Rd|93.60|DEED BOOK|1961|512
 81.000-2-5|State of New York|State Route 46|50 Wolf Rd|4.10|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-82.000-1-5|Revolutionary Trails Inc.|State Route 46|Boy Scouts of America1401 Genesee St ************************************************************************************************************************************|3.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+82.000-1-5|Revolutionary Trails Inc.|State Route 46|Boy Scouts of America1401 Genesee St|3.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 82.000-1-18|State of New York|State Route 46|Albany, NY 12233|149.50|DEED BOOK|00902|00127
 83.000-1-6.1|Black River Envir. Imp. Assoc. Adirondack Cent 302601|9338 Egypt Rd|60 Cutter Mill Rd  Suite214|110.80|DEED BOOK|2623|87
 83.000-1-6.2|Black River Outdoor Education  Adirondack Cent 302601|9338 Egypt Rd|11904 Potato Hill Rd|5.38|DEED BOOK|2010|6710
@@ -2941,4 +2941,4 @@
 626.089-9999-000.000/1011|New York Power Authority|345KV Transmission Line|PO Box 200Gilboa, NY 12076|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 626.089-9999-000.000/1012|New York Power Authority|345KV Transmission Line|PO Box 200Gilboa, NY 12076|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 626.089-9999-000.000/1021|New York Power Authority|765KV Transmission Line|PO Box 200Gilboa, NY 12076|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-626.089-9999-000.000/1022|New York Power Authority|765KV Transmission Line|PO Box 200Gilboa, NY 12076 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD010 Boonville FireSW087 Sewer DistrictCODE  DISTRICT NAME302601 Adirondack Central305201 Remsen Central S U B - T O T A L T O T A L|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+626.089-9999-000.000/1022|New York Power Authority|765KV Transmission Line|PO Box 200Gilboa, NY 12076CODE  DISTRICT NAME  PARCELSFD010 Boonville FireSW087 Sewer DistrictCODE  DISTRICT NAME302601 Adirondack Central305201 Remsen Central S U B - T O T A L T O T A LCODE  DESCRIPTION|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS

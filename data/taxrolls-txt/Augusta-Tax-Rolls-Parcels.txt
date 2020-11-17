@@ -57,7 +57,7 @@
 381.019-1-39|Cogley Virginia L|261 Main & State Rt 26|261 Main StPO Box 607Oriskany Falls, NY 13425|NOT IN ROLLS|DEED BOOK|02892|00244
 381.019-2-1.1|Hanson Aggregates New York,Inc Waterville Cent 305401|College St|Marvin F. Poer & Co. SPS RE3520 Piedmont Rd  410Atlanta, GA 30305|7.00|DEED BOOK|2152|00911
 381.019-2-1.2|Wootton Marietta L|110 Cottage St|Wheeler Ingeborgk112 Cottage StOriskany Falls, NY 1401|0.06|DEED BOOK|2005|25490
-381.019-2-1.3|Bean Properties, LLC|114 Cottage|David C Bean114  Cottage St Ste 206BOriskany Falls, NY 13425-4543  S. Cottage St. W. Pomroy|3.30|DEED BOOK|2006|9660
+381.019-2-1.3|Bean Properties, LLC|114 Cottage|David C Bean114  Cottage St Ste 206BOriskany Falls, NY 13425-4543  S. Cottage St. W. Pomroy|3.30|DEED BOOK|2006|9660
 381.019-2-2|Freemire Richard P|108 Cottage St Ns|108 Cottage StPO Box 331Oriskany Falls, NY 13425|NOT IN ROLLS|DEED BOOK|02836|00021
 381.019-2-3|Muth Victoria|106 Cottage St N|106 Cottage St NOriskany Falls, NY 13425|NOT IN ROLLS|DEED BOOK|2019|14310
 381.019-2-4|Defranco Merry Beth|104 Cottage St N|104 Cottage StOriskany Falls, NY 13425|NOT IN ROLLS|DEED BOOK|2649|129
@@ -271,19 +271,19 @@
 390.008-1-4|Saunders Damion L|135 Cooper St N|Saunders Geri A135 Cooper StOriskany Falls, NY 13425|8.80|DEED BOOK|2004|29413
 522.001-2-1|Verizon New York Inc.|080210|Duff & PhelpsPO Box 2749|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 522.001-3-1|Oriskany Falls Telephone|080280|Property Tax Team525 Junction Rd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-522.001-4-1|Time Warner Rome|080410|Attn: Time Warner Cable Tax De InsideCharlotte, NC 28241|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+522.001-4-1|Time Warner Rome|080410|Attn: Time Warner Cable Tax De InsideCharlotte, NC 28241|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 522.001-5-1|NYSEG|080170|18 Link Dr|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-522.001-6-1|Citizens Telecom U-C-I|none|3 Highridge Park ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME305401 Waterville Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 5 SPECIAL FRANCHISE|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+522.001-6-1|Citizens Telecom U-C-I|none|3 Highridge ParkCODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME305401 Waterville Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 5 SPECIAL FRANCHISE|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 381.019-4-24|Oriskany Falls Telephone|101 S Main St|Property Tax Team525 Junction RdMadison, WI 53717|0.13|DEED BOOK|1958|887
 381.019-4-33|Oriskany Falls Telephone|Main St S|525 Junction Rd|0.07|DEED BOOK|2075|01049
 622.001-0000-618.750/1881|Citizens Telecom of NY Inc|Outside Plant|3 High Ridge Pkwy|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 622.001-9999-131.600/1002|NYSEG|090160|18 Link Dr|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 622.001-9999-131.600/1882|NYS Electric & Gas|Outside Plant|PO Box 3287|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-622.001-9999-634.200/1882|Oriskany Falls Telephone|Main St|Property Tax Team525 Junction Rd ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+622.001-9999-634.200/1882|Oriskany Falls Telephone|Main St|Property Tax Team525 Junction Rd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 622.001-9999-901.350/1002|Time Warner Cable/Tax Dept.|090550|PO Box 7467|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 622.089-0000-634.200/1881|Oriskany Falls Telephone|090470|Property Tax Team525 Junction Rd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 622.089-0000-634.200/1882|Oriskany Falls Telephone|090470|Property Tax Team525 Junction Rd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-622.089-0000-634.200/1883|Oriskany Falls Telephone|090470|Property Tax Team525 Junction Rd ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME254001 Madison Central254601 Stockbridge Central305401 Waterville Central S U B - T O T A L T O T A LROLL|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+622.089-0000-634.200/1883|Oriskany Falls Telephone|090470|Property Tax Team525 Junction RdCODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME254001 Madison Central254601 Stockbridge Central305401 Waterville Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 8.850-30|Town of Augusta|085030|Cemetery ?185 N Main St|0.01|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 8.851-10|Village of Oriskany Falls|085110|185 Main St|0.01|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 8.851-40|Village Of Oriskany Falls|085140|185 Main St|0.01|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -306,7 +306,7 @@
 381.019-4-55|NYSARC|158 S Main St|158 Main StPO Box 565Oriskany Falls, NY 13425|NOT IN ROLLS|DEED BOOK|02824|00427
 381.020-1-11|State Of New York|Mill St Es|Attn: D E C50 Wolf RdAlbany, NY 12233-0001|NOT IN ROLLS|DEED BOOK|2485|00037
 381.020-1-12|Village Of Oriskany Falls|Mill St|185 N.Main StOriskany Falls, NY 13425|5.80|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-381.020-1-13|Village of Oriskany Falls|Mill St E|185 N.Main StOriskany Falls, NY 13425 ************************************************************************************************************************************|0.19|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+381.020-1-13|Village of Oriskany Falls|Mill St E|185 N.Main StOriskany Falls, NY 13425|0.19|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 381.020-1-19|Village of Oriskany Falls|Broad St|185 N.Main StOriskany Falls, NY 13425|0.67|DEED BOOK|2062|00049
 381.020-1-23|Village of Oriskany Falls|129 1/2 Broad St|185 N Main StOriskany Falls, NY 13425|1.53|DEED BOOK|2017|2475
 390.007-2-2|American Legion Post 569 Kelle Waterville Cent 305401|Madison St|123-125 Madison StPO Box 453|0.86|DEED BOOK|01984|00433
@@ -334,7 +334,7 @@
 352.000-1-6.4|Rizzo Nicholas J|5211 Rottamore Rd|Burns Brittany A5211 Rottamore RdVernon Center, NY 13477|7.19|DEED BOOK|2015|2106
 352.000-1-7|Rizzo Nicholas|Rottamore Rd E|Rizzo Brittany5211 Rottamore RdVernon Center, NY 13477|7.00|DEED BOOK|2019|12649
 353.000-1-1|Morse Richard|Burns Rd|3864 Preemption RdGeneva, NY 14456-9137|3.60|DEED BOOK|01956|00133
-353.000-1-2.1|Burns Peter J|Rottamore Rd N|Burns Paul V3092 Burns RdVernon Center, NY 13477 ************************************************************************************************************************************|64.87|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+353.000-1-2.1|Burns Peter J|Rottamore Rd N|Burns Paul V3092 Burns RdVernon Center, NY 13477|64.87|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 353.000-1-2.2|Falero Jorge L|5457 Rottamore Rd|Falero Martha H5457 Rottamore RdVernon Center, NY 13477|1.38|DEED BOOK|2014|5782
 353.000-1-2.4|Falero Jorge L|5451 Rottamore Rd|Falero Martha H5457 Rottamore Rd|4.93|DEED BOOK|2014|5784
 353.000-1-3|Stoltzfus Jonas|Rottamore Rd|Stoltzfus Elsie Ann5635 Rottamore RdVernon Center, NY 13477MAY BE SUBJECT TO PAYMENT|141.75|DEED BOOK|2570|61
@@ -351,7 +351,7 @@
 353.000-1-11.2|Ptak George|5591 Rottamore Rd|5591 Rottamore RdVernon Center, NY 13477-4022|2.00|DEED BOOK|2964|144
 353.000-1-12.1|Wucik Dale A|3015 North Rd|Wucik Kathy C3018 North Rd WVernon Center, NY 13477|2.03|DEED BOOK|2013|6420
 353.000-1-12.2|Leuenberger Irrevocable Trust  Madison Central 254001|3015 North Road|Fleming Craig J3125 State Route 26Oriskany Falls, NY 13425|108.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-353.000-1-12.3|Wucik Dale A|3015 North Rd|Wucik Kathy C3018 North RdVernon Center, NY 13477 ************************************************************************************************************************************|25.58|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+353.000-1-12.3|Wucik Dale A|3015 North Rd|Wucik Kathy C3018 North RdVernon Center, NY 13477|25.58|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 353.000-1-13.1|Russell Wayne E Jr|North Rd E|Russell Jean F3003 Burns Rd EVernon Center, NY 13477|104.00|DEED BOOK|2019|3370
 353.000-1-13.2|Russell David W|2881 Burns Rd|Russell Crystal L2881 North RdVernon Center, NY 13477|6.17|DEED BOOK|02907|00295
 353.000-1-14|Schenk Fred Jr|2984 Burns Rd E|Schenk Ronald2769 Rockwell RdHamilton, NY 13346|17.60|DEED BOOK|2018|7146
@@ -359,7 +359,7 @@
 353.000-1-16.2|Burns Paul V|3065 Burns Rd|Burns Peter J3065 Burns RdVernon Center, NY 13477|1.00|DEED BOOK|2118|00197
 353.000-1-16.3|Russell Wayne III|2959 Burns Rd|2959 Burns RdVernon Center, NY 13477|3.00|DEED BOOK|2011|8054
 353.000-1-17|Burns Peter J|Burns Road|Burns Paul V3092 Burns RdVernon Center, NY 13477|99.36|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-353.000-1-19|Burns Peter J|3092 Burns Road|Burns Paul V3092 Burns RdVernon Center, NY 13477 ************************************************************************************************************************************|43.95|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+353.000-1-19|Burns Peter J|3092 Burns Road|Burns Paul V3092 Burns RdVernon Center, NY 13477|43.95|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 353.000-1-20.1|Burns Peter J|Rottamore Rd|Burns Paul V3092 Burns RdVernon Center, NY 13477MAY BE SUBJECT TO PAYMENT|55.80|DEED BOOK|2116|00699
 353.000-1-20.2|Burns Peter J|Rottamore Rd|Burns Paul V3092 Burns RdVernon Center, NY 13477MAY BE SUBJECT TO PAYMENT|15.00|DEED BOOK|2114|00652
 353.000-1-21|Rice Andrea R|5500 Rottamore Road|5859 Hill RdMadison, NY 13402-1613|NOT IN ROLLS|DEED BOOK|2006|18319
@@ -367,7 +367,7 @@
 353.000-1-23|Waterman Robert G|5393 Rottamore Rd|5393 Rottamore RdVernon Center, NY 13425|0.08|DEED BOOK|2009|7155
 353.000-1-24|Burns Peter J|5385 Burns & Rottamore Rd  Int|Burns Paul V3092 Burns RdVernon Center, NY 13477|NOT IN ROLLS|DEED BOOK|2585|00067
 353.000-1-25.2|Burns Peter J|Rottamore Rd|Burns Paul V3092 Burns RdVernon Center, NY 13477|59.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-353.000-1-26|Burns Peter J|Burns Road|Burns Paul V3092 Burns RdVernon Center, NY 13477 ************************************************************************************************************************************|1.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+353.000-1-26|Burns Peter J|Burns Road|Burns Paul V3092 Burns RdVernon Center, NY 13477|1.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 353.000-1-28|Harney Christopher M|Harney Rd|4304 Wood Creek RdRome, NY 13440|19.92|DEED BOOK|02858|00459
 353.000-2-1.1|Crill Richard|3222 Simmons Rd|Crill Diane3222 Simmons RdVernon Center, NY 13477|24.62|DEED BOOK|2004|12304
 353.000-2-2.1|Leuenberger Irrevocable Trust  Madison Central 254001|State Route 26|3125 State Route 26Oriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|119.20|DEED BOOK|2016|2792
@@ -380,7 +380,7 @@
 353.000-2-5|Janowski Paul A|Wells Gifford Rd|3290 B Wells-Gifford RdVernon Center, NY 13477MAY BE SUBJECT TO PAYMENT|69.30|DEED BOOK|02798|00426
 353.000-2-6|Meuchel Anne C|3207 Wells Gifford Rd|3207 Wells Gifford RdVernon Center, NY 13477|1.00|DEED BOOK|2943|114
 353.000-2-7|Janowski Paul A|Wells Gifford Rd|3290 B Wells-Gifford RdVernon Center, NY 13477MAY BE SUBJECT TO PAYMENT|55.77|DEED BOOK|02798|00426
-353.000-2-8.1|Leuenberger Irrevocable Trust  Madison Central 254001|Kimball Rd N|Leuenberger Warner E3125 State Rt. 26Oriskany Falls, NY 13425 ************************************************************************************************************************************|68.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+353.000-2-8.1|Leuenberger Irrevocable Trust  Madison Central 254001|Kimball Rd N|Leuenberger Warner E3125 State Rt. 26Oriskany Falls, NY 13425|68.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 353.000-2-8.2|Collins Jason L|6022 Kimball Rd|Collins Josephine A6022 Kimball Rd|4.00|DEED BOOK|2987|1
 353.000-2-8.3|Wilson Edward A|5948 Berry Farm Road Rd|Wilson Susan J5948 Bary Farm RdOriskany Falls, NY 13425|5.00|DEED BOOK|2009|8998
 353.000-2-9|Peck James J|5975 Kimball & Wells|5975 Kimball & WellsOriskany Falls, NY 13425|4.28|DEED BOOK|2938|619
@@ -423,7 +423,7 @@
 354.000-1-10|Oaksford Barry J|6416 Bogusville & Kimball  Int|6416 Kimball  RdOriskany Falls, NY 13425|6.32|DEED BOOK|2947|281
 354.000-1-11|Zombek James A|6332 Kimball Rd S|6332 Kimball RdOriskany Falls, NY 13425|48.90|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 354.000-1-12|Schrock William F|6375 Kimball Rd|Schrock Carolyn A6375 Kimball RdOriskany Falls, NY 13425|3.40|DEED BOOK|2019|12818
-354.000-1-13|Zombek James A|Kimball Rd|6332 Kimball RdOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT ************************************************************************************************************************************|114.30|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+354.000-1-13|Zombek James A|Kimball Rd|6332 Kimball RdOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|114.30|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 354.000-1-14.1|Zombek Stanley J|Kimball Rd|6287 Kimball RdOrisskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|116.25|DEED BOOK|2444|00195
 354.000-1-14.2|Zombek Nicholas G|6231 Kimball Rd|6231 Kimball RdOriskany Falls, NY 13425|1.01|DEED BOOK|2006|25751
 354.000-1-14.3|Pierson Regina|6243 Kimball Rd|776 Kings HwyPO Box 25Mt.Marion, NY 12456|1.00|DEED BOOK|2007|6824
@@ -443,7 +443,7 @@
 361.000-1-1.1|Cuozzo Christina M|2716 Hatalla Rd|21 Arrowhead WayMillstone, NJ 08535|1.06|DEED BOOK|2002|10596
 361.000-1-1.3|Hutchings Gene A|2728 Hatalla Rd|2728 Hatalla RdMunnsville, NY 13409|1.00|DEED BOOK|2529|00073
 361.000-1-2|Swoco Joint Disposal|Hatalla Rd|PO Box 396Vernon, NY 13476-0396|32.70|DEED BOOK|01962|00709
-361.000-1-4|Brayman Duane E|5248 Knoxboro Rd|Brayman Crystal M5248 Knoxboro RdMunnsville, NY 13409 ************************************************************************************************************************************|14.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+361.000-1-4|Brayman Duane E|5248 Knoxboro Rd|Brayman Crystal M5248 Knoxboro RdMunnsville, NY 13409|14.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 361.000-1-5|Schauer Roland E|5333 Knoxboro Rd||NOT IN ROLLS|DEED BOOK|2010|1336
 361.000-1-6|Brayman Duane E|Knoxboro Rd|Brayman Crystal M5248 Knoxboro RdMunnsville, NY 13409|67.20|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 361.000-1-7|Brayman Duane E|Knoxboro Rd|Brayman Crystal M5248 Knoxboro RdMunnsville, NY 13409|86.80|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -456,7 +456,7 @@
 361.000-1-10.7|Brogan Daniel P|5141 Knoxboro Rd W|5141 Knoxboro Rd WMunnsville, NY 13409|4.40|DEED BOOK|2016|17154
 361.000-1-10.8|March Scott T|5190 Knoxboro Rd|5190 Knoxboro RdMunnsville, NY 13409-3600|1.50|DEED BOOK|02732|00118
 361.000-1-10.60|Stoltzfus Henry|2531 Perry Schumaker Rd|2525 Perry Shumaker|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-362.000-1-1.1|Yoder Ben S|2750 Harney Rd|Yoder Leah2750 Harney RdMunnsville, NY 13409 ************************************************************************************************************************************|191.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+362.000-1-1.1|Yoder Ben S|2750 Harney Rd|Yoder Leah2750 Harney RdMunnsville, NY 13409|191.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 362.000-1-1.2|Armstrong Amy A|2688 Harney Rd|Amy Armstrong Stevens2688 Harney RdMunnsville, NY 13409|2.17|DEED BOOK|2924|588
 362.000-1-2|Dincik John R|2879 Burns Rd|Marriott Melinda S2879 Burns RdVernon Center, NY 13477|2.51|DEED BOOK|2005|26659
 362.000-1-3.1|Fleming Craig J|Burns Rd|Fleming Patricia H2861 Burns RdVernon Center, NY 13477|98.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -498,7 +498,7 @@
 362.000-1-20.2|Leuenberger Irrevocable Trust  Madison Central 254001|2773 State Route 26|Leuenberger Brian H3125 State Route 26Oriskany Falls, NY 13425|75.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 362.000-1-21|Shetler David|2850 State Route 26|Shetler Clara2850 State Route 26Oriskany Falls, NY 13425|110.90|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 362.000-1-22|Cotter William R|2800 Wells Gifford Rd|Cotter Roxanne D2800 Wells Gifford RdOriskany Falls, NY 13425|50.85|DEED BOOK|2008|7305
-362.000-1-23|Schlabach Andy D|Wells Gifford Rd S|Schlabach Polly S1417 Sayer-Huth RdMadison, NY 13402 ************************************************************************************************************************************|69.58|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+362.000-1-23|Schlabach Andy D|Wells Gifford Rd S|Schlabach Polly S1417 Sayer-Huth RdMadison, NY 13402|69.58|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 362.000-1-24|Peters William C|2566 Knoxboro & Nys Rt 26|Box 4262566 State Route 26Oriskany Falls, NY 13425|111.90|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 362.000-1-26.1|Stoltzfus Loren J|Knoxboro Rd Ss|2525 Perry-Shumaker RdMunnsville, NY 13409MAY BE SUBJECT TO PAYMENT|15.38|DEED BOOK|2016|13776
 362.000-1-26.2|McDowald Curtis Elwin|5926 Knoxboro Rd|5926 Knoxboro Rd|NOT IN ROLLS|DEED BOOK|2018|14202
@@ -543,7 +543,7 @@
 362.000-1-42|Yoder Samuel K|5459 Knoxboro Rd West Ns|Yoder Mary Louise5459 Knoxboro RdMunnsville, NY 13409|109.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 362.000-1-44|Cross Wayne S|2404 North Rd|Cross Diane E2404 North RdOriskany Falls, NY 13425|2.52|DEED BOOK|2005|22188
 362.003-1-1|Kazlauskas Mat|5501 Knoxboro Rd N|Kazlauskas Christine M5501 Knoxboro Rd NMunnsville, NY 13409|5.00|DEED BOOK|2002|10390
-362.003-1-2|Schwartz David N|5537 Knoxboro Rd N|Schwartz Katie S5770 Anderson RdOriskany Falls, NY 13425 ************************************************************************************************************************************|30.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+362.003-1-2|Schwartz David N|5537 Knoxboro Rd N|Schwartz Katie S5770 Anderson RdOriskany Falls, NY 13425|30.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 362.003-1-3|Reiter Brett|5541 Knoxboro Rd N|5541 Knoxboro Rd NMunnsville, NY 13409|0.91|DEED BOOK|2011|1140
 362.003-1-4|Schwartz David N|5537 Knoxboro Rd|Schwartz Katie S5770 Anderson RdOriskany Falls, NY 13425|NOT IN ROLLS|DEED BOOK|2018|15384
 362.003-1-5|Reiter Brett A|5541 Knoxboro Rd|Kroth Samantha L5541 Knoxboro RdMunnsville, NY 13409|0.72|DEED BOOK|2009|18354
@@ -624,11 +624,11 @@
 363.000-1-6|Belois Roger|Bogusville Road|190 St Mary's AveClinton, NY 13323|3.00|DEED BOOK|02794|00291
 363.000-1-7|Ames Lawrence W Jr|Bogusville Road|6662 Bogusville Hill RdDeansboro, NY 13328|5.00|DEED BOOK|2172|00299
 363.000-1-8|Zombek Stephen M|Bogusville Rd S|Zombek Sharon6500 Bogusville Hill RdDeansboro, NY 13328MAY BE SUBJECT TO PAYMENT|4.31|DEED BOOK|2654|139
-363.000-1-9|Russell Mark R|6486 Kimball Rd|6486 Kimball RdOriskany Falls, NY 13425 ************************************************************************************************************************************|16.90|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+363.000-1-9|Russell Mark R|6486 Kimball Rd|6486 Kimball RdOriskany Falls, NY 13425|16.90|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 363.000-1-10|Zombek Stephen M|Tanner Egan Rd|Zombek Sharon6500 Bogusville Hill RdDeansboro, NY 13328|80.60|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 363.000-1-11.1|Miller Jeff J|Skyline Dr|Miller Nancy B6422 Egan RdOriskany Falls, NY 13425|16.20|DEED BOOK|2010|5978
 363.000-1-11.2|Allers Irrevocable Trust R.H.  Waterville Cent 305401|2759 Skyline Dr|Allers Robert H2759 Skyline DrDeansboro, NY 13328|5.00|DEED BOOK|2019|6369
-363.000-1-12|Miller Jeff J|6422 Egan Rd|Miller Nancy B6422 Egan RdOriskany Falls, NY 13425 ************************************************************************************************************************************|104.70|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+363.000-1-12|Miller Jeff J|6422 Egan Rd|Miller Nancy B6422 Egan RdOriskany Falls, NY 13425|104.70|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 363.000-1-13.1|Sykes Kevin S|6367 Egan Rd N|3675 Houghton LnMorrisville, NY 13408MAY BE SUBJECT TO PAYMENT|109.40|DEED BOOK|2009|7880
 363.000-1-13.2|Gorman Stephen|6367 Tanner-Egan Rd|6367 Tanner Egan RdOriskany Falls, NY 13425-3907|3.83|DEED BOOK|2010|9358
 363.000-1-14.1|Hall & Hall Properties, LLC|6294 Egan Rd|3710 Pickett RdMadison, NY 13402|9.50|DEED BOOK|2012|7445
@@ -678,7 +678,7 @@
 363.000-1-45|Turner Melodie A|6170 Knoxboro Rd S|6170 Knoxboro RdOriskany Falls, NY 13425|2.90|DEED BOOK|3000|223
 363.000-1-46|Stoltzfus Myron D|6133 Tanner Rd|Stoltzfus Regina R6133 Tanner Rd|9.40|DEED BOOK|2012|7032
 363.000-1-47.1|Zombek Stanley F|6102 Knoxboro Rd S|6287 Kimball RdOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|1.32|DEED BOOK|2016|19349
-363.000-1-47.2|Socha Jeffrey L|Knoxboro Rd S|Socha Deborah M6107 Forest AveOneida, NY 13421-3312 ************************************************************************************************************************************|11.03|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+363.000-1-47.2|Socha Jeffrey L|Knoxboro Rd S|Socha Deborah M6107 Forest AveOneida, NY 13421-3312|11.03|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 363.000-1-47.3|Skyline Acres, LLC|Knoxboro Rd S|6793 Champion RdClinton, NY 13323MAY BE SUBJECT TO PAYMENT|26.33|DEED BOOK|2015|15908
 363.000-1-48|Mueller Stephen|6120 Tanner Rd|Mueller Marsha6120 Tanner RdOriskany Falls, NY 13425|5.90|DEED BOOK|02022|00345
 363.000-1-49.1|Henty Farms LLC|Post Rd|5997 Knoxboro RdOriskany Falls, NY 13425|34.70|DEED BOOK|2011|62
@@ -708,12 +708,12 @@
 370.000-1-5.5|Rossi Anthony P|2263 Perry Shumaker Rd|2263 Perry Shumaker RdOriskany Falls, NY 13425|40.10|DEED BOOK|2003|30263
 370.000-1-5.6|Terrier James R Jr|5347 Spencer Rd|Terrier Cynhtia E5347 Spencer RdOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|17.48|DEED BOOK|2005|15950
 370.000-1-7.1|Smith Myron|Spencer Rd|Smith Kristen5095 Strain RdMunnsville, NY 13409|65.48|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-370.000-1-7.2|Smith Myron J|Spencer Rd|Smith Kristen L5095 Strain RdMunnsville, NY 13409 ************************************************************************************************************************************|29.63|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+370.000-1-7.2|Smith Myron J|Spencer Rd|Smith Kristen L5095 Strain RdMunnsville, NY 13409|29.63|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 370.000-1-8.1|Peters Martin W|Spencer Rd|3954 Bleeker Rd|6.92|DEED BOOK|2626|503
 370.000-1-8.2|Peters William J|5250 Spencer Rd|5250 Spencer Rd|8.31|DEED BOOK|2026|505
 370.000-1-9|My-Bar K Meadows, LLC|Glynn Rd N|Smith KristenMunnsville, NY 13409|71.80|DEED BOOK|2127|00371
 370.000-1-10|Smith Myron J|Glynn Road|Smith Kristen5095 Strain RdMunnsville, NY 13409|5.30|DEED BOOK|2013|21052
-370.000-1-11|Smith Myron J|Glynn Rd|Smith Kristin5095  Strain RdMunnsville, NY 13409 ************************************************************************************************************************************|99.67|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+370.000-1-11|Smith Myron J|Glynn Rd|Smith Kristin5095  Strain RdMunnsville, NY 13409|99.67|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 371.000-1-1|Miller Yost R|5393 Spencer Rd|Miller Susie5393 Spencer RdOriskany Falls, NY 13425|73.70|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 371.000-1-2|Crane Gregory J|2369 Huth Sayer Rd|2369 Huth Sayer RoadOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|90.40|DEED BOOK|2010|17982
 371.000-1-3|Brouillette Alfred J|Spencer Road|Brouillette Bernard5468 Brouillette RdOriskany Falls, NY 13425|29.10|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -721,7 +721,7 @@
 371.000-1-5.1|Roys Stephen|2317 Huth Sayer Rd|Roys Jacqueline M2317 Huth Sayer RdOriskany Falls, NY 13425|2.58|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 371.000-1-5.2|Brouillette Orin|2329 Huth Sayer Rd|2329 Huth Sayer RdOriskany Falls, NY 13425|1.00|DEED BOOK|2018|13031
 371.000-1-5.3|Raymond Kevin L|5535 Spencer Rd|Raymond Sharon E5535 Spencer RdOriskany Falls, NY 13425|1.00|DEED BOOK|2003|25380
-371.000-1-5.4|Roys Stephen|2317 Huth Sayer Rd|Roys Jacqueline M2317 Huth Sayer RdOriskany Falls, NY 13425 ************************************************************************************************************************************|9.41|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+371.000-1-5.4|Roys Stephen|2317 Huth Sayer Rd|Roys Jacqueline M2317 Huth Sayer RdOriskany Falls, NY 13425|9.41|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 371.000-1-5.5|Roys Stephen|2317 Huth Sayer Rd|Roys Jacqueline M2317 Huth Sayer RdOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|13.89|DEED BOOK|2002|7997
 371.000-1-6|Long Gina M|2337 Huth Sayer Rd|2337 Huth Sayer RdOriskany Falls, NY 13425|1.00|DEED BOOK|2002|11096
 371.000-1-7|Zombek Michael S|2345 Huth Sayer Rd W|Luhrssen-Zombek Alicia M2345 Huth Sayer Rd WOriskany Falls, NY 13425|0.93|DEED BOOK|2017|19162
@@ -729,7 +729,7 @@
 371.000-1-10.1|Brenneman Moses I|5676 Griffith Rd|Brenneman Polly J5676 Griffith RdOriskany Falls, NY 13425|16.70|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 371.000-1-10.2|Truandvin Dairy, LLC|5675 Griffith Rd|1143 County Rt. 24Malone, NY 12953|40.63|DEED BOOK|2014|10675
 371.000-1-10.3|Schwartz Menno|Huth Sayer Rd|6260 Lewis RdPrattsburgh, NY 14873-9611MAY BE SUBJECT TO PAYMENT|36.40|DEED BOOK|2010|3483
-371.000-1-10.4|Schwartz John Y|2264 Huth Sayer Rd|Schwartz Ellen2264 Sayer-Huth RdOriskany Falls, NY 13425 ************************************************************************************************************************************|74.20|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+371.000-1-10.4|Schwartz John Y|2264 Huth Sayer Rd|Schwartz Ellen2264 Sayer-Huth RdOriskany Falls, NY 13425|74.20|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 371.000-1-11|Hendrickson Alan J|2271 Huth Sayer Road|Hendrickson Sally S2271 Huth Sayer RoadOriskany Falls, NY 13425|1.35|DEED BOOK|2002|14841
 371.000-1-12.1|Slocum Randal W|Huth Sayer Rd|Slocum Terrie L6209 Barker RdOriskany Falls, NY 13425|17.00|DEED BOOK|2013|14582
 371.000-1-12.2|Schwartz Alvin S|Huth Sayer Rd|Schwartz Katie HHuth Sayer RdOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|128.90|DEED BOOK|2010|3563
@@ -738,7 +738,7 @@
 371.000-1-15|Schwartz Alvin S|Huth Sayer Rd|Schwartz Katie HHuth Sayer RdOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|84.80|DEED BOOK|2010|3563
 371.000-1-16.1|Schwartz Esther N|2111 Huth Sayer Rd|2111 Huth Sayer RdOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|37.50|DEED BOOK|2019|15788
 371.000-1-16.2|Schwartz Menno|2157 Huth Sayer Rd|6260 Lewis RdPrattsburgh, NY 14873-9611MAY BE SUBJECT TO PAYMENT|60.00|DEED BOOK|2010|3483
-371.000-1-17|Schwartz Mahlon S|Spencer Road|Schwartz Fannie A5400 Spencer Rd SOriskany Falls, NY 13425 ************************************************************************************************************************************|43.17|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+371.000-1-17|Schwartz Mahlon S|Spencer Road|Schwartz Fannie A5400 Spencer Rd SOriskany Falls, NY 13425|43.17|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 371.000-1-18.1|Stoltzfus Myron D|5448 Spencer Rd S|6133 Tanner Rd|3.67|DEED BOOK|2005|25054
 371.000-1-18.2|Schwartz Mahlon S|5400 Spencer Rd|Schwartz Fannie A5400 Spencer RdOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|90.80|DEED BOOK|2010|3556
 371.000-1-19|Brouillette Alfred J|Glynn Road|Brouillette Bernard5468 Brouillette RdOriskany Falls, NY 13425|74.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -763,7 +763,7 @@
 371.000-2-15|Swancott Denise J|5917 Tanner Egan Rd|5917 Tanner Egan RdOriskany Falls, NY 13425|4.14|DEED BOOK|2017|15311
 371.000-2-16|Campbell Jeanette|2370 Norton Rd N|Massey Ronnie Jr.2370 Norton Rd NOriskany Falls, NY 13425|NOT IN ROLLS|DEED BOOK|2012|7774
 371.000-2-17|Peters William C|Norton Rd|2566 State Route 26Oriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|3.00|DEED BOOK|01786|00289
-371.000-2-18|Brenneman Simon I|Tanner Egan Road|Brenneman Fannie M6031 Tanner RdOriskany Falls, NY 13425 ************************************************************************************************************************************|5.74|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+371.000-2-18|Brenneman Simon I|Tanner Egan Road|Brenneman Fannie M6031 Tanner RdOriskany Falls, NY 13425|5.74|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 371.000-2-19|Morris Brenda S|5929 Tanner Egan Rd N|5929 Tanner Egan Rd NOriskany Falls, NY 13425|1.00|DEED BOOK|2015|12499
 371.000-2-20|Florek Joseph Jr|5917 Oliver Road|Florek OK5917 Oliver RoadOriskany Falls, NY 13425|26.80|DEED BOOK|2010|13226
 371.000-2-21|Hall Michael J|5897 Oliver Road|5897 Oliver RdOriskany Falls, NY 13425|2.20|DEED BOOK|2012|16686
@@ -771,7 +771,7 @@
 371.000-2-24|Cowles June|2314 Oliver & State Rt 26|322 Oxford StOneida, NY 13421|NOT IN ROLLS|DEED BOOK|2016|4799
 371.000-2-25|Hunter Wayne M|2346 State Route 26|Hunter Nancy J2346 State Route 26Oriskany Falls, NY 13425|NOT IN ROLLS|DEED BOOK|2053|00395
 371.000-2-26|Chabot Muriel E|State Route 26|5843 Oliver Rd NOriskany Falls, NY 13425|1.00|DEED BOOK|2015|1258
-371.000-2-27|Leuenberger Irrevocable Trust  Madison Central 254001|State Route 26|3125 State Route 26Oriskany Falls, NY 13425 ************************************************************************************************************************************|27.80|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+371.000-2-27|Leuenberger Irrevocable Trust  Madison Central 254001|State Route 26|3125 State Route 26Oriskany Falls, NY 13425|27.80|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 371.000-2-28|Janowski Richard E|2281 State Route 26  W|2281 State Route 26 WOriskany Falls, NY 13425|NOT IN ROLLS|DEED BOOK|2943|319
 371.000-2-29|Kirkham Sylvenus|State Route 26|2274 Augusta Solsville RdOriskany Falls, NY 13425|1.37|DEED BOOK|2295|00173
 371.000-2-32.2|Hedy Lynn Marcy|Augusta Solsville Rd|233 Franklin St Apt 101Brooklyn, NY 11222|0.30|DEED BOOK|02904|00600
@@ -793,7 +793,7 @@
 371.000-2-43.1|Steates John C|2135 State Route 26|Steates Ashley D2135 State Route 26Oriskany Falls, NY 13425|25.05|DEED BOOK|2018|14121
 371.000-2-43.2|Steates John C|2121 State Route 26|Steates Ashley D2135 State Route 26Oriskany Falls, NY 13425|3.00|DEED BOOK|2018|14121
 371.000-2-43.3|Fairchild Living Trust|State Route 26|Fairchild David L2120 State Rt. 26Oriskany Falls, NY 13425|3.68|DEED BOOK|2958|482
-371.000-2-45|Poole Brian J|2012 Augusta Solsville Rd|Tryon-Poole Tracey A2012 Augusta Solsville RdOriskany Falls, NY 13425 ************************************************************************************************************************************|106.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+371.000-2-45|Poole Brian J|2012 Augusta Solsville Rd|Tryon-Poole Tracey A2012 Augusta Solsville RdOriskany Falls, NY 13425|106.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 371.000-2-46.1|Poole Brian J|Augusta Solsville Rd|Tryon-Poole Tracey A2012 Augusta Solsville RdOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|37.60|DEED BOOK|2010|12562
 371.000-2-46.2|Staring Lynn D|No Rd Boarded By Staring|Staring Barbara5725 Anderson RdOriskany Falls, NY 13425|8.36|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 371.000-2-48.1|Auert William|2045 Augusta Solsville Rd|Auert Susan M2045 Augusta Solsville RdOriskany Falls, NY 13425|25.00|DEED BOOK|2010|14837
@@ -808,7 +808,7 @@
 371.000-2-51.2|Kauffman Darwin R|Augusta Solsville Rd|4043 Stratford RdMadison, NY 13402|8.20|DEED BOOK|2013|20005
 371.000-2-51.3|Nolan Patrick M|Neudecker Rd|Nolan Laura J6644 Strain Rd|37.48|DEED BOOK|2006|4026
 371.000-2-51.4|Prescott John|2201 Solsville Augusta Rd|PO Box 383Vernon, NY 13476|13.00|DEED BOOK|2014|10372
-371.000-2-52|Haggerty Harold G|Augusta Solsville Rd  Int|Haggerty Susan F2173 Augusta Solsville RdOriskany Falls, NY 13425-4012  S Neodecker Rdw Pasiak|NOT IN ROLLS|DEED BOOK|2401|00015
+371.000-2-52|Haggerty Harold G|Augusta Solsville Rd  Int|Haggerty Susan F2173 Augusta Solsville RdOriskany Falls, NY 13425-4012  S Neodecker Rdw Pasiak|NOT IN ROLLS|DEED BOOK|2401|00015
 371.000-2-53|Haggerty Harold G|2173 Augusta Solsville Rd|Haggerty Susan F2173 Augusta Solsville RdOriskany Falls, NY 13425-4012  S Neudecker Rd W Pasik|0.84|DEED BOOK|2401|00015
 371.000-2-54|Bean Properties, LLC|2215 Augusta Solsville Rd|114 Cottage St Ste 206BOriskany Falls, NY 13425|25.32|DEED BOOK|2018|2504
 371.000-2-55|Cotter Charles|2243 Augusta Solsville Rd|2243 Augusta Solsville RdOriskany Falls, NY 13425-4016  N.morgan; E.aug.sols Road|4.60|DEED BOOK|01576|00015
@@ -826,7 +826,7 @@
 371.000-2-68.1|Leuenberger Irrevocable Trust  Madison Central 254001|Oliver Rd|3125 State Route 26Oriskany Falls, NY 13425|1.30|DEED BOOK|2016|2792
 371.000-2-68.2|Sykes Kevin|Oliver Rd|3675 Houghton LnPO Box 1089Morrisville, NY 13408MAY BE SUBJECT TO PAYMENT|3.50|DEED BOOK|2969|296
 372.000-1-1|Pearsall Lisa|6003 Tanner Rd|Pearsall Nathan6003 Tanner RdOriskany Falls, NY 13425|2.34|DEED BOOK|2016|10440
-372.000-1-2.1|Brenneman Simon I|6031 Tanner Egan Rd|Brenneman Fannie M6031 Tanner Egan RdOriskany Falls, NY 13425 ************************************************************************************************************************************|66.60|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+372.000-1-2.1|Brenneman Simon I|6031 Tanner Egan Rd|Brenneman Fannie M6031 Tanner Egan RdOriskany Falls, NY 13425|66.60|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 372.000-1-2.2|Mueller Stephen G|6120 Tanner Egan Rd|Mueller Marsha G6120 Tanner Egan RdOriskany Falls, NY 13425|4.50|DEED BOOK|2013|3314
 372.000-1-3|Florek Joseph Jr|Tanner Egan Rd|Florek OK5917 Oliver RoadOriskany Falls, NY 13425|15.00|DEED BOOK|2010|13226
 372.000-1-4.1|Sykes Kevin|6031 Oliver Rd|3675 Houghton LnMorrisville, NY 13408MAY BE SUBJECT TO PAYMENT|61.60|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -903,7 +903,7 @@
 372.000-1-48|Sykes Kevin|Oliver Rd|3675 Houghton LnMorrisville, NY 13408MAY BE SUBJECT TO PAYMENT|31.65|DEED BOOK|2017|534
 372.000-1-49|Sykes Richard C|5920 Oliver Road|5920 Oliver RdOriskany Falls, NY 13425|46.88|DEED BOOK|01844|00079
 372.000-1-50|Sykes Joan|5990 Oliver Road|Sellers William5990 Oliver Rd SOriskany Falls, NY 13425-4040  S Sykes W Sykes|NOT IN ROLLS|DEED BOOK|2014|7033
-379.000-1-1|Smith Myron J|Brouillette Rd|Smith Kristen L5095 Strain RdMunnsville, NY 13409 ************************************************************************************************************************************|125.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+379.000-1-1|Smith Myron J|Brouillette Rd|Smith Kristen L5095 Strain RdMunnsville, NY 13409|125.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 379.000-1-2|Brouillette Thomas C|5333 Brouillette Rd|5333 Brouillette RdOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|107.30|DEED BOOK|01944|00739
 379.000-1-3.1|Snyder Kris L|1668 Jeffers Rd|Snyder Cindy1668 Jeffers RdMadison, NY 13402MAY BE SUBJECT TO PAYMENT|48.00|DEED BOOK|2410|00040
 379.000-1-3.2|Snyder Jona S|5294 Brouillette Rd|5294 Brouillette RdOriskany Falls, NY 13425|1.00|DEED BOOK|2009|19541
@@ -913,11 +913,11 @@
 379.000-1-5.2|Brouillette Thomas C|Jeffris Rd|5333 Brouillette RdOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|18.50|DEED BOOK|2107|00615
 379.000-1-5.3|Konst Rebecca L|1627 Jeffris Rd|1627 Jeffris RdMadison, NY 13402|1.00|DEED BOOK|2019|6887
 379.000-1-6|Crouch Thomas G|Jeffers Road|Crouch TheresaVero Beach, FL 32966|2.90|DEED BOOK|2132|00487
-380.000-1-1|Brouillette Alfred J|Glynn Rd|Brouillette Bernard5468 Brouillette RdOriskany Falls, NY 13425 ************************************************************************************************************************************|90.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+380.000-1-1|Brouillette Alfred J|Glynn Rd|Brouillette Bernard5468 Brouillette RdOriskany Falls, NY 13425|90.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 380.000-1-2.1|Brouillette Alfred J|5468 Brouillette Rd|Brouillette Bernard5468 Brouillette Rd|134.00|DEED BOOK|2658|112
 380.000-1-2.1-60|Brouillette Bernard J|5477 Brouillette Rd|5477 Brouillette RdOriskany Falls, NY 13425|0.50|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 380.000-1-2.2|Brouillette Roger|5447 Brouillette Rd|5447 Brouillette RdOriskany Falls, NY 13425|2.90|DEED BOOK|2017|14062
-380.000-1-3|Schwartz Alvin|Glynn Rd|Schwartz KatieOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|6.30|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+380.000-1-3|Schwartz Alvin|Glynn Rd|Schwartz KatieOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|6.30|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 380.000-1-4.1|Leuenberger Estate of Terry W  Madison Central 254001|5507 Glynn Rd|6031 Oliver RdOriskany Falls, NY 13425|2.00|DEED BOOK|2658|201
 380.000-1-4.2|Boss James W JR|Glynn Rd|5497 Glynn RdOriskany Falls, NY 13425|4.80|DEED BOOK|2012|16109
 380.000-1-4.3|Boss James|5521 Glynn Rd|Boss Anna5521 Glynn RdOriskany Falls, NY 13425|2.71|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -932,11 +932,11 @@
 380.000-1-11.1|Baranoski John W|1915 Huth Sayer Rd|1915 Huth Sayer RdOriskany Falls, NY 13425|5.00|DEED BOOK|2006|22997
 380.000-1-11.2|Lollman Linda F|1895 Huth Sayer Rd|1895 Huth Sayer RdOriskany Falls, NY 13425|1.40|DEED BOOK|02810|00515
 380.000-1-12.1|Ford Naomi G|1877 Huth Sayer Rd|1877 Huth Sayer RdOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|43.59|DEED BOOK|2014|3593
-380.000-1-12.2|Ford Naomi G|1877 Huth Sayer Rd|Ford Glen1877 Huth Sayer RdOriskany Falls, NY 13425 ************************************************************************************************************************************|8.41|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+380.000-1-12.2|Ford Naomi G|1877 Huth Sayer Rd|Ford Glen1877 Huth Sayer RdOriskany Falls, NY 13425|8.41|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 380.000-1-13.1|Cook Edward E|1786 Huth Sayer Rd E|Cook Sherry L1786 Huth Sayer RdOriskany Falls, NY 13425|8.80|DEED BOOK|02873|00141
 380.000-1-13.2|Cook Edward E Jr|1786 Huth Sayer Rd|Kenyon Sherry1786 Huth Sayer RdOriskany Falls, NY 13425|0.86|DEED BOOK|2134|01015
 380.000-1-13.3|Cook Edward E Jr|Huth Sayer Rd|Cook Sherry1786 Huth Sayer RdOriskany Falls, NY 13425|13.40|DEED BOOK|02726|00160
-380.000-1-14|Staring Lynn|Huth Sayer Rd W|Staring Barbara5725 AndersonOriskany Falls, NY 13425 ************************************************************************************************************************************|31.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+380.000-1-14|Staring Lynn|Huth Sayer Rd W|Staring Barbara5725 AndersonOriskany Falls, NY 13425|31.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 380.000-1-15|Brouillette Alfred J|Brewer Rd|Brouillette Bernard5468 Brouillette RdOriskany Falls, NY 13425|50.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 380.000-1-16|Stolarczyk Brian D|Huth Sayer Rd|1630 Huth Sayer RdMadison, NY 13402MAY BE SUBJECT TO PAYMENT|97.00|DEED BOOK|2040|00783
 380.000-1-17.1|Stolarczyk Brian D|Huth Sayer Road|1630 Huth Sayer RdMadison, NY 13402MAY BE SUBJECT TO PAYMENT|26.80|DEED BOOK|2040|00783
@@ -953,7 +953,7 @@
 380.000-2-2.1|Carney Harold|5671 Anderson Rd N|Carney Elaine5671 Anderson Rd NOriskany Falls, NY 13425|6.17|DEED BOOK|2019|8749
 380.000-2-2.3|Staring Lynn D|5725 Anderson Rd|Staring Barbara D5725 Anderson RdOriskany Falls, NY 13425|36.23|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 380.000-2-2.4|Staring Brad|5733 Anderson Rd|Staring Kristina5733 Anderson Rd|2.20|DEED BOOK|2009|10885
-380.000-2-3|Schwartz David D|5770 Anderson Rd|Schwartz Edna W5770 Anderson RdOriskany Falls, NY 13425 ************************************************************************************************************************************|17.70|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+380.000-2-3|Schwartz David D|5770 Anderson Rd|Schwartz Edna W5770 Anderson RdOriskany Falls, NY 13425|17.70|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 380.000-2-5|Schwartz David D|5770 Anderson Rd|Schwartz Edna W5770 Anderson RdOriskany Falls, NY 13425|26.60|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 380.000-2-6|Brenneman Joel I|Mclaughlin Road|Brenneman Iddo M1810 Augusta Solsville RdOriskany Falls, NY 13425|138.50|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 380.000-2-7|Staskowski Lisa I|5935 Mclaughlin Rd N|5935 Mclaughlin Rd NOriskany Falls, NY 13425|1.30|DEED BOOK|2011|14297
@@ -980,7 +980,7 @@
 380.000-2-14|Henty William|1581 Augusta Solsville Rd W|1581 Augusta Solsville Rd WOriskany Falls, NY 13425|1.80|DEED BOOK|2003|4602
 380.000-2-15.1|Winn Donald|1601 Augusta Solsville Rd Ws|1601 Augusta Solsville RdOriskany Falls, NY 13425|1.80|DEED BOOK|2428|00318
 380.000-2-15.2|Brouillette Thomas C|1623 Augusta Solsville Rd|5333 Brouillette RdOriskany Falls, NY 13425|1.00|DEED BOOK|2019|2918
-380.000-2-16.1|Masker Darrell W|Augusta Solsville Rd|Masker Dianne M1466 Solsville Augusta RdOriskany Falls, NY 13425 ************************************************************************************************************************************|8.30|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+380.000-2-16.1|Masker Darrell W|Augusta Solsville Rd|Masker Dianne M1466 Solsville Augusta RdOriskany Falls, NY 13425|8.30|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 380.000-2-16.2|Rowe Carl A|1639 Augusta Solsville Rd|Rowe Lourinda A1639 Augusta Solsville RdOriskany Falls, NY 13425|2.67|DEED BOOK|2591|196
 380.000-2-16.3|Henty William|Augusta Solsville Road|Sellers William W1581 Augusta Solsville RoadOriskany Falls, NY 13425|4.11|DEED BOOK|2019|10141
 380.000-2-16.4|Rowe Carl A|Augusta Solsville Rd|Rowe Lourinda A1639 Augusta Solsville RdOriskany Falls, NY 13425|2.99|DEED BOOK|2002|28991
@@ -997,7 +997,7 @@
 380.000-2-25.1|Brenneman Joel I|1810 Augusta Solsville Rd|Brenneman Iddo M1810 Augusta Solsville RdOriskany Falls, NY 13425|27.80|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 380.000-2-25.2|Durant Allan D|1861 Augusta Solsville Rd|Durant Dawn E1861 Augusta Solsville RdOriskany Falls, NY 13425|1.84|DEED BOOK|2621|69
 380.000-2-25.3|Brenneman David I|1815 Augusta Solsville Rd|Brenneman Anna R1815 Augusta Solsville RdOriskany Falls, NY 13425|99.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-380.000-2-25.4|Brenneman Alvin I|1811 Augusta Solsville Rd|Brenneman Clara A1811 Augusta Solsville RdOriskany Falls, NY 13425 ************************************************************************************************************************************|102.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+380.000-2-25.4|Brenneman Alvin I|1811 Augusta Solsville Rd|Brenneman Clara A1811 Augusta Solsville RdOriskany Falls, NY 13425|102.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 380.000-2-26|Schwartz Christie D|5666 Anderson Rd|Schwartz Miriam A5666 Anderson RdOriskany Falls, NY 13425|60.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 381.000-1-1|Gardner David R|2004 State Route 26|Box 422004 State Route 26Oriskany Falls, NY 13425|1.29|DEED BOOK|2686|392
 381.000-1-2.1|Shetler Rudy H|1941 State Route 26|Shetler Elizabeth D1941 State Rt. 26Oriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|73.60|DEED BOOK|2010|3483
@@ -1018,7 +1018,7 @@
 381.000-1-10.7|Boyle William J|1962 Sharman-McNeil Rd|Boyle Shirley H1962 Sharman McNeil Rd|5.02|DEED BOOK|2013|17530
 381.000-1-10.8|Farrow Thomas R|6281 McLain Rd|Farrow Irma B6281 McLain RdOriskany Falls, NY 13425|4.10|DEED BOOK|2013|3019
 381.000-1-10.9|Marrone Mary Anne|6255 McLain Rd|6255 McLain RdOriskany Falls, NY 13425|3.33|DEED BOOK|2003|15550
-381.000-1-11.1|Sellers William W|Skyline Dr W|Sellers Stacey L5990 Oliver RdOriskany Falls, NY 13425-4040  S Mclain Rd W Sharman|12.30|DEED BOOK|2006|27529
+381.000-1-11.1|Sellers William W|Skyline Dr W|Sellers Stacey L5990 Oliver RdOriskany Falls, NY 13425-4040  S Mclain Rd W Sharman|12.30|DEED BOOK|2006|27529
 381.000-1-11.2|Caraher Kurt M|6311 Mclain Rd|Caraher Dawn6311 Mclain Rd|1.50|DEED BOOK|2285|00105
 381.000-1-11.3|Furness John|Skyline Drive|Furness Sonya2020 Skyline DriveOriskany Falls, NY 13425|2.90|DEED BOOK|2006|24311
 381.000-1-11.4|Nassimos II George|1981 Skyline Dr|1981 Skyline DrOriskany Falls, NY 13425|4.00|DEED BOOK|2011|11724
@@ -1048,8 +1048,8 @@
 381.000-1-22.9|Turner Mary B|State Route 26|State Route 26Oriskany Falls, NY 13425|1.18|DEED BOOK|2002|16343
 381.000-1-22.10|Dowd James W|1776 State Route 26|Dowd Donna JBox 270|5.00|DEED BOOK|2572|00238
 381.000-1-22.11|Burchill Theresa M|1786 State Route 26|Dubach Garry DPO Box 106Oriskany Falls, NY 13425|1.20|DEED BOOK|2006|24350
-381.000-1-22.12|Bassett Lance|1804 State Route 26|Bogan Leslie1804 State Rt 26Oriskany Falls, NY 13425-4245  S.turner, E.cole|1.37|DEED BOOK|2019|12357
-381.000-1-22.13|Turner Steven M|1808 State Route 26|Turner Mary E1808 State Rt. 26PO Box 454Oriskany Falls, NY 13425 ************************************************************************************************************************************|4.10|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+381.000-1-22.12|Bassett Lance|1804 State Route 26|Bogan Leslie1804 State Rt 26Oriskany Falls, NY 13425-4245  S.turner, E.cole|1.37|DEED BOOK|2019|12357
+381.000-1-22.13|Turner Steven M|1808 State Route 26|Turner Mary E1808 State Rt. 26PO Box 454Oriskany Falls, NY 13425|4.10|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 381.000-1-23|Legacy Darrell|6268 Mclain Rd|Johnson-Legacy Rebecca MCarol Legacy6268 Mclain RdOriskany Falls, NY 13425|2.16|DEED BOOK|3043|94
 381.000-1-24|Talbot Clifford T|Sharman-McNeil Rd|Talbot Corinna1935 Sharman-McNeil RdOriskany Falls, NY 13425|2.81|DEED BOOK|2401|00105
 381.000-1-25|Talbot Clifford T|1935 Sharman-McNeil & Mclain C|Talbot Corinna1935 Sharman-McNeil RdOriskany Falls, NY 13425|2.81|DEED BOOK|2401|00105
@@ -1064,7 +1064,7 @@
 381.000-1-30.2|Staelens Pamela L|1815 State Route 26|3880 Solsville RdMadison, NY 13402|14.70|DEED BOOK|2478|00154
 381.000-1-31.1|Biederman William|State Route 26|Rte 26Oriskany Falls, NY 13425|9.70|DEED BOOK|02750|00363
 381.000-1-31.2|Keshler Judith R|Pinehurst Lane|12 Horizon DrNew Hartford, NY 13413-4980|46.25|DEED BOOK|2005|6659
-381.000-1-31.3|Campbell Sean P|125 Pinehurst Ln|Campbell Elizabeth A125 Pinehurst LnOriskany Falls, NY 13425-3929  S.rogers Rd.w.englebrecht|1.16|DEED BOOK|2012|5883
+381.000-1-31.3|Campbell Sean P|125 Pinehurst Ln|Campbell Elizabeth A125 Pinehurst LnOriskany Falls, NY 13425-3929  S.rogers Rd.w.englebrecht|1.16|DEED BOOK|2012|5883
 381.000-1-31.4|Dubach Eric R|111 Pinehurst Ln|Dubach Corey E111 Pinehurst LnOriskany Falls, NY 13425|1.45|DEED BOOK|2019|17470
 381.000-1-31.5|Zielinski Kevin|104 Pinehurst Ln|Zielinski Cheri104 Pinehurst LnOriskany Falls, NY 13425|6.29|DEED BOOK|2004|6932
 381.000-1-31.6|Intartaglia Michael|6080 Rogers Rd|6080 Rogers RdOriskany Falls, NY 13425|1.72|DEED BOOK|2005|6649
@@ -1106,7 +1106,7 @@
 381.000-1-43.7|Moksness Heather|Rogers Rd|Beebe Michelle9237 Shelley DrMarcy, NY 13403|13.10|DEED BOOK|2002|26654
 381.000-1-44.1|Cogley Virginia L|Mclaughlin Rd|261 Main StPO Box 607Oriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|84.00|DEED BOOK|2410|00158
 381.000-1-44.2|Williams Keith M|6029 Mclaughlin Rd|Weingartner Kathleen J6029 Mclaughin RdOriskany Falls, NY 13425|55.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-381.000-1-44.3|Caraher Patrick J|6095 Mclaughlin Rd|Caraher Ashley J6095 McLaughlin RdOriskany Falls, NY 13425-4232  S.mclaughlin Rd.|11.00|DEED BOOK|2014|13899
+381.000-1-44.3|Caraher Patrick J|6095 Mclaughlin Rd|Caraher Ashley J6095 McLaughlin RdOriskany Falls, NY 13425-4232  S.mclaughlin Rd.|11.00|DEED BOOK|2014|13899
 381.000-1-45.1|Ritenour Living Trust|Mclaughlin Rd|6027 Munz RdOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|46.50|DEED BOOK|2010|9366
 381.000-1-45.2|Ritenour Michael L|6128 Mclaughlin Rd|Ritenour Marybeth D6128 Mclaughlin RdOriskany Falls, NY 13425|1.00|DEED BOOK|2016|13109
 381.000-1-46.1|Brouillette Julia I|6129 Mclaughlin Rd|6129 Mclaughlin RdOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|1.44|DEED BOOK|2015|19057
@@ -1121,7 +1121,7 @@
 388.000-1-4|Brouillette Rudy|Jeffris Rd|1555 Jeffris RdMadison, NY 13402|35.00|DEED BOOK|02825|00203
 389.000-1-1|Stolarczyk Brian D|Huth Sayer Road|1630 Huth Sayer RdMadison, NY 13402MAY BE SUBJECT TO PAYMENT|27.54|DEED BOOK|2509|00293
 389.000-1-2|Schlabach Andy D|Huth Sayer Rd|Schlabach Polly S1417 Huth Sayer RdMadison, NY 13402MAY BE SUBJECT TO PAYMENT|20.30|DEED BOOK|2010|3553
-389.000-1-3|Shetler Mahlon H|Hewitt Rd|Shetler Elizabeth R4333 Lay RdMadison, NY 13402 ************************************************************************************************************************************|34.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+389.000-1-3|Shetler Mahlon H|Hewitt Rd|Shetler Elizabeth R4333 Lay RdMadison, NY 13402|34.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 389.000-1-4|Williams James R|1530 Hewitt Rd E|Williams Thomas J1530 Hewitt RdMadison, NY 13402|149.20|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 389.000-1-4.60|Williams Thomas|1530 Hewitt Rd|1530 Hewitt Rd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 389.000-1-5|Kitchen Patrick|Hewitt Rd E|Augusta Solsville RdOriskany Falls, NY 13425MAY BE SUBJECT TO PAYMENT|3.00|DEED BOOK|2017|1456
@@ -1136,7 +1136,7 @@
 389.000-1-8.2|Masker Darrell W|1466 Augusta Solsville Rd|Masker Dianne M1466 Solsville Augusta Rd|42.00|DEED BOOK|2002|28094
 389.000-1-8.3|Foster Michael C|1453 Solsville Augusta Rd|1453 Solsville Augusta RdOriskany Falls, NY 13425|1.00|DEED BOOK|2008|21485
 389.000-1-8.4|Carr Philip J|Augusta Solsville Rd|4389 Solsville-Augusta RdMadison, NY 13402|4.50|DEED BOOK|2014|14862
-389.000-1-9|Schlabach Andy D|1417 Huth Sayer Rd|Schlabach Polly S1417 Huth-Sayer RdMadison, NY 13402 ************************************************************************************************************************************|74.50|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+389.000-1-9|Schlabach Andy D|1417 Huth Sayer Rd|Schlabach Polly S1417 Huth-Sayer RdMadison, NY 13402|74.50|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 389.000-1-10|Eastman Robert D|1534 Huth Sayer Rd|Eastman Wendy C1534 Huth Sayer Rd|3.34|DEED BOOK|02915|00497
 390.000-1-1.1|Engelbrecht Richard|6021 Barker Road Rd|Engelbrecht Gail E2727 State Route 26 RdOriskany Falls, NY 13425|10.50|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 390.000-1-1.2|Noti John S|6016 Barker Rd|Noti Eileen B6016 Barker RdOriskany Falls, NY 13425|2.00|DEED BOOK|2012|1527
@@ -1154,7 +1154,7 @@
 390.000-1-7|Studer Derek M|6238 Barker Rd S|Studer Shelly J6238 Barker Rd SOriskany Falls, NY 13425|1.05|DEED BOOK|2012|14073
 390.000-1-8|Wright Donna B|6258 Barker Road|6258 Barker RdOriskany Falls, NY 13425|19.15|DEED BOOK|02840|00479
 390.000-1-9.1|Fanelli Paula Lynn|Valley Rd|Bowie Matthew T8209 Valley RdMadison, NY 13402|2.35|DEED BOOK|2019|580
-390.000-1-9.3|Cole Catherine A|Barker and Valley Rd|417 E. 78th. St Apt3B ************************************************************************************************************************************|5.60|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+390.000-1-9.3|Cole Catherine A|Barker and Valley Rd|417 E. 78th. St Apt3B|5.60|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 390.000-1-9.4|Fanelli Paula Lynn|Valley Rd|8209 Valley RdMadison, NY 13402|10.65|DEED BOOK|2016|7563
 390.000-1-10.1|Cieslak Joseph|Valley Rd|182 S Main StOriskany Falls, NY 13425-3930  S.mad.co.line;e.tucker|1.00|DEED BOOK|2012|18811
 390.000-1-10.2|Bell Brian|Valley Rd|Bell Amber121 College StPO Box 625Oriskany Falls, NY 13425|1.50|DEED BOOK|02859|0114
@@ -1167,41 +1167,41 @@
 522.089-2-1|Verizon New York Inc.|080180|Duff & PhelpsPO Box 2749|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 522.089-2-2|Verizon New York Inc.|080190|Duff & PhelpsPO Box 2749|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 522.089-2-3|Verizon New York Inc.|080200|Duff & PhelpsPO Box 2749|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-522.089-2-4|Verizon New York Inc.|080220|Duff & PhelpsPO Box 2749 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+522.089-2-4|Verizon New York Inc.|080220|Duff & PhelpsPO Box 2749|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 522.089-4-1|Citizens Telecom U-C-I|080290|3 Highridge ParkStamford, CT 06905|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 522.089-4-2|Citizens Telecom U-C-I|080300|3 Highridge ParkStamford, CT 06905|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 522.089-4-3|Citizens Telecom U-C-I|080310|3 Highridge ParkStanford, CT 06905|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 522.089-6-1|Vernon Telephone|080330|Janet Thomas525 Junction Rd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 522.089-6-2|Vernon Telephone|080340|Janet Thomas525 Junction Rd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-522.089-6-3|Vernon Telephone|080350|Janet Thomas525 Junction Rd ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+522.089-6-3|Vernon Telephone|080350|Janet Thomas525 Junction Rd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 522.089-6-4|Vernon Telephone|080360|Janet Thomas525 Junction Rd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 522.089-6-5|Vernon Telephone|080370|Janet Thomas525 Junction Rd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 522.089-6-6|Vernon Telephone|080380|Janet Thomas525 Junction Rd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 522.089-6-7|Vernon Telephone|080390|Janet Thomas525 Junction Rd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 522.089-7-1|Oneida Madison Electric|080400|PO Box 27|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 522.089-8-1|Time Warner Rome|Outside Dist|PO Box 7467Charolotte, NC 28217|1.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-522.089-10-1|Windstream NY Inc|Special Franchaise|PO Box 2629 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD004 Orisk fls fdFD006 Dnsboro fd agLT004 Knoxboro ltLT005 Augusta ltCODE  DISTRICT NAME254001 Madison Central254601 Stockbridge Central305401 Waterville Central|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+522.089-10-1|Windstream NY Inc|Special Franchaise|PO Box 2629CODE  DISTRICT NAME  PARCELSFD004 Orisk fls fdFD006 Dnsboro fd agLT004 Knoxboro ltLT005 Augusta ltCODE  DISTRICT NAME254001 Madison Central254601 Stockbridge Central305401 Waterville Central S U B - T O T A L|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 362.003-1-58|Vernon Telephone Company|Huth Sayer Rd Ws|Janet Thomas525 Junction RdMadison, WI 53717|NOT IN ROLLS|DEED BOOK|2705|345
 622.001-0000-634.200/1881|Oriskany Falls Telephone|090440|Property Tax Team525 Junction Rd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 622.089-0000-618.750/1881|Citizens Telecom UCI|090320|3 High Ridge ParkStamford, CT 06905|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 622.089-0000-618.750/1882|Citizens Telecom UCI|090310|3 High Ridge ParkStamford, CT 06905|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 622.089-0000-618.750/1883|Citizens Telecom UCI|090310|3 High Ridge ParkStamford, CT 06905|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-622.089-0000-629.000/1881|Windstream New York Inc.|PO Box 1600|PO Box 2629 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+622.089-0000-629.000/1881|Windstream New York Inc.|PO Box 1600|PO Box 2629|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 622.089-0000-629.000/1882|Windstream New York Inc.|PO Box 1600|PO Box 2629|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 622.089-0000-629.000/1883|Windstream New York Inc.|PO Box 1600|PO Box 2629|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-622.089-0000-631.900/1881|Verizon New York Inc.|1095 Avenue of the Americ|Duff & PhelpsAddison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-622.089-0000-631.900/1882|Verizon New York Inc.|1095 Avenue of the Americ|Duff & PhelpsAddison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-622.089-0000-631.900/1883|Verizon New York Inc.|1095 Avenue of the Americ|Duff & PhelpsAddison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-622.089-0000-646.900/1881|Vernon Telephone Company|1 Curtis Road|Janet ThomasMadison, WI 53717|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-622.089-0000-646.900/1882|Vernon Telephone Company|1 Curtis Road|Janet ThomasMadison, WI 53717 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-622.089-0000-646.900/1883|Vernon Telephone Company|1 Curtis Road|Janet ThomasMadison, WI 53717|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+622.089-0000-631.900/1881|Verizon New York Inc.|1095 Avenue of the Americ|Duff & PhelpsAddison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+622.089-0000-631.900/1882|Verizon New York Inc.|1095 Avenue of the Americ|Duff & PhelpsAddison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+622.089-0000-631.900/1883|Verizon New York Inc.|1095 Avenue of the Americ|Duff & PhelpsAddison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+622.089-0000-646.900/1881|Vernon Telephone Company|1 Curtis Road|Janet ThomasMadison, WI 53717|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+622.089-0000-646.900/1882|Vernon Telephone Company|1 Curtis Road|Janet ThomasMadison, WI 53717|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+622.089-0000-646.900/1883|Vernon Telephone Company|1 Curtis Road|Janet ThomasMadison, WI 53717|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 622.089-1-3|NYSEG|.|18 Link DrBinghamton, NY 13904|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 622.089-5-1|Oneida Madison Electric|Oneida Madison|PO Box 27|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 622.089-9999-131.600/1881|NYSEG|090000|18 Link DrBinghamton, NY 13904|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 622.089-9999-131.600/1882|NYSEG|090010|18 Link DrBinghamton, NY 13904|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-622.089-9999-133.700/1881|Oneida Madison Electric|090350|PO Box 27Bouckville, NY 13310027 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+622.089-9999-133.700/1881|Oneida Madison Electric|090350|PO Box 27Bouckville, NY 13310027|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 622.089-9999-810.800/2001|Dominion Resources Services In Madison Central 254001|090190|Prop Tax DepartmentPO Box 27026|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-622.089-9999-810.800/2002|Dominion Resources Services In Waterville Cent 305401|090200|Property Tax DepartmentPO Box 27026Richmond, VA 23261-7026 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD004 Orisk fls fdFD006 Dnsboro fd agLT004 Knoxboro ltLT005 Augusta ltCODE  DISTRICT NAME254001 Madison Central|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+622.089-9999-810.800/2002|Dominion Resources Services In Waterville Cent 305401|090200|Property Tax DepartmentPO Box 27026Richmond, VA 23261-7026CODE  DISTRICT NAME  PARCELSFD004 Orisk fls fdFD006 Dnsboro fd agLT004 Knoxboro ltLT005 Augusta ltCODE  DISTRICT NAME254001 Madison Central254601 Stockbridge Central|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 354.000-1-22|Town of Augusta|Wells Gifford Rd|185 N Main St|NOT IN ROLLS|DEED BOOK|342|00148
 354.000-1-24|Town of Augusta|Wells Gifford Rd|185 N Main StOriskany Falls, NY 13425|0.72|DEED BOOK|455|00219
 361.000-1-1.2|United States of America|2617 Hatalla Rd|Oneida Nation of NY2617 Hatalla RdOriskany Falls, NY 13425|132.00|DEED BOOK|2015|12909

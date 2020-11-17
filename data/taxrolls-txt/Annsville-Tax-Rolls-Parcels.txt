@@ -176,7 +176,7 @@
 93.000-2-17.1|Lappin Michael J|3760 Sheehan Rd Ss|3760 Sheehan Rd SsTaberg, NY 13471|48.30|DEED BOOK|2011|17337
 93.000-2-17.2|Smith Nicholas B|10825 Blake Rd|Lappin-Smith Kelly S10825 Blake Rd|2.03|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 93.000-2-18|Williams MichelleWarner|Sheehan Rd Ss|Sheehan Rd SsTaberg, NY 13471|64.25|DEED BOOK|2019|15903
-93.000-2-19|City of Oneida|Miller Rd|109 North Main StOneida, NY 13421 ************************************************************************************************************************************|80.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+93.000-2-19|City of Oneida|Miller Rd|109 North Main StOneida, NY 13421|80.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 93.000-2-24|Tirpak Edward D|Miller Rd Ss|48 Northgate DrAlbany, NY 12203|88.70|DEED BOOK|2002|00977
 94.000-1-1.1|Wheatley Michael D|Hatfield Rd|Chiola Paul F146 Jean Danielson DrGreentown, PA 18426|5.11|DEED BOOK|2006|24916
 94.000-1-1.2|Leith James R|Hatfield Rd|Leith Anne H18622 Brickstore RdHamstead, MD 21074|5.00|DEED BOOK|2006|24039
@@ -193,8 +193,8 @@
 94.000-1-1.13|Horvath Daniel S|13 Hatfield Rd|Horvath Amber R78 Apple Blossom DrLancaster, PA 17697|3.01|DEED BOOK|2017|7004
 94.000-1-1.14|Leary James E|Hatfield Rd|Leary Agnes44 Cliff StEast Haven, CT 06512|5.28|DEED BOOK|2006|24037
 94.000-1-1.15|Dunn Jeffery M Sr|Hatfield Rd|Dunn Anna M141 S. Main StPO Box 1072|2.51|DEED BOOK|2006|21879
-94.000-1-1.16|Debrucque Gary J|Hatfield Rd|Debrucque KyleCanastota, NY 13032|4.38|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-94.000-1-1.17|Debrusque Gary J|Hatfield Rd|Debrucque KyleCanastota, NY 13032 ************************************************************************************************************************************|5.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+94.000-1-1.16|Debrucque Gary J|Hatfield Rd|Debrucque KyleCanastota, NY 13032|4.38|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+94.000-1-1.17|Debrusque Gary J|Hatfield Rd|Debrucque KyleCanastota, NY 13032|5.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 94.000-1-1.18|Saemann James|Hatfield Rd|24 Bryanw Wynd Rd .Glenmoore, PA 19343|5.05|DEED BOOK|2014|16874
 94.000-1-1.19|Planinsek Luke|Hatfield Rd|Dorman Christian J164 Suigarbush Dr .Latrobe, PA 15650|5.39|DEED BOOK|2007|16184
 94.000-1-2|Rasha George W|Gossner Rd|10995 Gossner RdTaberg, NY 13471|80.49|DEED BOOK|2211|00309
@@ -205,7 +205,7 @@
 94.000-1-5.4|Lomascola Leonard Jr|Yorkland Rd|24 Richard StNorth Halendon, NJ 07508|5.06|DEED BOOK|2013|6955
 94.000-1-5.5|Lomascola Leonard J|4468 Yorkland Rd|24 Richard StNorth Haledon, NJ 07508|5.48|DEED BOOK|2013|214
 94.000-1-5.6|Lomascola Leonard J|Yorkland Rd|24 Richard StNorth Haledon, NJ 07508|5.48|DEED BOOK|2013|214
-94.000-1-5.7|Visser William M|Yorkland Rd|Visser Caroline271 White Oak Court 7 ************************************************************************************************************************************|5.48|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+94.000-1-5.7|Visser William M|Yorkland Rd|Visser Caroline271 White Oak Court 7|5.48|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 94.000-1-5.8|Concepcion Catherine|Yorkland Rd|20 Metropolitan Oval Rd Apt MCBronx, NY 10462|6.17|DEED BOOK|2018|6160
 94.000-1-5.9|Concepcion Catherine|Yorkland Rd|20 Metropolitan Oval Rd  MCBronx, NY 10462|6.08|DEED BOOK|2018|3009
 94.000-1-5.10|Concepcion Catherine|Yorkland Rd|20 Metropolitan Oval Rd  MCBronx, NY 10462|6.08|DEED BOOK|2020|1325
@@ -281,7 +281,7 @@
 95.000-3-23.1|Trinka Pearl|Coal Hill Rd Ns|Trinka Kenny4634 Sheehan RdTaberg, NY 13471|16.36|DEED BOOK|2163|00224
 95.000-3-23.2|Kuhns Irrevocable Trust|4940 Sheehan Rd|4940 Sheehan RdTaberg, NY 13471|6.57|DEED BOOK|2019|4683
 95.000-3-23.3|Kuhns Irrevocable Trust|4940 Sheehan Rd|4940 Sheehan RdTaberg, NY 13471|1.43|DEED BOOK|2019|4683
-95.000-3-23.4|Boots Jesse|4955 Sheehan Rd|Boots CrystalanneTaberg, Ny, NY 13471 ************************************************************************************************************************************|11.56|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+95.000-3-23.4|Boots Jesse|4955 Sheehan Rd|Boots CrystalanneTaberg, Ny, NY 13471|11.56|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 95.000-3-24.1|Lewis Eric|Coal Hill Rd|419 N. Levitt St  5Rome, NY 13440|48.00|DEED BOOK|2018|3653
 95.000-3-24.2|Hoyes David A|Coal Hill Rd|Hoyes Valerie A134 Oak St|55.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 95.000-3-25|Leech Jacob W|5095 Sheehan Rd|5095 Sheehan RdTaberg, NY 13471|28.00|DEED BOOK|2019|16161
@@ -301,12 +301,12 @@
 111.000-1-6.2|Harosia Brandon W|3551 Willson Rd W|Harosia Mckenzie R3551 Willson Rd WTaberg, NY 13471|4.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 111.000-1-7|Roth Michael F|Blake Rd|Roth Patricia J10402 Blake Rd|196.00|DEED BOOK|2796|392
 111.000-1-8.1|Roth Michael|Blake Rd|10402 Blake RdTaberg N Y, 13471|96.96|DEED BOOK|2842|375
-111.000-1-8.2|Vona Christopher|Blake Rd|Vona ErinBlake Rd ************************************************************************************************************************************|24.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+111.000-1-8.2|Vona Christopher|Blake Rd|Vona ErinBlake Rd|24.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 111.000-1-9.1|Blake Irrevocable Trust|Miller Rd Ss|10545 Blake RdTaberg, NY 13471|140.85|DEED BOOK|2016|10280
 111.000-1-9.2|Brown Terry L|Miller Rd.|Brown Dale C3794 Miller Rd/ Rd # 1|25.00|DEED BOOK|2640|132
 111.000-1-10|Blake Irrevocable Trust|Blake Rd Ws|10545 Blake RdTaberg, NY 13471|116.00|DEED BOOK|2016|10281
 111.000-1-11|Shannon Michael|Blake Rd Ws|8137 Corando LnRome, NY 13440|1.60|DEED BOOK|2917|348
-111.000-1-12.1|Blake James P II|10545 Blake Rd|Blake Heather I10545 Blake Rd ************************************************************************************************************************************|20.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+111.000-1-12.1|Blake James P II|10545 Blake Rd|Blake Heather I10545 Blake Rd|20.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 111.000-1-12.2|Blake Irrevocable Trust|blake Dl|10545 Blake RdTaberg, NY 13471|101.26|DEED BOOK|2016|10281
 111.000-1-13|Oneida Water Supply|Glenmore Rd Ws|109 North Main St|359.37|DEED BOOK|00892|00338
 111.000-1-13.1|Oneida Water Supply|Pipe Line|109 North Main St|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -428,7 +428,7 @@
 129.000-2-6.13|Garvin Brian P|Pond Hill Rd|376 Gildner RdCentral Square, NY 13036|7.76|DEED BOOK|2012|7019
 129.000-2-6.14|Garvin Brian P|Pond Hill Rd|376 Gildner RdCentral Square, NY 13036|5.10|DEED BOOK|2012|7019
 130.000-1-1.1| Moringelli Eugene J|10074 Taberg-Florence Rd|203 Lumberton RdHainesport, NJ 08036|150.00|DEED BOOK|2004|3035
-130.000-1-1.2|Palmer Brandon M|10074 Taberg/Florence Rd|Tittle Tessah RTaberg NY, NY 13471|3.23|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+130.000-1-1.2|Palmer Brandon M|10074 Taberg/Florence Rd|Tittle Tessah RTaberg NY, NY 13471|3.23|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 130.000-1-2|McNett James T|10020 Taberg-Florence Rd|McNett Judith A10020 Taberg-Florence Rd|3.15|DEED BOOK|2004|11746
 130.000-1-3.1|Gilday Kevin|Taberg-Florence Rd|15 Pine StJordon, NY 13080|10.20|DEED BOOK|2015|16847
 130.000-1-3.2|Smith Randy Sr|9930 Taberg-Florence Rd|9936 Taberg-Florence RdTaberg, NY 13471|14.80|DEED BOOK|2017|10474
@@ -454,7 +454,7 @@
 130.000-1-18.2|Petrie Logan|3793 carlisle Rd|Waller Brianna3793 carlisle RdTaberg, NY, NY 13471|3.94|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 130.000-1-19|Narolis Family Trust|3831 Carlisle Rd Ns|Vogel Sharon L3831 Carlisle Rd Ns|82.00|DEED BOOK|2005|14019
 130.000-1-20.1|Leszczyk Thomas|10205 Blake Rd|Leszczyk Sherry10205 Blake RdTaberg, NY 13471|3.00|DEED BOOK|2734|674
-130.000-1-20.2|Leszcyk Thomas C|10205 Blake Rd|Leszkck sherry L10205 Blake Rd ************************************************************************************************************************************|39.71|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+130.000-1-20.2|Leszcyk Thomas C|10205 Blake Rd|Leszkck sherry L10205 Blake Rd|39.71|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 130.000-1-21.1|Edgerton Gordon L|Blake Rd Ss|Edgerton Lois W10117 Blake RdTaberg, NY 13471|56.00|DEED BOOK|2463|00213
 130.000-1-21.2|Lawless Richard W|Carlisle Rd|3861 Carlisle RdTaberg, NY, NY 13471|2.24|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 130.000-1-21.3|Travers David|3879 Carlisle Rd|Travers Jessica3879 Carlisle Rd 3|4.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -695,7 +695,7 @@
 149.000-2-17.9|Kirk Theodore F|Glenmore Rd|9439 Glenmore RdTaberg, NY, NY 13471|5.28|DEED BOOK|2007|7089
 149.000-2-17.10|Deeley James J Jr|Glenmore Rd|96912 Glenmore Rd  APT3Taberg, NY 13471|1.00|DEED BOOK|2680|316
 149.000-2-17.11|Mcdonell Brett|Glenmore Rd.|Mcdonell Jane9604 Glenmore Rd|3.04|DEED BOOK|2630|83
-149.000-2-17.12|Kirk Eric J|9666 Glenmore Rd|Kirk Jennifer G9666 Glenmore Rd ************************************************************************************************************************************|3.07|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+149.000-2-17.12|Kirk Eric J|9666 Glenmore Rd|Kirk Jennifer G9666 Glenmore Rd|3.07|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 149.000-2-18|Smith Gerald F|Glenmore Rd Es|9596 Glenmore RdTaberg, NY 13471|10.00|DEED BOOK|2036|00659
 149.000-2-19|Harosia Viola J|Glenmore Rd Es|2311 South Rue De La Paix Loop House LandWasilla, AK 99623|6.00|DEED BOOK|2014|2554
 149.000-2-20.1|Nobis Joseph John P. F|Glenmore Rd|Nobis Peter C9445 Glenmore Rd|98.90|DEED BOOK|2858|274
@@ -739,7 +739,7 @@
 149.004-1-1.3|Miller John B|Main St|Miller DianePO Box 141|1.13|DEED BOOK|2731|470
 149.004-1-1.4|Kobernuss David N|NYS Rt 285|Kobernuss Betty MPO Box 440|2.36|DEED BOOK|2367|00192
 149.004-1-1.5|Tyrell Richard A|Main St|Tyrell JoanTaberg, NY 13471|NOT IN ROLLS|DEED BOOK|2650|135
-149.004-1-1.6|Kobernuss David N|NYS Rt 285|Kobernuss Betty ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+149.004-1-1.6|Kobernuss David N|NYS Rt 285|Kobernuss Betty|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 149.004-1-2|Boulerice Donna; Proper|NYS Rt 285|Russell E|NOT IN ROLLS|DEED BOOK|01824|00363
 149.004-1-3.1|Genovese Travis E|9354 Taberg-Florence Rd|9354 Taberg-Florence Rd|1.40|DEED BOOK|2007|1507
 149.004-1-3.2|Simmons George|9358 NYS Rt 285|468 North Hills  Boro RdPRIOR OWNER ON 3/01/2020|NOT IN ROLLS|DEED BOOK|2020|2194
@@ -796,23 +796,23 @@
 150.000-1-21.1|Cook Kevin M|9359 Coal Hill Rd Ws|Mary Ann9359 Coal Hill RdTaberg, NY 13471|1.31|DEED BOOK|2643|335
 150.000-1-22.1|Salmon Allan|Salmon Circle|Salmon MariePO Box 204|0.30|DEED BOOK|2113|00989
 150.000-1-22.2|Salmon Allan J|Salmon Circle Rd|Salmon MariePO Box 204Taberg, NY 13471|0.28|DEED BOOK|2515|00138
-150.000-1-22.3|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot3 ************************************************************************************************************************************|0.30|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-150.000-1-22.4|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot4Taberg,, NY 13471|0.29|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+150.000-1-22.3|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot3|0.30|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+150.000-1-22.4|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot4Taberg,, NY 13471|0.29|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 150.000-1-22.5|Salmon Allan|Salmon Circle|Salmon MarieTaberg,, NY 13471|0.28|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 150.000-1-22.6|Salmon Allan|Salmon Circle|Salmon MarieTaberg,, NY 13471|0.28|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-150.000-1-22.7|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot7Taberg, NY 13471|0.26|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-150.000-1-22.8|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot8Taberg,, NY 13471|0.32|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-150.000-1-22.9|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot9Taberg,, NY 13471 ************************************************************************************************************************************|0.22|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-150.000-1-22.10|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot10Taberg,, NY 13471|0.41|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-150.000-1-22.11|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot11Taberg,, NY 13471|0.20|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+150.000-1-22.7|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot7Taberg, NY 13471|0.26|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+150.000-1-22.8|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot8Taberg,, NY 13471|0.32|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+150.000-1-22.9|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot9Taberg,, NY 13471|0.22|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+150.000-1-22.10|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot10Taberg,, NY 13471|0.41|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+150.000-1-22.11|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot11Taberg,, NY 13471|0.20|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 150.000-1-22.12|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot12|0.26|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-150.000-1-22.13|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot13Taberg,, NY 13471|0.38|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-150.000-1-22.14|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot14Taberg,, NY 13471|0.30|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-150.000-1-22.15|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot15Taberg,, NY 13471 ************************************************************************************************************************************|0.23|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-150.000-1-22.16|Salmon Allan|Salmon Circle|Salmon MarieLot 16Taberg,, NY 13471|0.73|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-150.000-1-22.17|Salmon Allan|Salmon Circle|Salmon MarieSalmon CircleTaberg,, NY 13471|0.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-150.000-1-22.18|Salmon Allan|Salmon Circle|Salmon MarieSalmon CircleTaberg,, NY 13471|0.45|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-150.000-1-22.19|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot19Taberg,, NY 13471|5.18|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+150.000-1-22.13|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot13Taberg,, NY 13471|0.38|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+150.000-1-22.14|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot14Taberg,, NY 13471|0.30|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+150.000-1-22.15|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot15Taberg,, NY 13471|0.23|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+150.000-1-22.16|Salmon Allan|Salmon Circle|Salmon MarieLot 16Taberg,, NY 13471|0.73|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+150.000-1-22.17|Salmon Allan|Salmon Circle|Salmon MarieSalmon CircleTaberg,, NY 13471|0.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+150.000-1-22.18|Salmon Allan|Salmon Circle|Salmon MarieSalmon CircleTaberg,, NY 13471|0.45|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+150.000-1-22.19|Salmon Allan|Salmon Circle|Salmon MarieSalmon Circle lot19Taberg,, NY 13471|5.18|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 150.000-1-22.20|Knight Catherine L|9349 Coal Hill Rd|9349 Coal Hill RdTaberg, N. Y., NY 13471|1.32|DEED BOOK|2012|14594
 150.000-1-23|Salmon Allan|Coal Hill Rd Ws|Salmon WfPO Box 204|1.00|DEED BOOK|02022|00527
 150.000-1-24|Salmon David W|9339 Coal Hill Rd Ns|Salmon Lou A9339 Coal Hill Rd Ns|1.60|DEED BOOK|2007|185
@@ -1401,7 +1401,7 @@
 184.000-2-79|Bielby John L|Blossvale Rd Ws|Bielby Margaret3717 Mcconnellsville RdBlossvale, NY 13308|87.52|DEED BOOK|2919|72
 184.000-2-80.1|Gw Bryant Core Sands Inc|Railroad Tracks|PO Box 70Mcconnellsville, NY 13401|38.00|DEED BOOK|00000|ChkRolls
 184.000-2-80.2|Link Jon A|Railroad Bed|lINK Rita MariePO Box 104Taberg, NY 13471|3.81|DEED BOOK|2003|32720
-184.000-2-80.3|Newton Clark O|Meadows Rd|Newton Karen ITaberg, NY 13471|5.54|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+184.000-2-80.3|Newton Clark O|Meadows Rd|Newton Karen ITaberg, NY 13471|5.54|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 184.000-2-81.1|Piersall Patrick B|Mcconnellsville Rd Ws|3671 Mcconnellsville Rd WsBlossvale, NY, NY 13308|1.50|DEED BOOK|2014|18221
 184.000-2-81.2|Hilliker Donald J|3659 MCVILLE-BLOSSVALE Rd|Sharpe Diana LPO Box 26Blossvale, NY 13308|11.05|DEED BOOK|3034|313
 184.000-2-82|Whaley Family Peoteced Trust|Mcconnellsville Rd Ws|3836 Orchard Park RdCanastota, NY 13032|218.00|DEED BOOK|2018|9469
@@ -1420,7 +1420,7 @@
 185.000-2-2.12|Amo Keith|RANNEY Rd|Amo Linda8696 Ranney RdTaberg, NY 13471|0.54|DEED BOOK|2892|349
 185.000-2-2.13|Butler Jamie O|4179 MACFARLAND Rd|Butler Pamela J4179 Macfarland RdTaberg, NY 13471|1.66|DEED BOOK|2959|215
 185.000-2-2.14|Stoltz Steven A|8798 Beckwith Rd|Stoltz Carol S8798 Beckwith RdTaberg, NY 13471|3.47|DEED BOOK|2002|4594
-185.000-2-2.15|Butler Jamie O|MacFarland Rd|Butler Pamela JMacFarland Rd ************************************************************************************************************************************|3.95|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+185.000-2-2.15|Butler Jamie O|MacFarland Rd|Butler Pamela JMacFarland Rd|3.95|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 185.000-2-3.1|Dean Judd A|4242 Macfarland Rd Ss|4242 MacFarland RdTaberg, NY 13471|11.10|DEED BOOK|2015|4795
 185.000-2-3.2|Barnard David E|Macfarland Rd|Barnard Angela4214 Macfarland RdTaberg, NY 13471|9.30|DEED BOOK|2384|00134
 185.000-2-4|Ranke Bonnie L|Macfarland Rd Ss|4232 Macfarland Rd|1.50|DEED BOOK|2815|243
@@ -1585,33 +1585,33 @@
 166.000-2-17|Reforestation Nys|Bryant Rd Ns|Lillian PhelpsMcconnellsville Rd,|61.04|DEED BOOK|00000|ChkRolls
 166.000-2-21|Reforestation Nys|Bones Rd|Bertha FrdMcconnellsville Rd,|29.97|DEED BOOK|00000|ChkRolls
 166.000-2-26|Reforestation Nys|Bones Rd Es|Olive HardenMcconnellsville Rd,|98.42|DEED BOOK|00000|ChkRolls
-333.000-20-1|State Of New York|8000001|Attn: County TreasurerCounty Office Building Oneida  County PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-333.000-20-2|State Of New York|8000002|Attn: County TreasurerCounty Office Building Oneida  Town PurposesUtica, NY 13501 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-333.000-20-3|State Of New York|8302601|Attn: County TreasurerCounty Office Building Oneida  School PurposesUitca, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-333.000-20-4|State Of New York|8303001|Attn: County TreasurerCounty Office Building Oneida  School PurposesUtica, NY 13501 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD001 Taberg fireCODE  DISTRICT NAME302601 Adirondack Central303001 Camden Central S U B - T O T A L T O T A L|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-20-1|State Of New York|8000001|Attn: County TreasurerCounty Office Building Oneida  County PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-20-2|State Of New York|8000002|Attn: County TreasurerCounty Office Building Oneida  Town PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-20-3|State Of New York|8302601|Attn: County TreasurerCounty Office Building Oneida  School PurposesUitca, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-20-4|State Of New York|8303001|Attn: County TreasurerCounty Office Building Oneida  School PurposesUtica, NY 13501CODE  DISTRICT NAME  PARCELSFD001 Taberg fireCODE  DISTRICT NAME302601 Adirondack Central303001 Camden Central S U B - T O T A L T O T A LCODE  DESCRIPTION|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 520.000-1-2|National Grid|080020|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 520.000-1-3|National Grid|080030|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 520.000-1-4|National Grid|080040|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-520.000-1-5|Verizon NewYork Inc|080050|Property Tax Dept 31St FlPO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-520.000-1-6|Verizon New York Inc|080060|.PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-520.000-1-7|Verizon New York Inc|080070|.PO Box 152206Irving, TX 75015-2206 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-520.000-1-8|Verizon New York Inc|080080|.PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-520.000-1-9|Verizon New York Inc|080090|.PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-520.000-1-10|Verizon New York Inc|080100|Property Tax Dept.PO Box 152206Irving, TX 75015|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-520.000-1-11|Time Warner Cable 1A6|Special Fran|Tax DeptCharlotte, NC 28241-7467 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD001 Taberg fireFD002 Joint fireLT001 Taberg lightLT002 Mconlsvl ltLT003 Blossvale ltCODE  DISTRICT NAME301300 Rome School Dist|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+520.000-1-5|Verizon NewYork Inc|080050|Property Tax Dept 31St FlPO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+520.000-1-6|Verizon New York Inc|080060|.PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+520.000-1-7|Verizon New York Inc|080070|.PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+520.000-1-8|Verizon New York Inc|080080|.PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+520.000-1-9|Verizon New York Inc|080090|.PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+520.000-1-10|Verizon New York Inc|080100|Property Tax Dept.PO Box 152206Irving, TX 75015|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+520.000-1-11|Time Warner Cable 1A6|Special Fran|Tax DeptCharlotte, NC 28241-7467CODE  DISTRICT NAME  PARCELSFD001 Taberg fireFD002 Joint fireLT001 Taberg lightLT002 Mconlsvl ltLT003 Blossvale ltCODE  DISTRICT NAME301300 Rome School Dist303001 Camden Central|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 95.000-3-8.2|Niagara Mohawk|Creek Rd|Attn: Real Estate Tax Dept.300 Erie Blvd|3.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 183.000-3-44|Niagara Mohawk Pow Co, Attn: Real Estate Tax Dept|No Address|300 Erie Blvd|2.34|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 184.000-2-70|Niagara Mohwak Pow Co, Attn: Real Estate Tax Dept|No Address|300 Erie Blvd|2.47|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-620.000-2-1|Nynex|090120|.PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-620.000-2-2|Nynex|090130|.PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-620.000-2-3|Nynex|090140|.PO Box 152206Irving, TX 75015-2206 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+620.000-2-1|Nynex|090120|.PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+620.000-2-2|Nynex|090130|.PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+620.000-2-3|Nynex|090140|.PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 620.000-2-4|Nynex|090150|. .PO Box 152206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-620.000-2-5|Nynex|090160|Property Tax Dept.Irving, TX 75015|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+620.000-2-5|Nynex|090160|Property Tax Dept.Irving, TX 75015|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 620.000-9999-132.350/1002|Niagara Mohowk Pow Co|090070|Attn: Real Estate Tax Dept300 Erie BlvdSyracuse, NY|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-620.000-9999-132.350/1012|Niagara Mohawk Pow Co|090100|Attn: Real Estate Tax DeptSyracuse, NY|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+620.000-9999-132.350/1012|Niagara Mohawk Pow Co|090100|Attn: Real Estate Tax DeptSyracuse, NY|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 620.000-9999-132.350/1881|Niagara Mohawk Pow Co, Attn: Real Estate Tax Dept|No Address|300 Eire BlvdSyracuse, NY|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-620.000-9999-132.350/1882|Niagara Mohawk Pow Co|090080|Attn: Real Estate Tax Dept300 Erie Blvd ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-620.000-9999-132.350/1883|Niag Mohawk Power Cor|090090|Attn: Real Estate Tax Dept300 Erie BlvdSyracuse, NY ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD001 Taberg fireFD002 Joint fireLT001 Taberg lightLT002 Mconlsvl ltLT003 Blossvale ltWD085 Mcnlvl wd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+620.000-9999-132.350/1882|Niagara Mohawk Pow Co|090080|Attn: Real Estate Tax Dept300 Erie Blvd|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+620.000-9999-132.350/1883|Niag Mohawk Power Cor|090090|Attn: Real Estate Tax Dept300 Erie BlvdSyracuse, NYCODE  DISTRICT NAME  PARCELSFD001 Taberg fireFD002 Joint fireLT001 Taberg lightLT002 Mconlsvl ltLT003 Blossvale ltWD085 Mcnlvl wdCODE  DISTRICT NAME|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 93.000-2-14|Stanford Cemetery|Sheehan Rd Ns|,|NOT IN ROLLS|DEED BOOK|01569|00485
 94.000-1-3|St Annes Cemetery|Gossner Rd Ws|,|NOT IN ROLLS|DEED BOOK|00261|00486
 111.000-1-14|Whiffin Cemetary|Reilly Rd Ss|,|NOT IN ROLLS|DEED BOOK|00000|ChkRolls
@@ -1625,7 +1625,7 @@
 168.000-2-2|Annsville Cemetery As|9295 Coal Hill Rd Ns|Attn: Mollie Oram9647 Taberg/Florence Rd C4|15.30|DEED BOOK|00902|00227
 168.000-2-34.8|TOWN OF ANNSVILLE|MEADOWS Rd|PO Box 262TABERG, N. Y., NY 13471|8.00|DEED BOOK|2993|77
 168.000-2-39.2|Sate of New York|9093 Blossvale Rd|State Comptroller Finance Offi land110 State St 13-2Albany, NY 12236|0.51|DEED BOOK|2002|00140
-168.001-1-12|Meeker Orourke Post|085330|Main StTaberg N Y, 13471 ************************************************************************************************************************************|50.83|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+168.001-1-12|Meeker Orourke Post|085330|Main StTaberg N Y, 13471|50.83|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 168.001-2-10|Town of Annsville|Main St Es|PO Box 262|0.42|DEED BOOK|2008|13905
 168.001-2-20.2|Town Of Annsville|Church St.|PO Box 262Taberg N Y, 13471|2.72|DEED BOOK|2801|573
 168.001-2-24|Methodist Church Assn|Church St Ns|9647 Taberg Florence Rd|NOT IN ROLLS|DEED BOOK|01155|00007
@@ -1640,7 +1640,7 @@
 820.000-1-1|School Dist 6|085240|,|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 820.000-1-2|School Dist 10|085250|,|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 820.000-1-3|N Y State Loan Mtg|085260|,|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-820.000-1-4|New York St Loan Mtg|085270|, ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+820.000-1-4|New York St Loan Mtg|085270|,|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 820.000-1-5|N Y State Fishing Rgt|085290|,|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 820.000-1-6|Us Dept Fund Mtg|085300|,|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-820.000-1-7|Us Dept Fund Mtg|085310|, ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD001 Taberg fireLT001 Taberg lightSW079 Sewer dst 1WD001 Annsvl wd1CODE  DISTRICT NAME302601 Adirondack Central303001 Camden Central S U B - T O T A L|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+820.000-1-7|Us Dept Fund Mtg|085310|,CODE  DISTRICT NAME  PARCELSFD001 Taberg fireLT001 Taberg lightSW079 Sewer dst 1WD001 Annsvl wd1CODE  DISTRICT NAME302601 Adirondack Central303001 Camden Central S U B - T O T A L T O T A L|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
