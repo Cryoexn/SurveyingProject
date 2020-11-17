@@ -155,7 +155,7 @@
 62.000-1-4.3|Blair Bonnie|7126 East Ava Rd|7126 East Ava RdBoonville, NY 13309|5.00|DEED BOOK|2839|007
 62.000-1-4.4|Blair Bonnie L|East Ava Rd|Blair Brian S7126 East Ava Rd|11.90|DEED BOOK|2005|16179
 62.000-1-4.5|Ringwald James R|7112 East Ava Rd|Ringwald Crystal SBoonville, NY 13309|121.20|DEED BOOK|2010|19059
-62.000-1-5.1|Swancott Sarah|7238 East Ava Rd|Swancott Mindy M7210 East Ava RdBoonville, NY 13309 ************************************************************************************************************************************|145.70|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+62.000-1-5.1|Swancott Sarah|7238 East Ava Rd|Swancott Mindy M7210 East Ava RdBoonville, NY 13309|145.70|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 62.000-1-5.2|Swancott Daniel|7210 East Ava Rd|Swancott SarahBoonville, NY 13309|2.00|DEED BOOK|2596|59
 62.000-1-6|Backer David J|7181 East Ava Rd|7181 East Ava RdBoonville, NY 13303|10.00|DEED BOOK|2018|13351
 62.000-1-7|Swancott Sarah|7228 East Ava Rd|Swancott Mindy M7210 East Ava RdBoonville, NY 13309|0.25|DEED BOOK|2006|7683
@@ -514,19 +514,19 @@
 98.000-1-9|N Y St Reforestation|Webster Hill Rd|,|29.43|DEED BOOK|00979|00432
 333.000-24-1|State Of New York|8000001|Attn: County TreasurerCounty Office Building Oneida  County PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 333.000-24-2|State Of New York|8000002|Attn: County TreasurerCounty Office Building Oneida  Town PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-333.000-24-4|State Of New York|8000002|Attn: County TreasurerCounty Office Building Oneida  School Purposes800 Park Ave ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD009 Ava fireCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LCODE  DESCRIPTION|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-24-4|State Of New York|8000002|Attn: County TreasurerCounty Office Building Oneida  School Purposes800 Park AveCODE  DISTRICT NAME  PARCELSFD009 Ava fireCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LCODE  DESCRIPTION50001 SCHL TAXBL50005 TOWN TAXBL50006 CNTY TAXBL T O T A LCODE  DESCRIPTION32252 NYSRPTL534 T O T A LROLLSEC DESCRIPTION 3 STATE OWNED LAND|0.01|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 524.000-1-1|Citizens Telecom Co of NY|080000|PO Box 2629Addison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 524.000-2-1|National Grid|080010|Attn: Property Tax Dept D.Mezz #132350-3024300 Erie Blvd WSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 524.000-3-1|Oneida Co Rural Tel|080020|9560 Main StHolland Patent, NY 13354|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 524.000-4-1|Time Warner of Syracuse|Terminal Anx|PO Box 7467Charlotte, NC 28241-7467|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-524.000-6-1|Verizon NewYork Inc.|080020|PO Box 635Basking Ridge, NJ 07920 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD009 Ava fireCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+524.000-6-1|Verizon NewYork Inc.|080020|PO Box 635Basking Ridge, NJ 07920CODE  DISTRICT NAME  PARCELSFD009 Ava fireCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 5 SPECIAL FRANCHISE|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 95.000-1-15|Niagara Mohawk Pwr Co|West Ava Rd|Attn: Real Estate Tax Dept300 Erie Blvd WSyracuse, NY 13202|8.29|DEED BOOK|00925|00318
 624.000-9999-103.500/1881|Boonville Light & Power|Outside Plant|13169 State Rt 12Boonville, NY 13309|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 624.000-9999-132.350/1001|Niagara Mohawk Pwr Co|090010|Attn: Real Estate Dept300 Erie Blvd WSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 624.000-9999-132.350/1881|Niagara Mohawk Pwr Co|Outside Plant|Attn: Real Estate Dept300 Erie Blvd WSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-624.000-9999-618.750/1881|Citizens Telecom Co of NY|Outside Plant|PO Box 2629Addison, TX 75001 ************************************************************************************************************************************|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+624.000-9999-618.750/1881|Citizens Telecom Co of NY|Outside Plant|PO Box 2629Addison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 624.000-9999-631.900/1881|Verizon New York Inc|Outside Plant|700 Hidden Ridge|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-624.000-9999-633.600/1881|Oneida Rural Telephone|Outside Plant|Main StHolland Patent, NY 13354 ************************************************************************************************************************************CODE  DISTRICT NAME  PARCELSFD009 Ava fireCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+624.000-9999-633.600/1881|Oneida Rural Telephone|Outside Plant|Main StHolland Patent, NY 13354CODE  DISTRICT NAME  PARCELSFD009 Ava fireCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 6 UTILITIES & N.C.|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 31.000-1-4.1|Oneida-Herkimer Solid Waste|7135 State Rt 294|1600 Genesee StUtica, NY 13502|198.70|DEED BOOK|2006|5407
 45.000-1-21|Oneida-Herkimer Solid Waste|State Rt 294|1600 Genesee St|1056.79|DEED BOOK|2015|1324
 60.000-1-1|People Of State New York|Kessler Rd|Dept EnvironmentalAttn: ErvationPark&silvicultural Resrch Cons S Curry W Quattro50 Wolf Rd|73.00|DEED BOOK|2747|563

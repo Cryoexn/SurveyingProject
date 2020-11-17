@@ -275,7 +275,7 @@ public class ConvertTaxRolls {
         System.out.print("Checking Number of Parcels Converted Successfully... ");
 
         for(String pdfline : pdflist) {
-            System.out.println(pdfline);
+            //System.out.println(pdfline);
             pdfline = pdfline.replaceAll("\\*", "");
             pdfline = pdfline.strip();
             for(String conline : conSBLS) {

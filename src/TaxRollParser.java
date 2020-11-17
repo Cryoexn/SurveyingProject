@@ -146,7 +146,7 @@ public class TaxRollParser {
                 if(secBlkPcl.length > 2) {
                     String[] sec = secBlkPcl[0].contains(".") ? secBlkPcl[0].split("\\.") : new String[]{secBlkPcl[0], ".0"};
                     String[] pcl = secBlkPcl[2].contains(".") ? secBlkPcl[2].split("\\.") : new String[]{secBlkPcl[0], ".0"};
-
+                    System.out.println(line);
                     parcels.add(new TaxRollParcel(secBlkPcl[0], secBlkPcl[1], secBlkPcl[2], comps[1], comps[2], comps[3], comps[4], comps[5], comps[6], comps[7]));
                 } else {
                     parcels.add(new TaxRollParcel(secBlkPcl[0], secBlkPcl[1], null, comps[1], comps[2], comps[3], comps[4], comps[5], comps[6], comps[7]));

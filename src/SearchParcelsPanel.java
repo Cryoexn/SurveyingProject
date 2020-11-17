@@ -348,27 +348,18 @@ public class SearchParcelsPanel extends JPanel {
     private String createTaxParcelSummary(ArrayList<TaxRollParcel> parcels) {
         StringBuilder summary = new StringBuilder();
 
+        summary.append("Job #: " + this.jobNum + "\n");
+        summary.append("\n");
+
         if(parcels.size() > 0) {
-            summary.append("+---------------------------------------------------------------------------------------------------------------+\n");
-            summary.append("| Our Parcel                                                                                                    |\n");
-            summary.append("+--------------------------+------------------------------------------------+--------------+--------------------+\n");
-            summary.append("|     Section-Block-Parcel |                                           Name |        Acres |            BOOK-PG |\n");
-            summary.append("+--------------------------+------------------------------------------------+--------------+--------------------+\n");
-            summary.append(String.format("| %24s | %46s | %12s | %18s |\n", parcels.get(0).getSecBlkPcl(), parcels.get(0).getName() != null ? parcels.get(0).getName() : "!! Manual Intervention Recommended !!", parcels.get(0).getAcres(), parcels.get(0).getInstrument().equals("NOT IN ROLLS") ? "NOT IN ROLLS" : String.format("%s-%s", parcels.get(0).getInstrumentNo(), parcels.get(0).getPageNo())));
-            summary.append("+--------------------------+------------------------------------------------+--------------+--------------------+\n\n");
-
             if (parcels.size() > 1) {
-                summary.append("+---------------------------------------------------------------------------------------------------------------+\n");
-                summary.append("| Parcels Of Interest                                                                                           |\n");
-                summary.append("+--------------------------+------------------------------------------------+--------------+--------------------+\n");
-                summary.append("| Section-Block-Parcel     |                                           Name |        Acres |            BOOK-PG |\n");
-                summary.append("+--------------------------+------------------------------------------------+--------------+--------------------+\n");
-
                 for (int i = 1; i < parcels.size(); i++) {
-
-                    summary.append(String.format("| %24s | %46s | %12s | %18s |\n", parcels.get(i).getSecBlkPcl(), parcels.get(i).getName() != null ? parcels.get(i).getName() : "!! Manual Intervention Recommended !!", parcels.get(i).getAcres(), parcels.get(i).getInstrument().equals("NOT IN ROLLS") ? "NOT IN ROLLS" : String.format("%s-%s", parcels.get(i).getInstrumentNo(), parcels.get(i).getPageNo())));
-                    summary.append("+--------------------------+------------------------------------------------+--------------+--------------------+\n");
-
+                    TaxRollParcel pcl = parcels.get(i);
+                    summary.append(pcl.getSecBlkPcl() + "\n");
+                    summary.append(pcl.getName() + "\n");
+                    summary.append(pcl.getAcres() + "\n");
+                    summary.append(String.format("%s %5s %s", pcl.getInstrument(), pcl.getInstrumentNo(), pcl.getPageNo()));
+                    summary.append("\n\n");
                 }
             }
         } else {
