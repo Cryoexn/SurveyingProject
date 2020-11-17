@@ -15,11 +15,10 @@ import org.apache.pdfbox.text.PDFTextStripper;
 public class ConvertTaxRolls {
     public static void main(String []args) {
         try {
-            File pdfFolder            = new File("taxrolls-pdf/");
+            File pdfFolder            = new File(args[0]+"taxrolls-pdf/");
             File[] pdfFiles = Objects.requireNonNull(pdfFolder.listFiles());
 
             for (File pdfFile : pdfFiles) {
-
                 System.out.println("--");
 
                 ArrayList<String> lineList = convertPDFToTxt(pdfFile);
@@ -34,7 +33,7 @@ public class ConvertTaxRolls {
             System.out.println(ex.getMessage());
         }
 
-        System.out.println("Complete.");
+        System.out.println("--\nComplete.");
     }
 
     private static void removeUnwantedText(ArrayList<String> list) {
