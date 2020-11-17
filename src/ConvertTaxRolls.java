@@ -19,7 +19,6 @@ public class ConvertTaxRolls {
             File[] pdfFiles = Objects.requireNonNull(pdfFolder.listFiles());
 
             for (File pdfFile : pdfFiles) {
-
                 System.out.println("--");
 
                 ArrayList<String> lineList = convertPDFToTxt(pdfFile);
@@ -37,8 +36,8 @@ public class ConvertTaxRolls {
         } catch(IOException ex) {
             System.out.println(ex.getMessage());
         }
-        System.out.println("--");
-        System.out.println("Complete.");
+        
+        System.out.println("--\nComplete.");
     }
 
     private static void removeUnwantedText(ArrayList<String> list) {
