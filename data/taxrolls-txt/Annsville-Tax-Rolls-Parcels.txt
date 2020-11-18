@@ -111,7 +111,7 @@
 76.000-1-10.9|Benway Jeffery W|Yorkland Rd|Benway Judith W736 Ridge Rd .Queensbury, NY 12804|5.26|DEED BOOK|2014|8874
 76.000-1-10.10|Deeley Eric C|Yorkland Rd|Deeley Heather M113 South Crescent DrRome, NY 13440|5.34|DEED BOOK|2018|16420
 76.000-1-10.11|Breen Yvonnr Marie|Yorkland Rd|10161 Point Rock RdTaberg, NY 13471|5.04|DEED BOOK|2018|16958
-76.000-1-10.12|Hill Traci H|Yorkland Rd|  12PO Box 141Sylvan Beach, NY 13157|5.29|DEED BOOK|2015|9193
+76.000-1-10.12|Hill Traci H|Yorkland Rd|12PO Box 141Sylvan Beach, NY 13157|5.29|DEED BOOK|2015|9193
 76.000-1-10.13|Lyle Michael P|Yorkland Rd|151 County Rd 627Phillipdburg, NJ 08865|5.07|DEED BOOK|2018|16959
 76.000-1-10.14|Carey Ronald|Yorkland Rd|Kotary Angela10240 Point Rock Rd|7.60|DEED BOOK|2020|2196
 76.000-1-10.15|Shamrock Forestry LTD .|Yorkland Rd|9500 Babcock Rd .Camden, NY 13316|6.80|DEED BOOK|20133|17171
@@ -1081,7 +1081,7 @@
 168.000-2-14.2|Arnold Earl|West Lee Rd|Arnold ColleenTaberg, NY 13471|11.05|DEED BOOK|2113|00079
 168.000-2-14.3|Poole Robert E|West Lee Rd|Poole LefaTaberg, NY 13471|NOT IN ROLLS|DEED BOOK|2125|00315
 168.000-2-14.4|Carr Timothy J|West Lee Rd|Carr Abigail E4344 Lee Ctr, Taberg Rd|2.00|DEED BOOK|2018|9890
-168.000-2-14.5|Matt Michael|4378 Lee Center-Taberg Rd| Broski ChristineAttn: Rome Savings Bank4378 Lee Center Taberg Rd|7.20|DEED BOOK|2816|7
+168.000-2-14.5|Matt Michael|4378 Lee Center-Taberg Rd|Broski ChristineAttn: Rome Savings Bank4378 Lee Center Taberg Rd|7.20|DEED BOOK|2816|7
 168.000-2-14.6|Olson Kurt E|4358 West Lee Rd|4358 West Lee RdTaberg, NY 13471|2.00|DEED BOOK|2011|14818
 168.000-2-14.7|Matt Michael M|4378 Lee Center-Taberg Rd|Matt Tracy K4378 Lee Center-Taberg RdTaberg, NY, NY 13471|2.40|DEED BOOK|2007|5027
 168.000-2-14.8|Arnold Ryan W|4400 Lee Center-Taberg Rd|Arnold Tracey L4410 Lee Center-Taberg RdTaberg, NY, NY 13471|4.95|DEED BOOK|2008|2944
@@ -1155,7 +1155,7 @@
 168.001-2-17|Pippen Robert L|Main & Church St|Pippen Donna4094 Church St|NOT IN ROLLS|DEED BOOK|2684|493
 168.001-2-18|Secor Nelson L III|Church St Ss|Secor Caramel S.4096 Church St|NOT IN ROLLS|DEED BOOK|2529|00149
 168.001-2-19|Sands Jacob A|4098 Church St|4098 Church St|NOT IN ROLLS|DEED BOOK|2013|15415
-168.001-2-20.1|Fish Creek Cabin Resort, LLC|Church St| StPO Box 556|4.50|DEED BOOK|2012|8927
+168.001-2-20.1|Fish Creek Cabin Resort, LLC|Church St|StPO Box 556|4.50|DEED BOOK|2012|8927
 168.001-2-21|Scales Richard|5005 Church St Es|15 Oswego StCamden, NY 13316|0.21|DEED BOOK|2015|9222
 168.001-2-22|Rouse Wayne|Church St Es|5003 Church St|NOT IN ROLLS|DEED BOOK|2176|00101
 168.001-2-23|Dote Rebecca M|5001 Church St Es|5001 Church St Es|NOT IN ROLLS|DEED BOOK|2013|1367

@@ -3491,7 +3491,7 @@
 224.017-0001-234|LaGatta Stephen J|234 Urbandale Park|LaGatta-Gardner Joann234 Urbandale ParkRome, NY 13440|0.05|DEED BOOK|2018|11419
 224.017-0001-235|Galluppi Sharon A|235 Urbandale Park|Seifert Diane M235 Urbandale ParkRome, NY 13440|0.05|DEED BOOK|2009|11852
 224.017-0001-236|Loso Michael|236 Urbandale Park|236 Urbandale ParkRome, NY 13440|0.05|DEED BOOK|2007|16917
-224.017-0001-300.061|Urbandale Parkway|300 Urbandale Park|Homeowners AssociationRome, NY 13440 |NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+224.017-0001-300.061|Urbandale Parkway|300 Urbandale Park|Homeowners AssociationRome, NY 13440|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 224.017-0001-301|Jones Steven|301 Urbandale Park|301 Urbandale ParkRome, NY 13440|0.05|DEED BOOK|2015|3340
 224.017-0001-302|DeSalvo Annette|302 Urbandale Park|302 Urbandale ParkRome, NY 13440|0.05|DEED BOOK|2016|18210
 224.017-0001-303|Giardino Louis T Jr|303 Urbandale Park|303 Urbandale PkwyRome, NY 13440|0.05|DEED BOOK|2011|12282
@@ -3500,7 +3500,7 @@
 224.017-0001-306|Catano Richard A|306 Urbandale Park|306 Urbandale PkwyRome, NY 13440|0.05|DEED BOOK|2005|1661
 224.017-0001-307|Tardugno Karen C|307 Urbandale Park|307 Urbandale PkwyRome, NY 13440|0.05|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 224.017-0001-308|Giambona Family Revoc Trust|308 Urbandale Park|Scharf Dyann G1 Ironwood RdNew Hartford, NY 13413|0.05|DEED BOOK|2010|17181
-224.017-0001-309|Gattari Victor A|309 Urbandale Park|L/u Gattari Josephine6450 Dewey RdRome, NY 13440-9755 |0.05|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+224.017-0001-309|Gattari Victor A|309 Urbandale Park|L/u Gattari Josephine6450 Dewey RdRome, NY 13440-9755|0.05|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 224.017-0001-310|Puglio Sharron M|310 Urbandale Park|7660 Kriswood DrRome, NY 13440|0.05|DEED BOOK|2019|1401
 224.017-0001-311|Sciulli Beth C|311 Urbandale Park|311 Urbandale ParkRome, NY 13440|0.05|DEED BOOK|2019|9376
 224.017-0001-312|Uvanni Susan|312 Urbandale Park|323 Urbandale ParkRome, NY 13440-3666|0.05|DEED BOOK|2006|26766
@@ -9151,15 +9151,15 @@
 258.002-0002-023|7166 E Dominick Street LLC|Martin St (Rear)|8556 Teugega Point RdRome, NY 13440|4.30|DEED BOOK|2019|18060
 258.002-0002-036.002|Adey Bonnie Sue|Martin St (Rear)|Pettinelli James D1824 N James StRome, NY 13440|0.64|DEED BOOK|2004|374
 003.002-0035-083|US Sprint Communications|Franchise|PO Box 12913Shawnee Mission, KS 66282-2913|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-003.002-0035-087|TelCove Investment LLC|Franchise|Level 3 Communications1025 Eldorado Blvd Broomfield, CO 80021 |NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+003.002-0035-087|TelCove Investment LLC|Franchise|Level 3 Communications1025 Eldorado Blvd Broomfield, CO 80021|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 003.002-0035-088|Northland Networks|Franchise|PO Box 419|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 006.004-0089-090|Niagara Mohawk Power Corp|Franchise|Real Estate Tax Dept300 Erie Blvd WestSyracuse, NY 13202-4201|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 006.004-0089-095|Verizon New York Inc|Franchise|c/o Duff and PhelpsPO Box 2749Addison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 006.004-0090-000|Time Warner Entertainment|Franchise|-advance/newhouse PtnrshpPO Box 7467CODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME301300 Rome School Dist S U B - T O T A L T O T A LROLLSEC DESCRIPTION 5 SPECIAL FRANCHISE|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 222.000-0001-091|Niagara Mohawk Power Corp|New London Rd|Real Estate Tax DeptSyracuse, NY 13202-4201|0.28|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 223.017-0001-079|Time Warner Entertainment|1117 Erie Blvd W|-advance/newhouse PtnrshpCharlotte, NC 28241-7467|3.30|DEED BOOK|2005|827
-223.017-0001-079.-1|Verizon New York Inc|1117 Erie Blvd W (Rear)|c/o Verizon WirelessAddison, TX 75001 |NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-223.017-0001-079.-2|Nextel Communications|1117 Erie Blvd W (Rear)|SprintOverland Park, KS 66207 |NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+223.017-0001-079.-1|Verizon New York Inc|1117 Erie Blvd W (Rear)|c/o Verizon WirelessAddison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+223.017-0001-079.-2|Nextel Communications|1117 Erie Blvd W (Rear)|SprintOverland Park, KS 66207|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 223.018-0002-032|Niagara Mohawk Power Corp|N Levitt St|Real Estate Tax Dept300 Erie Blvd West|6.06|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 224.005-0001-028|Niagara Mohawk Power Corp|N Madison St|Real Estate Tax Dept300 Erie Blvd WestSyracuse, NY 13202-4201|3.90|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 224.017-0001-008|Niagara Mohawk Power Corp|E Chestnut St (Rear)|Real Estate Tax Dept300 Erie Blvd West|19.60|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -9229,7 +9229,7 @@
 223.009-0001-051|City Of Rome|Gifford Rd|City Hall|0.20|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 223.010-0001-002|City Of Rome|W Thomas St|City HallRome, NY 13440|0.52|DEED BOOK|2011|6929
 223.010-0001-002.001|City Of Rome|Lenox Acres|Tallarino AdelineCity HallRome, NY 13440|10.00|DEED BOOK|2002|6680
-223.010-0001-024|United Cerebral Palsy|W Thomas St| & Handicapped Prsns Utica1020 Mary StUtica, NY 13501|0.86|DEED BOOK|2010|13210
+223.010-0001-024|United Cerebral Palsy|W Thomas St|& Handicapped Prsns Utica1020 Mary StUtica, NY 13501|0.86|DEED BOOK|2010|13210
 223.010-0002-008|City Of Rome|W Thomas St|City Hall|0.79|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 223.011-0002-004.002|State Of N Y|801 W Chestnut St|c/o NYS OGS BSCPO Box 2117|0.89|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 223.011-0002-005|Christian & Missionary All Ch  Rome School Dis 301300|920 Turin St|920 Turin St|2.53|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -9565,7 +9565,7 @@
 242.082-0001-031|City Of Rome|701 Lawrence St|Inland Fuels IncRome, NY 13440|1.50|DEED BOOK|2006|20404
 243.000-0001-001.001|U S Gov Air Depot|Floyd Ave|Floyd AveRome, NY 13440|128.67|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 243.000-0001-001.002|Oneida Co Ind Dev Ag|Ellsworth Rd|Griffiss Local Dev I584 Phoenix DrRome, NY 13441-4913|80.66|DEED BOOK|2016|11115
-243.000-0001-001.002-2|Oneida Co Ind Dev Ag|111 Dart Cir|Griffiss Local Dev IBaldwin Research Assocs of SyrRome, NY 13441 |2.26|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+243.000-0001-001.002-2|Oneida Co Ind Dev Ag|111 Dart Cir|Griffiss Local Dev IBaldwin Research Assocs of SyrRome, NY 13441|2.26|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 243.000-0001-001.003|Oneida Co Ind Dev Ag|Brooks Rd|Griffiss Local Dev I584 Phoenix DrRome, NY 13441-4105|15.28|DEED BOOK|2007|7144
 243.000-0001-001.004|Mohawk Valley Handicapped Svs  Rome School Dis 301300|Geiger Rd|Nina WallaceUtica, NY 13501|0.79|DEED BOOK|2007|12961
 243.000-0001-001.005|Bd Of Education|95 Dart Cir|Rome City School DistrictRome, NY 13440|78.37|DEED BOOK|02966|00657
@@ -13027,15 +13027,15 @@
 274.002-0001-011|Chubbuck Maria E|Westmoreland Rd|7232 Coleman Mills Rd|24.19|DEED BOOK|2017|4847
 274.002-0001-012|Chubbuck Maria E|Coleman Mills Rd (Rear)|7232 Coleman Mills RdRome, NY 13440|9.00|DEED BOOK|2017|4847
 001.000-0085-001|Niagara Mohawk Power Corp|Franchise|Real Estate Tax Dept300 Erie Blvd WestSyracuse, NY 13202-4201|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-001.000-0085-005|Crown Castle Fiber LLC|Franchise|Tax DepartmentCanonsburg, PA 15317 |NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-002.001-0059-064|Buckeye Pipeline|Franchise|c/o Property TaxHouston, TX 77256 |NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+001.000-0085-005|Crown Castle Fiber LLC|Franchise|Tax DepartmentCanonsburg, PA 15317|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+002.001-0059-064|Buckeye Pipeline|Franchise|c/o Property TaxHouston, TX 77256|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 002.001-0059-066|Verizon New York Inc|Franchise|c/o Duff and PhelpsPO Box 2749Addison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 002.001-0059-067|Verizon New York Inc|Franchise|c/o Duff and PhelpsPO Box 2749Addison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 002.001-0059-068|Verizon New York Inc|Franchise|c/o Duff and PhelpsPO Box 2749Addison, TX 75001OUTSIDE  -Rome NY|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 002.001-0059-076|Niagara Mohawk Power Corp|Franchise|Real Estate Tax Dept300 Erie Blvd WestSyracuse, NY 13202-4201|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 002.001-0059-081|Niagara Mohawk Power Corp|Franchise|Real Estate Tax Dept300 Erie Blvd WestSyracuse, NY 13202-4201|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 003.002-0056-006|Niagara Mohawk Power Corp|Franchise|Real Estate Tax Dept300 Erie Blvd WestSyracuse, NY 13202-4201|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-003.002-069-096|TelCove Investment LLC|Franchise|Level 3 Communications1025 Eldorado Blvd Broomfield, CO 80021 |NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+003.002-069-096|TelCove Investment LLC|Franchise|Level 3 Communications1025 Eldorado Blvd Broomfield, CO 80021|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 003.002-0069-097|Verizon New York Inc|Franchise|c/o Duff and PhelpsPO Box 2749Addison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 003.002-0069-098|Northland Networks|Franchise|PO Box 419OUTSIDE  -Rome NY|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 006.005-0030-020|Time Warner Entertainment|Franchise|-advance/newhouse PtnrshpPO Box 7467OUTSIDE  -Rome NYCODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME301300 Rome School Dist306000 VVS School Dist306801 Westmorland Sch Dist307001 Oriskany School Dist S U B - T O T A L T O T A LROLLSEC DESCRIPTION 5 SPECIAL FRANCHISEOUTSIDE  -Rome NY|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
@@ -13088,9 +13088,9 @@
 613.089-0009-631.9-1881|Verizon New York Inc|Outside Plant|c/o Duff and PhelpsPO Box 2749Addison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 613.089-0009-631.9-1882|Verizon New York Inc|Outside Plant|c/o Duff and PhelpsPO Box 2749Addison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 613.089-0009-631.9-1884|Verizon New York Inc|Outside Plant|c/o Duff and PhelpsPO Box 2749Addison, TX 75001OUTSIDE  -Rome NY|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-613.089-0009-746.12-1881|US Sprint Communications|Outside Plant-Conrail Row|PO Box 12913Shawnee Mission, KS 66282-2913 App Factor .2921 |NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-613.089-0009-746.12-1882|US Sprint Communications|Outside Plant-Conrail Row|PO Box 12913Shawnee Mission, KS 66282-2913 App Factor .2135 |NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-613.089-0009-746.12-1883|US Sprint Communications|Outside Plant-Conrail Row|PO Box 12913Shawnee Mission, KS 66282-2913 App Factor .4944 |NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+613.089-0009-746.12-1881|US Sprint Communications|Outside Plant-Conrail Row|PO Box 12913Shawnee Mission, KS 66282-2913 App Factor .2921|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+613.089-0009-746.12-1882|US Sprint Communications|Outside Plant-Conrail Row|PO Box 12913Shawnee Mission, KS 66282-2913 App Factor .2135|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+613.089-0009-746.12-1883|US Sprint Communications|Outside Plant-Conrail Row|PO Box 12913Shawnee Mission, KS 66282-2913 App Factor .4944|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 613.089-0009-805.6-2003|Buckeye Pipeline|Outside Plant|c/o Property TaxPO Box 56169Houston, TX 77256|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 613.089-0009-805.6-2004|Buckeye Pipeline|Outside Plant|c/o Property TaxPO Box 56169Houston, TX 77256OUTSIDE  -Rome NYCODE  DISTRICT NAME  PARCELSCODE  DISTRICT NAME301300 Rome School Dist306000 VVS School Dist306801 Westmorland Sch Dist307001 Oriskany School Dist S U B - T O T A L T O T A LROLLSEC DESCRIPTION 6 UTILITIES & N.C.OUTSIDE  -Rome NY|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 257.000-0001-014.001|New York Central Lines|3RD Ward Outside|CSX Transportation  IncTax Dept C910500 Water StJacksonville, FL 32202|59.70|DEED BOOK|02894|00001

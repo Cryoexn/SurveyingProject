@@ -186,7 +186,7 @@
 396.000-1-22.2|Holmes Donald C|Stone Rd|35 Trestle TrailNorth Chili, NY 14514|1.30|DEED BOOK|2019|224
 396.000-1-23|Whisman Marco E II|1061 Stone Rd|Whisman Carissa10279 Shaul RdWest Winfield, NY 13491|5.00|DEED BOOK|2008|19567
 396.000-1-24|Smith Malcoln|Stone Rd|1144 Stone RdCassville, NY 13318|21.97|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-396.000-1-25.1|Smith Malcolm|Stone Rd|Smith Elsa HCassville, NY 13318MAY BE SUBJECT TO PAYMENT|61.20|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+396.000-1-25.1|Smith Malcolm|Stone Rd|Smith Elsa HCassville, NY 13318MAY BE SUBJECT TO PAYMENT|61.20|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 396.000-1-25.2|Peterson Mathew|Stone Rd|1176 Stone RdCassville, NY 13318|8.62|DEED BOOK|2017|17622
 396.000-1-26|Howard Edward J|815 Stone Rd|815 Stone RdWest Winfield, NY 13491MAY BE SUBJECT TO PAYMENT|77.40|DEED BOOK|2002|01242
 396.000-1-27|Firsching Christine|10160 Shaul Rd|10160 Shaul Rd|2.40|DEED BOOK|2008|11208
@@ -424,7 +424,7 @@
 406.000-1-6.1|Major Ronald O|9025 Us Rt 20|Major Dorothy EWaterville, NY 13480|9.00|DEED BOOK|2008|11434
 406.000-1-6.2|Buss Morgan A|9031 Route 20|Holbert Scott A Jr9031 Route 20|1.75|DEED BOOK|2019|16699
 406.000-1-6.3|Orcutt Dennis|4049 Us Route 20|Deraway Patricia GBridgewater, NY 13313|8.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-406.000-1-6.3/60|American Tower Corp.|State Rt. 20|Land ManagementWoburn, MA 01801|0.50|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+406.000-1-6.3/60|American Tower Corp.|State Rt. 20|Land ManagementWoburn, MA 01801|0.50|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 406.000-1-7|Christian Bernice J|Rt 20 Ns|2614 State Route 8West Winfield, NY 13491|113.00|DEED BOOK|2019|15926
 406.000-1-9|Christian Ernest J|Us Rt 20  N|Christian Bernice J2614 State Rt. 8West Winfield, NY 13491|128.60|DEED BOOK|2004|18819
 406.000-1-10|Estate of Abram Davis|9185 Us Rt 20|Attn: Elaine Snow9296 Fitch RdHubbardsville, NY 13355-1194|1.33|DEED BOOK|01971|00627
@@ -462,7 +462,7 @@
 407.000-1-2|Wheeldon Milton S|9331 Us Rt 20|Wheeldon RosellePO Box 25Bridgewater, NY 13313|1.84|DEED BOOK|2013|1422
 407.000-1-3|Mahar Zane W|Us Rt 20|Mahar GinaU S Rt 20PO Box 251|NOT IN ROLLS|DEED BOOK|2781|694
 407.000-1-4|Wystozaly John E|346 Williams Rd|Wystozaly Donna346 Williams RdPO Box 321Bridgewater, NY 13313|3.40|DEED BOOK|2157|00153
-407.000-1-5.1|Williams Linda G|State Route 20|Bridgewater, NY 13313|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+407.000-1-5.1|Williams Linda G|State Route 20|Bridgewater, NY 13313|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 407.000-1-6|Williams Linda|9365 Us Rt 20|Williams Richard|NOT IN ROLLS|DEED BOOK|2055|00545
 407.000-1-7.1|Galler Anton G|9451 Rt 20|Galler Debra9451 Rt 20|13.04|DEED BOOK|2016|7136
 407.000-1-7.2|Tilbe Norma|Route 20|Rt 20PO Box 107|4.60|DEED BOOK|2071|00405
@@ -478,7 +478,7 @@
 407.000-1-14|Martin Kristina|Mapledale Rd||NOT IN ROLLS|DEED BOOK|2018|3670
 407.000-1-15|King Alvah|449 Mapledale Rd|449 Mapledale RdCassville, NY 13318|0.62|DEED BOOK|01963|00502
 407.000-1-16|Vogel Charles E|Mapledale Rd|Vogel Suzanne M66 North St|10.00|DEED BOOK|2015|6616
-407.000-1-17|Land George|Mapledale Rd| 9673 Route 20PO Box 284Bridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|2958|130
+407.000-1-17|Land George|Mapledale Rd|9673 Route 20PO Box 284Bridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|2958|130
 407.000-1-18|Denison Deborah J|465 Mapledale Rd|465 Mapledale RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2019|7384
 407.000-1-19|Rider Scott|471 Mapledale Rd|Rider KathleenPO Box 355|1.10|DEED BOOK|2011|14933
 407.000-1-20|Miller Adam|477 Mapledale Rd|Miller Melissa477 Mapledale RdCassville, NY 13318|0.75|DEED BOOK|2010|11597
@@ -545,7 +545,7 @@
 407.000-3-2.3|Wheelock Michael D|Us Rte 20|Wheelock Donna ABridgewater, NY 13313|5.01|DEED BOOK|2016|6931
 407.000-3-3.1|Fitch Willard|Gulf Rd|Fitch WfBox 72Bridgewater, NY 13313|43.50|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 407.000-3-3.2|Fitch Stephen W|87 Gulf Rd|Bridgewater, NY 13313|1.04|DEED BOOK|2008|5535
-407.000-3-4.1|Williams Dale|Gulf Rd|Gulf RdBridgewater, NY 13313|44.33|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+407.000-3-4.1|Williams Dale|Gulf Rd|Gulf RdBridgewater, NY 13313|44.33|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 407.000-3-4.2|Gregory Matthew K|Gulf Rd|Gregory Sarah M491 Fairview DrWest Winfield, NY 13491|43.33|DEED BOOK|2015|12340
 407.010-1-1.1|Harris Beverly|9487 Us Rt 20|Rt 20Bridgewater, NY 13313|4.00|DEED BOOK|2052|00373
 407.010-1-2|Stevens John E|44 Cottage St|Stevens Diantha C44 Cottage StPO Box 86Bridgewater, NY 13313|8.89|DEED BOOK|2010|2084
@@ -675,10 +675,10 @@
 408.000-1-11|Curtin Farms LP|No Us Rt 20|9815 Shaul RdCassville, NY 13318|49.70|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 408.000-1-12|Pavlot Edward T|Eo East St|547 East StCassville, NY 13318MAY BE SUBJECT TO PAYMENT|6.71|DEED BOOK|01966|00679
 408.000-1-13|Curtin Farms LP|Eo East St|9815 Shaul RdCassville, NY 13318|5.00|DEED BOOK|2018|9874
-333.000-28-1|State Of New York|8000001|Attn: County TreasurerCounty Office Building Oneida  County PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-333.000-28-2|State Of New York|8000002|Attn: County TreasurerCounty Office Building Oneida  Town PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-333.000-28-3|State Of New York|8215601|Attn: County TreasurerCounty Office Building Oneida  School PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-333.000-28-4|State Of New York|8252009|Attn: County TrasurerCounty Office Building Oneida  School PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-28-1|State Of New York|8000001|Attn: County TreasurerCounty Office Building Oneida  County PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-28-2|State Of New York|8000002|Attn: County TreasurerCounty Office Building Oneida  Town PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-28-3|State Of New York|8215601|Attn: County TreasurerCounty Office Building Oneida  School PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-28-4|State Of New York|8252009|Attn: County TrasurerCounty Office Building Oneida  School PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 394.000-1-1|State N Y Reforest|No White St|Attn: Commissioner Of Finance  No 0120001800 Park Ave|78.00|DEED BOOK|00941|00316
 394.000-1-2|State N Y Reforest|No White St|Attn: Commissioner Of Finance  No 0170001 & 4800 Park AveUtica, NY 13501|146.44|DEED BOOK|00934|00405
 394.000-1-18|State N Y Reforest|White St|Attn: Commissioner Of Finance  No 0200001-6800 Park AveUtica, NY 13501|290.94|DEED BOOK|00934|00407
@@ -695,7 +695,7 @@
 407.015-1-10.2|Electric & Gas New York State  Mt Markham Cent 215601|rt 20|89Rochester, NY 14649|0.31|DEED BOOK|2020|2908
 528.000-1-1|Windstream New York|080040|Attn: Rash & Associates IncPO Box 260888|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 528.000-2-1|Time Warner Of Ilion|080045|PO Box 7467|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-528.000-3-1|NY State Elec & Gas|080010|Attn: Utility Shared Services- Spec Fran 13160Freeport Bldg.New Gloucester, ME 04260|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+528.000-3-1|NY State Elec & Gas|080010|Attn: Utility Shared Services- Spec Fran 13160Freeport Bldg.New Gloucester, ME 04260|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 528.000-5-1|Citizens Telecom Of Ny|080030|Attn: Tax DeptPO Box 2629CODE  DISTRICT NAME  PARCELSFD011 Bridgewtr fdCODE  DISTRICT NAME215601 Mt Markham Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 5 SPECIAL FRANCHISE|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 628.001-9999-131.600/1001|NY State Elec & Gas|090040|Avangrid Mangmnt Co. Local Tax Transmission PolesOne City Center 5th FloorPortland, ME 04101|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 628.001-9999-131.600/1011|NY State Elec & Gas|090030|Avangrid Mgmnt Co.- Local Tax  Electric Power Sub StaOne City Center 5th FloorPortland, ME 04101|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS

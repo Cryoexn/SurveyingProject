@@ -2004,18 +2004,18 @@
 308.003-1-36|Didio Carol|10854 Cosby Manor Rd|54 North Highland Ave|0.04|DEED BOOK|2006|10666
 308.003-1-37|Balls Marco|10848 Cosby Manor Rd|D'Accurzio Andrea10848 Cosby Manor RdDeerfield, NY 13502|NOT IN ROLLS|DEED BOOK|2012|15849
 308.003-1-53|Bowens Keila|10838 Cosby Manor Rd|10838 Cosby Manor RdDeerfield, NY 13502|0.51|DEED BOOK|2010|11160
-532.000-1-1|Niagara Mohawk Power Corp|Whitesboro Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-532.000-1-2|Niagara Mohawk Power Corp|Whitesboro Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+532.000-1-1|Niagara Mohawk Power Corp|Whitesboro Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+532.000-1-2|Niagara Mohawk Power Corp|Whitesboro Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 532.000-1-3|Niagara Mohawk Power Corp|Whitesboro Sch Dist|Attn: Real Estate Tax Dept|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-532.000-1-4|Niagara Mohawk Power Corp|Poland Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-532.000-1-5|Niagara Mohawk Power Corp|West Canada Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-532.000-1-6|Niagara Mohawk Power Corp|Holland Patent Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+532.000-1-4|Niagara Mohawk Power Corp|Poland Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+532.000-1-5|Niagara Mohawk Power Corp|West Canada Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+532.000-1-6|Niagara Mohawk Power Corp|Holland Patent Sch Dist|Attn: Real Estate Tax DeptSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 532.000-2-1|Verizon New York Inc|Whitesboro Sch Dist|Property Tax DepartmentIrving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 532.000-2-2|Verizon New York Inc|West Canada Sch Dist|Property Tax DepartmentIrving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 532.000-2-3|Verizon New York Inc|Holland Patent Sch Dist|Property Tax DepartmentIrving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 532.000-2-4|Verizon New York Inc|Poland Sch Dist|Property Tax DepartmentIrving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 532.000-2-5|Newport Telephone Co|Poland Sch Dist|PO Box 201|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-532.000-2-6|Northland Networks|Whitesboro Sch Dist| StHolland Patent, NY 13354-0419|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+532.000-2-6|Northland Networks|Whitesboro Sch Dist|StHolland Patent, NY 13354-0419|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 532.000-3-1|Time Warner - Utica|Whitesboro Sch Dist|PO Box 7467|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 532.000-4-1|Independent Optical Net|Whitesboro Sch Dist|PO Box 495|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 532.000-4-2|Independent Optical Net|Whitesboro Sch Dist|PO Box 495CODE  DISTRICT NAME  PARCELSFD013 Deerfield fd1FD014 Deerfield fd2FD016 Poland fireSW001 Drfld swrSW022 Co sw drfldSW059 Sw1 o & mCODE  DISTRICT NAME212402 West Canada Central213803 Poland Central305801 Holland Patent307002 Whitesboro Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 5 SPECIAL FRANCHISE|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS

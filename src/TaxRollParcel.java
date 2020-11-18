@@ -7,11 +7,10 @@ public class TaxRollParcel {
     private String address;
     private String mailing;
     private String acres;
-    private String instrument;
-    private String instrumentNo;
+    private String bookNo;
     private String pageNo;
 
-    public TaxRollParcel(String section, String block, String parcel, String name, String address, String mailing, String acres, String instrument, String instrumentNo, String pageNo) {
+    public TaxRollParcel(String section, String block, String parcel, String name, String address, String mailing, String acres, String bookNo, String pageNo) {
         this.section = section;
         this.block = block;
         this.parcel = parcel;
@@ -19,8 +18,7 @@ public class TaxRollParcel {
         this.address = address;
         this.mailing = mailing;
         this.acres = acres;
-        this.instrument = instrument;
-        this.instrumentNo = instrumentNo;
+        this.bookNo = bookNo;
         this.pageNo = pageNo;
     }
 
@@ -32,8 +30,7 @@ public class TaxRollParcel {
         this.address = null;
         this.mailing = null;
         this.acres = null;
-        this.instrument = null;
-        this.instrumentNo = null;
+        this.bookNo = null;
         this.pageNo = null;
     }
 
@@ -45,8 +42,7 @@ public class TaxRollParcel {
         this.address = null;
         this.mailing = null;
         this.acres = null;
-        this.instrument = null;
-        this.instrumentNo = null;
+        this.bookNo = null;
         this.pageNo = null;
     }
 
@@ -56,6 +52,14 @@ public class TaxRollParcel {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
     }
 
     public String getMailing() {
@@ -74,20 +78,12 @@ public class TaxRollParcel {
         this.acres = acres;
     }
 
-    public String getInstrument() {
-        return instrument;
+    public String getBookNo() {
+        return bookNo;
     }
 
-    public void setInstrument(String instrument) {
-        this.instrument = instrument;
-    }
-
-    public String getInstrumentNo() {
-        return instrumentNo;
-    }
-
-    public void setInstrumentNo(String instrumentNo) {
-        this.instrumentNo = instrumentNo;
+    public void setbookNo(String bookNo) {
+        this.bookNo = bookNo;
     }
 
     public String getPageNo() {
@@ -142,8 +138,7 @@ public class TaxRollParcel {
                 ", name='" + name + '\'' +
                 ", mailing='" + mailing + '\'' +
                 ", acres='" + acres + '\'' +
-                ", instrument='" + instrument + '\'' +
-                ", instrumentNo='" + instrumentNo + '\'' +
+                ", bookNo='" + bookNo + '\'' +
                 ", pageNo='" + pageNo + '\'' +
                 '}';
     }

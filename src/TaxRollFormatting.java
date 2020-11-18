@@ -58,17 +58,17 @@ public class TaxRollFormatting {
 
     private TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block, int parcel1, int parcel2) throws TaxRollFormattingException {
         String [] fmt = getDecimalParcelFormat();
-        return new TaxRollParcel(String.format(fmt[0], section1, section2), String.format(fmt[1], block), String.format(fmt[2], parcel1, parcel2), "Not Found! Double Check Rolls", "X", "X", "X", "X", "X", "X");
+        return new TaxRollParcel(String.format(fmt[0], section1, section2), String.format(fmt[1], block), String.format(fmt[2], parcel1, parcel2), "Not Found! Double Check Rolls", "X", "X", "X", "X", "X");
     }
 
     private TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block, int parcel) throws TaxRollFormattingException {
         String [] fmt = getWholeParcelFormat();
-        return new TaxRollParcel(String.format(fmt[0], section1, section2), String.format(fmt[1], block), String.format(fmt[2], parcel), "Not Found! Double Check Rolls", "X", "X", "X", "X", "X", "X");
+        return new TaxRollParcel(String.format(fmt[0], section1, section2), String.format(fmt[1], block), String.format(fmt[2], parcel), "Not Found! Double Check Rolls", "X", "X", "X", "X", "X");
     }
 
     private TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block) throws TaxRollFormattingException {
         String [] fmt = getWholeParcelFormat();
-        return new TaxRollParcel(String.format(fmt[0], section1, section2), String.format(fmt[1], block), null, "Not Found! Double Check Rolls", "X", "X", "X", "X", "X", "X");
+        return new TaxRollParcel(String.format(fmt[0], section1, section2), String.format(fmt[1], block), null, "Not Found! Double Check Rolls", "X", "X", "X", "X", "X");
     }
 
     private String[] getWholeParcelFormat() throws TaxRollFormattingException {

@@ -195,7 +195,7 @@
 62.000-1-26.6|Houseman Corey L|1635 Pohl Rd|Buhler Cheyanne A1635 Pohl Rd|10.00|DEED BOOK|2013|22513
 62.000-1-26.7|Krammes Harold|Pohl Rd|Krammes Diane123 Molleystown Rd|10.00|DEED BOOK|2003|21486
 62.000-1-26.8|Blank Nathan G|Pohl Rd|Blank Ivan W1375 Valentine Rd|21.25|DEED BOOK|2003|13759
-62.000-1-26.9|Blank Nathan G|Pohl Rd|Blank Ivan WIckesburg, PA 17037|79.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+62.000-1-26.9|Blank Nathan G|Pohl Rd|Blank Ivan WIckesburg, PA 17037|79.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 62.000-1-27|Goldstein Daniel H|Krupp Rd|Goldstein Sarah2156 W.RoscoeChicago, IL 60618|40.00|DEED BOOK|2269|00139
 63.000-1-1.1|Thayer Eric M|7067 Dorn Spur Rd|Thayer Shannon M7067 Dorn Spur RdBoonville, NY 13309|42.00|DEED BOOK|2012|18692
 63.000-1-1.2|Walters Kenneth J Jr.|7045 Dorn Spur Rd|7045 Dorn Spur RdBoonville, NY 13309|4.42|DEED BOOK|2019|11917
@@ -219,7 +219,7 @@
 63.000-1-4.2|Lansing Cleveland C|Arab Hill Rd|1863 Merry Hill RdPO Box 779|11.84|DEED BOOK|2011|18569
 63.000-1-4.3|Kline William|Arab Hill Rd|88 Indian Mound Rd|34.00|DEED BOOK|2019|4840
 63.000-1-5.1|Wiedmer Daniel|1639 Arab Hill Rd|11290 Potato Hill RdBoonville, NY 13309|26.33|DEED BOOK|2004|12636
-63.000-1-5.3|Kelsey Kevin M|Jackson Hill Rd|Kelsey Amy MBoonville, NY 13309|38.86|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+63.000-1-5.3|Kelsey Kevin M|Jackson Hill Rd|Kelsey Amy MBoonville, NY 13309|38.86|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 63.000-1-6|Boshart Douglas R|7712 Jackson Hill Rd|Boshart Pamela C7712 Jackson Hill Rd|21.57|DEED BOOK|2031|00233
 63.000-1-7|Roberts Heather|7754 Jackson Hill Rd|Lackey Fay7754 Jackson Hill RdBoonville, NY 13309|40.50|DEED BOOK|2333|00157
 63.000-1-8|Pritchard William A|7774 Jackson Hill Rd|Pritchard Reina LBoonville, NY 13309|53.55|DEED BOOK|2017|18206
@@ -425,7 +425,7 @@
 81.000-1-1.7|Kline William|Arab Hill Rd|88 Indian Mound Dr|11.63|DEED BOOK|2019|4840
 81.000-1-1.8|Gilbert Lyman T Jr.|1464 Arab Hill Rd|Gilbert LoniSouthbury, CT 06488|25.55|DEED BOOK|2013|12951
 81.000-1-3.1|Dano Jeannie|Arab Hill Rd|1391 Arab Hill RdBoonville, NY 13309MAY BE SUBJECT TO PAYMENT|98.40|DEED BOOK|2005|12061
-81.000-1-3.2|Dano Jeannie|Arab Hill /Ridge of Gulf|1391 Arab Hill RdBoonville, NY 13309MAY BE SUBJECT TO PAYMENT|26.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+81.000-1-3.2|Dano Jeannie|Arab Hill /Ridge of Gulf|1391 Arab Hill RdBoonville, NY 13309MAY BE SUBJECT TO PAYMENT|26.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 81.000-1-4|Dano Jeannie|1391 Arab Hill Rd|1391 Arab Hill RdBoonville, NY 13309|1.60|DEED BOOK|01911|00411
 81.000-1-6|Rosimini Gary S|1050 Arab Hill Rd|Rosimini Patricia M1050 Arab Hill RdBoonville, NY 13309UNDER RPTL483 UNTIL 2028|239.00|DEED BOOK|2629|346
 81.000-1-7|Hartman Dale F|11143 State Rt 46|Hartman Nancy L11143 State Rt 46Boonville, NY 13309|0.92|DEED BOOK|01973|00888
@@ -512,8 +512,8 @@
 98.000-1-7.2|The People Of The State Of NY  Adirondack Cent 302601|Webster Hill Rd|Of NyAttn: D E C50 Wolf RdAlbany, NY 12233|235.77|DEED BOOK|2120|00941
 98.000-1-8|N Y St Reforestation|Webster Hill Rd|,|34.97|DEED BOOK|00984|00104
 98.000-1-9|N Y St Reforestation|Webster Hill Rd|,|29.43|DEED BOOK|00979|00432
-333.000-24-1|State Of New York|8000001|Attn: County TreasurerCounty Office Building Oneida  County PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-333.000-24-2|State Of New York|8000002|Attn: County TreasurerCounty Office Building Oneida  Town PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-24-1|State Of New York|8000001|Attn: County TreasurerCounty Office Building Oneida  County PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-24-2|State Of New York|8000002|Attn: County TreasurerCounty Office Building Oneida  Town PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 333.000-24-4|State Of New York|8000002|Attn: County TreasurerCounty Office Building Oneida  School Purposes800 Park AveCODE  DISTRICT NAME  PARCELSFD009 Ava fireCODE  DISTRICT NAME302601 Adirondack Central S U B - T O T A L T O T A LCODE  DESCRIPTION50001 SCHL TAXBL50005 TOWN TAXBL50006 CNTY TAXBL T O T A LCODE  DESCRIPTION32252 NYSRPTL534 T O T A LROLLSEC DESCRIPTION 3 STATE OWNED LAND|0.01|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 524.000-1-1|Citizens Telecom Co of NY|080000|PO Box 2629Addison, TX 75001|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
 524.000-2-1|National Grid|080010|Attn: Property Tax Dept D.Mezz #132350-3024300 Erie Blvd WSyracuse, NY 13202|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
