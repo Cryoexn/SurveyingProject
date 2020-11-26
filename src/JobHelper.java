@@ -1,22 +1,25 @@
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.Properties;
 
 public class JobHelper {
 
-    public static void main(String [] args) {
+    public static void main(String [] args) throws IOException {
 
-        // Work Computer path to jobs
-        // String jobsPath = "Z:\"
-        // String taxRollsPath = "";
-        // String templatePath = "";
+        FileReader fr = new FileReader("jobhelper.properties");
+        Properties props = new Properties();
 
-        // Desktop Computer path to data.
-//        String jobsPath = "C:/Users/David/Documents/Java-Projects/SurveyingProject/data/";
-//        String taxRollsPath = "C:/Users/David/Documents/Java-Projects/SurveyingProject/data/taxrolls-txt/";
-//        String templatePath = "C:/Users/David/Documents/Java-Projects/SurveyingProject/data/";
+        // Load directory properties
+        props.load(fr);
 
-        // Laptop path to data.
-        String jobsPath = "/home/cryoexn/IdeaProjects/DeedResearch/data/";
-        String taxRollsPath = "/home/cryoexn/IdeaProjects/DeedResearch/data/taxrolls-txt/";
-        String templatePath = "/home/cryoexn/IdeaProjects/DeedResearch/data/";
+        // Get the properties
+        String jobsPath = props.getProperty("jobs");
+        String taxRollsPath = props.getProperty("taxrolls");
+        String templatePath = props.getProperty("templates");
+
+        System.out.println(jobsPath);
+        System.out.println(taxRollsPath);
+        System.out.println(templatePath);
 
         DeedResearchGUI researcher = new DeedResearchGUI(new TaxRollParser(taxRollsPath), new TaxRollFormatting(), jobsPath, templatePath);
     }

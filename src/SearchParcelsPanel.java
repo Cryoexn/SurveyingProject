@@ -51,11 +51,13 @@ public class SearchParcelsPanel extends JPanel {
         panelMain = new JPanel(new BorderLayout());
         JScrollPane mainFrameScrollPane = new JScrollPane(panelMain, JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED, JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
 
-        this.add(mainFrameScrollPane);
+        this.setLayout(new BorderLayout());
+
+        this.add(mainFrameScrollPane, BorderLayout.WEST);
 
         panelMain.add(createPanelInput(), BorderLayout.CENTER);
 
-        this.add(panelMain);
+        this.add(panelMain, BorderLayout.CENTER);
     }
 
     private JPanel createPanelInput() {
@@ -72,7 +74,7 @@ public class SearchParcelsPanel extends JPanel {
         lblGbc.gridwidth = 1;
         lblGbc.weighty = 2;
         lblGbc.weightx = 1;
-        lblGbc.anchor = GridBagConstraints.LINE_START;
+        lblGbc.anchor = GridBagConstraints.FIRST_LINE_START;
         lblGbc.insets = new Insets(5,5,0,5);
 
         inpGbc.ipady = 5;
@@ -148,20 +150,25 @@ public class SearchParcelsPanel extends JPanel {
         inpGbc.gridy = 3;
         inpGbc.gridwidth = 3;
         inpGbc.anchor = GridBagConstraints.LINE_START;
+        inpGbc.weighty = 1.0;
 
         panelInput.add(scpParcelList, inpGbc);
 
+        inpGbc.fill = GridBagConstraints.NONE;
+        inpGbc.weightx = 1;
         inpGbc.gridwidth = 1;
         inpGbc.insets = new Insets(15,5,15, 5);
 
-        JButton btnCreateFolder = new JButton("Create Job Folder");
-        btnCreateFolder.addActionListener(new ButtonCreateJobFolderListener());
-        btnCreateFolder.setFont(labelFont);
+        JButton btnCreateTemplate = new JButton("Create CAD Template");
+        btnCreateTemplate.addActionListener(new ButtonCreateJobFolderListener());
+        btnCreateTemplate.setFont(labelFont);
 
         inpGbc.gridx = 0;
         inpGbc.gridy = 4;
+        inpGbc.gridwidth = 1;
+        inpGbc.anchor = GridBagConstraints.LINE_START;
 
-        panelInput.add(btnCreateFolder, inpGbc);
+        panelInput.add(btnCreateTemplate, inpGbc);
 
         JButton btnCreateDeedOutline = new JButton("Create DeedOutline");
         btnCreateDeedOutline.addActionListener(new ButtonCreateDeedOutlineListener());
@@ -169,6 +176,8 @@ public class SearchParcelsPanel extends JPanel {
 
         inpGbc.gridx = 1;
         inpGbc.gridy = 4;
+        inpGbc.gridwidth = 1;
+        inpGbc.anchor = GridBagConstraints.LINE_START;
 
         panelInput.add(btnCreateDeedOutline, inpGbc);
 
@@ -178,6 +187,8 @@ public class SearchParcelsPanel extends JPanel {
 
         inpGbc.gridx = 2;
         inpGbc.gridy = 4;
+        inpGbc.gridwidth = 1;
+        inpGbc.anchor = GridBagConstraints.LINE_START;
 
         panelInput.add(btnSearchParcels, inpGbc);
 
@@ -309,23 +320,12 @@ public class SearchParcelsPanel extends JPanel {
         public void actionPerformed(ActionEvent e) {
             if(!jobNum.equals("")) {
                 try {
-                    createDirForJobNumber(jobBaseDir, jobNum);
                     createCADTemplateForJobNumber(templateDir, jobNum);
                 } catch (TaxRollFileException ex) {
                     JOptionPane.showMessageDialog(null, ex.getMessage());
                 }
             }
         }
-    }
-
-    private void createDirForJobNumber(String jobFileDir, String jobNum) throws TaxRollFileException {
-
-        File jobDir = new File(jobFileDir + jobNum + "/");
-
-        if(jobDir.mkdir())
-            JOptionPane.showMessageDialog(null, "Directory for job: " + jobNum + " Created in \"" + jobFileDir + "\"\n");
-        else
-            throw new TaxRollFileException("Folder Could Not Be Created! Check that there is not already a folder named \"" + jobNum + "\" in \"" + jobFileDir + "\"\n");
     }
 
     private void createCADTemplateForJobNumber(String templateDir, String jobNum) throws TaxRollFileException {
