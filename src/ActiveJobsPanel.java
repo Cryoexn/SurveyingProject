@@ -5,8 +5,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.image.AreaAveragingScaleFilter;
 import java.io.*;
-import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.*;
+import java.util.List;
 
 public class ActiveJobsPanel extends JPanel {
 
@@ -15,6 +15,7 @@ public class ActiveJobsPanel extends JPanel {
     private JLabel lblJobList;
     private JPanel btnPanel;
     private JButton btnAddJobs;
+    private JButton btnRemoveJobs;
     private String jobBaseDir;
     private JFileChooser fileChooser;
     private ArrayList<String> activeJobs;
@@ -47,9 +48,17 @@ public class ActiveJobsPanel extends JPanel {
 
         this.btnAddJobs = new JButton("+");
         this.btnAddJobs.addActionListener(new AddJobsButtonListener());
-        this.btnAddJobs.setSize(2,2);
+        this.btnAddJobs.setSize(1,1);
+
+        this.btnRemoveJobs = new JButton("-");
+        this.btnRemoveJobs.addActionListener(new RemoveJobsButtonListener());
+        this.setSize(1,1);
 
         this.btnPanel.add(this.btnAddJobs, gbc);
+
+        gbc.gridx = 1;
+        gbc.anchor = GridBagConstraints.LINE_END;
+        this.btnPanel.add(this.btnRemoveJobs, gbc);
 
         final File fileChooserFile = new File(this.jobBaseDir);
         this.fileChooser = new JFileChooser(fileChooserFile);
@@ -69,6 +78,19 @@ public class ActiveJobsPanel extends JPanel {
             String activeJobsLine = br.readLine();
             if(activeJobsLine != null)
                 jobsList.addAll(Arrays.asList(activeJobsLine.split(",")));
+
+            jobsList.sort((o1, o2) -> {
+                try {
+                    String[] firstComps = o1.split("-");
+                    String[] secondComps = o2.split("-");
+
+                    return Integer.valueOf(firstComps[0]).compareTo(Integer.valueOf(secondComps[0])) + Integer.valueOf(firstComps[1]).compareTo(Integer.valueOf(secondComps[1]));
+
+                } catch (Exception ignored) {
+                    /* Squash Exception */
+                    return -1;
+                }
+            });
 
             br.close();
         } catch (IOException e) {
@@ -107,12 +129,39 @@ public class ActiveJobsPanel extends JPanel {
 
             if (returnVal == JFileChooser.APPROVE_OPTION) {
                 final File [] files = fileChooser.getSelectedFiles();
+
                 for(final File f : files)
-                    activeJobs.add(f.getName());
+                    if(!activeJobs.contains(f.getName()))
+                        activeJobs.add(f.getName());
+
+                activeJobs.sort((o1, o2) -> {
+                    try {
+                        String[] firstComps = o1.split("-");
+                        String[] secondComps = o2.split("-");
+
+                        return Integer.valueOf(firstComps[0]).compareTo(Integer.valueOf(secondComps[0])) + Integer.valueOf(firstComps[1]).compareTo(Integer.valueOf(secondComps[1]));
+
+                    } catch (Exception ignored) {
+                        /* Squash Exception */
+                        return -1;
+                    }
+                });
+
                 activeJobsList.setListData(activeJobs.toArray(new String[0]));
             } else {
                 System.out.println("Open command cancelled by user.");
             }
+        }
+    }
+
+    private class RemoveJobsButtonListener implements ActionListener {
+        @Override
+        public void actionPerformed(ActionEvent e) {
+            List<String> values = activeJobsList.getSelectedValuesList();
+            for(String value : values) {
+                activeJobs.remove(value);
+            }
+            activeJobsList.setListData(activeJobs.toArray(new String[0]));
         }
     }
 }

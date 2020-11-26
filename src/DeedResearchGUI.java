@@ -9,28 +9,17 @@ import java.awt.event.WindowEvent;
 
 public class DeedResearchGUI extends JFrame {
 
-    private JLabel lblWater;
-    private JTabbedPane tbPanes;
-    private JPanel mainPanel;
+    private final JLabel lblWater;
+    private final JTabbedPane tbPanes;
 
-    private ActiveJobsPanel activeJobsPanel;
-    private JobSummaryPanel jobSummaryPanel;
-    private SearchParcelsPanel searchParcelsPanel;
-
-    private TaxRollParser parser;
-    private TaxRollFormatting formatter;
-    private String jobBaseDir;
-    private String templateDir;
+    private final ActiveJobsPanel activeJobsPanel;
+    private final JobSummaryPanel jobSummaryPanel;
+    private final SearchParcelsPanel searchParcelsPanel;
 
     public DeedResearchGUI(TaxRollParser parser, TaxRollFormatting formatter, String jobBaseDir, String templateDir) {
 
-        this.parser = parser;
-        this.formatter = formatter;
-        this.jobBaseDir = jobBaseDir;
-        this.templateDir = templateDir;
-
-        this.mainPanel = new JPanel(new BorderLayout());
-        this.mainPanel.setBorder(BorderFactory.createEmptyBorder(4, 4, 4, 4));
+        JPanel mainPanel = new JPanel(new BorderLayout());
+        mainPanel.setBorder(BorderFactory.createEmptyBorder(4, 4, 4, 4));
 
         // Set Values for Main Frame.
         this.setName("Job-Helper");
@@ -45,27 +34,27 @@ public class DeedResearchGUI extends JFrame {
         this.tbPanes = new JTabbedPane();
 
         // Initialize JPanel with list of active jobs.
-        this.activeJobsPanel = new ActiveJobsPanel(this.jobBaseDir);
+        this.activeJobsPanel = new ActiveJobsPanel(jobBaseDir);
         this.activeJobsPanel.setPreferredSize(new Dimension(150, this.getHeight()));
         this.activeJobsPanel.setListListener(new ListListener());
-        this.mainPanel.add(activeJobsPanel, BorderLayout.WEST);
-
-        // Initialize JPanel with list of check boxes.
-        this.jobSummaryPanel = new JobSummaryPanel(this.jobBaseDir, this.activeJobsPanel.getSelectedJob());
-        this.tbPanes.addTab("Job Summary", null, this.jobSummaryPanel, "Job Summary");
+        mainPanel.add(activeJobsPanel, BorderLayout.WEST);
 
         // Initialize JPanel with components to search tax roll parcels.
-        this.searchParcelsPanel = new SearchParcelsPanel(this.parser, this.formatter, this.jobBaseDir, this.templateDir, this.activeJobsPanel.getSelectedJob());
+        this.searchParcelsPanel = new SearchParcelsPanel(parser, formatter, jobBaseDir, templateDir, this.activeJobsPanel.getSelectedJob());
         this.tbPanes.addTab("Tax Roll Search", null, this.searchParcelsPanel, "Search Tax Rolls For Parcels");
+
+        // Initialize JPanel with list of check boxes.
+        this.jobSummaryPanel = new JobSummaryPanel(jobBaseDir, this.activeJobsPanel.getSelectedJob());
+        this.tbPanes.addTab("Job Summary", null, this.jobSummaryPanel, "Job Summary");
 
         this.tbPanes.addChangeListener(new TabChangeListener());
 
-        this.mainPanel.add(tbPanes, BorderLayout.CENTER);
+        mainPanel.add(tbPanes, BorderLayout.CENTER);
 
         // Create water-mark label for top of Frame.
         this.lblWater.setText(String.format("%s : %s", "Moore Land Surveying", activeJobsPanel.getSelectedJob() == null ? "No Job" : activeJobsPanel.getSelectedJob()));
         this.lblWater.setFont(new Font("Times New Roman", Font.BOLD, 30));
-        this.mainPanel.add(lblWater, BorderLayout.NORTH);
+        mainPanel.add(lblWater, BorderLayout.NORTH);
 
         this.add(mainPanel, BorderLayout.CENTER);
         this.setVisible(true);
@@ -90,11 +79,11 @@ public class DeedResearchGUI extends JFrame {
         public void stateChanged(ChangeEvent e) {
             JTabbedPane source = (JTabbedPane)e.getSource();
             if(source.getSelectedIndex() == 0) {
-                jobSummaryPanel.updateJobNum(activeJobsPanel.getSelectedJob());
-                source.setComponentAt(0, jobSummaryPanel);
-            } else if (source.getSelectedIndex() == 1) {
                 searchParcelsPanel.updateJobNum(activeJobsPanel.getSelectedJob());
                 jobSummaryPanel.saveStateOfCheckList();
+            } else if (source.getSelectedIndex() == 1) {
+                jobSummaryPanel.updateJobNum(activeJobsPanel.getSelectedJob());
+                source.setComponentAt(1, jobSummaryPanel);
             }
         }
     }
@@ -104,9 +93,9 @@ public class DeedResearchGUI extends JFrame {
         public void valueChanged(ListSelectionEvent e) {
             if(!e.getValueIsAdjusting()) {
                 jobSummaryPanel.updateJobNum(activeJobsPanel.getSelectedJob());
-                tbPanes.setComponentAt(0, jobSummaryPanel);
+                tbPanes.setComponentAt(1, jobSummaryPanel);
                 searchParcelsPanel.updateJobNum(activeJobsPanel.getSelectedJob());
-                tbPanes.setComponentAt(1, searchParcelsPanel);
+                tbPanes.setComponentAt(0, searchParcelsPanel);
                 updateWaterMark();
             }
         }

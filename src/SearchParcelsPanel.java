@@ -360,7 +360,7 @@ public class SearchParcelsPanel extends JPanel {
                 summary.append(pcl.getSecBlkPcl() + "\n");
                 summary.append(pcl.getName() + "\n");
                 summary.append(pcl.getAddress() + "\n");
-                summary.append(pcl.getAcres() + "\n");
+                summary.append("ACRES " + pcl.getAcres() + "\n");
                 summary.append(String.format("BOOK %s\tPG %s", pcl.getBookNo(), pcl.getPageNo()));
                 summary.append("\n\n");
             }

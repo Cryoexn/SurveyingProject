@@ -9,7 +9,7 @@ public class JobSummaryPanel extends JPanel {
 
     private final int NUM_ITEMS = 10;
 
-    private String jobBaseDir;
+    private final String jobBaseDir;
     private String jobNum;
 
     private ArrayList<JCheckBox> checks;
@@ -40,13 +40,13 @@ public class JobSummaryPanel extends JPanel {
         this.removeAll();
 
         try {
-            File checkList = new File(this.jobBaseDir+this.jobNum+"/"+this.jobNum+"-ck-list.txt");
+            File checkList = new File(this.jobBaseDir+this.jobNum+File.separator+this.jobNum+"-ck-list.txt");
 
             if(checkList.exists()) {
                 BufferedReader br = new BufferedReader(new FileReader(checkList));
 
                 String [] lines = new String[NUM_ITEMS];
-                String lineComps[];
+                String [] lineComps;
 
                 for(int i = 0; i < lines.length; i++)
                     lines[i] = br.readLine();
@@ -56,7 +56,7 @@ public class JobSummaryPanel extends JPanel {
                 for(int i = 0; i < lines.length - 1; i ++) {
                     lineComps = lines[i].split(",");
                     tempCk = new JCheckBox(lineComps[0].strip(), lineComps[1].strip().equals("X"));
-                    tempCk.setForeground(tempCk.isSelected() ? Color.GREEN : Color.RED);
+                    tempCk.setForeground(tempCk.isSelected() ? Color.GRAY : Color.BLACK);
                     tempCk.setFont(listFont);
                     tempCk.addActionListener(new CheckBoxListener());
                     checks.add(tempCk);
@@ -163,7 +163,7 @@ public class JobSummaryPanel extends JPanel {
     private static class CheckBoxListener implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
-            ((JCheckBox)e.getSource()).setForeground(((JCheckBox)e.getSource()).isSelected() ? Color.GREEN : Color.RED);
+            ((JCheckBox)e.getSource()).setForeground(((JCheckBox)e.getSource()).isSelected() ? Color.LIGHT_GRAY : Color.BLACK);
         }
     }
 }
