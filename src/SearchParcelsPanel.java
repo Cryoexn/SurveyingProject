@@ -13,18 +13,6 @@ import java.util.regex.PatternSyntaxException;
 
 public class SearchParcelsPanel extends JPanel {
 
-    private final int INPUT_H_GAP = 30;
-    private final int INPUT_V_GAP = 20;
-
-    private final int DISPLAY_H_GAP = 10;
-    private final int DISPLAY_V_GAP = 10;
-
-    private final int BUTTON_H_GAP = 20;
-    private final int BUTTON_V_GAP = 20;
-
-    private final int FRAME_X = 700;
-    private final int FRAME_Y = 345;
-
     private JTextField txtfParcelInput;
     private JTextArea txtaParcelList;
     private JComboBox<String> comboBoxCTV;
@@ -237,12 +225,27 @@ public class SearchParcelsPanel extends JPanel {
                 parser.setCityTownVillage(ctv);
 
                 parcelsSearch = formatter.getFormattedUserInput(txtfParcelInput.getText().split("-"));
-                parcelsFound.addAll(parser.searchTaxRollsForValues(parcelsSearch));
+
+                ArrayList<TaxRollParcel> parcelsGotten = parser.searchTaxRollsForValues(parcelsSearch);
+
+                boolean foundFlag = false;
+
+                for(TaxRollParcel pclGotten : parcelsGotten){
+                    for(TaxRollParcel pclFound : parcelsFound) {
+                        if(pclGotten.getSecBlkPcl().equals(pclFound.getSecBlkPcl())){
+                            foundFlag = true;
+                        }
+                    }
+
+                    if(!foundFlag)
+                        parcelsFound.add(pclGotten);
+
+                    foundFlag = false;
+                }
 
                 if(parcelsFound != null) {
                     updateFoundParcels();
                 } else {
-                    System.out.println(parcelsFound);
                     lblParcels.setText(String.format("Current Parcel List: %s", "No Tax Roll File"));
                 }
 
@@ -255,15 +258,15 @@ public class SearchParcelsPanel extends JPanel {
     }
 
     private void updateFoundParcels() {
+        txtaParcelList.setText("");
         if(parcelsFound.size() != 0){
             for (TaxRollParcel parcel : parcelsFound) {
-                if (!parcel.getName().equals("Not Found! Double Check Rolls")) {
+                if (!parcel.getName().equals("Not Found! Double Check Rolls") && !txtaParcelList.getText().contains(parcel.getSecBlkPcl())) {
                     txtaParcelList.append(parcel.getSecBlkPcl() + "\n");
                 }
             }
             lblParcels.setText(String.format("Current Parcel List: Found (%s)", getNumFound()));
         } else {
-            txtaParcelList.setText("");
             lblParcels.setText(String.format("Current Parcel List: ", getNumFound()));
         }
     }
@@ -348,28 +351,18 @@ public class SearchParcelsPanel extends JPanel {
     private String createTaxParcelSummary(ArrayList<TaxRollParcel> parcels) {
         StringBuilder summary = new StringBuilder();
 
+        summary.append("Job #: " + this.jobNum + "\n");
+        summary.append("\n");
+
         if(parcels.size() > 0) {
-            summary.append("+---------------------------------------------------------------------------------------------------------------+\n");
-            summary.append("| Our Parcel                                                                                                    |\n");
-            summary.append("+--------------------------+------------------------------------------------+--------------+--------------------+\n");
-            summary.append("|     Section-Block-Parcel |                                           Name |        Acres |            BOOK-PG |\n");
-            summary.append("+--------------------------+------------------------------------------------+--------------+--------------------+\n");
-            summary.append(String.format("| %24s | %46s | %12s | %18s |\n", parcels.get(0).getSecBlkPcl(), parcels.get(0).getName() != null ? parcels.get(0).getName() : "!! Manual Intervention Recommended !!", parcels.get(0).getAcres(), parcels.get(0).getInstrument().equals("NOT IN ROLLS") ? "NOT IN ROLLS" : String.format("%s-%s", parcels.get(0).getInstrumentNo(), parcels.get(0).getPageNo())));
-            summary.append("+--------------------------+------------------------------------------------+--------------+--------------------+\n\n");
-
-            if (parcels.size() > 1) {
-                summary.append("+---------------------------------------------------------------------------------------------------------------+\n");
-                summary.append("| Parcels Of Interest                                                                                           |\n");
-                summary.append("+--------------------------+------------------------------------------------+--------------+--------------------+\n");
-                summary.append("| Section-Block-Parcel     |                                           Name |        Acres |            BOOK-PG |\n");
-                summary.append("+--------------------------+------------------------------------------------+--------------+--------------------+\n");
-
-                for (int i = 1; i < parcels.size(); i++) {
-
-                    summary.append(String.format("| %24s | %46s | %12s | %18s |\n", parcels.get(i).getSecBlkPcl(), parcels.get(i).getName() != null ? parcels.get(i).getName() : "!! Manual Intervention Recommended !!", parcels.get(i).getAcres(), parcels.get(i).getInstrument().equals("NOT IN ROLLS") ? "NOT IN ROLLS" : String.format("%s-%s", parcels.get(i).getInstrumentNo(), parcels.get(i).getPageNo())));
-                    summary.append("+--------------------------+------------------------------------------------+--------------+--------------------+\n");
-
-                }
+            for (int i = 0; i < parcels.size(); i++) {
+                TaxRollParcel pcl = parcels.get(i);
+                summary.append(pcl.getSecBlkPcl() + "\n");
+                summary.append(pcl.getName() + "\n");
+                summary.append(pcl.getAddress() + "\n");
+                summary.append(pcl.getAcres() + "\n");
+                summary.append(String.format("BOOK %s\tPG %s", pcl.getBookNo(), pcl.getPageNo()));
+                summary.append("\n\n");
             }
         } else {
             summary.append("No Parcels In List.\n");
@@ -381,21 +374,25 @@ public class SearchParcelsPanel extends JPanel {
     private void createDeedOutlineForJobNumber(String jobBaseDir, String jobNum, ArrayList<TaxRollParcel> parcels) throws TaxRollFileException {
 
         if(!jobNum.equals("")) {
-            File jobDir = new File(jobBaseDir + jobNum + "/");
-            File deedOutline = new File(jobDir + "/" + jobNum +"-Deed-Outline.txt");
+            File jobDir = new File(jobBaseDir + jobNum + File.separator);
+            File deedOutline = new File(jobDir + File.separator + jobNum +"-Deed-Outline.txt");
             BufferedWriter bw;
+            StringBuilder msg = new StringBuilder();
 
             try {
                 if (deedOutline.createNewFile()) {
-                    JOptionPane.showMessageDialog(null,  jobNum + "-Deed-Outline.txt Created in \"" + jobDir + "/\"\n");
+                    msg.append(jobNum + "-Deed-Outline.txt Created in \"" + jobDir + "/\"\n");
                 }
 
                 bw = new BufferedWriter(new FileWriter(deedOutline));
                 bw.write(createTaxParcelSummary(parcels));
 
-                JOptionPane.showMessageDialog(null, parcels.size() + " Parcels written to \"" + jobNum + "-Deed-Outline.txt\"\n");
+                msg.append(parcels.size() + " Parcels written to \"" + jobNum + "-Deed-Outline.txt\"\n");
 
+                bw.flush();
                 bw.close();
+
+                JOptionPane.showMessageDialog(null, msg.toString());
 
             } catch (IOException ex) {
                 if (ex.getMessage().equals("No such file or directory"))
