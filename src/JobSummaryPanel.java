@@ -7,12 +7,10 @@ import java.util.ArrayList;
 
 public class JobSummaryPanel extends JPanel {
 
-    private final int NUM_ITEMS = 10;
-
     private final String jobBaseDir;
     private String jobNum;
 
-    private ArrayList<JCheckBox> checks;
+    private final ArrayList<JCheckBox> checks;
 
 
     public JobSummaryPanel(String jobBaseDir, String jobNum) {
@@ -21,7 +19,7 @@ public class JobSummaryPanel extends JPanel {
 
         this.setLayout(new GridBagLayout());
 
-        checks = new ArrayList<JCheckBox>();
+        checks = new ArrayList<>();
 
         if(this.jobNum != null)
             createCheckList();
@@ -45,6 +43,7 @@ public class JobSummaryPanel extends JPanel {
             if(checkList.exists()) {
                 BufferedReader br = new BufferedReader(new FileReader(checkList));
 
+                int NUM_ITEMS = 10;
                 String [] lines = new String[NUM_ITEMS];
                 String [] lineComps;
 

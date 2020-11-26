@@ -14,21 +14,19 @@ import java.util.regex.PatternSyntaxException;
 public class SearchParcelsPanel extends JPanel {
 
     private JTextField txtfParcelInput;
-    private JTextArea txtaParcelList;
+    private final JTextArea txtaParcelList;
     private JComboBox<String> comboBoxCTV;
     private JLabel lblParcels;
-    private JButton btnClearParcels;
-    private JPanel panelMain;
 
     private String jobNum;
-    private String jobBaseDir;
-    private String templateDir;
+    private final String jobBaseDir;
+    private final String templateDir;
 
-    private TaxRollParser parser;
-    private TaxRollFormatting formatter;
+    private final TaxRollParser parser;
+    private final TaxRollFormatting formatter;
 
     private ArrayList<TaxRollParcel> parcelsSearch;
-    private ArrayList<TaxRollParcel> parcelsFound;
+    private final ArrayList<TaxRollParcel> parcelsFound;
 
     public SearchParcelsPanel(TaxRollParser parser, TaxRollFormatting formatter, String jobBaseDir, String templateDir, String jobNum) {
 
@@ -48,7 +46,7 @@ public class SearchParcelsPanel extends JPanel {
         this.parser.setCityTownVillage(CityTownVillageVals.CTV_LIST[0]);
         this.formatter.setTownCity(CityTownVillageVals.CTV_LIST[0]);
 
-        panelMain = new JPanel(new BorderLayout());
+        JPanel panelMain = new JPanel(new BorderLayout());
         JScrollPane mainFrameScrollPane = new JScrollPane(panelMain, JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED, JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
 
         this.setLayout(new BorderLayout());
@@ -129,7 +127,7 @@ public class SearchParcelsPanel extends JPanel {
 
         panelInput.add(lblParcels, lblGbc);
 
-        btnClearParcels = new JButton("Clear");
+        JButton btnClearParcels = new JButton("Clear");
         btnClearParcels.setFont(inputFont);
         btnClearParcels.addActionListener(new ClearButtonListener());
 
@@ -207,6 +205,7 @@ public class SearchParcelsPanel extends JPanel {
     private class ComboBoxTownCityVillageListener implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
+
             JComboBox<String> cmb = (JComboBox<String>) e.getSource();
 
             String townCityVillage = (String) cmb.getSelectedItem();
@@ -270,7 +269,7 @@ public class SearchParcelsPanel extends JPanel {
 
     private void updateFoundParcels() {
         txtaParcelList.setText("");
-        if(parcelsFound.size() != 0){
+        if(parcelsFound.size() != 0) {
             for (TaxRollParcel parcel : parcelsFound) {
                 if (!parcel.getName().equals("Not Found! Double Check Rolls") && !txtaParcelList.getText().contains(parcel.getSecBlkPcl())) {
                     txtaParcelList.append(parcel.getSecBlkPcl() + "\n");
@@ -278,7 +277,7 @@ public class SearchParcelsPanel extends JPanel {
             }
             lblParcels.setText(String.format("Current Parcel List: Found (%s)", getNumFound()));
         } else {
-            lblParcels.setText(String.format("Current Parcel List: ", getNumFound()));
+            lblParcels.setText("Current Parcel List: ");
         }
     }
 
@@ -351,16 +350,15 @@ public class SearchParcelsPanel extends JPanel {
     private String createTaxParcelSummary(ArrayList<TaxRollParcel> parcels) {
         StringBuilder summary = new StringBuilder();
 
-        summary.append("Job #: " + this.jobNum + "\n");
+        summary.append("Job #: ").append(this.jobNum).append("\n");
         summary.append("\n");
 
         if(parcels.size() > 0) {
-            for (int i = 0; i < parcels.size(); i++) {
-                TaxRollParcel pcl = parcels.get(i);
-                summary.append(pcl.getSecBlkPcl() + "\n");
-                summary.append(pcl.getName() + "\n");
-                summary.append(pcl.getAddress() + "\n");
-                summary.append("ACRES " + pcl.getAcres() + "\n");
+            for (TaxRollParcel pcl : parcels) {
+                summary.append(pcl.getSecBlkPcl()).append("\n");
+                summary.append(pcl.getName()).append("\n");
+                summary.append(pcl.getAddress()).append("\n");
+                summary.append("ACRES ").append(pcl.getAcres()).append("\n");
                 summary.append(String.format("BOOK %s\tPG %s", pcl.getBookNo(), pcl.getPageNo()));
                 summary.append("\n\n");
             }
@@ -381,13 +379,13 @@ public class SearchParcelsPanel extends JPanel {
 
             try {
                 if (deedOutline.createNewFile()) {
-                    msg.append(jobNum + "-Deed-Outline.txt Created in \"" + jobDir + "/\"\n");
+                    msg.append(jobNum).append("-Deed-Outline.txt Created in \"").append(jobDir).append("/\"\n");
                 }
 
                 bw = new BufferedWriter(new FileWriter(deedOutline));
                 bw.write(createTaxParcelSummary(parcels));
 
-                msg.append(parcels.size() + " Parcels written to \"" + jobNum + "-Deed-Outline.txt\"\n");
+                msg.append(parcels.size()).append(" Parcels written to \"").append(jobNum).append("-Deed-Outline.txt\"\n");
 
                 bw.flush();
                 bw.close();

@@ -3,22 +3,17 @@ import javax.swing.event.ListSelectionListener;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.awt.image.AreaAveragingScaleFilter;
 import java.io.*;
 import java.util.*;
 import java.util.List;
 
 public class ActiveJobsPanel extends JPanel {
 
-    private JList<String> activeJobsList;
-    private JScrollPane scrollPane;
-    private JLabel lblJobList;
-    private JPanel btnPanel;
-    private JButton btnAddJobs;
-    private JButton btnRemoveJobs;
-    private String jobBaseDir;
-    private JFileChooser fileChooser;
-    private ArrayList<String> activeJobs;
+    private final JList<String> activeJobsList;
+    private final JScrollPane scrollPane;
+    private final String jobBaseDir;
+    private final JFileChooser fileChooser;
+    private final ArrayList<String> activeJobs;
 
     public ActiveJobsPanel(String jobBaseDir) {
         this.jobBaseDir = jobBaseDir;
@@ -33,10 +28,10 @@ public class ActiveJobsPanel extends JPanel {
         this.scrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED);
         this.scrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
 
-        this.lblJobList = new JLabel("Active Jobs");
-        this.lblJobList.setFont(new Font("Times New Roman", Font.BOLD, 16));
+        JLabel lblJobList = new JLabel("Active Jobs");
+        lblJobList.setFont(new Font("Times New Roman", Font.BOLD, 16));
 
-        this.btnPanel = new JPanel(new GridBagLayout());
+        JPanel btnPanel = new JPanel(new GridBagLayout());
 
         GridBagConstraints gbc = new GridBagConstraints();
 
@@ -46,28 +41,28 @@ public class ActiveJobsPanel extends JPanel {
         gbc.gridwidth = 1;
         gbc.anchor = GridBagConstraints.LINE_START;
 
-        this.btnAddJobs = new JButton("+");
-        this.btnAddJobs.addActionListener(new AddJobsButtonListener());
-        this.btnAddJobs.setSize(1,1);
+        JButton btnAddJobs = new JButton("+");
+        btnAddJobs.addActionListener(new AddJobsButtonListener());
+        btnAddJobs.setSize(1,1);
 
-        this.btnRemoveJobs = new JButton("-");
-        this.btnRemoveJobs.addActionListener(new RemoveJobsButtonListener());
+        JButton btnRemoveJobs = new JButton("-");
+        btnRemoveJobs.addActionListener(new RemoveJobsButtonListener());
         this.setSize(1,1);
 
-        this.btnPanel.add(this.btnAddJobs, gbc);
+        btnPanel.add(btnAddJobs, gbc);
 
         gbc.gridx = 1;
         gbc.anchor = GridBagConstraints.LINE_END;
-        this.btnPanel.add(this.btnRemoveJobs, gbc);
+        btnPanel.add(btnRemoveJobs, gbc);
 
         final File fileChooserFile = new File(this.jobBaseDir);
         this.fileChooser = new JFileChooser(fileChooserFile);
         this.fileChooser.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
         this.fileChooser.setMultiSelectionEnabled(true);
 
-        this.add(this.lblJobList, BorderLayout.NORTH);
+        this.add(lblJobList, BorderLayout.NORTH);
         this.add(this.scrollPane, BorderLayout.CENTER);
-        this.add(this.btnPanel, BorderLayout.SOUTH);
+        this.add(btnPanel, BorderLayout.SOUTH);
     }
 
     private ArrayList<String> loadActiveJobs() {
