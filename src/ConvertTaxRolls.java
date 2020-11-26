@@ -229,19 +229,23 @@ public class ConvertTaxRolls {
                         i++;
                     }
 
-                    String instrType = null;
-                    String instrNum  = null;
-                    String page = null;
+                    String bookNum  = null;
+                    String pageNum = null;
 
                     if (lineList.get(i).contains("DEED BOOK")) {
                         String[] deedComps = lineList.get(i).split(" ");
-                        page = !deedComps[2].equals("00000") && deedComps.length > 3 ? deedComps[3].replace("PG-", "") : "ChkRolls";
-                        instrType = deedComps[0] + " " + deedComps[1];
-                        instrNum = deedComps[2];
+                        pageNum = !deedComps[2].equals("00000") && deedComps.length > 3 ? deedComps[3].replace("PG-", "") : "ChkRolls";
+                        bookNum = deedComps[2];
                         containedDeedbook = true;
                     }
 
-                    bw.write(String.format("%s|%s|%s|%s|%s|%s|%s|%s\n", secBlkPcl, name, address, mailing.toString(), acres != null ? acres : "NOT IN ROLLS", instrType != null ? instrType : "NOT IN ROLLS", instrNum != null ? instrNum : "NOT IN ROLLS", page != null ? page : "NOT IN ROLLS"));
+                    bw.write(String.format("%s|%s|%s|%s|%s|%s|%s\n", secBlkPcl.strip(),
+                                                                     name.strip(),
+                                                                     address.strip(),
+                                                                     mailing.toString().strip(),
+                                                                     acres.strip() != null ? acres.strip() : "NOT IN ROLLS",
+                                                                     bookNum.strip() != null ? bookNum.strip() : "NOT IN ROLLS",
+                                                                     pageNum.strip() != null ? pageNum.strip() : "NOT IN ROLLS"));
 
                     if(containedAcres && !containedDeedbook)
                         i--;
@@ -275,7 +279,7 @@ public class ConvertTaxRolls {
         System.out.print("Checking Number of Parcels Converted Successfully... ");
 
         for(String pdfline : pdflist) {
-            System.out.println(pdfline);
+            //System.out.println(pdfline);
             pdfline = pdfline.replaceAll("\\*", "");
             pdfline = pdfline.strip();
             for(String conline : conSBLS) {
