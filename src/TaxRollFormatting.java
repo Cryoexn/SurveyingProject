@@ -4,14 +4,11 @@ import java.util.ArrayList;
 
 public class TaxRollFormatting {
 
-    private String townCityVillage;
+    public static final String[] DEFAULT_FMT   = new String[] { "%d.%03d", "%04d", "%03d"};
+    public static final String[] DCML_FMT = new String[] { "%d.%03d", "%d", "%d.%d"};
+    public static final String[] DCML_SLASH_FMT = new String[] { "%d.%03d", "%d", "%d.%d/%d"};
 
-    public TaxRollFormatting() { this.townCityVillage = null; }
-    public TaxRollFormatting(String townCity) {
-        this.townCityVillage = townCity;
-    }
-
-    public ArrayList<TaxRollParcel> getFormattedUserInput(String [] userInput) throws TaxRollFormattingException {
+    public static ArrayList<TaxRollParcel> getFormattedUserInput(String [] userInput) {
         if(userInput != null) {
 
             if(!userInput[0].contains(".")) {
@@ -30,14 +27,30 @@ public class TaxRollFormatting {
                 for (String pcl : parcels) {
                     if (pcl.contains(".")) {
                         String[] tempPcls = pcl.split("\\.");
-                        formattedValues.add(this.getFormattedTaxNumbers(
-                                Integer.parseInt(sec[0]),
-                                Integer.parseInt(sec[1]),
-                                Integer.parseInt(userInput[1]),
-                                Integer.parseInt(tempPcls[0]),
-                                Integer.parseInt(tempPcls[1])));
+                        String[] tempSlash;
+                        if(tempPcls.length > 1) {
+                            if (tempPcls[1].contains("/")) {
+                                tempSlash = tempPcls[1].split("/");
+
+                                formattedValues.add(getFormattedTaxNumbers(
+                                        Integer.parseInt(sec[0]),
+                                        Integer.parseInt(sec[1]),
+                                        Integer.parseInt(userInput[1]),
+                                        Integer.parseInt(tempPcls[0]),
+                                        Integer.parseInt(tempSlash[0]), Integer.parseInt(tempSlash[1])));
+                            } else {
+                                formattedValues.add(getFormattedTaxNumbers(
+                                        Integer.parseInt(sec[0]),
+                                        Integer.parseInt(sec[1]),
+                                        Integer.parseInt(userInput[1]),
+                                        Integer.parseInt(tempPcls[0]),
+                                        Integer.parseInt(tempPcls[1])));
+                            }
+                        } else {
+                            System.out.println(tempPcls.toString());
+                        }
                     } else {
-                        formattedValues.add(this.getFormattedTaxNumbers(
+                        formattedValues.add(getFormattedTaxNumbers(
                                 Integer.parseInt(sec[0]),
                                 Integer.parseInt(sec[1]),
                                 Integer.parseInt(userInput[1]),
@@ -45,7 +58,7 @@ public class TaxRollFormatting {
                     }
                 }
             } else {
-                formattedValues.add(this.getFormattedTaxNumbers(
+                formattedValues.add(getFormattedTaxNumbers(
                         Integer.parseInt(sec[0]),
                         Integer.parseInt(sec[1]),
                         Integer.parseInt(userInput[1])));
@@ -56,203 +69,22 @@ public class TaxRollFormatting {
         return null;
     }
 
-    private TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block, int parcel1, int parcel2) throws TaxRollFormattingException {
-        String [] fmt = getDecimalParcelFormat();
+    private static TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block, int parcel1, int parcel2, int parcel3) {
+        String [] fmt = DCML_SLASH_FMT;
+        return new TaxRollParcel(String.format(fmt[0], section1, section2), String.format(fmt[1], block), String.format(fmt[2], parcel1, parcel2, parcel3), "Not Found! Double Check Rolls", "X", "X", "X", "X", "X");
+    }
+    private static TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block, int parcel1, int parcel2) {
+        String [] fmt = DCML_FMT;
         return new TaxRollParcel(String.format(fmt[0], section1, section2), String.format(fmt[1], block), String.format(fmt[2], parcel1, parcel2), "Not Found! Double Check Rolls", "X", "X", "X", "X", "X");
     }
 
-    private TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block, int parcel) throws TaxRollFormattingException {
-        String [] fmt = getWholeParcelFormat();
+    private static TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block, int parcel) {
+        String [] fmt = DEFAULT_FMT;
         return new TaxRollParcel(String.format(fmt[0], section1, section2), String.format(fmt[1], block), String.format(fmt[2], parcel), "Not Found! Double Check Rolls", "X", "X", "X", "X", "X");
     }
 
-    private TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block) throws TaxRollFormattingException {
-        String [] fmt = getWholeParcelFormat();
+    private static TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block) {
+        String [] fmt = DEFAULT_FMT;
         return new TaxRollParcel(String.format(fmt[0], section1, section2), String.format(fmt[1], block), null, "Not Found! Double Check Rolls", "X", "X", "X", "X", "X");
-    }
-
-    private String[] getWholeParcelFormat() throws TaxRollFormattingException {
-        String [] fmt;
-
-        switch (this.townCityVillage) {
-            case CityTownVillageVals.ANNSVILLE:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.AUGUSTA:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.AVA:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.BOONVILLE:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.BRIDGEWATER:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.CAMDEN:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.DEERFIELD:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.FLORENCE:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.FLOYD:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.FORESTPORT:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.KIRKLAND:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.LEE:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.MARCY:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.MARSHALL:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.NEW_HARTFORD:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.PARIS:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.REMSEN:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.SANGERFIELD:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.STEUBEN:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.TRENTON:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.VERNON:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.VERONA:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.VIENNA:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.WESTERN:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.WESTMORELAND:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.WHITESTOWN:
-                fmt = CityTownVillageVals.DEFAULT_FMT;
-                break;
-            case CityTownVillageVals.ROME:
-                fmt = CityTownVillageVals.ROME_FMT;
-                break;
-            default:
-                throw new TaxRollFormattingException("Error: Town/City Not Found! Double Check Your Program Arguments!\n");
-        }
-        return fmt;
-    }
-    private String[] getDecimalParcelFormat() throws TaxRollFormattingException {
-        String [] fmt;
-
-        switch (this.townCityVillage) {
-            case CityTownVillageVals.ANNSVILLE:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.AUGUSTA:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.AVA:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.BOONVILLE:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.BRIDGEWATER:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.CAMDEN:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.DEERFIELD:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.FLORENCE:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.FLOYD:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.FORESTPORT:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.KIRKLAND:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.LEE:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.MARCY:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.MARSHALL:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.NEW_HARTFORD:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.PARIS:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.REMSEN:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.SANGERFIELD:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.STEUBEN:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.TRENTON:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.VERNON:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.VERONA:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.VIENNA:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.WESTERN:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.WESTMORELAND:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.WHITESTOWN:
-                fmt = CityTownVillageVals.DEFAULT_DML_FMT;
-                break;
-            case CityTownVillageVals.ROME:
-                fmt = CityTownVillageVals.ROME_FMT;
-                break;
-            default:
-                throw new TaxRollFormattingException("Error: Town/City Not Found! Double Check Your Program Arguments!\n");
-        }
-        return fmt;
-    }
-
-    public void setTownCity(String townCity) {
-        this.townCityVillage = townCity;
     }
 }

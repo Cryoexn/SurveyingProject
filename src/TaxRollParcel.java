@@ -1,4 +1,6 @@
-public class TaxRollParcel {
+import javax.swing.event.DocumentListener;
+
+public class TaxRollParcel implements Comparable<TaxRollParcel> {
 
     private String section;
     private String block;
@@ -131,15 +133,42 @@ public class TaxRollParcel {
 
     @Override
     public String toString() {
-        return "TaxRollParcel{" +
-                "section='" + section + '\'' +
-                ", block='" + block + '\'' +
-                ", parcel='" + parcel + '\'' +
-                ", name='" + name + '\'' +
-                ", mailing='" + mailing + '\'' +
-                ", acres='" + acres + '\'' +
-                ", bookNo='" + bookNo + '\'' +
-                ", pageNo='" + pageNo + '\'' +
-                '}';
+        return String.format("%s|%s|%s|%s|%s|%s|%s\n", getSecBlkPcl(), this.name, this.address, this.mailing, this.acres, this.bookNo, this.pageNo);
+    }
+
+    @Override
+    public int compareTo(TaxRollParcel o) {
+
+        try {
+            if (Double.parseDouble(this.section) == Double.parseDouble(o.section)) {
+                if (Integer.parseInt(this.block) == Integer.parseInt(o.block) && this.parcel != null && o.parcel != null) {
+                    if(this.parcel.contains("-") && !o.parcel.contains("-")) {
+                        String [] pclThisComps = this.parcel.split("-");
+                        String [] pclOComps = o.parcel.split("-");
+                        if(Double.parseDouble(pclThisComps[0]) == Double.parseDouble(pclOComps[0])) {
+                            return Double.compare(Double.parseDouble(pclThisComps[0]), Double.parseDouble(pclOComps[0]));
+                        } else {
+                            return Double.compare(Double.parseDouble(pclThisComps[1]), Double.parseDouble(pclOComps[1]));
+                        }
+                    } else if(!this.parcel.contains("/") && !o.parcel.contains("/")) {
+                        String [] pclThisComps = this.parcel.split("/");
+                        String [] pclOComps = o.parcel.split("/");
+                        if(Double.parseDouble(pclThisComps[0]) == Double.parseDouble(pclOComps[0])) {
+                            return Double.compare(Double.parseDouble(pclThisComps[1]), Double.parseDouble(pclOComps[1]));
+                        } else {
+                            return Double.compare(Double.parseDouble(pclThisComps[0]), Double.parseDouble(pclOComps[0]));
+                        }
+                    } else {
+                        return Double.compare(Double.parseDouble(this.parcel),Double.parseDouble(o.parcel));
+                    }
+                } else {
+                    return Integer.compare(Integer.parseInt(this.block), Integer.parseInt(o.block));
+                }
+            } else {
+                return Double.compare(Double.parseDouble(this.section), Double.parseDouble(o.section));
+            }
+        } catch (NumberFormatException ex) {
+            return 0;
+        }
     }
 }

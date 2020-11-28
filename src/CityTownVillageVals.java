@@ -1,9 +1,7 @@
 public interface CityTownVillageVals {
 
     // Current know formats for Tax Roll parcels
-    public static final String[] ROME_FMT   = new String[] { "%d.%03d", "%04d", "%03d"};
-    public static final String[] DEFAULT_FMT = new String[] { "%d.%03d", "%d", "%d"};
-    public static final String[] DEFAULT_DML_FMT = new String[] { "%d.%03d", "%d", "%d.%d"};
+
 
     public static final String [] CTV_LIST = {
         "Annsville",

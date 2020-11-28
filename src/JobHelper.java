@@ -17,6 +17,6 @@ public class JobHelper {
         String taxRollsPath = props.getProperty("taxrolls");
         String templatePath = props.getProperty("templates");
 
-        DeedResearchGUI researcher = new DeedResearchGUI(new TaxRollParser(taxRollsPath), new TaxRollFormatting(), jobsPath, templatePath);
+        DeedResearchGUI researcher = new DeedResearchGUI(new TaxRollParser(taxRollsPath), jobsPath, templatePath);
     }
 }
