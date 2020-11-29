@@ -1,8 +1,5 @@
-import CustomExceptions.TaxRollFileException;
-
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class TaxRollParser {
     private final ArrayList<TaxRollParcel> fileParcels;

@@ -3,7 +3,6 @@ import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Objects;
 
 import org.apache.pdfbox.pdmodel.PDDocument;
@@ -37,7 +36,6 @@ public class ConvertTaxRolls {
             }
 
             checkNumOfParcelsConverted(parcels, listCopy);
-            sortFormattedParcels(parcels);
             writeFormattedParcelsToFile(parcels, txtParcels);
 
         } catch(IOException ex) {
@@ -244,13 +242,13 @@ public class ConvertTaxRolls {
                     containedDeedbook = true;
                 }
 
-                secBlkPcl.split("-");
+                String[] sbl = TaxRollFormatting.getFormattedFileSBL(secBlkPcl.split("-"));
 
-                // -----
-                // Format secBlkPcl into rome formatting.
-                // -----
+                if(sbl.length == 3)
+                    fmtdParcels.add(new TaxRollParcel(sbl[0], sbl[1], sbl[2], name.strip(), address.strip(), mailing.toString().strip(), acres != null ? acres.strip() : "NOT IN ROLLS", bookNum != null ? bookNum.strip() : "NOT IN ROLLS", pageNum != null ? pageNum.strip() : "NOT IN ROLLS"));
+                else
+                    fmtdParcels.add(new TaxRollParcel(sbl[0], sbl[1], null, name.strip(), address.strip(), mailing.toString().strip(), acres != null ? acres.strip() : "NOT IN ROLLS", bookNum != null ? bookNum.strip() : "NOT IN ROLLS", pageNum != null ? pageNum.strip() : "NOT IN ROLLS"));
 
-                //fmtdParcels.add(new TaxRollParcel(sbl[0], sbl[1], sbl[2], name.strip(), address.strip(), mailing.toString().strip(), acres != null ? acres.strip() : "NOT IN ROLLS", bookNum != null ? bookNum.strip() : "NOT IN ROLLS", pageNum != null ? pageNum.strip() : "NOT IN ROLLS"));
 
                 if (containedAcres && !containedDeedbook)
                     i--;
@@ -328,13 +326,6 @@ public class ConvertTaxRolls {
         }
 
         return sbls;
-    }
-
-    private static void sortFormattedParcels(ArrayList<TaxRollParcel> parcels) {
-
-        System.out.print("Sorting Parcels... ");
-        Collections.sort(parcels);
-        System.out.println("Done");
     }
 
     private static void writeFormattedParcelsToFile(ArrayList<TaxRollParcel> parcels, File txtFile) {

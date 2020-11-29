@@ -187,11 +187,7 @@ public class SearchParcelsPanel extends JPanel {
         if(!txtfParcelInput.getText().equals("") && isValidFmt(txtfParcelInput.getText())) {
                 parcelsSearch = TaxRollFormatting.getFormattedUserInput(txtfParcelInput.getText().split("-"));
 
-                System.out.println("Search: " + parcelsSearch.toString());
-
                 ArrayList<TaxRollParcel> parcelsGotten = parser.searchTaxRollsForValues(parcelsSearch);
-
-                System.out.println("Found: " + parcelsGotten.toString());
 
                 boolean foundFlag = false;
 
