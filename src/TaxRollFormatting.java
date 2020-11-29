@@ -1,18 +1,17 @@
 import CustomExceptions.TaxRollFormattingException;
 
-import java.security.SecureRandom;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class TaxRollFormatting {
 
-    public static final String[] DEFAULT_FMT   = new String[] { "%d.%03d", "%04d", "%03d"};
-    public static final String[] DEFAULT_DASH_FMT   = new String[] { "%d.%03d", "%04d", "%03d-%03d"};
-    public static final String[] DCML_FMT = new String[] { "%d.%03d", "%04d", "%03d.%03d"};
-    public static final String[] DCML_SLASH_FMT = new String[] { "%d.%03d", "%04d", "%03d.%03d/%d"};
-    public static final String[] DCML_DASH_FMT = new String[] {"%d.%03d", "%04d", "%03d.%03d\\-%03d"};
+    private String townCityVillage;
 
-    public static ArrayList<TaxRollParcel> getFormattedUserInput(String [] userInput) {
+    public TaxRollFormatting() { this.townCityVillage = null; }
+    public TaxRollFormatting(String townCity) {
+        this.townCityVillage = townCity;
+    }
+
+    public ArrayList<TaxRollParcel> getFormattedUserInput(String [] userInput) throws TaxRollFormattingException {
         if(userInput != null) {
 
             if(!userInput[0].contains(".")) {
@@ -31,30 +30,14 @@ public class TaxRollFormatting {
                 for (String pcl : parcels) {
                     if (pcl.contains(".")) {
                         String[] tempPcls = pcl.split("\\.");
-                        String[] tempSlash;
-                        if(tempPcls.length > 1) {
-                            if (tempPcls[1].contains("/")) {
-                                tempSlash = tempPcls[1].split("/");
-
-                                formattedValues.add(getFormattedTaxNumbers(
-                                        Integer.parseInt(sec[0]),
-                                        Integer.parseInt(sec[1]),
-                                        Integer.parseInt(userInput[1]),
-                                        Integer.parseInt(tempPcls[0]),
-                                        Integer.parseInt(tempSlash[0]), Integer.parseInt(tempSlash[1])));
-                            } else {
-                                formattedValues.add(getFormattedTaxNumbers(
-                                        Integer.parseInt(sec[0]),
-                                        Integer.parseInt(sec[1]),
-                                        Integer.parseInt(userInput[1]),
-                                        Integer.parseInt(tempPcls[0]),
-                                        Integer.parseInt(tempPcls[1])));
-                            }
-                        } else {
-                            System.out.println(tempPcls.toString());
-                        }
+                        formattedValues.add(this.getFormattedTaxNumbers(
+                                Integer.parseInt(sec[0]),
+                                Integer.parseInt(sec[1]),
+                                Integer.parseInt(userInput[1]),
+                                Integer.parseInt(tempPcls[0]),
+                                Integer.parseInt(tempPcls[1])));
                     } else {
-                        formattedValues.add(getFormattedTaxNumbers(
+                        formattedValues.add(this.getFormattedTaxNumbers(
                                 Integer.parseInt(sec[0]),
                                 Integer.parseInt(sec[1]),
                                 Integer.parseInt(userInput[1]),
@@ -62,7 +45,7 @@ public class TaxRollFormatting {
                     }
                 }
             } else {
-                formattedValues.add(getFormattedTaxNumbers(
+                formattedValues.add(this.getFormattedTaxNumbers(
                         Integer.parseInt(sec[0]),
                         Integer.parseInt(sec[1]),
                         Integer.parseInt(userInput[1])));
@@ -73,81 +56,70 @@ public class TaxRollFormatting {
         return null;
     }
 
-    public static String[] getFormattedFileSBL(String [] fileSbl) {
-        if(fileSbl != null) {
-
-            if(!fileSbl[0].contains(".")) {
-                fileSbl[0] = fileSbl[0] + ".0";
-            }
-
-            ArrayList<String> formattedValues = new ArrayList<>();
-
-            String[] sec = fileSbl[0].split("\\.");
-
-            if(fileSbl.length == 3) {
-                if(fileSbl[2].contains(".")) {
-                    String[] tempPcls = fileSbl[2].split("\\.");
-                    if(tempPcls.length > 1) {
-                        if (tempPcls[1].contains("/")) {
-                            String[] tempSlash = tempPcls[1].split("/");
-                            formattedValues.add(String.format(DCML_SLASH_FMT[0], Integer.parseInt(sec[0]), Integer.parseInt(sec[1])));
-                            formattedValues.add(String.format(DCML_SLASH_FMT[1], Integer.parseInt(fileSbl[1])));
-                            formattedValues.add(String.format(DCML_SLASH_FMT[2], Integer.parseInt(tempPcls[0]), Integer.parseInt(tempSlash[0]), Integer.parseInt(tempSlash[1])));
-                        } else {
-                            formattedValues.add(String.format(DCML_FMT[0], Integer.parseInt(sec[0]), Integer.parseInt(sec[1])));
-                            formattedValues.add(String.format(DCML_FMT[1], fileSbl[1].equals("") ? 1 : Integer.parseInt(fileSbl[1])));
-                            formattedValues.add(String.format(DCML_FMT[2], Integer.parseInt(tempPcls[0]), Integer.parseInt(tempPcls[1])));
-                        }
-                    } else {
-                        System.out.println(Arrays.toString(tempPcls));
-                    }
-                } else {
-                    formattedValues.add(String.format(DEFAULT_FMT[0], Integer.parseInt(sec[0]), Integer.parseInt(sec[1])));
-                    formattedValues.add(String.format(DEFAULT_FMT[1],  Integer.parseInt(fileSbl[1])));
-                    formattedValues.add(String.format(DEFAULT_FMT[2], Integer.parseInt(fileSbl[2])));
-                }
-            } else if(fileSbl.length == 4) {
-                if(fileSbl[2].contains(".")) {
-                    String [] parcelDcml = fileSbl[2].split("\\.");
-
-                    formattedValues.add(String.format(DCML_DASH_FMT[0], Integer.parseInt(sec[0]), Integer.parseInt(sec[1])));
-                    formattedValues.add(String.format(DCML_DASH_FMT[1],  Integer.parseInt(fileSbl[1])));
-
-                    if(parcelDcml.length < 2){
-                        formattedValues.add(String.format(DCML_DASH_FMT[2], Integer.parseInt(parcelDcml[0]), 0, Integer.parseInt(fileSbl[3])));
-                    }
-
-                } else {
-                    formattedValues.add(String.format(DEFAULT_DASH_FMT[0], Integer.parseInt(sec[0]), Integer.parseInt(sec[1])));
-                    formattedValues.add(String.format(DEFAULT_FMT[1],  Integer.parseInt(fileSbl[1])));
-                    formattedValues.add(String.format(DEFAULT_FMT[2], Integer.parseInt(fileSbl[2]), Integer.parseInt(fileSbl[3])));
-                }
-            } else if(fileSbl.length == 2) {
-                formattedValues.add(String.format(DEFAULT_FMT[0], Integer.parseInt(sec[0]), Integer.parseInt(sec[1])));
-                formattedValues.add(String.format(DEFAULT_FMT[1], Integer.parseInt(fileSbl[1])));
-            }
-
-            return formattedValues.toArray(new String[0]);
-        }
-        return null;
-    }
-
-    private static TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block, int parcel1, int parcel2, int parcel3) {
-        String [] fmt = DCML_SLASH_FMT;
-        return new TaxRollParcel(String.format(fmt[0], section1, section2), String.format(fmt[1], block), String.format(fmt[2], parcel1, parcel2, parcel3), "Not Found! Double Check Rolls", "X", "X", "X", "X", "X");
-    }
-    private static TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block, int parcel1, int parcel2) {
-        String [] fmt = DCML_FMT;
+    private TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block, int parcel1, int parcel2) throws TaxRollFormattingException {
+        String [] fmt = getDecimalParcelFormat();
         return new TaxRollParcel(String.format(fmt[0], section1, section2), String.format(fmt[1], block), String.format(fmt[2], parcel1, parcel2), "Not Found! Double Check Rolls", "X", "X", "X", "X", "X");
     }
 
-    private static TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block, int parcel) {
-        String [] fmt = DEFAULT_FMT;
+    private TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block, int parcel) throws TaxRollFormattingException {
+        String [] fmt = getWholeParcelFormat();
         return new TaxRollParcel(String.format(fmt[0], section1, section2), String.format(fmt[1], block), String.format(fmt[2], parcel), "Not Found! Double Check Rolls", "X", "X", "X", "X", "X");
     }
 
-    private static TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block) {
-        String [] fmt = DEFAULT_FMT;
+    private TaxRollParcel getFormattedTaxNumbers(int section1, int section2, int block) throws TaxRollFormattingException {
+        String [] fmt = getWholeParcelFormat();
         return new TaxRollParcel(String.format(fmt[0], section1, section2), String.format(fmt[1], block), null, "Not Found! Double Check Rolls", "X", "X", "X", "X", "X");
+    }
+
+    private String[] getWholeParcelFormat() throws TaxRollFormattingException {
+
+        return switch (this.townCityVillage) {
+            case CityTownVillageVals.ANNSVILLE -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.AUGUSTA -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.AVA -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.BOONVILLE -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.BRIDGEWATER -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.CAMDEN -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.DEERFIELD -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.FLORENCE -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.FLOYD -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.FORESTPORT -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.KIRKLAND -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.LEE -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.MARCY -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.MARSHALL -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.NEW_HARTFORD -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.PARIS -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.REMSEN -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.SANGERFIELD -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.STEUBEN -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.TRENTON -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.VERNON -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.VERONA -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.VIENNA -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.WESTERN -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.WESTMORELAND -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.WHITESTOWN -> CityTownVillageVals.DEFAULT_FMT;
+            case CityTownVillageVals.ROME -> CityTownVillageVals.ROME_FMT;
+            default -> throw new TaxRollFormattingException("Error: Town/City Not Found! Double Check Your Program Arguments!\n");
+        };
+    }
+    private String[] getDecimalParcelFormat() throws TaxRollFormattingException {
+
+        return switch (this.townCityVillage) {
+            case CityTownVillageVals.ANNSVILLE, CityTownVillageVals.AUGUSTA, CityTownVillageVals.AVA, CityTownVillageVals.BOONVILLE,
+                 CityTownVillageVals.BRIDGEWATER, CityTownVillageVals.CAMDEN, CityTownVillageVals.DEERFIELD, CityTownVillageVals.FLOYD,
+                 CityTownVillageVals.FLORENCE, CityTownVillageVals.FORESTPORT, CityTownVillageVals.KIRKLAND, CityTownVillageVals.LEE,
+                 CityTownVillageVals.MARCY, CityTownVillageVals.MARSHALL, CityTownVillageVals.NEW_HARTFORD, CityTownVillageVals.PARIS,
+                 CityTownVillageVals.REMSEN, CityTownVillageVals.SANGERFIELD, CityTownVillageVals.STEUBEN, CityTownVillageVals.TRENTON,
+                 CityTownVillageVals.VERNON, CityTownVillageVals.VERONA, CityTownVillageVals.VIENNA, CityTownVillageVals.WESTERN,
+                 CityTownVillageVals.WESTMORELAND, CityTownVillageVals.WHITESTOWN -> CityTownVillageVals.DEFAULT_DML_FMT;
+            case CityTownVillageVals.ROME -> CityTownVillageVals.ROME_FMT;
+            default -> throw new TaxRollFormattingException("Error: Town/City Not Found! Double Check Your Program Arguments!\n");
+        };
+    }
+
+    public void setTownCity(String townCity) {
+        this.townCityVillage = townCity;
     }
 }

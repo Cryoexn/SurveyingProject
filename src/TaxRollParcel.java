@@ -1,5 +1,3 @@
-import javax.swing.event.DocumentListener;
-
 public class TaxRollParcel implements Comparable<TaxRollParcel> {
 
     private String section;

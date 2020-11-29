@@ -32,11 +32,10 @@ public class ConvertTaxRolls {
                 removeUnwantedText(lineList);
                 lineList = getPayRollParcels(lineList);
 
-                parcels.addAll(createFormattedParcelList(lineList));
+                createFormattedParcelList(lineList, txtParcels);
             }
 
             checkNumOfParcelsConverted(parcels, listCopy);
-            writeFormattedParcelsToFile(parcels, txtParcels);
 
         } catch(IOException ex) {
             System.out.println(ex.getMessage());
@@ -193,72 +192,76 @@ public class ConvertTaxRolls {
         System.out.println("Done");
     }
 
-    private static ArrayList<TaxRollParcel> createFormattedParcelList(ArrayList<String> lineList) {
+    private static void createFormattedParcelList(ArrayList<String> lineList, File formattedParcelFile) {
         System.out.print("Creating Formatted Parcels... ");
-        ArrayList<TaxRollParcel> fmtdParcels = new ArrayList<>();
+        try {
+            BufferedWriter bw = new BufferedWriter(new FileWriter(formattedParcelFile));
 
-        boolean containedAcres;
-        boolean containedDeedbook;
-        int numLines;
+            boolean containedAcres;
+            boolean containedDeedbook;
+            int numLines;
 
-        for(int i = 0; i < lineList.size(); i++) {
+            for (int i = 0; i < lineList.size(); i++) {
 
-            //Reset flags
-            containedAcres = false;
-            containedDeedbook = false;
+                //Reset flags
+                containedAcres = false;
+                containedDeedbook = false;
 
-            if (lineList.get(i).contains("******************************************************************************************************* ")) {
-                // Maybe Change the get sec-blk-pcl to the separator numbers.
-                String address = lineList.get(++i);
-                String secBlkPcl = lineList.get(++i);
-                String name = lineList.get(++i);
+                if (lineList.get(i).contains("******************************************************************************************************* ")) {
+                    // Maybe Change the get sec-blk-pcl to the separator numbers.
+                    String address = lineList.get(++i);
+                    String secBlkPcl = lineList.get(++i);
+                    String name = lineList.get(++i);
 
-                StringBuilder mailing = new StringBuilder();
-                numLines = 0;
+                    StringBuilder mailing = new StringBuilder();
+                    numLines = 0;
 
-                i++;
-
-                while (!lineList.get(i).contains("ACRES") && !lineList.get(i).contains("DEED BOOK") && numLines <= 20 && !lineList.get(i).contains("******************************************************************************************************* ")) {
-                    mailing.append(lineList.get(i));
-                    numLines++;
                     i++;
+
+                    while (!lineList.get(i).contains("ACRES") && !lineList.get(i).contains("DEED BOOK") && numLines <= 20 && !lineList.get(i).contains("******************************************************************************************************* ")) {
+                        mailing.append(lineList.get(i));
+                        numLines++;
+                        i++;
+                    }
+
+                    String acres = null;
+
+                    if (lineList.get(i).contains("ACRES")) {
+                        acres = lineList.get(i).replace("ACRES", "").trim();
+                        containedAcres = true;
+                        i++;
+                    }
+
+                    String bookNum = null;
+                    String pageNum = null;
+
+                    if (lineList.get(i).contains("DEED BOOK")) {
+                        String[] deedComps = lineList.get(i).split(" ");
+                        pageNum = !deedComps[2].equals("00000") && deedComps.length > 3 ? deedComps[3].replace("PG-", "") : "ChkRolls";
+                        bookNum = deedComps[2];
+                        containedDeedbook = true;
+                    }
+
+                    bw.write(String.format("%s|%s|%s|%s|%s|%s|%s\n", secBlkPcl.strip(),
+                            name.strip(),
+                            address.strip(),
+                            mailing.toString().strip(),
+                            acres.strip() != null ? acres.strip() : "NOT IN ROLLS",
+                            bookNum.strip() != null ? bookNum.strip() : "NOT IN ROLLS",
+                            pageNum.strip() != null ? pageNum.strip() : "NOT IN ROLLS"));
+
+                    if (containedAcres && !containedDeedbook)
+                        i--;
+                    else if ((!containedAcres && !containedDeedbook))
+                        i -= 2;
                 }
-
-                String acres = null;
-
-                if (lineList.get(i).contains("ACRES")) {
-                    acres = lineList.get(i).replace("ACRES", "").trim();
-                    containedAcres = true;
-                    i++;
-                }
-
-                String bookNum = null;
-                String pageNum = null;
-
-                if (lineList.get(i).contains("DEED BOOK")) {
-                    String[] deedComps = lineList.get(i).split(" ");
-                    pageNum = !deedComps[2].equals("00000") && deedComps.length > 3 ? deedComps[3].replace("PG-", "") : "ChkRolls";
-                    bookNum = deedComps[2];
-                    containedDeedbook = true;
-                }
-
-                String[] sbl = TaxRollFormatting.getFormattedFileSBL(secBlkPcl.split("-"));
-
-                if(sbl.length == 3)
-                    fmtdParcels.add(new TaxRollParcel(sbl[0], sbl[1], sbl[2], name.strip(), address.strip(), mailing.toString().strip(), acres != null ? acres.strip() : "NOT IN ROLLS", bookNum != null ? bookNum.strip() : "NOT IN ROLLS", pageNum != null ? pageNum.strip() : "NOT IN ROLLS"));
-                else
-                    fmtdParcels.add(new TaxRollParcel(sbl[0], sbl[1], null, name.strip(), address.strip(), mailing.toString().strip(), acres != null ? acres.strip() : "NOT IN ROLLS", bookNum != null ? bookNum.strip() : "NOT IN ROLLS", pageNum != null ? pageNum.strip() : "NOT IN ROLLS"));
-
-
-                if (containedAcres && !containedDeedbook)
-                    i--;
-                else if ((!containedAcres && !containedDeedbook))
-                    i -= 2;
             }
-        }
-        System.out.println("Done");
 
-        return fmtdParcels;
+            System.out.println("Done");
+
+        } catch (IOException e) {
+            System.out.println(e.getMessage());
+        }
     }
 
     private static void checkNumOfParcelsConverted(ArrayList<TaxRollParcel> fmtdParcels, ArrayList<String> pdflist) {

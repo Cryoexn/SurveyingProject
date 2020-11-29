@@ -15,6 +15,7 @@ public class SearchParcelsPanel extends JPanel {
 
     private JTextField txtfParcelInput;
     private final JTextArea txtaParcelList;
+    private JComboBox<String> comboBoxCTV;
     private JLabel lblParcels;
 
     private String jobNum;
@@ -22,11 +23,12 @@ public class SearchParcelsPanel extends JPanel {
     private final String templateDir;
 
     private final TaxRollParser parser;
+    private final TaxRollFormatting formatter;
 
     private ArrayList<TaxRollParcel> parcelsSearch;
-    private final ArrayList<TaxRollParcel> parcelsFound;
+    private ArrayList<TaxRollParcel> parcelsFound;
 
-    public SearchParcelsPanel(TaxRollParser parser, String jobBaseDir, String templateDir, String jobNum) {
+    public SearchParcelsPanel(TaxRollParser parser, TaxRollFormatting formatter, String jobBaseDir, String templateDir, String jobNum) {
 
         this.jobNum = jobNum;
         this.jobBaseDir = jobBaseDir;
@@ -39,6 +41,10 @@ public class SearchParcelsPanel extends JPanel {
         this.txtaParcelList.setEditable(false);
 
         this.parser = parser;
+        this.formatter = formatter;
+
+        this.parser.setCityTownVillage(src2.CityTownVillageVals.CTV_LIST[0]);
+        this.formatter.setTownCity(CityTownVillageVals.CTV_LIST[0]);
 
         JPanel panelMain = new JPanel(new BorderLayout());
         JScrollPane mainFrameScrollPane = new JScrollPane(panelMain, JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED, JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
@@ -79,11 +85,28 @@ public class SearchParcelsPanel extends JPanel {
         inpGbc.anchor = GridBagConstraints.CENTER;
         inpGbc.insets = new Insets(5,5,0,5);
 
+        JLabel lblSelectTCV = new JLabel("Town/City/Village", JLabel.RIGHT);
+        lblSelectTCV.setFont(labelFont);
+
+        lblGbc.gridx = 0;
+        lblGbc.gridy = 0;
+
+        panelInput.add(lblSelectTCV, lblGbc);
+
+        comboBoxCTV = new JComboBox<>(CityTownVillageVals.CTV_LIST);
+        comboBoxCTV.setFont(labelFont);
+        comboBoxCTV.addActionListener(new ComboBoxTownCityVillageListener());
+
+        inpGbc.gridx = 1;
+        inpGbc.gridy = 0;
+
+        panelInput.add(comboBoxCTV, inpGbc);
+
         JLabel lblParcelInput = new JLabel("Enter Parcels", JLabel.RIGHT);
         lblParcelInput.setFont(labelFont);
 
         lblGbc.gridx = 0;
-        lblGbc.gridy = 0;
+        lblGbc.gridy = 1;
 
         panelInput.add(lblParcelInput, lblGbc);
 
@@ -92,7 +115,7 @@ public class SearchParcelsPanel extends JPanel {
         txtfParcelInput.setFont(inputFont);
 
         inpGbc.gridx = 1;
-        inpGbc.gridy = 0;
+        inpGbc.gridy = 1;
 
         panelInput.add(txtfParcelInput, inpGbc);
 
@@ -165,10 +188,12 @@ public class SearchParcelsPanel extends JPanel {
     private class ComboBoxTownCityVillageListener implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
-
             JComboBox<String> cmb = (JComboBox<String>) e.getSource();
 
             String townCityVillage = (String) cmb.getSelectedItem();
+
+            formatter.setTownCity(townCityVillage);
+            parser.setCityTownVillage(townCityVillage);
 
             if(!txtfParcelInput.getText().equals("")) {
                 searchRolls();
@@ -185,30 +210,39 @@ public class SearchParcelsPanel extends JPanel {
 
     private void searchRolls() {
         if(!txtfParcelInput.getText().equals("") && isValidFmt(txtfParcelInput.getText())) {
-                parcelsSearch = TaxRollFormatting.getFormattedUserInput(txtfParcelInput.getText().split("-"));
+            String ctv = (String) comboBoxCTV.getSelectedItem();
 
-                ArrayList<TaxRollParcel> parcelsGotten = parser.searchTaxRollsForValues(parcelsSearch);
+            formatter.setTownCity(ctv);
+            parser.setCityTownVillage(ctv);
 
-                boolean foundFlag = false;
+            try {
+                parcelsSearch = formatter.getFormattedUserInput(txtfParcelInput.getText().split("-"));
+            } catch (TaxRollFormattingException e) {
+                e.printStackTrace();
+            }
 
-                for(TaxRollParcel pclGotten : parcelsGotten){
-                    for(TaxRollParcel pclFound : parcelsFound) {
-                        if(pclGotten.getSecBlkPcl().equals(pclFound.getSecBlkPcl())){
-                            foundFlag = true;
-                        }
+            ArrayList<TaxRollParcel> parcelsGotten = parser.searchTaxRollsForValues(parcelsSearch);
+
+            boolean foundFlag = false;
+
+            for(TaxRollParcel pclGotten : parcelsGotten){
+                for(TaxRollParcel pclFound : parcelsFound) {
+                    if(pclGotten.getSecBlkPcl().equals(pclFound.getSecBlkPcl())){
+                        foundFlag = true;
                     }
-
-                    if(!foundFlag)
-                        parcelsFound.add(pclGotten);
-
-                    foundFlag = false;
                 }
 
-                if(parcelsFound != null) {
-                    updateFoundParcels();
-                } else {
-                    lblParcels.setText(String.format("Current Parcel List: %s", "No Tax Roll File"));
-                }
+                if(!foundFlag)
+                    parcelsFound.add(pclGotten);
+
+                foundFlag = false;
+            }
+
+            if(parcelsFound != null) {
+                updateFoundParcels();
+            } else {
+                lblParcels.setText(String.format("Current Parcel List: %s", "No Tax Roll File"));
+            }
         } else {
             lblParcels.setText(String.format("Current Parcel List: %s", "Invalid Format"));
         }

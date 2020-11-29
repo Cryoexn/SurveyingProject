@@ -16,7 +16,7 @@ public class DeedResearchGUI extends JFrame {
     private final JobSummaryPanel jobSummaryPanel;
     private final SearchParcelsPanel searchParcelsPanel;
 
-    public DeedResearchGUI(TaxRollParser parser, String jobBaseDir, String templateDir) {
+    public DeedResearchGUI(TaxRollParser parser, TaxRollFormatting formatter, String jobBaseDir, String templateDir) {
 
         JPanel mainPanel = new JPanel(new BorderLayout());
         mainPanel.setBorder(BorderFactory.createEmptyBorder(4, 4, 4, 4));
@@ -40,7 +40,7 @@ public class DeedResearchGUI extends JFrame {
         mainPanel.add(activeJobsPanel, BorderLayout.WEST);
 
         // Initialize JPanel with components to search tax roll parcels.
-        this.searchParcelsPanel = new SearchParcelsPanel(parser, jobBaseDir, templateDir, this.activeJobsPanel.getSelectedJob());
+        this.searchParcelsPanel = new SearchParcelsPanel(parser, formatter, jobBaseDir, templateDir, this.activeJobsPanel.getSelectedJob());
         this.tbPanes.addTab("Tax Roll Search", null, this.searchParcelsPanel, "Search Tax Rolls For Parcels");
 
         // Initialize JPanel with list of check boxes.
