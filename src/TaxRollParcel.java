@@ -1,3 +1,4 @@
+
 public class TaxRollParcel implements Comparable<TaxRollParcel> {
 
     private String section;

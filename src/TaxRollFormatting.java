@@ -7,6 +7,7 @@ public class TaxRollFormatting {
     private String townCityVillage;
 
     public TaxRollFormatting() { this.townCityVillage = null; }
+
     public TaxRollFormatting(String townCity) {
         this.townCityVillage = townCity;
     }
@@ -108,12 +109,12 @@ public class TaxRollFormatting {
 
         return switch (this.townCityVillage) {
             case CityTownVillageVals.ANNSVILLE, CityTownVillageVals.AUGUSTA, CityTownVillageVals.AVA, CityTownVillageVals.BOONVILLE,
-                 CityTownVillageVals.BRIDGEWATER, CityTownVillageVals.CAMDEN, CityTownVillageVals.DEERFIELD, CityTownVillageVals.FLOYD,
-                 CityTownVillageVals.FLORENCE, CityTownVillageVals.FORESTPORT, CityTownVillageVals.KIRKLAND, CityTownVillageVals.LEE,
-                 CityTownVillageVals.MARCY, CityTownVillageVals.MARSHALL, CityTownVillageVals.NEW_HARTFORD, CityTownVillageVals.PARIS,
-                 CityTownVillageVals.REMSEN, CityTownVillageVals.SANGERFIELD, CityTownVillageVals.STEUBEN, CityTownVillageVals.TRENTON,
-                 CityTownVillageVals.VERNON, CityTownVillageVals.VERONA, CityTownVillageVals.VIENNA, CityTownVillageVals.WESTERN,
-                 CityTownVillageVals.WESTMORELAND, CityTownVillageVals.WHITESTOWN -> CityTownVillageVals.DEFAULT_DML_FMT;
+                    CityTownVillageVals.BRIDGEWATER, CityTownVillageVals.CAMDEN, CityTownVillageVals.DEERFIELD, CityTownVillageVals.FLOYD,
+                    CityTownVillageVals.FLORENCE, CityTownVillageVals.FORESTPORT, CityTownVillageVals.KIRKLAND, CityTownVillageVals.LEE,
+                    CityTownVillageVals.MARCY, CityTownVillageVals.MARSHALL, CityTownVillageVals.NEW_HARTFORD, CityTownVillageVals.PARIS,
+                    CityTownVillageVals.REMSEN, CityTownVillageVals.SANGERFIELD, CityTownVillageVals.STEUBEN, CityTownVillageVals.TRENTON,
+                    CityTownVillageVals.VERNON, CityTownVillageVals.VERONA, CityTownVillageVals.VIENNA, CityTownVillageVals.WESTERN,
+                    CityTownVillageVals.WESTMORELAND, CityTownVillageVals.WHITESTOWN -> CityTownVillageVals.DEFAULT_DML_FMT;
             case CityTownVillageVals.ROME -> CityTownVillageVals.ROME_FMT;
             default -> throw new TaxRollFormattingException("Error: Town/City Not Found! Double Check Your Program Arguments!\n");
         };

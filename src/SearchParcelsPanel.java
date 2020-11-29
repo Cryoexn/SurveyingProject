@@ -43,7 +43,7 @@ public class SearchParcelsPanel extends JPanel {
         this.parser = parser;
         this.formatter = formatter;
 
-        this.parser.setCityTownVillage(src2.CityTownVillageVals.CTV_LIST[0]);
+        this.parser.setCityTownVillage(CityTownVillageVals.CTV_LIST[0]);
         this.formatter.setTownCity(CityTownVillageVals.CTV_LIST[0]);
 
         JPanel panelMain = new JPanel(new BorderLayout());
