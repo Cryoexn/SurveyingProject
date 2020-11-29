@@ -48,7 +48,7 @@ public class TaxRollParser {
     public ArrayList<TaxRollParcel> searchTaxRollsForValues(ArrayList<TaxRollParcel> parcelsToSearch) {
 
         // Change to this.file when all tax rolls are converted.
-        ArrayList<TaxRollParcel> fileParcels = getTaxRollParcelsFromFile(new File(this.rollsTxtPath+this.cityTownVillageFile));
+        ArrayList<TaxRollParcel> fileParcels = getTaxRollParcelsFromFile(new File(this.rollsTxtPath+File.separator+this.cityTownVillageFile));
 
         if(fileParcels != null) {
             System.out.println("Searching " + this.cityTownVillageFile + "...");

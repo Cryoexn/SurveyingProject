@@ -79,10 +79,8 @@ public class DeedResearchGUI extends JFrame {
         public void stateChanged(ChangeEvent e) {
             JTabbedPane source = (JTabbedPane)e.getSource();
             if(source.getSelectedIndex() == 0) {
-                searchParcelsPanel.updateJobNum(activeJobsPanel.getSelectedJob());
                 jobSummaryPanel.saveStateOfCheckList();
             } else if (source.getSelectedIndex() == 1) {
-                jobSummaryPanel.updateJobNum(activeJobsPanel.getSelectedJob());
                 source.setComponentAt(1, jobSummaryPanel);
             }
         }

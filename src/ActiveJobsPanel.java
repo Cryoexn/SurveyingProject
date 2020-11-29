@@ -71,21 +71,9 @@ public class ActiveJobsPanel extends JPanel {
         try {
             BufferedReader br = new BufferedReader(new FileReader(new File(this.jobBaseDir+"active-jobs.txt")));
             String activeJobsLine = br.readLine();
+
             if(activeJobsLine != null)
                 jobsList.addAll(Arrays.asList(activeJobsLine.split(",")));
-
-            jobsList.sort((o1, o2) -> {
-                try {
-                    String[] firstComps = o1.split("-");
-                    String[] secondComps = o2.split("-");
-
-                    return Integer.valueOf(firstComps[0]).compareTo(Integer.valueOf(secondComps[0])) + Integer.valueOf(firstComps[1]).compareTo(Integer.valueOf(secondComps[1]));
-
-                } catch (Exception ignored) {
-                    /* Squash Exception */
-                    return -1;
-                }
-            });
 
             br.close();
         } catch (IOException e) {

@@ -1,727 +1,728 @@
-386.000-1-1|Lallier Clarence W|O Larson Rd|Lallier Nancy A9518 Larson RdCassville, NY 13318|10.50|DEED BOOK|2007|9806
-386.000-1-2|Edwards Irving P|9594 Larsen Rd|Goodson Evelyn L9594 Larsen Rd|5.10|DEED BOOK|2019|16587
-386.000-1-3.1|Lenard Stephen Sr|Rte 8|Lenard Stephen Jr8946 Canning Factory RdCassville, NY 13318|94.87|DEED BOOK|2018|8115
-386.000-1-3.2|Mushala Joseph|Route 8|1615 Marshall RdCassville, NY 13318|12.70|DEED BOOK|2070|00921
-386.000-1-3.3|Craig Terry|1531 Rt8&larson Rd|Craig Kim J1531 State Route 8 Rd|1.59|DEED BOOK|2005|16225
-386.000-1-4|Dove Mark D|1500 State Rt 8|1500 State Rt 8Cassville, NY 13318|4.19|DEED BOOK|2017|13883
-386.000-1-5.1|Sally Sam 11|1498 Route 8|1491 Route 8|9.78|DEED BOOK|2017|9487
-386.000-1-5.2|Mushala Barbara A|Babcock Hill Rd|1615 Marshall Rd|94.80|DEED BOOK|2523|00079
-386.000-1-5.3|Sally Sam J II|1491 Rt 8 N|1491 State Rt 8Cassville, NY 13318|1.14|DEED BOOK|2715|96
-386.000-1-5.4|Taylor Glenn A|Rt.8|Taylor Sheryl C1686 Stone Rd|16.02|DEED BOOK|2017|8824
-386.000-1-7|Mushala Joseph|Marshall Rd|1615 Marshall RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|8.40|DEED BOOK|01906|00089
-386.000-1-8|Madden Peter R|1568 Marshall Rd|Madden Jennifer A1568 Marshall RdCassville, NY 13318|2.14|DEED BOOK|2871|676
-386.000-1-9|Taylor Glenn A|Marshall Rd|Taylor Sheryl C1686 Stone RdClayville, NY 13322|50.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-386.000-1-10|The Barbara Taylor Trust|Marshall Rd|Taylor Barbara A1680 Marshall Rd|11.60|DEED BOOK|2015|8557
-387.000-1-1.1|Mcgurk John L|Stone Rd|Mcgurk Cora L104 Grandview AveFrankfort, NY 13340|39.10|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-387.000-1-1.2|The Barbara Taylor Trust|Stone Rd|Taylor Barbara A1680 Marshall RdCasville, NY 13318|6.80|DEED BOOK|2015|8557
-387.000-1-1.3|Estey Erin|1555 Stone Rd|Estey Justin1555 Stone Rd|17.70|DEED BOOK|2019|5651
-387.000-1-2.1|Stephan William H|Babcock Hill Rd|Stephan Audrey JClayville, NY 13322|53.00|DEED BOOK|2014|16636
-387.000-1-2.2|Stephan William H|Babcock Hill Rd|Stephan Audrey J1515 East St|29.90|DEED BOOK|2014|16636
-387.000-1-2.3|Treen Dennis|East St Ext|Mower SueWest Winfield, NY 13491|26.00|DEED BOOK|2741|349
-387.000-1-3|Taylor Glenn A|1686 Stone Rd|Taylor Sheryl1686 Stone RdClayville, NY 13318|10.00|DEED BOOK|2014|531
-387.000-1-4|Baylis John R|No East St|1428 Stone RdCassville, NY 13318|10.00|DEED BOOK|2010|5905
-387.000-1-5|Stephan William H|East Stone Rd|Stephan Audrey J1515 East StClayville, NY 13322|0.64|DEED BOOK|2014|16636
-387.000-1-6|Stephan William H|1515 East St|Stephan Audrey J1515 East StClayville, NY 13322|10.00|DEED BOOK|2014|16636
-387.000-1-7|Curtin Dairy LP|45 East St Ext|Shaul Rd|1.70|DEED BOOK|2011|15066
-394.000-1-3.1|Przyluke Marshall|1421 Hardscrabble Rd|3629 Oxford RdNew Hartford, NY 13413|98.16|DEED BOOK|2004|26196
-394.000-1-3.2|Worden Charles E|Hardscrabble Rd|Worden Vanessa M9070 Canning Factory Rd|36.40|DEED BOOK|2007|21826
-394.000-1-3.3|Scibior Richard F|Wo Hardscrabble Rd|1500 Hardscrabble Rd|60.70|DEED BOOK|2589|00039
-394.000-1-3.4|Landgren Christopher C|1421 Hardscrabble Rd|Landgren Kristin NCassville, NY 13318|3.46|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-394.000-1-4.1|Scibior Richard F|1500 Hardscrabble Rd|Scibior Sheila M1500 Hardscrabble Rd|34.86|DEED BOOK|2007|10317
-394.000-1-4.2|Malysa I. Diane|Hardscrabble|1433 Hardscrabble RdCassville, NY 13318|59.00|DEED BOOK|2005|2740
-394.000-1-4.3|Miller Keneth C|Hardscrabble Rd|Jaye Ann2857 Oneida St|41.13|DEED BOOK|2398|00007
-394.000-1-4.4|Miller Kenneth C|Hardscrabble Rd|Miller Jaye2857 Oneida StSauquoit, NY 13456|1.90|DEED BOOK|2725|292
-394.000-1-4.5|Malysa Isabelle D|Hardscrabble Rd|1433 Hardscrabble RdCassville, NY 13318|7.40|DEED BOOK|2741|45
-394.000-1-5|Caruso Cattle Co  Inc|Nn Hardscrabble Rd|RD4 Jackson RdFrankfort, NY 13340|26.80|DEED BOOK|2666|00374
-394.000-1-6|Etwaroo Urmilla|Hardscrabble Rd|Roriguez Hector1863 Stockholm StRidgewood, NY 11385|4.00|DEED BOOK|2005|18059
-394.000-1-7|Foster Richard E III|1545 Hardscrabble Rd|Foster Glenda D1545 Hardscrabble RdCassville, NY 13318|41.50|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-394.000-1-8|Curtin Dairy LP|Hardscrabble Rd|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|42.60|DEED BOOK|2837|253
-394.000-1-9|Stephan William H|Hardscrabble Rd|Stephan Audrey J1515 East StClayville, NY 13322|56.92|DEED BOOK|2014|16636
-394.000-1-9.60|American Tower|Hardscrabble Rd|PO Box 723597|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-394.000-1-10|Marsh George T|Hardscrabble Rd|9214 Butler RdSauquoit, NY 13456|94.10|DEED BOOK|2008|6655
-394.000-1-12.1|The GTM Revocable Living Tru|Hardscrabble Rd|9214 Butler RdSauquoit, NY 13456|68.05|DEED BOOK|2008|6654
-394.000-1-12.2|Eaton Ernest P|1264 Hardscrabble Rd|Eaton Laura L1264 Hardscrabble Rd|6.95|DEED BOOK|2009|19650
-394.000-1-13.2|Testa Dominick|1256 Hardscrabble Rd|Cassville, NY 13318|23.30|DEED BOOK|2005|23394
-394.000-1-13.3|Spagnola Michael T|1200 Hardscrabble Rd|1200 Hardscrabble RdCassville, NY 13318|9.90|DEED BOOK|2011|18879
-394.000-1-14.1|Testa Dominick T|Hardscrabble Rd|Testa Sandra L1201 Hardscrabble RdCassvillle, NY 13318|16.47|DEED BOOK|2933|295
-394.000-1-14.2|Testa Sandra|1201 Hardscribble Rd|1201 Hardscrabble RdCassville, NY 13318|8.93|DEED BOOK|2454|00237
-394.000-1-15|Brewer Thomas|1231 Hardscrabble Rd|Wolf Penne1231 Hardscrabble RdCassville, NY 13318|40.17|DEED BOOK|2018|10858
-394.000-1-16|Biel Daniel|Hardscrabble Rd|911 Mountain View RdAsbury, NJ 08002MAY BE SUBJECT TO PAYMENT|85.23|DEED BOOK|2006|21449
-394.000-1-17.1|Weiselberg Stanley|1386 Hardscrabble Rd|1386 Hardscrabble RdCassville, NY 13318|40.66|DEED BOOK|2003|10191
-394.000-1-17.2|Simmons David P|1379 Hardscrabble Rd|Simmons Mandy LPO Box 276|3.52|DEED BOOK|2018|3895
-394.000-1-17.3|Ming Angela M|1383 Hardscrabble Rd|Ming Joseph C Jr1383 Hardscrabble RdCassville, NY 13318|40.01|DEED BOOK|2005|1973
-394.000-1-17.4|Ming Joseph C|Hardscrabble Rd|Ming Angela MCassville, NY 13318|41.90|DEED BOOK|2013|1427
-394.000-1-17.6|Miller Ken|Hardscrabble Rd|2857 Oneida St|64.72|DEED BOOK|2695|308
-394.000-1-25|Sauquoit Fish|Hardscrabble Rd|Game ClubAttn:R E Hanes|11.80|DEED BOOK|2130|00063
-394.000-1-26.1|Bentley John C|1144 Hardscrabble Rd|Bentley Heather2007 Stevens Rd|7.00|DEED BOOK|2013|17024
-394.000-1-26.2|Stone Ceceilia J|1144 Hardscrabble Rd|1144 Hardscrabble RdBridgewater, NY 13318|68.19|DEED BOOK|2013|17026
-395.000-1-1|Carbone Judith|No Hardscrabble Rd|9446 Larson RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|30.46|DEED BOOK|2015|5126
-395.000-1-3.1|Miller Kenneth C|Hardscrabble Rd|Miller Jayeann L2857 Oneida StSauquoit, NY 13456|100.85|DEED BOOK|2018|2
-395.000-1-3.2|Hawes Peter|Hardscrabble Rd|1801 Hardscrabble RdCassville, NY 13318|10.85|DEED BOOK|2011|4804
-395.000-1-4.1|Hawes Peter L|Nys Rt 8|Hawes Katherine ACassville, NY 13318|57.40|DEED BOOK|2013|4695
-395.000-1-4.2|Taylor Andrea|1455 Route 8N|Brower Nicholas1455 Route 8|3.10|DEED BOOK|2016|8227
-395.000-1-5.1|Sokol Korney I|1393 Nys Rt 8|1393 State Route 8Cassville, NY 13318|1.50|DEED BOOK|2018|7166
-395.000-1-5.2|Barkley Susan M|1830 Hardscrabble Rd|1830 Hardscrabble Rd|1.79|DEED BOOK|2798|642
-395.000-1-6.1|Carter Linda A|1818 Nys Rt 8|1818 Hardscrabble RdCassville, NY 13318|5.70|DEED BOOK|2625|321
-395.000-1-6.2|Coe Kenneth P Jr|1383 Rte 8|Coe Michelle LCassville, NY 13318|1.20|DEED BOOK|2005|14418
-395.000-1-6.3|Seymour Norman E|1385 Ny Rt 8|Seymour Laurie JCassville, NY 13318|1.05|DEED BOOK|3035|222
-395.000-1-7|Neal Jean M|1377 Nys Rt 8|1377 Nys Rt 8Cassville, NY 13318|1.57|DEED BOOK|2002|01884
-395.000-1-8.1|David Earl J|1335 Nys Route 8|David Dawn1335 State Rte 8|2.07|DEED BOOK|2889|215
-395.000-1-8.2|Curtin Dairy LP|Hardscrabble Rd|9815 Shaul RoadCassville, NY 13318|121.00|DEED BOOK|2837|353
-395.000-1-8.3|Chapman Clifton L|1782 Hardscrabble Rd|1788 Hardscrabble Rd|5.50|DEED BOOK|2871|652
-395.000-1-8.4|McCallen Michael C|1788 Hardscraddle Rd|McCallen Joanne R78 S Magee St|2.19|DEED BOOK|2016|2343
-395.000-1-9|Lopez Tera|1327 Nys Rt 8|Leavitt Darrik1327 State Route 8Cassville, NY 13318|6.81|DEED BOOK|2017|10530
-395.000-1-10|Luther Roger P|1315 Nys Rt 8|Luther Carla RRt 8 Box 3471315 State Route 8Cassville, NY 13318|1.25|DEED BOOK|2719|118
-395.000-1-11|Coffin Deborah J|1293 Nys Rt 8|1293 Nys Rt 8Cassville, NY 13318|NOT IN ROLLS|DEED BOOK|2003|01003
-395.000-1-12|Simmons Connie M|9647 Sickle Hill Rd|9647 Sickle Hill RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2802|686
-395.000-1-13|Curtin Dairy LP|Sickle Hill Rd|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|165.10|DEED BOOK|2837|253
-395.000-1-14.1|Mulvey Willis|991 Mapledale Rd|991 Mapledale RdCassville, NY 13318|127.84|DEED BOOK|2012|4135
-395.000-1-14.1-60|Mulvey Willis|Mapledale Rd|991 Mapledale RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2012|4135
-395.000-1-14.1-61|Mulvey Willis|Mapledale Rd|991 Mapledale RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2012|4135
-395.000-1-14.2|Lord Christine N|1001 Mapledale Rd|Owens Dennis M1001 Mapledale RdCassville, NY 13318|1.65|DEED BOOK|2003|13974
-395.000-1-15|Tilbe Leon III|1084 Hardscrabble Rd|1084 Hardscrabble RdCassville, NY 13318|10.00|DEED BOOK|2859|513
-395.000-1-16.1|Stone Ceceilia J|1144 Hardscrabble Rd|1144 Hardscrabble RdCassville, NY 13318|62.82|DEED BOOK|2002|02819
-395.000-1-16.2|DiNigro David D|1137 Hardscrabble Rd|1137 Hardscrabble RdCassville, NY 13318|4.83|DEED BOOK|2013|10470
-395.000-1-16.3|Tilbe Leon H III|1144 Hardscrabble Rd|1084 Hardscrabble RdCassville, NY 13318|26.00|DEED BOOK|2020|1274
-395.000-1-16.4|Tuttle Jamie L|1121 Hardscrabble Rd|1121 Hardscrabble RdCassville, NY 13318|5.09|DEED BOOK|2013|16556
-395.000-1-16.5|Pcola Michael J|Hardscrabble Rd|Pcola Christine G593 State Route 8|10.00|DEED BOOK|2018|7384
-395.000-1-17|Curtin Dairy LP|Sickle Hill Rd|9815 Shaul RdCassville, NY 13318|195.00|DEED BOOK|2963|556
-395.000-1-18|Smith Ronald W|Hardscrabble Rd Seasonal|9305 Roberts RdSauquoit, NY 13456|6.00|DEED BOOK|2957|521
-395.000-2-1.1|Mushala Joseph S|Babcock Hill Rd|1615 Marshall RdCassville, NY 13318|8.75|DEED BOOK|2549|00092
-395.000-2-1.2|Marchione Kenneth|Rte 8|Marchione Judith9350 Larson Rd|1.50|DEED BOOK|2003|20444
-395.000-2-1.3|Loomis Mark|1394 Rt 8 N|Loomis Holly LCassville, NY 13318|1.50|DEED BOOK|2954|206
-395.000-2-2|DeStefano Joshua|Nys Rt 8|1376 Route 8Cassville, NY 13318|0.84|DEED BOOK|2011|9937
-395.000-2-3.1|Loomis Eloise M|9670 Babcock Hill Rd|Loomis MauriceCassville, NY 13318|0.96|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-395.000-2-3.2|Loomis Lee|9668 Babcock Hill Rd|9668 Babcock Hill RdCassville, NY 13318|0.41|DEED BOOK|2721|599
-395.000-2-4|Lemieux Eric S|So Babcock Hill Rd|Lemieux Melissa L9682 Babcock Hill RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2006|2288
-395.000-2-5.1|Mushala Joseph S|Babcock Hill Rd|1615 Marshall RdCassville, NY 13318|12.90|DEED BOOK|2549|00092
-395.000-2-5.2|Redner Joel|9728 Babcock Hill Rd|PO Box 333|NOT IN ROLLS|DEED BOOK|2007|21979
-395.000-2-5.3|Ratciliffe Gloria J|9676 Babcock Hl|Ratciliffe Peter N Jr.Cassville, NY 13318|3.70|DEED BOOK|2020|3175
-395.000-2-6|DeSalvatore Helen I|9732 Babcock Hill Rd|9732 Babcock Hill RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2009|15963
-395.000-2-7|Bagnall Properties, LLC|9750 Babcock Hill Rd|PO Box 623Sherburne, NY 13460|14.82|DEED BOOK|2015|10358
-395.000-2-8|Sickler George|9786 Babcock Hill Rd|Sickler Gary513 Fairground RdWest Winfield, NY 13491|2.79|DEED BOOK|2180|00311
-395.000-2-10|Taylor Glenn A|9801 Babcock Hill Rd|Taylor Sheryl C1686 Stone RdClayville, NY 13322|1.21|DEED BOOK|2007|17053
-395.000-2-11.1|Mushala Joseph|Babcock Hill Rd|Mushala BarbaraCassville, NY 13318|64.00|DEED BOOK|2782|71
-395.000-2-11.2|Taylor Glenn A|Babcock Hill Rd|Taylor Sheryl CClayville, NY 13322|92.40|DEED BOOK|2007|17054
-395.000-2-11.3|Sullivan Bert A|9875 Babcock Hill Rd|Sullivan Lynett9875 Babcock Hill Rd|0.64|DEED BOOK|2851|124
-395.000-2-12|Gillespie Sean|9912 Babcock Hill Rd|Schultz Rebecca9912 Babcock Hill RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2003|16921
-395.000-2-13|Curtin Dairy LP|9938 Babcock Hill Rd|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|93.57|DEED BOOK|2837|303
-395.000-2-14|Beach Robert D|10008 Babcock Hill Rd|Beach Gina10008 Babcock Hill RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2664|161
-395.000-2-15|Orsino Mark V|10028 Babcock Hill Rd|10028 Babcock Hill RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2004|28938
-395.000-2-16|Evans Michael R|10028 Babcock Hill Rd|10028 Babcock Hill RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2019|7401
-395.000-2-17.1|Noll Frederick W|10034 Babcock Hill Rd|Noll Gina T|35.10|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-395.000-2-17.2|Bailey Clyde II|10004 Babcock Hill Rd|House Tammy L10004 Babcock Hill Rd|1.00|DEED BOOK|2355|00127
-395.000-2-17.3|Crossett Larry O|10000 Babcock Hill Rd|Howarth-Piayai Jan MCassville, NY 13318|1.10|DEED BOOK|2012|7972
-395.000-2-18.1|Curtin Dairy LP|Ns Shaul Rd|9815 Shaul Rd|152.81|DEED BOOK|2837|303
-395.000-2-18.2|Lamoree Shelley A|9873 Ns Shaul Rd|Cassville, NY 13318|1.05|DEED BOOK|2946|196
-395.000-2-19.1|Curtin Dairy, LP|9856 Shaul Rd|9815 Shaul Rd|1.46|DEED BOOK|2013|11747
-395.000-2-19.2|Meyer Stephen F|9864 Shaul Rd|9864 Shaul Rd|1.64|DEED BOOK|2899|097
-395.000-2-20.1|Curtin Dairy LP|Shaul Rd|9815 Shaul RdCassville, NY 13318|109.45|DEED BOOK|2837|314
-395.000-2-20.2|Curtin Dairy LP|9942 Shaul Rd|9815 Shaul RdCassville, NY 13318|8.70|DEED BOOK|2875|283
-395.000-2-21.1|Smith Malcolm|Shaul Rd|Smith Elsa1144 Stone RdCassville, NY 13318|42.93|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-395.000-2-21.2|Peterson David C|10028 Shaul Rd|Peterson MalindaCassville, NY 13318|1.00|DEED BOOK|2402|00004
-395.000-2-21.3|Pustay Steven C|Shaul Rd|Pustay Mary LouWest Winfield, NY 13491|15.70|DEED BOOK|2871|118
-395.000-2-22|Pritchard Dale T|10020 Shaul Rd|Pritchard Judy ACassville, NY 13318|0.93|DEED BOOK|01997|00221
-395.000-2-23|Curtin Dairy LP|Nys Rt 8|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|170.00|DEED BOOK|2837|253
-395.000-2-24.1|Weidman Tina|Nys Rt 8|Davis MargueriteMarguerite Davis87 Foster StWhitesboro, NY 13492|4.60|DEED BOOK|2019|6232
-395.000-2-24.2|Cadwell Claire Jr|1015 Old State Route 8|1015 Old State Route 8|1.00|DEED BOOK|2018|9858
-395.000-2-25|Foster Gertrude J|1020 Old Rt 8|1020 Old Rt 8Cassville, NY 13318|NOT IN ROLLS|DEED BOOK|2018|16741
-395.000-2-26.1|Knox Benjamin P|1026 Old Rt 8|2491 Co. Hwy. 11Mount Vision, NY 13810|0.07|DEED BOOK|2018|9581
-395.000-2-26.2|Uvanni Francine M|1018 Old Rt 8|Cassville, NY 13318|NOT IN ROLLS|DEED BOOK|2016|15350
-395.000-2-26.3|Howard Teddy D|1022 County Rt 8|West Edmeston, NY 13485|NOT IN ROLLS|DEED BOOK|2004|29786
-395.000-2-27|Halenar Linda E|1025 Nys Rt 8|Halenar Peter J1025 State Route 8Cassville, NY 13318|0.78|DEED BOOK|01923|00693
-395.000-2-28|Hale Dorothy|1023 Nys Rt 8|600 W Hinds Ave  A12Sherrill, NY 13461|NOT IN ROLLS|DEED BOOK|2016|4792
-395.000-2-29|Hale Mark A|1021 Nys Rt 8|Gerace Christine1021 State Route 8|NOT IN ROLLS|DEED BOOK|2144|00553
-395.000-2-30|Kelly Carolyn S|1017 Nys Rt 8|Kelly John W1017 State Route 8Cassville, NY 13318|NOT IN ROLLS|DEED BOOK|2434|00028
-395.000-2-31|Macdonald Jon E|Eo Mapledale Rd|Paris Hill RdSauquoit, NY 13456|2.00|DEED BOOK|01949|00508
-395.000-2-32|Curtin Dairy|Mapledale Rd|9815 Shaul RdCassville, NY 13318|4.00|DEED BOOK|2016|3750
-395.000-2-33|Curtin Dairy LP|Nys Rt 8|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|46.90|DEED BOOK|2837|253
-395.000-2-34|Briggs Janice|9662 Sickle Hill Rd|9662 Sickle Hill RdCassville, NY 13318|0.34|DEED BOOK|2434|00103
-395.000-2-35|Curtin Dairy LP|Shaul Rd|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|34.30|DEED BOOK|01905|00322
-395.000-2-36|Lowell Mary Anne|1186 Nys Rt 8|1186 State Route 8Cassville, NY 13318|NOT IN ROLLS|DEED BOOK|01838|00043
-395.000-2-37|Deraway Dale L|1188 Rt 8 N.bridgewater|1188 State Route 8Cassville, NY 13318|NOT IN ROLLS|DEED BOOK|2005|11356
-395.000-2-38|Neal Guy W|1194 Nys Rt 8|Neal Jean MCassville, NY 13318|1.00|DEED BOOK|2224|00003
-395.000-2-39|Gillespie Kevin C|1200 Nys Rt 8|Gillespie Wife1200 State Route 8Cassville, NY 13318|0.88|DEED BOOK|2138|00249
-395.000-2-40.1|Wilcox Linda A|1236 Route 8|140 Lover's LaneWest Winfield, NY 13491|2.70|DEED BOOK|2008|20250
-395.000-2-40.2|Gustavson Kevin|Route 8|1206 State Route 8Cassville, NY 13318|0.62|DEED BOOK|2303|00043
-395.000-2-41|Rowling Joyce|Nys Rt 8 & Shaul|Rowling Laverne1248 State Route 8Cassville, NY 13318|1.55|DEED BOOK|2415|00104
-395.000-2-42|Williams Donna|1235 Nys Rt 8|1235 State Rt 8Cassville, NY 13318|0.17|DEED BOOK|2734|281
-395.000-2-43|Welch Scott|1239 Nys Rt 8|Welch Teri1239 State Route 8Cassville, NY 13318|NOT IN ROLLS|DEED BOOK|2014|10824
-395.000-2-44|Clark Robert|9671 Sickle Hill Rd|Clark Betty9671 Sickle Hill RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|01959|00973
-395.000-2-45|Lee Melissa M|9665 Sickle Hill Rd|PO Box 324Cassville, NY 13318|0.38|DEED BOOK|2018|14357
-395.000-2-46|Whisman Patrick|1245 State Route 8|1245 State Route 8Cassville, NY 13318|NOT IN ROLLS|DEED BOOK|2014|2266
-395.000-2-47|Cheney James N|1247 Nys Rt 8|Lisa Ann1247 Route 8Cassville, NY 13318|0.69|DEED BOOK|2665|00684
-395.000-2-48|Litz Paul A|1249 Nys Rt 8|Cassville, NY 13318|NOT IN ROLLS|DEED BOOK|2016|10699
-395.000-2-49|Malysa Frank J|1253 Nys Rt 8|Malysa Donna2355 Holman City Rd|NOT IN ROLLS|DEED BOOK|2700|212
-395.000-2-50|Varin Joseph D|1275 Nys Rt 8|Cassville, NY 13318|NOT IN ROLLS|DEED BOOK|2004|19833
-395.000-2-51| Curtin Dairy LP|Nys Rt 8|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|149.40|DEED BOOK|2837|353
-395.000-2-52|Murphy Krista B|1312 Route 8|Locash Richard J Jr1312 State Route 8Cassville, NY 13318|1.00|DEED BOOK|2019|12694
-396.000-1-1|Mushala Joseph|Stone Rd|Mushala Barbara1615 Marshall RdCassville, NY 13318|74.67|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-396.000-1-2|Wiswell Suzanne C|10073 Stone Rd|10073 Stone RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2009|9736
-396.000-1-3|Baylis John R|Babcock Hill Rd|1428 Stone RdCassville, NY 13318|28.70|DEED BOOK|2010|5905
-396.000-1-5|Bostwick Neal 11|1380 Stone Rd||NOT IN ROLLS|DEED BOOK|2015|6887
-396.000-1-6|Wright Nancy L|1372 Stone Rd|1372 Stone Rd|NOT IN ROLLS|DEED BOOK|2005|1081
-396.000-1-7|Emil Raun T|1366 Stone Road|1366 Stone RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2004|29289
-396.000-1-8|Treen Dennis J|Babcock Hill Rd|Mower Susan170 Walts RdWest Winfield, NY 13491|42.80|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-396.000-1-9|Lazarek Douglas|1340 Stone Rd|PO Box 365Cassville, NY 13318|1.52|DEED BOOK|2017|4954
-396.000-1-10|Denton Rene A|1092 East St & Shaul Rd|1092 East StCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2018|1748
-396.000-1-11.1|Donahoe Thomas J|1280 Stone Rd|Donahoe Camille1280 Stone Rd|5.00|DEED BOOK|2019|2566
-396.000-1-11.2|Treen Dennis J|Stone Rd|Mower Susan E170 Walts Rd|0.78|DEED BOOK|2011|14557
-396.000-1-11.3|Burdick Amy|1252 Stone Rd|Curtin Robert1252 Stone Rd|33.59|DEED BOOK|2014|17127
-396.000-1-11.4|Curtin Dairy LP|1251 Stone Rd|9815 Shaul RdCassville, NY 13318|10.26|DEED BOOK|2013|2081
-396.000-1-11.5|Nelson Kim|East St|150 Doyle RdWest Winfield, NY 13491|11.00|DEED BOOK|2019|950
-396.000-1-12.1|Girmonde Victoria R|10173 East & Babcock Hill Rd|10173 East & Babcock Hill RdClayville, NY 13322|3.20|DEED BOOK|2019|2130
-396.000-1-12.2|Treen Dennis J|Babcock Hill Road Ext|Mower Susan E170 Walts Rd|101.90|DEED BOOK|2876|204
-396.000-1-13|Treen Dennis J|10220 Babcock Hill Rd|Mower Susan170 Walts Rd|1.90|DEED BOOK|2017|17158
-396.000-1-14|Stephan Christian E|10245 Babcock Hill Rd|Stephan Susan S10245 Babcock Hill RdClayville, NY 13322|49.10|DEED BOOK|2018|7213
-396.000-1-15|Mower Susan|So Babcock Hill Rd|Treen Dennis170 Walts RdWest Winfield, NY 13491|37.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-396.000-1-16.1|Curtin Dairy LP|Stone Rd|9815 Shaul RdCassville, NY 13318|84.50|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-396.000-1-16.2|Smith Henry E|10305 Holmes Rd|10305 Holmes Rd|1.00|DEED BOOK|2358|00069
-396.000-1-17|Smith Malcom|1144 Stone Rd|Smith Elsa1144 Stone RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|01794|00295
-396.000-1-18|Mizgala Michael A|1122 Stone Rd|Mizgala Debra1122 Stone RdWest Winfield, NY 13491|2.00|DEED BOOK|2815|262
-396.000-1-19|Brooks Audrey S|10266 Holmes Rd|1945 TownshipRd. 405Jeromesville, OH 44840|1.02|DEED BOOK|2008|19397
-396.000-1-20|Holmes Charles|Stone Rd|127 Holmes RdWest Winfield, NY 13491MAY BE SUBJECT TO PAYMENT|15.00|DEED BOOK|01008|00247
-396.000-1-21|Slosek Lawrence E|1050 Stone Rd|10213 US Route 20|1.00|DEED BOOK|2004|22477
-396.000-1-22.1|Huntley Ronald R|Stone Rd|822 Stone Rd|2.38|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-396.000-1-22.2|Holmes Donald C|Stone Rd|35 Trestle TrailNorth Chili, NY 14514|1.30|DEED BOOK|2019|224
-396.000-1-23|Whisman Marco E II|1061 Stone Rd|Whisman Carissa10279 Shaul RdWest Winfield, NY 13491|5.00|DEED BOOK|2008|19567
-396.000-1-24|Smith Malcoln|Stone Rd|1144 Stone RdCassville, NY 13318|21.97|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-396.000-1-25.1|Smith Malcolm|Stone Rd|Smith Elsa HCassville, NY 13318MAY BE SUBJECT TO PAYMENT|61.20|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-396.000-1-25.2|Peterson Mathew|Stone Rd|1176 Stone RdCassville, NY 13318|8.62|DEED BOOK|2017|17622
-396.000-1-26|Howard Edward J|815 Stone Rd|815 Stone RdWest Winfield, NY 13491MAY BE SUBJECT TO PAYMENT|77.40|DEED BOOK|2002|01242
-396.000-1-27|Firsching Christine|10160 Shaul Rd|10160 Shaul Rd|2.40|DEED BOOK|2008|11208
-396.000-1-28.1|Schlaepfer Monica R|10136 Shaul Rd|10136 Shaul RdCassville, NY 13318|2.00|DEED BOOK|2011|7041
-396.000-1-28.2|Firsching Christtini|Shaul Rd|10160 Shaul Rd|5.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-396.000-1-29|Schlaepfer Monica R|10126 Shaul Rd|10126 Shaul Rd RdCassville, NY 13318|5.00|DEED BOOK|2008|19943
-396.000-1-30|Harris Lloyd S|1070 East St|Harris Sally A1070 East StCassville, NY 13318|3.00|DEED BOOK|2005|10076
-396.000-1-31|Harris Lloyd O|1064 East St|Harris Donalda1064 East StCassville, NY 13318|5.30|DEED BOOK|01989|00493
-396.000-1-32|Pustay Steven C|1047 East St|Pustay Mary LouPO Box 397West Winfield, NY 13491|2.83|DEED BOOK|2008|789
-396.000-1-33|Pustay Steven C|East St|Pustay MaryPO Box 366West Winfield, NY 13491|68.30|DEED BOOK|2514|00066
-396.000-1-34.1|Barrett Elizabeth M|1238 East St|Barrett Daniel V1238 East StCassville, NY 13318|1.79|DEED BOOK|2013|4975
-396.000-1-34.2|Connors Sue A|1232 East St|1232 East StCassville, NY 13318|5.04|DEED BOOK|2837|21
-396.000-1-34.3|Catlin Larry J|1226 East St|1226 East StCassville, NY 13318|5.17|DEED BOOK|2757|665
-396.000-1-34.4|Kmiec Nicholas|1198 East St|Loitsch Lauren1198 East St|5.51|DEED BOOK|2013|22139
-396.000-1-34.5|Stock Wayne|1184 East St|Mary Ann1134 East St|5.68|DEED BOOK|2604|00125
-396.000-1-34.6|King Steven D|1176 East St|Swanson Dawn M1176 East St|5.26|DEED BOOK|2492|00055
-396.000-1-34.7|Greco Peter T|1166 East St|1166 East StCassville, NY 13318|5.51|DEED BOOK|2002|10145
-396.000-1-34.8|Hughes Thomas L|1104 East St|1104 East StCassville, NY 13318|2.20|DEED BOOK|2013|13227
-396.000-1-34.9|Berberick Suzanne|East St|1098 East St|1.40|DEED BOOK|3007|186
-396.000-1-34.10|Madaras Thomas H|10121 Shaul Rd|Madaras Diane G10121 Shaul Rd|1.33|DEED BOOK|2004|14422
-396.000-1-34.11|Lewis Zachary W|10127 Shaul Rd|10127 Shaul RdCassville, NY 13318|5.37|DEED BOOK|2018|18008
-396.000-1-34.12|Mang Dennis|10143 Shaul Rd|2612 State Route 8 Lot 12West Winfield, NY 13491-4330|5.64|DEED BOOK|2006|13041
-396.000-1-34.13|Carino. Edward A|10138 Shaul Rd|Carino Catherine E10153 Shaul Rd|5.52|DEED BOOK|2911|546
-396.000-1-34.14|Griffiths William W|Shaul Rd|10163 Shaul RdCassville, NY 13318|6.50|DEED BOOK|2005|27599
-396.000-1-35|Treen Dennis J|1223 Stone Rd|Mower Susan E170 Walts RdWest Winfield, NY 13491|4.79|DEED BOOK|2011|14557
-396.000-1-36.1|Curtin Dairy LP|East St|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|165.10|DEED BOOK|2010|13366
-396.000-1-36.2|Lashure Donald F|10045 Shaul Rd|Lashure Wf10045 Shaul Rd|1.00|DEED BOOK|2231|00255
-396.000-1-36.3|Kemp Donald R Jr|10051 Shaul Rd|Kemp AmyCassville, NY 13318|1.03|DEED BOOK|2008|9122
-396.000-1-36.5|Wheatley Karen S|10065 Shaul Rd|10065 Shaul RdCassville, NY 13318|1.71|DEED BOOK|2004|26765
-396.000-1-36.6|Calkins Scott|1095 East St|Calkins Kimberly1095 East St|1.50|DEED BOOK|2018|1480
-396.000-1-36.7| Brewer Nathan J|East St|1239 East StCassville, NY 13318|4.00|DEED BOOK|2012|20214
-396.000-1-36.8|Brewer Joshua P|1235 East St|9938 Babcock Hill RdCassville, NY 13318|11.20|DEED BOOK|2012|20217
-396.000-1-37|Thomas Donald J|1347 Stone Rd|1347 Stone RdCassville, NY 13318|6.50|DEED BOOK|2975|306
-396.000-1-38|Seelow William F Jr|Stone Rd|1357 Stone RdCassville, NY 13318|3.40|DEED BOOK|2003|25069
-396.000-1-39|Gage Gerald P|1359 Stone Rd|Duncan Brittany AStone RdPO Box 157Bridgewater, NY 13313|3.20|DEED BOOK|2016|3148
-396.000-1-40|Droleskey Joseph J|Stone Rd|1365 Stone RdCassville, NY 13318|2.40|DEED BOOK|2446|00011
-396.000-1-41|Bowee Robert III|1363 Stone Rd|1363 Stone RdCassville, NY 13318|0.80|DEED BOOK|2006|10664
-396.000-1-42|Properties Conley & Tibbitts|1373 Stone Rd|2982 Oneida StSauquoit, NY 13456|2.90|DEED BOOK|2015|4779
-396.000-1-43|Land Stacey E|1377 Stone Rd|1377 Stone RdCassville, NY 13318|0.90|DEED BOOK|2013|22447
-396.000-1-44|Ball Michael S|Stone Rd|Ball Linda J195 Center RdFrankfort, NY 13340|1.60|DEED BOOK|2012|18258
-396.000-1-45|Andela Kenneth|Babcock Hill Rd|Andela DianePO Box 160|NOT IN ROLLS|DEED BOOK|2239|00009
-396.000-1-46|Brewer Nathan J|10040 Babcock Hill Rd|10040 Babcock Hill RdCassville, NY 13318|1.87|DEED BOOK|2014|8699
-396.000-1-47.1|Demorest Mark C|1118 East St|Demorest Judy ACassville, NY 13318|3.88|DEED BOOK|2629|526
-396.000-1-47.2|Greco Peter|1150 East St|1166 East St|2.81|DEED BOOK|2005|12596
-400.000-1-2|Lyman Stewart|Us Rt 20|Lyman WifeRDWaterville, NY 13480|0.75|DEED BOOK|2153|00395
-400.000-1-4|Wishing Well Hunting & Fishing Mt Markham Cent 215601|8883 Donley Rd|2335 River RdHamilton, NY 13346|120.90|DEED BOOK|2015|5334
-400.000-1-5.1|Taylor Larry B|No Donley Rd|414 Stone RdWest Winfield, NY 13491|12.00|DEED BOOK|2010|11632
-400.000-1-5.2|Griffiths Stephen J|Donley Rd|Griffiths Joseph M419 Babcock Hill Rd|10.00|DEED BOOK|2013|7506
-400.000-1-6|Taylor Larry B|No Donley Rd|414 Stone RdWest Winfield, NY 13491|6.00|DEED BOOK|2010|11632
-400.000-1-7|Meili Richard|8971 Donley Rd|Meili Gwendolyn8971 Donley RdWaterville, NY 13480-2413|60.00|DEED BOOK|2753|300
-400.000-1-8.1|Taranto Rose A|9053 Donley Rd|9053 Donley Rd|113.00|DEED BOOK|2013|4192
-400.000-1-8.2|DiPerna Robert F|Donley Rd|DiPerna Susan SWhitesboro, NY 13492|11.20|DEED BOOK|2015|5781
-400.000-1-8.3|Fanning Carol M|9057 Donley Rd|Taranto Rose AWaterville, NY 13480|1.98|DEED BOOK|2013|4192
-400.000-1-8.4|Sorkin Susan|Donley|Jones Timothy DPO Box 1324|10.81|DEED BOOK|2011|2137
-400.000-1-8.5|Taranto Rose A|Donley Rd|9053 Donley RdWaterville, NY 13480|2.00|DEED BOOK|2016|7601
-400.000-1-10|Roberts Chad D|Donley Rd|3142 Echard RdSauquoit, NY 13456|2.72|DEED BOOK|2006|10543
-400.000-1-11|Krom Floyd|9211 Donley Rd|Krom Sandra M9211 Donley RdCassville, NY 13318|14.77|DEED BOOK|2014|6504
-400.000-1-12|Meininger Thomas E|914 White St|Meininger Nancy C914 White StCassville, NY 13318|312.00|DEED BOOK|2849|391
-400.000-1-14|Parry David|Upper White St|9062 Paris Hill RdSauquoit, NY 13456|9.85|DEED BOOK|2015|2289
-400.000-1-15|Critelli Stephen|850 White St|9411 Paris Hill RdSauquoit, NY 13456|13.74|DEED BOOK|2020|2072
-400.000-1-16|Margot Frank A|812 White St|Cassville, NY 13318|7.56|DEED BOOK|2595|00216
-400.000-1-17|Angell Roy L|839 White St|839 White StCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2002|9489
-400.000-1-18|Payne Stephen D|847 White|Payne Sharon LCassville, NY 13318|9.81|DEED BOOK|2005|12068
-400.000-1-20.1|Christian John J|9234 Donley Rd|Christian Jennifer LPO Box 108West Winfield, NY 13491|82.20|DEED BOOK|2992|258
-400.000-1-20.2|Gustavson Douglas|9289 Donley Rd|Gustavson Jayma9289 Donley Rd|4.00|DEED BOOK|2775|199
-400.000-1-20.3|Riano Raymond P|9290 Donley Rd|9290 Donley Rd|10.30|DEED BOOK|2767|265
-400.000-1-20.4|Ostrander Jonathan|9233 Donley Rd|Ostrander Christina9233 Donley Rd|56.00|DEED BOOK|3035|169
-400.000-1-20.5|Miller Scott|9240 Donley Rd|Miller Mark369 40th St|9.70|DEED BOOK|2549|00229
-400.000-1-22|Christian Bernice J|9186 Donley Rd|2614 St. Rt. 8West Winfield, NY 13491|76.60|DEED BOOK|2013|13870
-400.000-1-23.1|Montgomery Wendell|Donely Rd|9000 Donely RdWaterville, NY 13480|15.00|DEED BOOK|2010|7549
-400.000-1-23.2|Montgomery Wendell C|9000 Donley Rd|Gilmore JayneBox 245-9000 Donley RdWaterville, NY 13480|4.60|DEED BOOK|2299|00079
-400.000-1-23.3|Montgomery Mark|Donley Rd|Montgomery Lisa2514 Main StClayville, NY 13322|15.09|DEED BOOK|2010|7550
-400.000-1-23.4|Montgomery Wendell C|Donley Rd|9000 Donley RdWaterville, NY 13480|15.10|DEED BOOK|2019|13067
-400.000-1-24|Patyi Elisabeth|No Us Rt 20|Patyi Frank770 James St  1015Syracuse, NY 13203|63.81|DEED BOOK|2013|6445
-400.000-1-25|Patyi Frank|Us Rt 20|770 James StSyracuse, NY 13203|62.25|DEED BOOK|2013|6445
-400.000-1-26|Wrobel Alois|Donley Rd|Wrobel Wf927 NYS Rte 8PO Box 122Bridgewater, NY 13313|62.50|DEED BOOK|01606|00162
-400.000-1-27|CNY Snow Travelers Inc|8859 Rt 20|PO Box 53|30.72|DEED BOOK|2007|22467
-400.000-1-28|Joyce Stephen P|Us Rt 20|26 N Main StSherburne, NY 13460|1.02|DEED BOOK|2011|15554
-400.000-1-29|Lazur Mark|Us Rt 20|560 Doe RdWaterville, NY 13480|17.60|DEED BOOK|2751|307
-400.000-1-32.1|Deak Wanda J|8790 Rte 20|8790 State Rt 20Waterville, NY 13480|78.40|DEED BOOK|2832|413
-400.000-1-32.2|Artessa Anthony A|Rt 20/Clark Rd.|Artessa Judith4715 E Lake RdHamilton, NY 13346|64.70|DEED BOOK|2016|16106
-400.000-1-32.3|Lyman Stewart W|8795 Donley Rd|Lyman Diana MDonley Rd|4.00|DEED BOOK|2094|00241
-400.000-1-32.4|Testa Dominick|Rt 20|1201 Hardscrabble RdCassville, NY 13318|2.50|DEED BOOK|2003|21231
-400.000-1-32.5|Swalgin Carl|Rte 20|8768 State Rte 20Waterville, NY 13480|7.00|DEED BOOK|2007|8014
-400.000-1-33|LaDue Frank|State Route 20 Ss|Utica, NY 13502|4.85|DEED BOOK|2019|12518
-400.000-1-34|LaDue Frank|Rte 20 S|Utica, NY 13502|4.86|DEED BOOK|2019|12518
-400.000-1-35|Lyman Wayne P|8774 Us Rt 20|8774 Us Rt 20Waterville, NY 13480|NOT IN ROLLS|DEED BOOK|2019|843
-400.000-1-36|Swalgin Carl|8768 Us Rt 20|8768 Us Rt 20Waterville, NY 13480|7.00|DEED BOOK|2017|1242
-400.000-1-37|Hilts Richard A|521 Doe Rd|Hilts Ruth EWaterville, NY 13480|5.21|DEED BOOK|2008|761
-400.000-1-38|Kress Karl R|531 Doe Rd|531 Doe RdWaterville, NY 13480|2.00|DEED BOOK|2012|10677
-400.000-1-39|Searles Gabrielle|541 Doe Rd|541 Doe Rd|2.45|DEED BOOK|2018|13387
-400.000-1-40|Artessa Anthony A|Rte 20|Artessa Judith4715 E Lake RdHamilton, NY 13346|2.10|DEED BOOK|2016|16107
-400.000-1-41|Lazur Mark W|Rte 20|Lazur Harla GWaterville, NY 13480|5.00|DEED BOOK|2003|00612
-400.000-1-42.2|Lazur Mark W|560 Rte 20|Lazur Harla GWaterville, NY 13480|4.18|DEED BOOK|2003|00612
-400.000-1-43|Gordeyev Sergey|Rte 20|540 Doe RdWaterville, NY 13480|6.00|DEED BOOK|2013|8640
-400.000-1-44|Gordeyev Sergey|540 Doe Rd|540 Doe Rd|5.00|DEED BOOK|2011|11292
-400.000-1-45|Gordeyev Sergey|Clark Rd|540 Doe RdWaterville, NY 13480|5.00|DEED BOOK|2013|8640
-400.000-1-46|Gordeyev Sergey|Clark Rd|540 Doe RdWaterville, NY 13480|5.00|DEED BOOK|2013|8640
-400.000-1-47|Gordeyev Sergey|Clark Rd|540 Doe RdWaterville, NY 13480|5.37|DEED BOOK|2013|8640
-400.000-1-48|Artessa Anthony A|Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|7.08|DEED BOOK|2016|16107
-400.000-1-49|Artessa Anthony A|Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|6.25|DEED BOOK|2016|16107
-400.000-1-50| Beardsley Roseann M|595 Clark Rd|595 Clark RdWaterville, NY 13480|6.86|DEED BOOK|2011|2385
-400.000-1-51|Artessa Anthony A|Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|5.00|DEED BOOK|2016|16107
-400.000-1-52|Artessa Anthony A|571 Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|5.00|DEED BOOK|2016|16107
-400.000-1-53|Carvin Ronald P|Clark Rd|Carvin Diane L572 Clark RdWaterville, NY 13480|5.00|DEED BOOK|2007|17765
-400.000-1-54|Lawless Edward T|598 Clark Rd|Wyman Janice L22 Orbit DrEnfield, CT 06082|5.00|DEED BOOK|2009|18605
-400.000-1-55|Artessa Anthony A|Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|4.10|DEED BOOK|2016|16107
-401.000-1-1.1|Sherman Richard C|1023 Hardscrabble Rd|Sherman NeldaWest Winfield, NY 13491|44.90|DEED BOOK|2381|00082
-401.000-1-1.2|Harrington Joshua R|1023 Hardscrabble Rd|Waldren Kristen1023 Hardscrabble Rd|51.90|DEED BOOK|2014|16749
-401.000-1-2|LaPera Robert|1011 Hardscrabble Rd|LaPera William9528 Donley Rd|1.70|DEED BOOK|2017|19565
-401.000-1-3.1|Wile Glenn M|970 Hardscrabble Rd|Wile Doris J970 Hardscrabble RdCassville, NY 13318|12.32|DEED BOOK|2015|13171
-401.000-1-3.2|Clark Michael R|Hardscrabble Rd|Clark Caitlin MCassville, NY 13318|1.27|DEED BOOK|2017|6330
-401.000-1-3.3|Dreimiller John A|1026 Hardscrabble Rd|1026 Hardscrabble Rd|18.55|DEED BOOK|2018|9756
-401.000-1-3.4|Clark Michael R|Hardscrabble Rd|Clark Caitlin MCassville, NY 13318|0.89|DEED BOOK|2017|6330
-401.000-1-4|Southworth James F|Eo Hardscrabble Rd|Southworth M. Virginia880 Mapledale RdCassville, NY 13318|4.04|DEED BOOK|2004|15760
-401.000-1-5.1|Southworth James F|880 Mapledale Rd|Cassville, NY 13318MAY BE SUBJECT TO PAYMENT|112.48|DEED BOOK|2013|8094
-401.000-1-5.2|Burnley Noel B|Hardscrabble Rd|Burnley Barbara AEast Stroudsburg, PA 18302|0.73|DEED BOOK|2004|29463
-401.000-1-6.1|Lee Raymond E|883 Mapledale Rd|Lee Judith L912 Glendale DrAberdeen, NC 28315|0.64|DEED BOOK|2697|683
-401.000-1-6.2|Speziale Kayla|879 Mapledale Rd|879 Mapledale RdCassville, NY 13318|0.44|DEED BOOK|2011|850
-401.000-1-7|Southworth Alice|Cemetery Rd|Southworth GeorgeKathleen Southworth880 Mapledale RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|41.70|DEED BOOK|2005|13900
-401.000-1-8|Curtin Dairy LP|Nys Rt 8|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|111.00|DEED BOOK|2837|314
-401.000-1-9.1|Curtin Dairy LP|Nys Route 8|9815 Shaul RdCassville, NY 13318|103.00|DEED BOOK|2842|125
-401.000-1-9.2|Wrobel James P|Nys Route 8|927 NYS Rte 8PO Box 122|39.68|DEED BOOK|2842|125
-401.000-1-10|Curtin Dairy LP|870 Nys Rt 8|9817 Shaul RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2019|11420
-401.000-1-11|Curtin Dairy LP|East St|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|167.40|DEED BOOK|2837|353
-401.000-1-12.1|Curtin Dairy LP|East St|9815 Shaul RdCassville, NY 13318|43.83|DEED BOOK|2017|15249
-401.000-1-12.2|Hall James Steven|681 East St|Hall Deanna Marie681 East St|1.48|DEED BOOK|2906|273
-401.000-1-12.3|Wolanski Rick|East St|760 East StCassville, NY 13318|27.49|DEED BOOK|2005|5655
-401.000-1-13|Wolanski Rick|760 East St|760 East St|2.00|DEED BOOK|2003|32239
-401.000-1-14|Curtin Dairy LP|Swamp Rd|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|30.00|DEED BOOK|2837|353
-401.000-1-15|Burdier Jackson|Swamp Rd|737 Lansing StUtica, NY 13501|2.00|DEED BOOK|2015|5407
-401.000-1-16|Jaquish Robert W|800 Nys Rt 8|Jaquish Janice M800 Nys Rt 8Cassville, NY 13318|23.68|DEED BOOK|2007|12796
-401.000-1-17|White Jeffrey P|784 State Rt 8|White Alicia A786 State Route 8Cassville, NY 13318|14.50|DEED BOOK|2013|19209
-401.000-1-18|White Jeffrey P|780 Nys Rt 8|White Alicia A786 State Rte 8Cassville, NY 13318|NOT IN ROLLS|DEED BOOK|2017|9322
-401.000-1-19.1|Curtin Dairy LP|Nys Rt 8|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|34.00|DEED BOOK|2859|146
-401.000-1-19.2|Chapman Michael A|760 Rte 8|760 State Route 8|1.00|DEED BOOK|2700|639
-401.000-1-19.3|Chapman Michael A|State Route 8|Cassville, NY 13318|1.83|DEED BOOK|2896|323
-401.000-1-21.1|Bowee Aaron J|597 East St|Burger Nicole L3241 Valley Pl|35.35|DEED BOOK|2018|6300
-401.000-1-21.2|Washburn Theresa A|W/S East St|Washburn MichaelWest Winfield, NY 13491|2.81|DEED BOOK|2013|17605
-401.000-1-22|Washburn Lila A|605 East St|Wasburn Sandra J605 East StCassville, NY 13318|1.70|DEED BOOK|2004|8541
-401.000-1-23|Washburn David|591 East St|Washburn Wf591 East St|3.51|DEED BOOK|2029|00621
-401.000-1-24.1|Sharp Lorie|565 East St|Allen Marcel V565 East StCassville, NY 13318|1.83|DEED BOOK|2916|604
-401.000-1-24.2|Windy Hill Orchard Inc|577 East St|2183 Jensis Rd|41.26|DEED BOOK|2015|10124
-401.000-1-25.1|Sinvas Empire Realty LLC|Nys Route 8||NOT IN ROLLS|DEED BOOK|2015|547
-401.000-1-25.2|Curtin Dairy LP|Nys Route 8|9815 Shaul Rd|147.68|DEED BOOK|2859|146
-401.000-1-26| Lake Chalet Camp LLC|593 St Rte 8|593 St Rte 8Cassville, NY 13318|16.20|DEED BOOK|2019|4678
-401.000-1-27|Evans William J|617 Nys Rt 8|Evans Catherine617 State Route 8Cassville, NY 13318|12.00|DEED BOOK|2010|16808
-401.000-1-29.1|Sullivan Rebecca J|647 Nys Rt 8|647 State Route 8Cassville, NY 13318|4.75|DEED BOOK|2014|11572
-401.000-1-29.2|Jaquay Glenn L|673 Route 8|Jaquay Karen F673 State Rt 8|0.82|DEED BOOK|2871|28
-401.000-1-30|Pontero Nicholas Jr|677 Nys Rt 8|Pontero Wf677 State Route 8Cassville, NY 13318|2.11|DEED BOOK|2324|00157
-401.000-1-31.1|Curtin Dairy LP|Nys Rt 8|9815 Shaul Rd|31.90|DEED BOOK|2837|314
-401.000-1-31.2|Fountain Ronald C|725 Rt 8 N|Fountain Audrey S450 Brennan RdIlion, NY 13357|NOT IN ROLLS|DEED BOOK|2006|19215
-401.000-1-32.1|Vyacheslan Korogoda|731 Nys Rt 8|1081 Walnut StUtica, NY 13502|NOT IN ROLLS|DEED BOOK|2009|4667
-401.000-1-32.2|Peduri Lyubov N|729 State Route 8||NOT IN ROLLS|DEED BOOK|2008|1434
-401.000-1-32.3|Effner Mark|741 Rte 8|741 State Rte 8|1.40|DEED BOOK|2751|264
-401.000-1-33|Cornacchia Kevin|Nys Rt 8|777 State Route 8Cassville, NY 13318|7.69|DEED BOOK|2573|00190
-401.000-1-34|Buss Martin P|Nys Rt 8|Cassville, NY 13318|NOT IN ROLLS|DEED BOOK|2653|407
-401.000-1-35.1|Wheelock Courtney|821 Nys Rt 8|Wheelock Justin821 State Rte 8Cassville, NY 13318|6.71|DEED BOOK|2017|9464
-401.000-1-35.2|Pritchard Craig A|9740 Cemetery Rd|9740 Cemetery RdCassville, NY 13318|0.68|DEED BOOK|2815|14
-401.000-1-37|Curtin Dairy LP|Nys Rt 8|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|77.10|DEED BOOK|2837|314
-401.000-1-38.2|Utica, Chenango and Susq Valle Mt Markham Cent 215601|Mapledale Rd|256 Brighton RdRichfield Springs, NY 13439|12.00|DEED BOOK|2009|5544
-401.000-1-39|Curtin Dairy, LP|816 Mapledale Rd|9815 Shaul RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2015|2403
-401.000-1-40.1|Larkin Michael P|880 Hardscrabble Rd|Larkin Jennifer M880 Hardscrabble Rd|1.00|DEED BOOK|2019|7064
-401.000-1-40.2|Burnley Noel B|Mapledale Rd|Burnley Barbara A260 Frutchey DrEast Stroudsburg, PA 18302|151.77|DEED BOOK|12004|18731
-401.000-1-40.3|Revere Kevin W|871 Maple Dale Rd|Revere GretchenCassville, NY 13318|2.00|DEED BOOK|2712|257
-401.000-1-41|Krautheim Bruce|775 Mapledale Rd|Krautheim Pamela775 Mapledale RdCassville, NY 13318|1.00|DEED BOOK|2010|1228
-401.000-1-42.1|Mc Cauley Susan F|Mapledale Rd|101 West 80Th StNew York, NY 10024|6.63|DEED BOOK|1990|00234
-401.000-1-42.2|Satterlee Larry B|707 Mapledale Rd|707 Mapledale Rd|53.00|DEED BOOK|2004|28532
-401.000-1-42.3|Alsante Scot D|808 Mapledale Rd|Alsante MicheleCassville, NY 13318|3.40|DEED BOOK|2745|527
-401.000-1-42.4|Mc Neal Gary A|Mapledale Rd|765 Mapledale Rd|7.50|DEED BOOK|2558|00203
-401.000-1-42.5|Terns John F|Mapledale Rd|Terns LaurieMapledale RdBridgewater, NY 13313|5.12|DEED BOOK|2668|00369
-401.000-1-42.6|Curtin Dairy LP|Mapledale Rd|9815 Shaul RdCassville, NY 13318|55.00|DEED BOOK|2002|02871
-401.000-1-42.7|Satterlee Jacqueline F|739 Mapledale Rd|739 Mapledale Rd|2.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-401.000-1-43|Masten Alan|194 Mapledale Rd|194 Mapledale RdBridgewater, NY 13313|2.44|DEED BOOK|2003|30347
-401.000-1-44.1|Miller Scott D|687 Mapledale Rd|Miller Wf687 Mapledale Rd|19.00|DEED BOOK|2094|00287
-401.000-1-44.2|Listovitch Lawrence B|683 Mapledale Rd|683 Mapledale Rd|NOT IN ROLLS|DEED BOOK|2754|324
-401.000-1-45.1|Curtin Dairy LP|Mapledale Rd|9815 Shaul RdCassville, NY 13318|130.00|DEED BOOK|2860|267
-401.000-1-45.2|Decker Douglas J|553 Mapledale Rd|Oliver-Decker Rebecca A553 Mapledale Rd|10.00|DEED BOOK|2860|267
-401.000-1-46|Peo Joseph C|564 Mapledale Rd|Cassville, NY 13318|1.98|DEED BOOK|2016|10732
-401.000-1-47|Ostrander Edward H Jr|9515 Donley Rd|9515 Donley Rd|7.80|DEED BOOK|2002|02861
-401.000-1-48.1|Dackowsky James J Jr|9491 Donley Rd|9491 Donley Rd|8.40|DEED BOOK|2016|2836
-401.000-1-48.2|Ross Charles M Jr|9513 Donley Rd|Gridley Sharon MCassville, NY 13318|2.82|DEED BOOK|2007|10727
-401.000-1-48.3|Egelston Timothy J|Donley Rd|9499 Donley RdCassville, NY 13318|1.00|DEED BOOK|2752|49
-401.000-1-49.1|Lavoie Almond Joyce|9492 Donley Rd|9444 Donley RdCassville, NY 13318|53.21|DEED BOOK|2798|686
-401.000-1-49.2|Town of Bridgewater|Donley Rd|PO Box 370Bridgewater, NY 13313|2.40|DEED BOOK|2016|13850
-401.000-1-49.3|Walton Bethany I|9510 Donley Rd|Cassville, NY 13318|2.91|DEED BOOK|2010|9836
-401.000-1-49.4|Beck Leslie D|9445 Donley Rd|Beck Angela M9445 Donley RdCassville, NY 13318|3.02|DEED BOOK|2002|9879
-401.000-1-49.5|Willey Charles J|9433 Donley Rd|Cassville, NY 13318|3.02|DEED BOOK|2007|24094
-401.000-1-49.6|Deking William A Jr.|9440 Donnelly|Deking Dale M9577 Route 20|2.65|DEED BOOK|2002|02088
-401.000-1-49.7|Jones Ryan|Donley Rd|Jones SheilaBridgewater, NY 13323|13.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-401.000-1-50|Christian Bernice J|Donley Rd|2614 State Route 8West Winfield, NY 13491MAY BE SUBJECT TO PAYMENT|300.48|DEED BOOK|2007|8786
-401.000-1-51.1|Rafferty Dorothy L|801 White St|DLR Living Trust801 White St|66.00|DEED BOOK|2003|8433
-401.000-1-51.2|Wadsworth Michael A II|805 White St|805 White StCassville, NY 13318|1.37|DEED BOOK|2019|15985
-401.000-1-53|Jordan Richard M|804 White St|Jordan BradyCassville, NY 13318|12.02|DEED BOOK|2710|401
-401.000-1-54|Gorton Rebecca A|808 White St|Cassville, NY 13318|5.34|DEED BOOK|2019|6510
-401.000-1-55|Lee Brian A|630 Mapledale Rd|Lee Brandy L630 Mapledale Rd|1.25|DEED BOOK|2004|17439
-401.000-1-56.1|Goodenough John E|906 Hardscrabble Rd|Goodenough Marianne906 Hardscrabble Rd|4.80|DEED BOOK|2429|00065
-401.000-1-56.2|Goodenough James A|903 Hardscrabble Rd|Hardscrabble RdCassville, NY 13318|4.80|DEED BOOK|2005|24742
-402.000-1-1|Reyes Efren|984 East St|984 East StCassville, NY 13318|9.00|DEED BOOK|2002|01061
-402.000-1-2|Hepola Jeffrey|972 East St|972 East StCassville, NY 13318|14.80|DEED BOOK|2032|00350
-402.000-1-3|Ball David L|East St E|Attn: Harris Lloyd1064 East St|84.00|DEED BOOK|2042|00883
-402.000-1-4.1|Phillips Peter E|Stone Rd|Sporie Marjorie757 Stone RdWest Winfield, NY 13491MAY BE SUBJECT TO PAYMENT|139.00|DEED BOOK|2806|680
-402.000-1-4.2|Huntley Living Trust|Stone Rd|Attn: Barbara J. Huntley711 Stone Rd|44.00|DEED BOOK|2003|00333
-402.000-1-5|Huntley Living Trust|East St|Attn: Barbara J. Huntley711 Stone RdWest Winfield, NY 13491|14.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-402.000-1-6| Huntley Living Trust|Gould Rd|Attn: Barbara J. Huntley711 Stone RdWest Winfield, NY 13491|45.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-402.000-1-7|Pustay John A|Gould Rd|Pustay Sheri LPO Box 368West Winfield, NY 13491|41.80|DEED BOOK|2880|257
-402.000-1-8.2|Huntley Living Trust|Lock St|Attn: Barbara J. Huntley711 Stone Rd|190.30|DEED BOOK|2003|00333
-402.000-1-9|Washburn David|Eo East St|Washburn Wf591 East StCassville, NY 13318|10.00|DEED BOOK|2109|00907
-402.000-1-10|Bradbury Donald L|560 East St|560 East StCassville, NY 13318|2.00|DEED BOOK|2007|16513
-402.000-1-11|Peters Robert W Jr|606 East St|Peters Mary Fiona606 East St|199.00|DEED BOOK|2008|11664
-402.000-1-12|Curtin Dairy LP|East St|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|7.00|DEED BOOK|2280|00171
-402.000-1-13|McDonald Donald E|Eo East St|McDonald Linnea E950 East StCassville, NY 13318|8.00|DEED BOOK|2003|23626
-402.000-1-14.2|Demorest Laurie R|790 East St|790 East St|33.00|DEED BOOK|2011|11112
-402.000-1-15|Mc Donald Donald|850 East St|Mc Donald Wf850 East StCassville, NY 13318|50.00|DEED BOOK|01947|00718
-402.000-1-16.1|Piersma Robert J Jr|910 East St|Piersma Cisco W910 East StCassville, NY 13318|61.00|DEED BOOK|2008|14244
-402.000-1-16.3|Williams Barry W|940 East St|Williams Lisa HCassville, NY 13318|8.02|DEED BOOK|2871|60
-402.000-1-16.4|Vita Sheryl|876 East St|Vita NuovaCassville, NY 13318|2.00|DEED BOOK|2007|15316
-402.000-1-16.5|Feola Debora|892 East St|892 East St|7.40|DEED BOOK|2008|6658
-402.000-1-16.6|Coons Charles J|918 East St|Yaworski Katherine LCassville, NY 13318|1.80|DEED BOOK|2008|11656
-402.000-1-18|Kemp Dustin J|928 East St|928 East StCassvile, NY 13318|NOT IN ROLLS|DEED BOOK|2017|13242
-406.000-1-1|Spooner James L|Wo Clark Rd|Spooner WfRD 2Waterville, NY 13480|3.15|DEED BOOK|2179|00254
-406.000-1-2.1|Artessa Anthony A|Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|64.90|DEED BOOK|2016|16107
-406.000-1-2.2|Holmes Eleanor|Clark Rd|Holmes Robert DPO Box 111|7.30|DEED BOOK|2567|00239
-406.000-1-2.3|Artessa Anthony A|Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|5.00|DEED BOOK|2016|16107
-406.000-1-2.4|Artessa Anthony A|Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|5.00|DEED BOOK|2016|16107
-406.000-1-2.5|Artessa Anthony A|Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|5.00|DEED BOOK|2016|16107
-406.000-1-2.6|Benedict Justin M|550 Clark Rd|550 Clark Rd|6.00|DEED BOOK|2007|18690
-406.000-1-2.7|Stalnaker James A|538 Clark Rd|Stalnaker Patricia E538 Clark RdWaterville, NY 13480|8.00|DEED BOOK|2013|10420
-406.000-1-2.8|Dziuban Jeremy|532 Clark Rd|Ingalls CourtneyWaterville, NY 13480|20.00|DEED BOOK|2006|18449
-406.000-1-3.1|Ganey Michael J|462 Bliven Rd|Ganey Trisha L462 Bliven Rd|90.40|DEED BOOK|2002|02675
-406.000-1-3.2|Simmons Leonard E Jr|483 Bliven Rd|Simmons Tammy Lynn MWaterville, NY 13480|10.00|DEED BOOK|2014|4931
-406.000-1-3.3|Dye Sharon H|8996 Us Route 20|Plows Douglas8996 Us Route 20|5.04|DEED BOOK|2002|01059
-406.000-1-4|Meyer John|Us Rt 20|20 Wedgemont DrElkton, MD 21921|150.00|DEED BOOK|2018|44
-406.000-1-5|Roberts Kenneth S|9019 Us Rt 20|9019 Us Rt 20Waterville, NY 13480|5.10|DEED BOOK|2003|21248
-406.000-1-6.1|Major Ronald O|9025 Us Rt 20|Major Dorothy EWaterville, NY 13480|9.00|DEED BOOK|2008|11434
-406.000-1-6.2|Buss Morgan A|9031 Route 20|Holbert Scott A Jr9031 Route 20|1.75|DEED BOOK|2019|16699
-406.000-1-6.3|Orcutt Dennis|4049 Us Route 20|Deraway Patricia GBridgewater, NY 13313|8.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-406.000-1-6.3/60|American Tower Corp.|State Rt. 20|Land ManagementWoburn, MA 01801|0.50|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-406.000-1-7|Christian Bernice J|Rt 20 Ns|2614 State Route 8West Winfield, NY 13491|113.00|DEED BOOK|2019|15926
-406.000-1-9|Christian Ernest J|Us Rt 20  N|Christian Bernice J2614 State Rt. 8West Winfield, NY 13491|128.60|DEED BOOK|2004|18819
-406.000-1-10|Estate of Abram Davis|9185 Us Rt 20|Attn: Elaine Snow9296 Fitch RdHubbardsville, NY 13355-1194|1.33|DEED BOOK|01971|00627
-406.000-1-11|Perez Brian|9189 Rt20w|9189 Rt20wPO Box 171Bridgewater, NY 13313|1.58|DEED BOOK|2003|27999
-406.000-1-12|Tscharr Caroline|Us Rt 20|16 Highland TerWayne, NJ 07470|1.42|DEED BOOK|2872|448
-406.000-1-13.1|Davidcheck Victor|9168 Us Rte 20|PO Box 433|26.80|DEED BOOK|2008|9748
-406.000-1-13.2|Slosek Daniel|9166 State Route 20|PO Box 324Bridgewater, NY 13313|27.04|DEED BOOK|2018|18180
-406.000-1-14|Gillis Robert|Us Rt 20|PO Box 426North Grafton, MA 01536MAY BE SUBJECT TO PAYMENT|60.00|DEED BOOK|2017|19082
-406.000-1-15|Swalgin Carl T|9308 Us Rt 20|8768 Us Rt 20Waterville, NY 13480|NOT IN ROLLS|DEED BOOK|2019|10686
-406.000-1-16|Fitch Stephen W|No Gulf Rd|Fitch ColleenRt 8Bridgewater, NY 13313|220.00|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-406.000-1-18|Carey Paul F|Bliven Rd|PO Box 121Bridgewater, NY 13313|65.60|DEED BOOK|2817|516
-406.000-1-19.1|Bogan Mark E|Bliven Rd|115 Bliven RdWaterville, NY 13480|3.00|DEED BOOK|2725|501
-406.000-1-19.2|Bogan Mark E|Bliven Rd|115 Bliven RdWaterville, NY 13480|1.00|DEED BOOK|10998|2017
-406.000-1-20.1|SPOONER JAMES L|Bliven Rd|SPOONER FAITH E140 BEAVER CREEK Rd|6.50|DEED BOOK|2008|19846
-406.000-1-20.2|Bradbury William E|93 Bliven Rd|93 Bliven RdWaterville, NY 13480|177.50|DEED BOOK|2015|2682
-406.000-1-21.1|Mack Richard|Bliven Rd|211 Berrill AveWaterville, NY 13480|20.00|DEED BOOK|2009|20905
-406.000-1-21.2|Nazor Camron E|Bliven Rd|183 Christian Hill RdGreat Barrongton, MA 01230|84.37|DEED BOOK|2002|00522
-406.000-1-21.3|Nicholas James F|Bliven Road|Bliven RoadPO Box 283|31.68|DEED BOOK|2013|17518
-406.000-1-21.4|Wolff Peter C|Bliven Road|Wolff Susan C114 Blooming Grove Rd|58.74|DEED BOOK|2014|1024
-407.000-1-1.1|Wheeldon Milton S|Us Rt 20|Wheeldon RosellePO Box 25|5.14|DEED BOOK|2013|20068
-407.000-1-1.2|Swalgin Joseph J|432 Williams Rd|432 Williams RdBridgewater, NY 13313|1.00|DEED BOOK|2007|6679
-407.000-1-1.3|Williams Danne|389 Williams Rd|389 Williams RdBridgewater, NY 13313|5.20|DEED BOOK|2427|00013
-407.000-1-1.4|Swalgin Joseph J|422 Williams Rd|Chapman Christina MPO Box 206|1.00|DEED BOOK|2019|16002
-407.000-1-1.5|Williams Kelly J|444 Williams Rd.|Robinson Howard GPO Box 147|1.00|DEED BOOK|2587|275
-407.000-1-1.6|Wormuth James R|370 Williams Rd.|Wormuth Debra YPO Box 249|2.00|DEED BOOK|2885|525
-407.000-1-1.7|Marcelin Emmanuel|Us Rt 20|Marcelin Huguette18 Sherwood Dr|10.12|DEED BOOK|2003|8396
-407.000-1-1.8|Bhaskar Ashwini|Williams Rd|11 Hamilton AveHighland MLS, NY 10930|40.16|DEED BOOK|2013|19588
-407.000-1-1.9|Nelson Patrick|412 Williams Rd|Nelson EmilyEaton, NY 13334|50.06|DEED BOOK|2018|4255
-407.000-1-1.10|Roessler Karl J|Us Rt 20|Roessler Elizabeth CPO Box 267Bridgewater, NY 13313|15.07|DEED BOOK|2003|21166
-407.000-1-1.11|Roessler Karl J|Us Rt 20|Roessler Elizabeth CPO Box 267|20.19|DEED BOOK|2003|8431
-407.000-1-1.12|Slosek Dan|Williams Rd|PO Box 324Bridgewater, NY 13313|10.08|DEED BOOK|2015|12395
-407.000-1-1.13|Khankhel Israr|Us Rt 20|Khankhel Dorina34 Greenwich Ave|18.27|DEED BOOK|2003|16184
-407.000-1-1.14|Khankhel Israr|Us Rt 20|Khankhel Dorina34 Greenwich Ave|15.10|DEED BOOK|2003|16118
-407.000-1-1.15|Grochowicz John N|Us Rt 20|Walters Lois A372 Wippoorwill Dr|20.18|DEED BOOK|2003|10281
-407.000-1-2|Wheeldon Milton S|9331 Us Rt 20|Wheeldon RosellePO Box 25Bridgewater, NY 13313|1.84|DEED BOOK|2013|1422
-407.000-1-3|Mahar Zane W|Us Rt 20|Mahar GinaU S Rt 20PO Box 251|NOT IN ROLLS|DEED BOOK|2781|694
-407.000-1-4|Wystozaly John E|346 Williams Rd|Wystozaly Donna346 Williams RdPO Box 321Bridgewater, NY 13313|3.40|DEED BOOK|2157|00153
-407.000-1-5.1|Williams Linda G|State Route 20|Bridgewater, NY 13313|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-407.000-1-6|Williams Linda|9365 Us Rt 20|Williams Richard|NOT IN ROLLS|DEED BOOK|2055|00545
-407.000-1-7.1|Galler Anton G|9451 Rt 20|Galler Debra9451 Rt 20|13.04|DEED BOOK|2016|7136
-407.000-1-7.2|Tilbe Norma|Route 20|Rt 20PO Box 107|4.60|DEED BOOK|2071|00405
-407.000-1-7.3|Tilbe Robin L|362 Williams Rd|362 Williams RdBridgewater, NY 13313|10.00|DEED BOOK|2611|97
-407.000-1-8.2|Swalgin John|9197 Rte 20 W|Swalgin CarolBridgewater, NY 13313|3.00|DEED BOOK|2539|00001
-407.000-1-9.1|Harris Beverly|Route 20|Bridgewater, NY 13313|1.50|DEED BOOK|2052|00373
-407.000-1-9.3|Williams Dale|Rt 20|Elliott DeidrePO Box 98|8.00|DEED BOOK|2006|1960
-407.000-1-10.1|Martin Kathleen|Mapledale Rd|Martin KristinaCassville, NY 13318|46.64|DEED BOOK|2018|12300
-407.000-1-10.2|Martin Kathleen|405 Mapledale Rd|Martin Kristina405 State Rt. 8|5.00|DEED BOOK|2018|12300
-407.000-1-11|Massey Wm H|Mapledale Rd|Massey Marion LBridgewater, NY 13313|0.65|DEED BOOK|01856|00617
-407.000-1-12|Palmer Robert|429 Mapledale Rd|Palmer TheresaBox 407Bridgewater, NY 13313|0.40|DEED BOOK|2345|00111
-407.000-1-13|Palmer Robert L Jr.|429 Mapledale Rd|Palmer Theresa M429 Mapledale RdBridgewater, NY 13313|0.10|DEED BOOK|2002|00871
-407.000-1-14|Martin Kristina|Mapledale Rd||NOT IN ROLLS|DEED BOOK|2018|3670
-407.000-1-15|King Alvah|449 Mapledale Rd|449 Mapledale RdCassville, NY 13318|0.62|DEED BOOK|01963|00502
-407.000-1-16|Vogel Charles E|Mapledale Rd|Vogel Suzanne M66 North St|10.00|DEED BOOK|2015|6616
-407.000-1-17|Land George|Mapledale Rd| 9673 Route 20PO Box 284Bridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|2958|130
-407.000-1-18|Denison Deborah J|465 Mapledale Rd|465 Mapledale RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2019|7384
-407.000-1-19|Rider Scott|471 Mapledale Rd|Rider KathleenPO Box 355|1.10|DEED BOOK|2011|14933
-407.000-1-20|Miller Adam|477 Mapledale Rd|Miller Melissa477 Mapledale RdCassville, NY 13318|0.75|DEED BOOK|2010|11597
-407.000-1-21.1|Lapera Robert J|9528 Donley Rd|9528 Donley Rd|20.00|DEED BOOK|2895|166
-407.000-1-21.2|Lapera Robert J|9528 Donley Rd S|9528 Donley Rd|8.20|DEED BOOK|2785|414
-407.000-1-21.3|Hungerford Martin|520 Mapledale Rd|Hungerford Michelle ACassville, NY 13318|1.85|DEED BOOK|2014|9357
-407.000-1-21.4|CR Properties 2015 LLC|522 Mapledale Rd|White Plains, NY 10604|1.85|DEED BOOK|2016|16830
-407.000-1-21.5|Vogel Charles E|Donley Rd|Vogel Suzanne MEdmeston, NY 13335|6.11|DEED BOOK|2015|6616
-407.000-1-21.6|King Matthew A|321 Donley Rd|9583 Donley Rd|0.71|DEED BOOK|2007|1586
-407.000-1-22|Bommarito Frank|9578 Donley Rd|Bommarito Diane8220 Ceder Forks Rd|NOT IN ROLLS|DEED BOOK|2794|192
-407.000-1-23|Moffatt Erney E Jr|Donley Rd|2801 State Route 8Cold Brook, NY 13324|NOT IN ROLLS|DEED BOOK|2018|14795
-407.000-1-24|Amador Alex|9568 Donley Rd|Amador Mariah9568 Donley RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2017|19691
-407.000-1-25.1|Lenz Harry R|9525 Donley Rd|Lenz Kathleen A9525 Donley Rd|5.58|DEED BOOK|2625|348
-407.000-1-25.2|Evans Jon K|9561 Donley Rd|Cassville, NY 13318|0.65|DEED BOOK|2923|349
-407.000-1-26.1|King Keith K|9573 Donley Rd|King Carla A9572 Donley Rd|0.80|DEED BOOK|2528|00176
-407.000-1-26.2|Williams Rick H|9567 Donley Rd|Cassville, NY 13318|1.54|DEED BOOK|2933|374
-407.000-1-27|Major Kelly|9579 Donley Rd|9579 Donley RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2017|6185
-407.000-1-28|Bagnall Properties LLC|547 Mapledale Rd|PO Box 623|1.30|DEED BOOK|2013|20791
-407.000-1-29|Effner Mark C|Mapledale Rd|741 State Route 8Cassville, NY 13318|5.00|DEED BOOK|2007|20636
-407.000-2-1|Washburn Betty|511 Nys Rt 8|Betty Washburn Living Trust511 Nys Rt 8Cassville, NY 13318|4.90|DEED BOOK|2012|13599
-407.000-2-2.1|Curtin Dairy Lp|590 Nys Rt 8|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|112.86|DEED BOOK|2005|25819
-407.000-2-2.2|Riker Kenneth R|564 Nys Rt 8|Riker Judith APO Box 294Bridgewater, NY 13313-0294|2.18|DEED BOOK|2006|18948
-407.000-2-3|Evans Robert W|454 State Route 8|454 State Route 8Cassville, NY 13318|1.07|DEED BOOK|2013|12377
-407.000-2-4|Jabo Meat LLC|Route 8E|9815 Shaul RdCassville, NY 13318|NOT IN ROLLS|DEED BOOK|2012|5426
-407.000-2-5.1|JABO Meat|430 Nys Rt 8|9815 Shaul RdCassville, NY 13318|22.60|DEED BOOK|2009|13612
-407.000-2-5.2|Town of Bridgewater|State Route 8|PO Box 370Bridgewater, NY 13313|0.40|DEED BOOK|2016|13846
-407.000-2-6|Williams Marian|LANDLOCKED Eo Nys Rt 8|Doris Pavlot1290 Brothertown RdWaterville, NY 13480|5.50|DEED BOOK|01726|00178
-407.000-2-8|Miner Michael|LANDLOCKED Eo Nys Rt 8|6364 GrandviewRome, NY 13440|4.30|DEED BOOK|2019|12641
-407.000-2-9|Fitch Stephen W|LANDLOCKED Eo Nys Rt 8|Fitch ColleenRt 8Bridgewater, NY 13313|3.00|DEED BOOK|2005|22183
-407.000-2-10|Brennan Francis J|LANDLOCKED Eo Nys Rt 8|Attn: Francis Brennan333 Stafford AveWaterville, NY 13480|1.50|DEED BOOK|01925|00509
-407.000-2-11|Berger Lowell|LANDLOCKED Eo Nys Rt 8|5359 Peterboro RdOneida, NY 13421|8.80|DEED BOOK|2014|3351
-407.000-2-12|Curtin Dairy|LANDLOCKED Eo Nys Rt 8|9815 Shaul RdCassville, NY 13318|2.01|DEED BOOK|2010|10143
-407.000-2-13|Rossi Operating Corp|LANDLOCKED Eo Nys Rt 8|Attn: dba Breezy Acres Trailer Route 8 E StPO Box 180Rome, NY 13440|2.01|DEED BOOK|01960|00463
-407.000-2-14.1|Dairy Curtin|East St|9815 Shaul RdCassville, NY 13318|19.45|DEED BOOK|2175|00108
-407.000-2-14.3|Helstowski Kenneth|East St|764 Rt 114Sag Harbor, NY 11963|43.00|DEED BOOK|2006|26722
-407.000-2-14.4|Curtin Dairy LP|East St W|9815 Shaul RdCassville, NY 13318|31.44|DEED BOOK|2130|00156
-407.000-2-14.5|Lockwood Donald|East St|530 East StCassville, NY 13318|1.00|DEED BOOK|2146|00524
-407.000-2-14.6|Pavlot Edward T|East St|547 East StCassville, NY 13318|1.25|DEED BOOK|2125|00111
-407.000-2-15|Davis Kenneth  Jr A|East St|Cassville, NY 13318|NOT IN ROLLS|DEED BOOK|2802|678
-407.000-2-16|Miller James|536 East St|Collins Jane536 East St|1.18|DEED BOOK|2402|00125
-407.000-2-17|Welch Christopher M|540 East St|540 East StCassville, NY 13318|1.37|DEED BOOK|2015|18639
-407.000-2-18.1|Wood Joseph A|437 East St|437 East StCassville, NY 13318|5.00|DEED BOOK|2006|7003
-407.000-2-18.2|Meixsell Ralph|420 East St.|Meixsell MaureenWest Winfield, NY 13491|41.00|DEED BOOK|2014|8920
-407.000-2-18.3|Crown Atlantic Company LLC PMB Mt Markham Cent 215601|790 East St|4017 Washington Rd Ste 500McMurray, PA 15317|3.49|DEED BOOK|2950|243
-407.000-2-18.4|Lynch Darin|466 East St|Lynch Crystal466 East St|6.10|DEED BOOK|2003|16646
-407.000-2-18.5|Yager Jeffrey A|East St|PO Box 27|54.20|DEED BOOK|2883|442
-407.000-2-18.6|Curtin Dairy LP|East St|9815 Shaul RdCassville, NY 13318|119.00|DEED BOOK|2011|2681
-407.000-2-18.7|Tripp Robert L|448 East St|448 East StCassville, NY 13318|1.80|DEED BOOK|2013|5090
-407.000-2-19|Gates James A|East St|Gates Sandra L7105 County Highway 18West Winfield, NY 13491|72.90|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-407.000-2-20.1|Curtin Dairy LP|No Us Rt 20|9815 Shaul RdCassville, NY 13318|110.20|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-407.000-2-20.2|Ostrosky Charles J|rt 20|PO Box 369Bridgewater, NY 13313|3.20|DEED BOOK|2013|4411
-407.000-2-21|Ostrosky Charles J|Us Rt 20|PO Box 483Bridgewater, NY 13313|1.30|DEED BOOK|2440|00069
-407.000-2-22|Ostrosky Charlie|9735 Us Rt 20|PO Box 369Bridgewater, NY 13313|3.00|DEED BOOK|2796|595
-407.000-2-24| Cintron Wilfredo|402 New York 8 Rte|130 Midfield Rd|1.00|DEED BOOK|2007|8719
-407.000-2-25|Brady Wayne D|429 Nys Rt 8|Brady Doris EPO Box 178Bridgewater, NY 13313|1.20|DEED BOOK|2040|00347
-407.000-2-26|Vandawalker Erin|448 Mapledale Rd|Ostrander Harold448 Mapledale RdBridgewater, NY 13313PRIOR OWNER ON 3/01/2020|1.25|DEED BOOK|2020|3482
-407.000-2-27.1|Northrop James `|452 Mapledale Rd|452 Mapledale RdCassville, NY 13318|1.27|DEED BOOK|2015|9686
-407.000-2-28|Mahar Gloria|460 Mapledale Rd|Mahar Ralph460 Mapledale RdCassville, NY 13318|0.73|DEED BOOK|01939|00035
-407.000-2-29|Parry Gerald F|464 Mapledale Rd|Parry Wf464 Mapledale RdPO Box 254|3.60|DEED BOOK|01974|00417
-407.000-2-31|Hungerford Douglas A|480 Mapledale Rd|Hungerford Mark A480 Mapledale RdCassville, NY 13318|1.28|DEED BOOK|2008|8726
-407.000-3-1|Lincoln Philip H|9330 Route 20|PO Box 51Bridgewater, NY 13313|30.00|DEED BOOK|2010|16941
-407.000-3-2.1|Williams Dale|Us Rt 20|Williams DeidreUs Rt 20PO Box 98Bridgewater, NY 13313-0098|26.65|DEED BOOK|2004|29759
-407.000-3-2.2| Wheelock Michael D|9396 Us Rt 20|PO Box 62Bridgewater, NY 13313|18.32|DEED BOOK|2010|19947
-407.000-3-2.3|Wheelock Michael D|Us Rte 20|Wheelock Donna ABridgewater, NY 13313|5.01|DEED BOOK|2016|6931
-407.000-3-3.1|Fitch Willard|Gulf Rd|Fitch WfBox 72Bridgewater, NY 13313|43.50|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-407.000-3-3.2|Fitch Stephen W|87 Gulf Rd|Bridgewater, NY 13313|1.04|DEED BOOK|2008|5535
-407.000-3-4.1|Williams Dale|Gulf Rd|Gulf RdBridgewater, NY 13313|44.33|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-407.000-3-4.2|Gregory Matthew K|Gulf Rd|Gregory Sarah M491 Fairview DrWest Winfield, NY 13491|43.33|DEED BOOK|2015|12340
-407.010-1-1.1|Harris Beverly|9487 Us Rt 20|Rt 20Bridgewater, NY 13313|4.00|DEED BOOK|2052|00373
-407.010-1-2|Stevens John E|44 Cottage St|Stevens Diantha C44 Cottage StPO Box 86Bridgewater, NY 13313|8.89|DEED BOOK|2010|2084
-407.010-1-3|Demorest Ryan A|60 Cottage St|Tilbe Dana M60 Cottage StBridgewater, NY 13313|0.48|DEED BOOK|2017|6452
-407.010-1-4|Howard Teddy|Cottage St|221 Conty Hwy 20West Edmeston, NY 13485|NOT IN ROLLS|DEED BOOK|2008|14188
-407.010-1-5|Montgomery Mark|Cottage St|Montgomery Carrie2514 Main StClayville, NY 13322|0.23|DEED BOOK|01611|00241
-407.010-1-6|Davis Robert G|30 Cottage St|30 Cottage StBridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|2018|3883
-407.010-1-7.1|Bradley Mary|26 Cottage St|Bridgewater, NY 13313|1.53|DEED BOOK|2813|493
-407.010-1-9|DeRidder Ricky L|16 Cottage St|16 Cottage StBridgewater, NY 13313|1.38|DEED BOOK|2017|18324
-407.010-1-10|Ali Jamil|Nys Rt 8 & Cottage|Ali ChristineRoute 8Bridgewater, NY 13313|0.75|DEED BOOK|2012|18249
-407.010-1-11|Tilbe Janet H|385 Nys Rt 8|Tilbe Leon IIIBridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|2014|263
-407.010-1-12|Diehl Barry S|Nys Rt 8|364 Co Highway 18West Winfield, NY 13491|NOT IN ROLLS|DEED BOOK|2880|527
-407.010-1-13|Massey Michael|Nys Rt 8|393 Nys Rt 8PO Box 32Bridgewater, NY 13313|0.63|DEED BOOK|2003|21804
-407.010-1-14|Christman Bruce|392 Nys Rt 8|392 NYS Route 8PO Box 504Bridgewater, NY 13313|2.00|DEED BOOK|2005|19066
-407.010-1-16|Baker John A|376 Eo Nys Rt 8|PO Box 336Bridgewater, NY 13313|0.86|DEED BOOK|2008|8114
-407.010-1-18|Carey Michael D|Nys Rt 8 & Mill St|Carey CindyPO Box 196Bridgewater, NY 13313|0.30|DEED BOOK|2564|00152
-407.010-1-19|Masel Patricia A|9 Mill St|Erickson Frederick200 Columbus AveWest  Babylon, NY 11704|NOT IN ROLLS|DEED BOOK|2011|16917
-407.010-1-20|Combar Natalie T|15 Mill St|98 Harrogate RdNew Hartford, NY 13413|1.25|DEED BOOK|2015|16894
-407.010-1-21|Martin Kim|35 Mill St|Martin KathleenPleasant StBridgewater, NY 13313|0.46|DEED BOOK|2427|00011
-407.010-1-22|Kelly Jessica|51 Mill St|51 Mill StBridgewater, NY 13313|0.93|DEED BOOK|2005|22229
-407.010-1-23|Mohrbacher Richard|56 Mill St|Mohrbacher Heather56 Mill StBridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|2014|13995
-407.010-1-24|Wood Douglas W|52 Mill St|52 Mill St|NOT IN ROLLS|DEED BOOK|2003|32915
-407.010-1-25|Land William S|48 Mill St Po Box|18 Mill StPO Box 116Bridgewater, NY 13313|0.84|DEED BOOK|3004|204
-407.010-1-26|Land Todd H|18 Mill St|22 Mill StPO Box 327Bridgewater, NY 13313|1.30|DEED BOOK|2746|347
-407.010-1-27|Land Wm S|18 Mill St|Land Wf18 Mill StBridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|01802|00473
-407.010-1-28|Schlaepfer Rudy J|14 Mill St|Schlaepfer Wf14 Mill StPO Box 83Bridgewater, NY 13313|0.48|DEED BOOK|01902|00908
-407.010-1-29|Rodriguez David|366 Nys Rt 8 & Mill St|366 Nys Rt 8PO Box 61|NOT IN ROLLS|DEED BOOK|2019|17271
-407.010-1-30|Denton Charles T|360 Nys Rt 8|Denton Joanne360 State Rt 8PO Box 175|0.73|DEED BOOK|2716|272
-407.010-1-31|White Emmite 111|352 Nys Rt 8|PO Box 214Bridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|2004|2503
-407.010-1-32|Wisnoski Shirley|348 Nys Rt 8|348 State Rt 8PO Box 313Bridgewater, NY 13313|0.55|DEED BOOK|2003|13149
-407.010-1-34|Ostrosky Charles J|Nys Rt 8|9735 Route 20PO Box 369Bridgewater, NY 13313|0.47|DEED BOOK|2011|4216
-407.010-1-35|Ingber Ronald H|Rt 8 West|Ingber Linda Sue6933 County Hwy 18West Wiinfield, NY 13491|4.00|DEED BOOK|2004|18417
-407.010-1-36|Roberts Hugh T IV|31 Cottage St|31 Cottage StBridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|2015|10153
-407.010-1-37|Roys Stephen B Jr|9569 Us Rt 20|Roys Amy LPO Box 222Bridgewater, NY 13313|1.90|DEED BOOK|2664|00496
-407.010-1-38|Orcutt Robert M|37 Cottage St|Orcutt Christopher MPO Box 282Bridgewater, NY 13313|0.90|DEED BOOK|2008|9908
-407.010-1-39|Orcutt Gail A|43 Cottage St|Orcutt Christopher MPO Box 282Bridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|2008|9909
-407.010-1-40|Strong Brett A|47 Cottage St|47 Cottage StBridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|2018|14229
-407.010-1-41.1|Broadstone DG Northeast LLC|9501 Us Rt 20|800 Clinton Sq|5.84|DEED BOOK|2018|354
-407.010-1-41.3|Bagnall Property Partners LLC  Mt Markham Cent 215601|Us Rte 20|45 Classic St|10.85|DEED BOOK|2018|13175
-407.011-1-1|Ratcliffe Timothy|Ns Us Rt 20|Ratcliffe AnnePO Box 246Bridgewater, NY 13313|7.00|DEED BOOK|2760|325
-407.014-1-1|Dote Lynn R|9522 Us Rte 20|Dote Susan M9522 State Rt 20|NOT IN ROLLS|DEED BOOK|2831|368
-407.014-1-2|Holmes Reginald|Us Rt 20|9530 State Rt 20Bridgewater, NY 13313|1.20|DEED BOOK|01972|00699
-407.014-1-3.1|Gardner John C|Us Rte 20|Schuck Fred4052 Bristol Rd|15.90|DEED BOOK|25888|367
-407.014-1-3.3|Harris Scott|283 Rte 8|Harris LauraPO Box 319Bridgewater, NY 13313|5.01|DEED BOOK|2677|608
-407.014-1-4|Davis Aaron|287 Nys Rt 8|287 Nys Rt 8PO Box 151Bridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|2019|15337
-407.014-1-5|Secretary Of Veterans Aff|295 Nys Rte 8|Bridgewater, NY 13313|1.00|DEED BOOK|2903|193
-407.014-1-6|Dowd Jamie A|299 Nys Rt 8|294 Nys Rt 8 Ws|0.35|DEED BOOK|2002|00541
-407.014-1-7|Howard Ruth A|301 Nys Rt 8|Howard Robert W301 Nys Rt 8Bridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|2002|02292
-407.014-1-8|Hunter Lawrence W|Nys Rt 8|305  State Rt. 8PO Box 125Bridgewater, NY 13313|0.32|DEED BOOK|01883|00051
-407.014-1-9|Kimball Katherine L|311 State Route 8|311 State Rt 8Bridgewater, NY 13313|0.48|DEED BOOK|2006|17406
-407.014-1-10|McFadden Eric|Nys Rt 8|315 Sate Rt. 8PO Box 424Bridgewater, NY 13313|0.31|DEED BOOK|2009|3427
-407.014-1-11|Evans William J|317 Nys Rt 8|Evans Catherine617 State Rt 8Cassville, NY 13318|0.17|DEED BOOK|2018|18683
-407.014-1-12|Evans William J|9612 Us Rt 20 & Nys Rt 8|Evans Catherine617 State Rt 8Cassville, NY 13318|0.23|DEED BOOK|2018|18683
-407.014-1-13|Evans William J|9592 Us Rt 20|Evans Catherine617 State Rt 8Cassville, NY 13318|0.25|DEED BOOK|2019|3675
-407.014-1-14|Wilcox Charles|Us Rt 20|Wilcox KathleenPO Box 127Bridgewater, NY 13313|0.25|DEED BOOK|2914|550
-407.014-1-15|Washburn Ralph F|Us Rt 20|Washburn WfPO Box 101Bridgewater, NY 13313|0.29|DEED BOOK|02000|00631
-407.014-1-16|Gardner John C|215 Us Rt 20|Gardner John4052 Bristol RdClinton, NY 13323|1.21|DEED BOOK|2888|361
-407.014-1-17|DeKing Eric L|9577 Us Rt 20|DeKing Christy M9577 State Route 20Bridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|2009|10545
-407.014-1-18|Denton Kim|45 Us Rt 20 Po Box|Deking Dale MPO Box 201Bridgewater, 13313|NOT IN ROLLS|DEED BOOK|2847|517
-407.014-1-19|Denton Rodney D|9589 Us Rt 20|Denton Kim M9589 St Rte 20PO Box 201|0.29|DEED BOOK|2108|00229
-407.014-1-20|Barrett Charles W|Nys Rt 8|State Rt 8PO Box 286|NOT IN ROLLS|DEED BOOK|2147|00846
-407.014-1-21|Erickson Patricia|335 Us Rt 20 & Nys Rt 8|Erickson Frederick200 Columbus AveWest Babylon, NY 11704|0.31|DEED BOOK|2010|3037
-407.014-1-22|Lounsberry Real|Us Rt 20 & Nys Rt 8|Attn: Blue Ox CorpBox 157-C-336 State Rt 8Oxford, NY 13830|0.56|DEED BOOK|2546|00073
-407.014-1-23|Sullivan Rebecca|Us Rt 20|Sullivan Wayne647 State Rte 8Cassville, NY 13318|0.08|DEED BOOK|2967|490
-407.014-1-24|Sullivan Wayne L|Us Rt 20|Sullivan Rebecc647 State R.t 8Cassville, NY 13318|NOT IN ROLLS|DEED BOOK|2706|680
-407.014-1-26|Rodriguez Susanne|9643 Us Rt 20|139 Riverside DrUtica, NY 13502|NOT IN ROLLS|DEED BOOK|2013|5055
-407.014-1-27|Rodriguez Dave|Us Rt 20|6373 Cavanaugh RdMarcy, NY 13403|0.20|DEED BOOK|2007|7204
-407.014-1-28|Piechowicz Jessica|9647 Route 20|Piechowicz Jim D Jr9647 Route 20|NOT IN ROLLS|DEED BOOK|2007|24222
-407.014-1-29|Effner Mark|Us Rt 20|Effner Jacqueline DPO Box 16|0.33|DEED BOOK|2087|00547
-407.014-1-30|Ostrosky Jr Charles J|60 Mill St|PO Box 493Bridgewater, NY 13313|0.29|DEED BOOK|2011|4219
-407.014-1-31|Ingber Ronald H|Us Rt 20 & Mill St|Ingber Linda S6933 County Hwy 18West Winfield, NY 13491|0.19|DEED BOOK|2728|205
-407.014-1-32|Denton Paul J|Us Rt 20 & Mill St|1092 East StBridgewater, NY 13313|0.89|DEED BOOK|3016|141
-407.014-1-33|Kenyon Jack D Jr|9662 E State St|PO Box 426Bridgewater, NY 13313|1.14|DEED BOOK|2008|19540
-407.014-1-34|Casanova Carol|Us Rt 20||NOT IN ROLLS|DEED BOOK|2015|10087
-407.014-1-35|Casanova Carol|9654 Rt 20||NOT IN ROLLS|DEED BOOK|2015|10087
-407.014-1-36|Deraway Patricia G|Us Rt 20|Us Rt 20Bridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|3020|67
-407.014-1-37.1|Rodriguez Victor|Rte 20 S|Bridgewater, NY 13313|1.22|DEED BOOK|2014|12752
-407.014-1-37.2|Rodriguez Victor|Rt 20S|9645 State StBridgewater, NY 13313|0.62|DEED BOOK|2014|12752
-407.014-1-38|Uebler Mary Grace|9632 E State St|Southard TheresaPO Box 274Bridgewater, NY 13313|0.81|DEED BOOK|2008|4431
-407.014-1-39|Wood Michael L Sr|9630 Us Rt 20|Wood Michael L JrPO Box 266Bridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|2019|4023
-407.014-1-40.1|Wood Michael L Jr|US Route 20 Ss|PO Box 266|NOT IN ROLLS|DEED BOOK|2018|8978
-407.014-1-40.2|Wood Michael L Jr|Us Rt 20|Bridgewater, 13313|NOT IN ROLLS|DEED BOOK|2018|8978
-407.014-1-43|Duh David L|State Route 8|319 Pritchard RdWest Winfield, NY 13491|NOT IN ROLLS|DEED BOOK|2006|16499
-407.014-1-45|Maddox Investments LLC|320 State Rte 8|111 N main StPO Box 68Clarton, MO 63837|0.71|DEED BOOK|2008|18420
-407.014-1-46|Woods Michael L Sr|9626 So Us Rt 20|Woods Matthew CPO Box 266Bridgewater, NY 13313|0.66|DEED BOOK|2019|15530
-407.014-1-48|Bouck Walter III|312 Nys Rt 8|312 Nys Rt 8Bridgewater, NY 13313|0.22|DEED BOOK|2007|25630
-407.014-1-49|Wood Michael|Nys Rt 8|310 NYS Route 8Bridgewater, NY 13313|0.25|DEED BOOK|2004|27743
-407.014-1-50|Wood Michael L|302 Nys Rt 8S|PO Box 266Bridgewater, NY 13313-1008|NOT IN ROLLS|DEED BOOK|2756|199
-407.014-1-51|Fabozzi Richard|Nys Rt 8|South StWest Winfield, NY 13491|1.15|DEED BOOK|02020|00127
-407.014-1-53.1|Dye Duane|Us Rt 20|Dye ErinPO Box 7Bridgewater, NY 13313|31.22|DEED BOOK|2008|13207
-407.014-1-53.2|Deraway Patricia G|Us Rt 20|Bridgewater, NY 13313|0.38|DEED BOOK|3020|67
-407.014-1-54|Coulter Barbara J|236 Nys Rt 8|Coulter Janet CPO Box 368Bridgewater, NY 13313|17.20|DEED BOOK|2019|10138
-407.014-1-55|Myers Glenn A|254 Nys Rt 8|Myers Tammy R254 State Route 8PO Box 135|0.67|DEED BOOK|2005|22041
-407.014-1-56|Ernst Paul|247 Nys Rt 8|PO Box 78Bridgewater, NY 13313|0.46|DEED BOOK|2011|5034
-407.014-1-57|Lien Eric M|Nys Rt 8 & Gulf Rd|PO Box 71Bridgewater, NY 13313|3.30|DEED BOOK|2764|459
-407.014-1-58|Fairbairn Trevor|32 Gulf Rd|32 Gulf RdBridgewater, NY 13313|1.30|DEED BOOK|2017|7070
-407.014-1-59|Haar Christopher|Nys Rt 8|Haar Kara259 State Rt 8PO Box 326Bridgewater, NY 13313|10.00|DEED BOOK|2702|602
-407.014-1-60|deSanno Michael R|271 Route 8|4216 Wood Ridge LnPrince George, VA 32875|0.52|DEED BOOK|2004|19766
-407.014-1-63.1|Davis Kenneth A Jr|9510 Us Rt 20|534 East St|1.00|DEED BOOK|2017|6901
-407.014-1-63.2|Bagnall Properties, LLC|Rte 20|PO Box 623Sherburne, NY 13460|6.80|DEED BOOK|2011|19564
-407.014-1-63.3|Bagnall Properties LLC|Us Rt 20|Sherburne, NY 13460|1.00|DEED BOOK|2015|18292
-407.015-1-1|Happy's LLC|Us Rt 20|200 Columbus AveNorth Babylon, NY 11704|NOT IN ROLLS|DEED BOOK|2013|5052
-407.015-1-3|Conklin Terrance A|Us Rt 20|220 Burrows RdWest Winfield, NY 13490|0.24|DEED BOOK|2018|649
-407.015-1-4|Utica, Chenango and Susq Valle Mt Markham Cent 215601|Village Of Bridgewater|256 Brighton RdRichfield Springs, NY 13439|3.10|DEED BOOK|2009|5544
-407.015-1-5|Rogers Ross D|9695 E State St|Sheehan Jennifer MPO Box 197Bridgewater, NY 13313|4.00|DEED BOOK|2007|18668
-407.015-1-6|Adams Joshua J|9703 Us Rt 20|Adams Gena LBridgewater, NY 13313|0.52|DEED BOOK|2018|18388
-407.015-1-7|Wysluzaly Dale|Us Rt 20|PO Box 43Bridgewater, NY 13313|11.30|DEED BOOK|2720|18
-407.015-1-10.1|Barretta Kathleen T|9706 US Route 20|614 E Main StLittle Falls, NY 13365|14.50|DEED BOOK|2013|17508
-407.015-1-11|Rodriguez Moises|Us Rt 20|9638 E State StBridgewater, NY 13313|1.50|DEED BOOK|2017|14308
-407.015-1-12|Schlaepfer Rudy J|Us Rt 20|14 Mill StBridgewater, NY 13313|1.10|DEED BOOK|3005|129
-407.015-1-13|Schlaepfer Rudy J|Us Rt 20|14 Mill St|1.25|DEED BOOK|3005|129
-407.015-1-14|Ostrosky Charles J|Us Rt 20|PO Box 483Bridgewater, NY 13313|0.91|DEED BOOK|2819|690
-407.018-1-1|McNamara Michael A|Nys Rt 8|McNamara MarciaPO Box 263Bridgewater, NY 13313|2.00|DEED BOOK|2010|267
-407.018-1-2.1|Fitch Stephen W|Rt 8S|Fitch ColleenRt 8|61.00|DEED BOOK|2005|22183
-407.018-1-2.2|Comstock Gary|188 Route 8 E|Comstock WfPO Box 12Bridgewater, NY 13313|1.02|DEED BOOK|2139|00912
-407.018-1-2.3|Beigh Jerome R|Rte 8 South|Beigh Sharon K|NOT IN ROLLS|DEED BOOK|2012|15716
-407.018-1-3|Beigh Andrew|191 Nys Rt 8|11293 Center StLeonardsville, NY 13364|11.20|DEED BOOK|2019|14948
-408.000-1-1|Curtin Farms LP|10073 Rt 20 St|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|141.40|DEED BOOK|2018|9874
-408.000-1-2.1|Dibble Richard S|Us Rt 20|Dibble Caroline M10265 US HIGHWAY 20WEST WINFIELD, NY 13491|219.40|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-408.000-1-3|Huntley Tammy S|10317 Us Rt 20|10317 US Rte 20West Winfield, NY 13491|1.02|DEED BOOK|2010|6089
-408.000-1-4|Cota William T|Rt20 East|1060 Lamb RdWest Edmeston, NY 13485|0.50|DEED BOOK|2015|9063
-408.000-1-6|Curtin Dairy LP|Route 20S|9815 Shaul RdCassville, NY 13318|1.00|DEED BOOK|2837|314
-408.000-1-7|Diehl Barry|10257 Us Rt 20|Delong-Diehl Joshua S364 County HWY 18AWest Winfield, NY 13491|1.50|DEED BOOK|2015|18742
-408.000-1-8|Pape Rodger A Jr|10221 Us Rt 20|Deller-Pape Amy L10221 Us Rt 20West Winfield, NY 13491|12.70|DEED BOOK|2002|02845
-408.000-1-9|Slosek Lawrence E|Us Rt 20|RD #2  Box 100AWest Winfield, NY 13491-9601|11.20|DEED BOOK|2886|187
-408.000-1-10|Koury Philip G|Gould Rd|333 Lamond PlUtica, NY 13502|70.20|DEED BOOK|2005|56784
-408.000-1-11|Curtin Farms LP|No Us Rt 20|9815 Shaul RdCassville, NY 13318|49.70|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-408.000-1-12|Pavlot Edward T|Eo East St|547 East StCassville, NY 13318MAY BE SUBJECT TO PAYMENT|6.71|DEED BOOK|01966|00679
-408.000-1-13|Curtin Farms LP|Eo East St|9815 Shaul RdCassville, NY 13318|5.00|DEED BOOK|2018|9874
-333.000-28-1|State Of New York|8000001|Attn: County TreasurerCounty Office Building Oneida  County PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-333.000-28-2|State Of New York|8000002|Attn: County TreasurerCounty Office Building Oneida  Town PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-333.000-28-3|State Of New York|8215601|Attn: County TreasurerCounty Office Building Oneida  School PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-333.000-28-4|State Of New York|8252009|Attn: County TrasurerCounty Office Building Oneida  School PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-394.000-1-1|State N Y Reforest|No White St|Attn: Commissioner Of Finance  No 0120001800 Park Ave|78.00|DEED BOOK|00941|00316
-394.000-1-2|State N Y Reforest|No White St|Attn: Commissioner Of Finance  No 0170001 & 4800 Park AveUtica, NY 13501|146.44|DEED BOOK|00934|00405
-394.000-1-18|State N Y Reforest|White St|Attn: Commissioner Of Finance  No 0200001-6800 Park AveUtica, NY 13501|290.94|DEED BOOK|00934|00407
-394.000-1-19|State N Y Reforest|White St|Attn: Commissioner Of Finance  Lots 78,82 Prop P Proj 11800 Park AveUtica, NY 13501|166.16|DEED BOOK|2095|00775
-394.000-1-20|State N Y Reforest|No Us Rt 20|Attn: Commissioner Of Finance  No 0220001 Prop L800 Park AveUtica, NY 13501|44.80|DEED BOOK|01583|00166
-394.000-1-21|State N Y Reforest|White St|Attn: Commissioner Of Finance  No 0160001 Lot 79 Prop G800 Park AveUtica, NY 13501|89.77|DEED BOOK|00934|00427
-394.000-1-22|State N Y Reforest|White St|c/o Comm. of Finance800 Park AveUtica, NY 13501|211.04|DEED BOOK|00933|00179
-394.000-1-23|State  N Y Reforest|White St|Attn: Commissioner Of Finance  No 0140001  Lot 81 Prop E800 Park AveUtica, NY 13501|91.27|DEED BOOK|00933|00175
-394.000-1-24|State N Y Reforest|White St|Attn: Commissioner Of Finance  No 0150001  Lot 81  Prop800 Park AveUtica, NY 13501|76.61|DEED BOOK|00934|00409
-400.000-1-1|State N Y Reforest|Us Rt 20|Attn: Commissioner Of Finance  No 0230102  Lot 77,78  Pr800 Park AveUtica, NY 13501|174.40|DEED BOOK|01600|00347
-400.000-1-3|State Of Ny Reforestation|Donley Rd|Attn: Commissioner 0F Finance  0230202 Lot 77  Proj  104800 Park AveUtica, NY 13501|53.66|DEED BOOK|2225|00203
-400.000-1-13|State N Y Reforest|White St|Attn: Commissioner Of Finance  No 0210001  Lot 91  Prop800 Park AveUtica, NY 13501|85.82|DEED BOOK|00969|00097
-406.000-1-17|State N Y Reforest|No Gulf Rd|50 Wolf RdForm Albert E Carey|179.79|DEED BOOK|00949|00342
-407.015-1-10.2|Electric & Gas New York State  Mt Markham Cent 215601|rt 20|89Rochester, NY 14649|0.31|DEED BOOK|2020|2908
-528.000-1-1|Windstream New York|080040|Attn: Rash & Associates IncPO Box 260888|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-528.000-2-1|Time Warner Of Ilion|080045|PO Box 7467|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-528.000-3-1|NY State Elec & Gas|080010|Attn: Utility Shared Services- Spec Fran 13160Freeport Bldg.New Gloucester, ME 04260|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-528.000-5-1|Citizens Telecom Of Ny|080030|Attn: Tax DeptPO Box 2629CODE  DISTRICT NAME  PARCELSFD011 Bridgewtr fdCODE  DISTRICT NAME215601 Mt Markham Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 5 SPECIAL FRANCHISE|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-628.001-9999-131.600/1001|NY State Elec & Gas|090040|Avangrid Mangmnt Co. Local Tax Transmission PolesOne City Center 5th FloorPortland, ME 04101|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-628.001-9999-131.600/1011|NY State Elec & Gas|090030|Avangrid Mgmnt Co.- Local Tax  Electric Power Sub StaOne City Center 5th FloorPortland, ME 04101|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-628.001-9999-131.600/1881|NY State Elec & Gas|090050|Avangrid Mgmnt Co. - Local Tax DistributionOne City Center 5th FloorPortland, ME 04101|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-628.001-9999-629.000/1881|Windstream New York|090020|Attn: Rash & AssocPO Box 260888|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-628.089-9999-131.600/1001|N Y State Elec Gas Co|090120|Avangrid Mgmnt Co. - Local Tax Transmission PolesOne City Center 5th FloorPortland, ME 04101|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-628.089-9999-131.600/1881|N Y State Elec Gas Co|090130|Avangrid Mgmnt Co. - Local Tax Distribution TransforOne City Center 5th FloorPortland, ME 04101|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-628.089-9999-618.750/1881|Citizens Telecom Of Ny|090100|Attn: Tax Dept3 High Ridge ParkStamford, CT 06905|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-628.089-9999-628.350/1001|M C I Telecommunications|Hardscrable Rd|Dept 013/001PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-628.089-9999-629.000/1881|Windstream NY Inc|090090|PO Box 260888Plano, TX 75026-0888|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-628.089-9999-844.750/2001|Tennessee Gas Pipeline Co|090110|Attn: Tenneco Energy --Property TaxPO Box 4372Houston, TX 77210-4372|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-628.089-9999-844.750/2002|Tennessee Gas Pipeline Co|090170|Attn: Tenneco Energy --Property TaxPO Box 4372Houston, TX 77210-4372CODE  DISTRICT NAME  PARCELSFD011 Bridgewtr fdCODE  DISTRICT NAME215601 Mt Markham Central252009 Brookfield Central S U B - T O T A L T O T A L|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-394.000-1-13.1|Freedom Guide Dogs, Inc.|1210 Hardscrabble Rd|1210 Hardscrabble Rd|4.30|DEED BOOK|2003|15218
-395.000-2-9|Babcock Hill Cemetery|Babcock Hill Rd|Cassville, NY 13318|0.50|DEED BOOK|00390|00047
-395.000-2-53|N Bridgwater Cemetery|Cemetery St|Cemetery StCassville, NY 13318|0.60|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
-400.000-1-42.1|United States Of America|Route 20|1600 Pennsylvania Ave NWWashington, DC 20500|1.40|DEED BOOK|2728|349
-401.000-1-36|Fairview Cemetery|Cemetery Rd|Cassville, NY 13318|4.20|DEED BOOK|00510|00047
-401.000-1-38.1| Central N Y Railroad|Twn Bridgewater R O W|1 Railroad StCooperstown, NY 13326|26.50|DEED BOOK|00000|ChkRolls
-402.000-1-17|East Street Cemetery|East St|Cassville, NY 13318|0.34|DEED BOOK|01245|00456
-407.000-2-7|Oneida County Brd Legislators  Mt Markham Cent 215601|LANDLOCKED Eo Nys Rt 8|800 Park AveUtica, NY 13501|1.50|DEED BOOK|2017|2305
-407.000-2-23|Town Of Bridgewater|Nys Rt 8|PO Box 370Bridgewater, NY 13313|26.80|DEED BOOK|01594|00489
-407.010-1-17|Congregational Church|Nys Rt 8|382 State Rt 8|NOT IN ROLLS|DEED BOOK|00090|00422
-407.010-1-41.2|Bridgewater Fire Co|Us Rt 20|PO Box 365Bridgewater, NY 13313|3.33|DEED BOOK|2274|00001
-407.011-1-2|Town Of Bridgewater|Eo Nys Rt 8|PO Box 363Bridgewater, NY 13313|40.00|DEED BOOK|01594|00489
-407.014-1-3.2|Foot Cemetary, ******************************************************************************************************* 407.014-1-25 ***************|No Address|Us Rt 20407.014-1-25Faith Chapel IncUs Rt  20Bridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|02018|00003
-407.014-1-41|Western Star Lodge|Us Rt 20|Us Rt 20Bridgewater, NY 13313|0.05|DEED BOOK|00446|00167
-407.014-1-42|Town of Bridgewater|Us Rt 20 & Nys Rt 8|PO Box 370Bridgewater, NY 13313|0.07|DEED BOOK|2016|13849
-407.014-1-52|Univer Church Cemetar|Nys Rt 8|Nys Rt 8Bridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|00000|ChkRolls
-407.015-1-2|Bridgewater Historical Society Mt Markham Cent 215601|Us Rt 20|Bridgewater, NY 13313|NOT IN ROLLS|DEED BOOK|2003|32952
+386.000-1-1|Lallier Clarence W|O Larson Rd|Lallier Nancy A9518 Larson RdCassville, NY 13318|10.50|2007|9806
+386.000-1-2|Edwards Irving P|9594 Larsen Rd|Goodson Evelyn L9594 Larsen Rd|5.10|2019|16587
+386.000-1-3.1|Lenard Stephen Sr|Rte 8|Lenard Stephen Jr8946 Canning Factory RdCassville, NY 13318|94.87|2018|8115
+386.000-1-3.2|Mushala Joseph|Route 8|1615 Marshall RdCassville, NY 13318|12.70|2070|00921
+386.000-1-3.3|Craig Terry|1531 Rt8&larson Rd|Craig Kim J1531 State Route 8 Rd|1.59|2005|16225
+386.000-1-4|Dove Mark D|1500 State Rt 8|1500 State Rt 8Cassville, NY 13318|4.19|2017|13883
+386.000-1-5.1|Sally Sam 11|1498 Route 8|1491 Route 8|9.78|2017|9487
+386.000-1-5.2|Mushala Barbara A|Babcock Hill Rd|1615 Marshall Rd|94.80|2523|00079
+386.000-1-5.3|Sally Sam J II|1491 Rt 8 N|1491 State Rt 8Cassville, NY 13318|1.14|2715|96
+386.000-1-5.4|Taylor Glenn A|Rt.8|Taylor Sheryl C1686 Stone Rd|16.02|2017|8824
+386.000-1-7|Mushala Joseph|Marshall Rd|1615 Marshall RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|8.40|01906|00089
+386.000-1-8|Madden Peter R|1568 Marshall Rd|Madden Jennifer A1568 Marshall RdCassville, NY 13318|2.14|2871|676
+386.000-1-9|Taylor Glenn A|Marshall Rd|Taylor Sheryl C1686 Stone RdClayville, NY 13322|50.00|NOT IN ROLLS|NOT IN ROLLS
+386.000-1-10|The Barbara Taylor Trust|Marshall Rd|Taylor Barbara A1680 Marshall Rd|11.60|2015|8557
+387.000-1-1.1|Mcgurk John L|Stone Rd|Mcgurk Cora L104 Grandview AveFrankfort, NY 13340|39.10|NOT IN ROLLS|NOT IN ROLLS
+387.000-1-1.2|The Barbara Taylor Trust|Stone Rd|Taylor Barbara A1680 Marshall RdCasville, NY 13318|6.80|2015|8557
+387.000-1-1.3|Estey Erin|1555 Stone Rd|Estey Justin1555 Stone Rd|17.70|2019|5651
+387.000-1-2.1|Stephan William H|Babcock Hill Rd|Stephan Audrey JClayville, NY 13322|53.00|2014|16636
+387.000-1-2.2|Stephan William H|Babcock Hill Rd|Stephan Audrey J1515 East St|29.90|2014|16636
+387.000-1-2.3|Treen Dennis|East St Ext|Mower SueWest Winfield, NY 13491|26.00|2741|349
+387.000-1-3|Taylor Glenn A|1686 Stone Rd|Taylor Sheryl1686 Stone RdClayville, NY 13318|10.00|2014|531
+387.000-1-4|Baylis John R|No East St|1428 Stone RdCassville, NY 13318|10.00|2010|5905
+387.000-1-5|Stephan William H|East Stone Rd|Stephan Audrey J1515 East StClayville, NY 13322|0.64|2014|16636
+387.000-1-6|Stephan William H|1515 East St|Stephan Audrey J1515 East StClayville, NY 13322|10.00|2014|16636
+387.000-1-7|Curtin Dairy LP|45 East St Ext|Shaul Rd|1.70|2011|15066
+394.000-1-3.1|Przyluke Marshall|1421 Hardscrabble Rd|3629 Oxford RdNew Hartford, NY 13413|98.16|2004|26196
+394.000-1-3.2|Worden Charles E|Hardscrabble Rd|Worden Vanessa M9070 Canning Factory Rd|36.40|2007|21826
+394.000-1-3.3|Scibior Richard F|Wo Hardscrabble Rd|1500 Hardscrabble Rd|60.70|2589|00039
+394.000-1-3.4|Landgren Christopher C|1421 Hardscrabble Rd|Landgren Kristin NCassville, NY 13318|3.46|NOT IN ROLLS|NOT IN ROLLS
+394.000-1-4.1|Scibior Richard F|1500 Hardscrabble Rd|Scibior Sheila M1500 Hardscrabble Rd|34.86|2007|10317
+394.000-1-4.2|Malysa I. Diane|Hardscrabble|1433 Hardscrabble RdCassville, NY 13318|59.00|2005|2740
+394.000-1-4.3|Miller Keneth C|Hardscrabble Rd|Jaye Ann2857 Oneida St|41.13|2398|00007
+394.000-1-4.4|Miller Kenneth C|Hardscrabble Rd|Miller Jaye2857 Oneida StSauquoit, NY 13456|1.90|2725|292
+394.000-1-4.5|Malysa Isabelle D|Hardscrabble Rd|1433 Hardscrabble RdCassville, NY 13318|7.40|2741|45
+394.000-1-5|Caruso Cattle Co  Inc|Nn Hardscrabble Rd|RD4 Jackson RdFrankfort, NY 13340|26.80|2666|00374
+394.000-1-6|Etwaroo Urmilla|Hardscrabble Rd|Roriguez Hector1863 Stockholm StRidgewood, NY 11385|4.00|2005|18059
+394.000-1-7|Foster Richard E III|1545 Hardscrabble Rd|Foster Glenda D1545 Hardscrabble RdCassville, NY 13318|41.50|NOT IN ROLLS|NOT IN ROLLS
+394.000-1-8|Curtin Dairy LP|Hardscrabble Rd|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|42.60|2837|253
+394.000-1-9|Stephan William H|Hardscrabble Rd|Stephan Audrey J1515 East StClayville, NY 13322|56.92|2014|16636
+394.000-1-9.60|American Tower|Hardscrabble Rd|PO Box 723597|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+394.000-1-10|Marsh George T|Hardscrabble Rd|9214 Butler RdSauquoit, NY 13456|94.10|2008|6655
+394.000-1-12.1|The GTM Revocable Living Tru|Hardscrabble Rd|9214 Butler RdSauquoit, NY 13456|68.05|2008|6654
+394.000-1-12.2|Eaton Ernest P|1264 Hardscrabble Rd|Eaton Laura L1264 Hardscrabble Rd|6.95|2009|19650
+394.000-1-13.2|Testa Dominick|1256 Hardscrabble Rd|Cassville, NY 13318|23.30|2005|23394
+394.000-1-13.3|Spagnola Michael T|1200 Hardscrabble Rd|1200 Hardscrabble RdCassville, NY 13318|9.90|2011|18879
+394.000-1-14.1|Testa Dominick T|Hardscrabble Rd|Testa Sandra L1201 Hardscrabble RdCassvillle, NY 13318|16.47|2933|295
+394.000-1-14.2|Testa Sandra|1201 Hardscribble Rd|1201 Hardscrabble RdCassville, NY 13318|8.93|2454|00237
+394.000-1-15|Brewer Thomas|1231 Hardscrabble Rd|Wolf Penne1231 Hardscrabble RdCassville, NY 13318|40.17|2018|10858
+394.000-1-16|Biel Daniel|Hardscrabble Rd|911 Mountain View RdAsbury, NJ 08002MAY BE SUBJECT TO PAYMENT|85.23|2006|21449
+394.000-1-17.1|Weiselberg Stanley|1386 Hardscrabble Rd|1386 Hardscrabble RdCassville, NY 13318|40.66|2003|10191
+394.000-1-17.2|Simmons David P|1379 Hardscrabble Rd|Simmons Mandy LPO Box 276|3.52|2018|3895
+394.000-1-17.3|Ming Angela M|1383 Hardscrabble Rd|Ming Joseph C Jr1383 Hardscrabble RdCassville, NY 13318|40.01|2005|1973
+394.000-1-17.4|Ming Joseph C|Hardscrabble Rd|Ming Angela MCassville, NY 13318|41.90|2013|1427
+394.000-1-17.6|Miller Ken|Hardscrabble Rd|2857 Oneida St|64.72|2695|308
+394.000-1-25|Sauquoit Fish|Hardscrabble Rd|Game ClubAttn:R E Hanes|11.80|2130|00063
+394.000-1-26.1|Bentley John C|1144 Hardscrabble Rd|Bentley Heather2007 Stevens Rd|7.00|2013|17024
+394.000-1-26.2|Stone Ceceilia J|1144 Hardscrabble Rd|1144 Hardscrabble RdBridgewater, NY 13318|68.19|2013|17026
+395.000-1-1|Carbone Judith|No Hardscrabble Rd|9446 Larson RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|30.46|2015|5126
+395.000-1-3.1|Miller Kenneth C|Hardscrabble Rd|Miller Jayeann L2857 Oneida StSauquoit, NY 13456|100.85|2018|2
+395.000-1-3.2|Hawes Peter|Hardscrabble Rd|1801 Hardscrabble RdCassville, NY 13318|10.85|2011|4804
+395.000-1-4.1|Hawes Peter L|Nys Rt 8|Hawes Katherine ACassville, NY 13318|57.40|2013|4695
+395.000-1-4.2|Taylor Andrea|1455 Route 8N|Brower Nicholas1455 Route 8|3.10|2016|8227
+395.000-1-5.1|Sokol Korney I|1393 Nys Rt 8|1393 State Route 8Cassville, NY 13318|1.50|2018|7166
+395.000-1-5.2|Barkley Susan M|1830 Hardscrabble Rd|1830 Hardscrabble Rd|1.79|2798|642
+395.000-1-6.1|Carter Linda A|1818 Nys Rt 8|1818 Hardscrabble RdCassville, NY 13318|5.70|2625|321
+395.000-1-6.2|Coe Kenneth P Jr|1383 Rte 8|Coe Michelle LCassville, NY 13318|1.20|2005|14418
+395.000-1-6.3|Seymour Norman E|1385 Ny Rt 8|Seymour Laurie JCassville, NY 13318|1.05|3035|222
+395.000-1-7|Neal Jean M|1377 Nys Rt 8|1377 Nys Rt 8Cassville, NY 13318|1.57|2002|01884
+395.000-1-8.1|David Earl J|1335 Nys Route 8|David Dawn1335 State Rte 8|2.07|2889|215
+395.000-1-8.2|Curtin Dairy LP|Hardscrabble Rd|9815 Shaul RoadCassville, NY 13318|121.00|2837|353
+395.000-1-8.3|Chapman Clifton L|1782 Hardscrabble Rd|1788 Hardscrabble Rd|5.50|2871|652
+395.000-1-8.4|McCallen Michael C|1788 Hardscraddle Rd|McCallen Joanne R78 S Magee St|2.19|2016|2343
+395.000-1-9|Lopez Tera|1327 Nys Rt 8|Leavitt Darrik1327 State Route 8Cassville, NY 13318|6.81|2017|10530
+395.000-1-10|Luther Roger P|1315 Nys Rt 8|Luther Carla RRt 8 Box 3471315 State Route 8Cassville, NY 13318|1.25|2719|118
+395.000-1-11|Coffin Deborah J|1293 Nys Rt 8|1293 Nys Rt 8Cassville, NY 13318|NOT IN ROLLS|2003|01003
+395.000-1-12|Simmons Connie M|9647 Sickle Hill Rd|9647 Sickle Hill RdCassville, NY 13318|NOT IN ROLLS|2802|686
+395.000-1-13|Curtin Dairy LP|Sickle Hill Rd|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|165.10|2837|253
+395.000-1-14.1|Mulvey Willis|991 Mapledale Rd|991 Mapledale RdCassville, NY 13318|127.84|2012|4135
+395.000-1-14.1-60|Mulvey Willis|Mapledale Rd|991 Mapledale RdCassville, NY 13318|NOT IN ROLLS|2012|4135
+395.000-1-14.1-61|Mulvey Willis|Mapledale Rd|991 Mapledale RdCassville, NY 13318|NOT IN ROLLS|2012|4135
+395.000-1-14.2|Lord Christine N|1001 Mapledale Rd|Owens Dennis M1001 Mapledale RdCassville, NY 13318|1.65|2003|13974
+395.000-1-15|Tilbe Leon III|1084 Hardscrabble Rd|1084 Hardscrabble RdCassville, NY 13318|10.00|2859|513
+395.000-1-16.1|Stone Ceceilia J|1144 Hardscrabble Rd|1144 Hardscrabble RdCassville, NY 13318|62.82|2002|02819
+395.000-1-16.2|DiNigro David D|1137 Hardscrabble Rd|1137 Hardscrabble RdCassville, NY 13318|4.83|2013|10470
+395.000-1-16.3|Tilbe Leon H III|1144 Hardscrabble Rd|1084 Hardscrabble RdCassville, NY 13318|26.00|2020|1274
+395.000-1-16.4|Tuttle Jamie L|1121 Hardscrabble Rd|1121 Hardscrabble RdCassville, NY 13318|5.09|2013|16556
+395.000-1-16.5|Pcola Michael J|Hardscrabble Rd|Pcola Christine G593 State Route 8|10.00|2018|7384
+395.000-1-17|Curtin Dairy LP|Sickle Hill Rd|9815 Shaul RdCassville, NY 13318|195.00|2963|556
+395.000-1-18|Smith Ronald W|Hardscrabble Rd Seasonal|9305 Roberts RdSauquoit, NY 13456|6.00|2957|521
+395.000-2-1.1|Mushala Joseph S|Babcock Hill Rd|1615 Marshall RdCassville, NY 13318|8.75|2549|00092
+395.000-2-1.2|Marchione Kenneth|Rte 8|Marchione Judith9350 Larson Rd|1.50|2003|20444
+395.000-2-1.3|Loomis Mark|1394 Rt 8 N|Loomis Holly LCassville, NY 13318|1.50|2954|206
+395.000-2-2|DeStefano Joshua|Nys Rt 8|1376 Route 8Cassville, NY 13318|0.84|2011|9937
+395.000-2-3.1|Loomis Eloise M|9670 Babcock Hill Rd|Loomis MauriceCassville, NY 13318|0.96|NOT IN ROLLS|NOT IN ROLLS
+395.000-2-3.2|Loomis Lee|9668 Babcock Hill Rd|9668 Babcock Hill RdCassville, NY 13318|0.41|2721|599
+395.000-2-4|Lemieux Eric S|So Babcock Hill Rd|Lemieux Melissa L9682 Babcock Hill RdCassville, NY 13318|NOT IN ROLLS|2006|2288
+395.000-2-5.1|Mushala Joseph S|Babcock Hill Rd|1615 Marshall RdCassville, NY 13318|12.90|2549|00092
+395.000-2-5.2|Redner Joel|9728 Babcock Hill Rd|PO Box 333|NOT IN ROLLS|2007|21979
+395.000-2-5.3|Ratciliffe Gloria J|9676 Babcock Hl|Ratciliffe Peter N Jr.Cassville, NY 13318|3.70|2020|3175
+395.000-2-6|DeSalvatore Helen I|9732 Babcock Hill Rd|9732 Babcock Hill RdCassville, NY 13318|NOT IN ROLLS|2009|15963
+395.000-2-7|Bagnall Properties, LLC|9750 Babcock Hill Rd|PO Box 623Sherburne, NY 13460|14.82|2015|10358
+395.000-2-8|Sickler George|9786 Babcock Hill Rd|Sickler Gary513 Fairground RdWest Winfield, NY 13491|2.79|2180|00311
+395.000-2-10|Taylor Glenn A|9801 Babcock Hill Rd|Taylor Sheryl C1686 Stone RdClayville, NY 13322|1.21|2007|17053
+395.000-2-11.1|Mushala Joseph|Babcock Hill Rd|Mushala BarbaraCassville, NY 13318|64.00|2782|71
+395.000-2-11.2|Taylor Glenn A|Babcock Hill Rd|Taylor Sheryl CClayville, NY 13322|92.40|2007|17054
+395.000-2-11.3|Sullivan Bert A|9875 Babcock Hill Rd|Sullivan Lynett9875 Babcock Hill Rd|0.64|2851|124
+395.000-2-12|Gillespie Sean|9912 Babcock Hill Rd|Schultz Rebecca9912 Babcock Hill RdCassville, NY 13318|NOT IN ROLLS|2003|16921
+395.000-2-13|Curtin Dairy LP|9938 Babcock Hill Rd|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|93.57|2837|303
+395.000-2-14|Beach Robert D|10008 Babcock Hill Rd|Beach Gina10008 Babcock Hill RdCassville, NY 13318|NOT IN ROLLS|2664|161
+395.000-2-15|Orsino Mark V|10028 Babcock Hill Rd|10028 Babcock Hill RdCassville, NY 13318|NOT IN ROLLS|2004|28938
+395.000-2-16|Evans Michael R|10028 Babcock Hill Rd|10028 Babcock Hill RdCassville, NY 13318|NOT IN ROLLS|2019|7401
+395.000-2-17.1|Noll Frederick W|10034 Babcock Hill Rd|Noll Gina T|35.10|NOT IN ROLLS|NOT IN ROLLS
+395.000-2-17.2|Bailey Clyde II|10004 Babcock Hill Rd|House Tammy L10004 Babcock Hill Rd|1.00|2355|00127
+395.000-2-17.3|Crossett Larry O|10000 Babcock Hill Rd|Howarth-Piayai Jan MCassville, NY 13318|1.10|2012|7972
+395.000-2-18.1|Curtin Dairy LP|Ns Shaul Rd|9815 Shaul Rd|152.81|2837|303
+395.000-2-18.2|Lamoree Shelley A|9873 Ns Shaul Rd|Cassville, NY 13318|1.05|2946|196
+395.000-2-19.1|Curtin Dairy, LP|9856 Shaul Rd|9815 Shaul Rd|1.46|2013|11747
+395.000-2-19.2|Meyer Stephen F|9864 Shaul Rd|9864 Shaul Rd|1.64|2899|097
+395.000-2-20.1|Curtin Dairy LP|Shaul Rd|9815 Shaul RdCassville, NY 13318|109.45|2837|314
+395.000-2-20.2|Curtin Dairy LP|9942 Shaul Rd|9815 Shaul RdCassville, NY 13318|8.70|2875|283
+395.000-2-21.1|Smith Malcolm|Shaul Rd|Smith Elsa1144 Stone RdCassville, NY 13318|42.93|NOT IN ROLLS|NOT IN ROLLS
+395.000-2-21.2|Peterson David C|10028 Shaul Rd|Peterson MalindaCassville, NY 13318|1.00|2402|00004
+395.000-2-21.3|Pustay Steven C|Shaul Rd|Pustay Mary LouWest Winfield, NY 13491|15.70|2871|118
+395.000-2-22|Pritchard Dale T|10020 Shaul Rd|Pritchard Judy ACassville, NY 13318|0.93|01997|00221
+395.000-2-23|Curtin Dairy LP|Nys Rt 8|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|170.00|2837|253
+395.000-2-24.1|Weidman Tina|Nys Rt 8|Davis MargueriteMarguerite Davis87 Foster StWhitesboro, NY 13492|4.60|2019|6232
+395.000-2-24.2|Cadwell Claire Jr|1015 Old State Route 8|1015 Old State Route 8|1.00|2018|9858
+395.000-2-25|Foster Gertrude J|1020 Old Rt 8|1020 Old Rt 8Cassville, NY 13318|NOT IN ROLLS|2018|16741
+395.000-2-26.1|Knox Benjamin P|1026 Old Rt 8|2491 Co. Hwy. 11Mount Vision, NY 13810|0.07|2018|9581
+395.000-2-26.2|Uvanni Francine M|1018 Old Rt 8|Cassville, NY 13318|NOT IN ROLLS|2016|15350
+395.000-2-26.3|Howard Teddy D|1022 County Rt 8|West Edmeston, NY 13485|NOT IN ROLLS|2004|29786
+395.000-2-27|Halenar Linda E|1025 Nys Rt 8|Halenar Peter J1025 State Route 8Cassville, NY 13318|0.78|01923|00693
+395.000-2-28|Hale Dorothy|1023 Nys Rt 8|600 W Hinds Ave  A12Sherrill, NY 13461|NOT IN ROLLS|2016|4792
+395.000-2-29|Hale Mark A|1021 Nys Rt 8|Gerace Christine1021 State Route 8|NOT IN ROLLS|2144|00553
+395.000-2-30|Kelly Carolyn S|1017 Nys Rt 8|Kelly John W1017 State Route 8Cassville, NY 13318|NOT IN ROLLS|2434|00028
+395.000-2-31|Macdonald Jon E|Eo Mapledale Rd|Paris Hill RdSauquoit, NY 13456|2.00|01949|00508
+395.000-2-32|Curtin Dairy|Mapledale Rd|9815 Shaul RdCassville, NY 13318|4.00|2016|3750
+395.000-2-33|Curtin Dairy LP|Nys Rt 8|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|46.90|2837|253
+395.000-2-34|Briggs Janice|9662 Sickle Hill Rd|9662 Sickle Hill RdCassville, NY 13318|0.34|2434|00103
+395.000-2-35|Curtin Dairy LP|Shaul Rd|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|34.30|01905|00322
+395.000-2-36|Lowell Mary Anne|1186 Nys Rt 8|1186 State Route 8Cassville, NY 13318|NOT IN ROLLS|01838|00043
+395.000-2-37|Deraway Dale L|1188 Rt 8 N.bridgewater|1188 State Route 8Cassville, NY 13318|NOT IN ROLLS|2005|11356
+395.000-2-38|Neal Guy W|1194 Nys Rt 8|Neal Jean MCassville, NY 13318|1.00|2224|00003
+395.000-2-39|Gillespie Kevin C|1200 Nys Rt 8|Gillespie Wife1200 State Route 8Cassville, NY 13318|0.88|2138|00249
+395.000-2-40.1|Wilcox Linda A|1236 Route 8|140 Lover's LaneWest Winfield, NY 13491|2.70|2008|20250
+395.000-2-40.2|Gustavson Kevin|Route 8|1206 State Route 8Cassville, NY 13318|0.62|2303|00043
+395.000-2-41|Rowling Joyce|Nys Rt 8 & Shaul|Rowling Laverne1248 State Route 8Cassville, NY 13318|1.55|2415|00104
+395.000-2-42|Williams Donna|1235 Nys Rt 8|1235 State Rt 8Cassville, NY 13318|0.17|2734|281
+395.000-2-43|Welch Scott|1239 Nys Rt 8|Welch Teri1239 State Route 8Cassville, NY 13318|NOT IN ROLLS|2014|10824
+395.000-2-44|Clark Robert|9671 Sickle Hill Rd|Clark Betty9671 Sickle Hill RdCassville, NY 13318|NOT IN ROLLS|01959|00973
+395.000-2-45|Lee Melissa M|9665 Sickle Hill Rd|PO Box 324Cassville, NY 13318|0.38|2018|14357
+395.000-2-46|Whisman Patrick|1245 State Route 8|1245 State Route 8Cassville, NY 13318|NOT IN ROLLS|2014|2266
+395.000-2-47|Cheney James N|1247 Nys Rt 8|Lisa Ann1247 Route 8Cassville, NY 13318|0.69|2665|00684
+395.000-2-48|Litz Paul A|1249 Nys Rt 8|Cassville, NY 13318|NOT IN ROLLS|2016|10699
+395.000-2-49|Malysa Frank J|1253 Nys Rt 8|Malysa Donna2355 Holman City Rd|NOT IN ROLLS|2700|212
+395.000-2-50|Varin Joseph D|1275 Nys Rt 8|Cassville, NY 13318|NOT IN ROLLS|2004|19833
+395.000-2-51|Curtin Dairy LP|Nys Rt 8|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|149.40|2837|353
+395.000-2-52|Murphy Krista B|1312 Route 8|Locash Richard J Jr1312 State Route 8Cassville, NY 13318|1.00|2019|12694
+396.000-1-1|Mushala Joseph|Stone Rd|Mushala Barbara1615 Marshall RdCassville, NY 13318|74.67|NOT IN ROLLS|NOT IN ROLLS
+396.000-1-2|Wiswell Suzanne C|10073 Stone Rd|10073 Stone RdCassville, NY 13318|NOT IN ROLLS|2009|9736
+396.000-1-3|Baylis John R|Babcock Hill Rd|1428 Stone RdCassville, NY 13318|28.70|2010|5905
+396.000-1-5|Bostwick Neal 11|1380 Stone Rd||NOT IN ROLLS|2015|6887
+396.000-1-6|Wright Nancy L|1372 Stone Rd|1372 Stone Rd|NOT IN ROLLS|2005|1081
+396.000-1-7|Emil Raun T|1366 Stone Road|1366 Stone RdCassville, NY 13318|NOT IN ROLLS|2004|29289
+396.000-1-8|Treen Dennis J|Babcock Hill Rd|Mower Susan170 Walts RdWest Winfield, NY 13491|42.80|NOT IN ROLLS|NOT IN ROLLS
+396.000-1-9|Lazarek Douglas|1340 Stone Rd|PO Box 365Cassville, NY 13318|1.52|2017|4954
+396.000-1-10|Denton Rene A|1092 East St & Shaul Rd|1092 East StCassville, NY 13318|NOT IN ROLLS|2018|1748
+396.000-1-11.1|Donahoe Thomas J|1280 Stone Rd|Donahoe Camille1280 Stone Rd|5.00|2019|2566
+396.000-1-11.2|Treen Dennis J|Stone Rd|Mower Susan E170 Walts Rd|0.78|2011|14557
+396.000-1-11.3|Burdick Amy|1252 Stone Rd|Curtin Robert1252 Stone Rd|33.59|2014|17127
+396.000-1-11.4|Curtin Dairy LP|1251 Stone Rd|9815 Shaul RdCassville, NY 13318|10.26|2013|2081
+396.000-1-11.5|Nelson Kim|East St|150 Doyle RdWest Winfield, NY 13491|11.00|2019|950
+396.000-1-12.1|Girmonde Victoria R|10173 East & Babcock Hill Rd|10173 East & Babcock Hill RdClayville, NY 13322|3.20|2019|2130
+396.000-1-12.2|Treen Dennis J|Babcock Hill Road Ext|Mower Susan E170 Walts Rd|101.90|2876|204
+396.000-1-13|Treen Dennis J|10220 Babcock Hill Rd|Mower Susan170 Walts Rd|1.90|2017|17158
+396.000-1-14|Stephan Christian E|10245 Babcock Hill Rd|Stephan Susan S10245 Babcock Hill RdClayville, NY 13322|49.10|2018|7213
+396.000-1-15|Mower Susan|So Babcock Hill Rd|Treen Dennis170 Walts RdWest Winfield, NY 13491|37.40|NOT IN ROLLS|NOT IN ROLLS
+396.000-1-16.1|Curtin Dairy LP|Stone Rd|9815 Shaul RdCassville, NY 13318|84.50|NOT IN ROLLS|NOT IN ROLLS
+396.000-1-16.2|Smith Henry E|10305 Holmes Rd|10305 Holmes Rd|1.00|2358|00069
+396.000-1-17|Smith Malcom|1144 Stone Rd|Smith Elsa1144 Stone RdCassville, NY 13318|NOT IN ROLLS|01794|00295
+396.000-1-18|Mizgala Michael A|1122 Stone Rd|Mizgala Debra1122 Stone RdWest Winfield, NY 13491|2.00|2815|262
+396.000-1-19|Brooks Audrey S|10266 Holmes Rd|1945 TownshipRd. 405Jeromesville, OH 44840|1.02|2008|19397
+396.000-1-20|Holmes Charles|Stone Rd|127 Holmes RdWest Winfield, NY 13491MAY BE SUBJECT TO PAYMENT|15.00|01008|00247
+396.000-1-21|Slosek Lawrence E|1050 Stone Rd|10213 US Route 20|1.00|2004|22477
+396.000-1-22.1|Huntley Ronald R|Stone Rd|822 Stone Rd|2.38|NOT IN ROLLS|NOT IN ROLLS
+396.000-1-22.2|Holmes Donald C|Stone Rd|35 Trestle TrailNorth Chili, NY 14514|1.30|2019|224
+396.000-1-23|Whisman Marco E II|1061 Stone Rd|Whisman Carissa10279 Shaul RdWest Winfield, NY 13491|5.00|2008|19567
+396.000-1-24|Smith Malcoln|Stone Rd|1144 Stone RdCassville, NY 13318|21.97|NOT IN ROLLS|NOT IN ROLLS
+396.000-1-25.1|Smith Malcolm|Stone Rd|Smith Elsa HCassville, NY 13318MAY BE SUBJECT TO PAYMENT|61.20|NOT IN ROLLS|NOT IN ROLLS
+396.000-1-25.2|Peterson Mathew|Stone Rd|1176 Stone RdCassville, NY 13318|8.62|2017|17622
+396.000-1-26|Howard Edward J|815 Stone Rd|815 Stone RdWest Winfield, NY 13491MAY BE SUBJECT TO PAYMENT|77.40|2002|01242
+396.000-1-27|Firsching Christine|10160 Shaul Rd|10160 Shaul Rd|2.40|2008|11208
+396.000-1-28.1|Schlaepfer Monica R|10136 Shaul Rd|10136 Shaul RdCassville, NY 13318|2.00|2011|7041
+396.000-1-28.2|Firsching Christtini|Shaul Rd|10160 Shaul Rd|5.40|NOT IN ROLLS|NOT IN ROLLS
+396.000-1-29|Schlaepfer Monica R|10126 Shaul Rd|10126 Shaul Rd RdCassville, NY 13318|5.00|2008|19943
+396.000-1-30|Harris Lloyd S|1070 East St|Harris Sally A1070 East StCassville, NY 13318|3.00|2005|10076
+396.000-1-31|Harris Lloyd O|1064 East St|Harris Donalda1064 East StCassville, NY 13318|5.30|01989|00493
+396.000-1-32|Pustay Steven C|1047 East St|Pustay Mary LouPO Box 397West Winfield, NY 13491|2.83|2008|789
+396.000-1-33|Pustay Steven C|East St|Pustay MaryPO Box 366West Winfield, NY 13491|68.30|2514|00066
+396.000-1-34.1|Barrett Elizabeth M|1238 East St|Barrett Daniel V1238 East StCassville, NY 13318|1.79|2013|4975
+396.000-1-34.2|Connors Sue A|1232 East St|1232 East StCassville, NY 13318|5.04|2837|21
+396.000-1-34.3|Catlin Larry J|1226 East St|1226 East StCassville, NY 13318|5.17|2757|665
+396.000-1-34.4|Kmiec Nicholas|1198 East St|Loitsch Lauren1198 East St|5.51|2013|22139
+396.000-1-34.5|Stock Wayne|1184 East St|Mary Ann1134 East St|5.68|2604|00125
+396.000-1-34.6|King Steven D|1176 East St|Swanson Dawn M1176 East St|5.26|2492|00055
+396.000-1-34.7|Greco Peter T|1166 East St|1166 East StCassville, NY 13318|5.51|2002|10145
+396.000-1-34.8|Hughes Thomas L|1104 East St|1104 East StCassville, NY 13318|2.20|2013|13227
+396.000-1-34.9|Berberick Suzanne|East St|1098 East St|1.40|3007|186
+396.000-1-34.10|Madaras Thomas H|10121 Shaul Rd|Madaras Diane G10121 Shaul Rd|1.33|2004|14422
+396.000-1-34.11|Lewis Zachary W|10127 Shaul Rd|10127 Shaul RdCassville, NY 13318|5.37|2018|18008
+396.000-1-34.12|Mang Dennis|10143 Shaul Rd|2612 State Route 8 Lot 12West Winfield, NY 13491-4330|5.64|2006|13041
+396.000-1-34.13|Carino. Edward A|10138 Shaul Rd|Carino Catherine E10153 Shaul Rd|5.52|2911|546
+396.000-1-34.14|Griffiths William W|Shaul Rd|10163 Shaul RdCassville, NY 13318|6.50|2005|27599
+396.000-1-35|Treen Dennis J|1223 Stone Rd|Mower Susan E170 Walts RdWest Winfield, NY 13491|4.79|2011|14557
+396.000-1-36.1|Curtin Dairy LP|East St|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|165.10|2010|13366
+396.000-1-36.2|Lashure Donald F|10045 Shaul Rd|Lashure Wf10045 Shaul Rd|1.00|2231|00255
+396.000-1-36.3|Kemp Donald R Jr|10051 Shaul Rd|Kemp AmyCassville, NY 13318|1.03|2008|9122
+396.000-1-36.5|Wheatley Karen S|10065 Shaul Rd|10065 Shaul RdCassville, NY 13318|1.71|2004|26765
+396.000-1-36.6|Calkins Scott|1095 East St|Calkins Kimberly1095 East St|1.50|2018|1480
+396.000-1-36.7|Brewer Nathan J|East St|1239 East StCassville, NY 13318|4.00|2012|20214
+396.000-1-36.8|Brewer Joshua P|1235 East St|9938 Babcock Hill RdCassville, NY 13318|11.20|2012|20217
+396.000-1-37|Thomas Donald J|1347 Stone Rd|1347 Stone RdCassville, NY 13318|6.50|2975|306
+396.000-1-38|Seelow William F Jr|Stone Rd|1357 Stone RdCassville, NY 13318|3.40|2003|25069
+396.000-1-39|Gage Gerald P|1359 Stone Rd|Duncan Brittany AStone RdPO Box 157Bridgewater, NY 13313|3.20|2016|3148
+396.000-1-40|Droleskey Joseph J|Stone Rd|1365 Stone RdCassville, NY 13318|2.40|2446|00011
+396.000-1-41|Bowee Robert III|1363 Stone Rd|1363 Stone RdCassville, NY 13318|0.80|2006|10664
+396.000-1-42|Properties Conley & Tibbitts|1373 Stone Rd|2982 Oneida StSauquoit, NY 13456|2.90|2015|4779
+396.000-1-43|Land Stacey E|1377 Stone Rd|1377 Stone RdCassville, NY 13318|0.90|2013|22447
+396.000-1-44|Ball Michael S|Stone Rd|Ball Linda J195 Center RdFrankfort, NY 13340|1.60|2012|18258
+396.000-1-45|Andela Kenneth|Babcock Hill Rd|Andela DianePO Box 160|NOT IN ROLLS|2239|00009
+396.000-1-46|Brewer Nathan J|10040 Babcock Hill Rd|10040 Babcock Hill RdCassville, NY 13318|1.87|2014|8699
+396.000-1-47.1|Demorest Mark C|1118 East St|Demorest Judy ACassville, NY 13318|3.88|2629|526
+396.000-1-47.2|Greco Peter|1150 East St|1166 East St|2.81|2005|12596
+400.000-1-2|Lyman Stewart|Us Rt 20|Lyman WifeRDWaterville, NY 13480|0.75|2153|00395
+400.000-1-4|Wishing Well Hunting & Fishing Mt Markham Cent 215601|8883 Donley Rd|2335 River RdHamilton, NY 13346|120.90|2015|5334
+400.000-1-5.1|Taylor Larry B|No Donley Rd|414 Stone RdWest Winfield, NY 13491|12.00|2010|11632
+400.000-1-5.2|Griffiths Stephen J|Donley Rd|Griffiths Joseph M419 Babcock Hill Rd|10.00|2013|7506
+400.000-1-6|Taylor Larry B|No Donley Rd|414 Stone RdWest Winfield, NY 13491|6.00|2010|11632
+400.000-1-7|Meili Richard|8971 Donley Rd|Meili Gwendolyn8971 Donley RdWaterville, NY 13480-2413|60.00|2753|300
+400.000-1-8.1|Taranto Rose A|9053 Donley Rd|9053 Donley Rd|113.00|2013|4192
+400.000-1-8.2|DiPerna Robert F|Donley Rd|DiPerna Susan SWhitesboro, NY 13492|11.20|2015|5781
+400.000-1-8.3|Fanning Carol M|9057 Donley Rd|Taranto Rose AWaterville, NY 13480|1.98|2013|4192
+400.000-1-8.4|Sorkin Susan|Donley|Jones Timothy DPO Box 1324|10.81|2011|2137
+400.000-1-8.5|Taranto Rose A|Donley Rd|9053 Donley RdWaterville, NY 13480|2.00|2016|7601
+400.000-1-10|Roberts Chad D|Donley Rd|3142 Echard RdSauquoit, NY 13456|2.72|2006|10543
+400.000-1-11|Krom Floyd|9211 Donley Rd|Krom Sandra M9211 Donley RdCassville, NY 13318|14.77|2014|6504
+400.000-1-12|Meininger Thomas E|914 White St|Meininger Nancy C914 White StCassville, NY 13318|312.00|2849|391
+400.000-1-14|Parry David|Upper White St|9062 Paris Hill RdSauquoit, NY 13456|9.85|2015|2289
+400.000-1-15|Critelli Stephen|850 White St|9411 Paris Hill RdSauquoit, NY 13456|13.74|2020|2072
+400.000-1-16|Margot Frank A|812 White St|Cassville, NY 13318|7.56|2595|00216
+400.000-1-17|Angell Roy L|839 White St|839 White StCassville, NY 13318|NOT IN ROLLS|2002|9489
+400.000-1-18|Payne Stephen D|847 White|Payne Sharon LCassville, NY 13318|9.81|2005|12068
+400.000-1-20.1|Christian John J|9234 Donley Rd|Christian Jennifer LPO Box 108West Winfield, NY 13491|82.20|2992|258
+400.000-1-20.2|Gustavson Douglas|9289 Donley Rd|Gustavson Jayma9289 Donley Rd|4.00|2775|199
+400.000-1-20.3|Riano Raymond P|9290 Donley Rd|9290 Donley Rd|10.30|2767|265
+400.000-1-20.4|Ostrander Jonathan|9233 Donley Rd|Ostrander Christina9233 Donley Rd|56.00|3035|169
+400.000-1-20.5|Miller Scott|9240 Donley Rd|Miller Mark369 40th St|9.70|2549|00229
+400.000-1-22|Christian Bernice J|9186 Donley Rd|2614 St. Rt. 8West Winfield, NY 13491|76.60|2013|13870
+400.000-1-23.1|Montgomery Wendell|Donely Rd|9000 Donely RdWaterville, NY 13480|15.00|2010|7549
+400.000-1-23.2|Montgomery Wendell C|9000 Donley Rd|Gilmore JayneBox 245-9000 Donley RdWaterville, NY 13480|4.60|2299|00079
+400.000-1-23.3|Montgomery Mark|Donley Rd|Montgomery Lisa2514 Main StClayville, NY 13322|15.09|2010|7550
+400.000-1-23.4|Montgomery Wendell C|Donley Rd|9000 Donley RdWaterville, NY 13480|15.10|2019|13067
+400.000-1-24|Patyi Elisabeth|No Us Rt 20|Patyi Frank770 James St  1015Syracuse, NY 13203|63.81|2013|6445
+400.000-1-25|Patyi Frank|Us Rt 20|770 James StSyracuse, NY 13203|62.25|2013|6445
+400.000-1-26|Wrobel Alois|Donley Rd|Wrobel Wf927 NYS Rte 8PO Box 122Bridgewater, NY 13313|62.50|01606|00162
+400.000-1-27|CNY Snow Travelers Inc|8859 Rt 20|PO Box 53|30.72|2007|22467
+400.000-1-28|Joyce Stephen P|Us Rt 20|26 N Main StSherburne, NY 13460|1.02|2011|15554
+400.000-1-29|Lazur Mark|Us Rt 20|560 Doe RdWaterville, NY 13480|17.60|2751|307
+400.000-1-32.1|Deak Wanda J|8790 Rte 20|8790 State Rt 20Waterville, NY 13480|78.40|2832|413
+400.000-1-32.2|Artessa Anthony A|Rt 20/Clark Rd.|Artessa Judith4715 E Lake RdHamilton, NY 13346|64.70|2016|16106
+400.000-1-32.3|Lyman Stewart W|8795 Donley Rd|Lyman Diana MDonley Rd|4.00|2094|00241
+400.000-1-32.4|Testa Dominick|Rt 20|1201 Hardscrabble RdCassville, NY 13318|2.50|2003|21231
+400.000-1-32.5|Swalgin Carl|Rte 20|8768 State Rte 20Waterville, NY 13480|7.00|2007|8014
+400.000-1-33|LaDue Frank|State Route 20 Ss|Utica, NY 13502|4.85|2019|12518
+400.000-1-34|LaDue Frank|Rte 20 S|Utica, NY 13502|4.86|2019|12518
+400.000-1-35|Lyman Wayne P|8774 Us Rt 20|8774 Us Rt 20Waterville, NY 13480|NOT IN ROLLS|2019|843
+400.000-1-36|Swalgin Carl|8768 Us Rt 20|8768 Us Rt 20Waterville, NY 13480|7.00|2017|1242
+400.000-1-37|Hilts Richard A|521 Doe Rd|Hilts Ruth EWaterville, NY 13480|5.21|2008|761
+400.000-1-38|Kress Karl R|531 Doe Rd|531 Doe RdWaterville, NY 13480|2.00|2012|10677
+400.000-1-39|Searles Gabrielle|541 Doe Rd|541 Doe Rd|2.45|2018|13387
+400.000-1-40|Artessa Anthony A|Rte 20|Artessa Judith4715 E Lake RdHamilton, NY 13346|2.10|2016|16107
+400.000-1-41|Lazur Mark W|Rte 20|Lazur Harla GWaterville, NY 13480|5.00|2003|00612
+400.000-1-42.2|Lazur Mark W|560 Rte 20|Lazur Harla GWaterville, NY 13480|4.18|2003|00612
+400.000-1-43|Gordeyev Sergey|Rte 20|540 Doe RdWaterville, NY 13480|6.00|2013|8640
+400.000-1-44|Gordeyev Sergey|540 Doe Rd|540 Doe Rd|5.00|2011|11292
+400.000-1-45|Gordeyev Sergey|Clark Rd|540 Doe RdWaterville, NY 13480|5.00|2013|8640
+400.000-1-46|Gordeyev Sergey|Clark Rd|540 Doe RdWaterville, NY 13480|5.00|2013|8640
+400.000-1-47|Gordeyev Sergey|Clark Rd|540 Doe RdWaterville, NY 13480|5.37|2013|8640
+400.000-1-48|Artessa Anthony A|Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|7.08|2016|16107
+400.000-1-49|Artessa Anthony A|Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|6.25|2016|16107
+400.000-1-50|Beardsley Roseann M|595 Clark Rd|595 Clark RdWaterville, NY 13480|6.86|2011|2385
+400.000-1-51|Artessa Anthony A|Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|5.00|2016|16107
+400.000-1-52|Artessa Anthony A|571 Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|5.00|2016|16107
+400.000-1-53|Carvin Ronald P|Clark Rd|Carvin Diane L572 Clark RdWaterville, NY 13480|5.00|2007|17765
+400.000-1-54|Lawless Edward T|598 Clark Rd|Wyman Janice L22 Orbit DrEnfield, CT 06082|5.00|2009|18605
+400.000-1-55|Artessa Anthony A|Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|4.10|2016|16107
+401.000-1-1.1|Sherman Richard C|1023 Hardscrabble Rd|Sherman NeldaWest Winfield, NY 13491|44.90|2381|00082
+401.000-1-1.2|Harrington Joshua R|1023 Hardscrabble Rd|Waldren Kristen1023 Hardscrabble Rd|51.90|2014|16749
+401.000-1-2|LaPera Robert|1011 Hardscrabble Rd|LaPera William9528 Donley Rd|1.70|2017|19565
+401.000-1-3.1|Wile Glenn M|970 Hardscrabble Rd|Wile Doris J970 Hardscrabble RdCassville, NY 13318|12.32|2015|13171
+401.000-1-3.2|Clark Michael R|Hardscrabble Rd|Clark Caitlin MCassville, NY 13318|1.27|2017|6330
+401.000-1-3.3|Dreimiller John A|1026 Hardscrabble Rd|1026 Hardscrabble Rd|18.55|2018|9756
+401.000-1-3.4|Clark Michael R|Hardscrabble Rd|Clark Caitlin MCassville, NY 13318|0.89|2017|6330
+401.000-1-4|Southworth James F|Eo Hardscrabble Rd|Southworth M. Virginia880 Mapledale RdCassville, NY 13318|4.04|2004|15760
+401.000-1-5.1|Southworth James F|880 Mapledale Rd|Cassville, NY 13318MAY BE SUBJECT TO PAYMENT|112.48|2013|8094
+401.000-1-5.2|Burnley Noel B|Hardscrabble Rd|Burnley Barbara AEast Stroudsburg, PA 18302|0.73|2004|29463
+401.000-1-6.1|Lee Raymond E|883 Mapledale Rd|Lee Judith L912 Glendale DrAberdeen, NC 28315|0.64|2697|683
+401.000-1-6.2|Speziale Kayla|879 Mapledale Rd|879 Mapledale RdCassville, NY 13318|0.44|2011|850
+401.000-1-7|Southworth Alice|Cemetery Rd|Southworth GeorgeKathleen Southworth880 Mapledale RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|41.70|2005|13900
+401.000-1-8|Curtin Dairy LP|Nys Rt 8|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|111.00|2837|314
+401.000-1-9.1|Curtin Dairy LP|Nys Route 8|9815 Shaul RdCassville, NY 13318|103.00|2842|125
+401.000-1-9.2|Wrobel James P|Nys Route 8|927 NYS Rte 8PO Box 122|39.68|2842|125
+401.000-1-10|Curtin Dairy LP|870 Nys Rt 8|9817 Shaul RdCassville, NY 13318|NOT IN ROLLS|2019|11420
+401.000-1-11|Curtin Dairy LP|East St|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|167.40|2837|353
+401.000-1-12.1|Curtin Dairy LP|East St|9815 Shaul RdCassville, NY 13318|43.83|2017|15249
+401.000-1-12.2|Hall James Steven|681 East St|Hall Deanna Marie681 East St|1.48|2906|273
+401.000-1-12.3|Wolanski Rick|East St|760 East StCassville, NY 13318|27.49|2005|5655
+401.000-1-13|Wolanski Rick|760 East St|760 East St|2.00|2003|32239
+401.000-1-14|Curtin Dairy LP|Swamp Rd|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|30.00|2837|353
+401.000-1-15|Burdier Jackson|Swamp Rd|737 Lansing StUtica, NY 13501|2.00|2015|5407
+401.000-1-16|Jaquish Robert W|800 Nys Rt 8|Jaquish Janice M800 Nys Rt 8Cassville, NY 13318|23.68|2007|12796
+401.000-1-17|White Jeffrey P|784 State Rt 8|White Alicia A786 State Route 8Cassville, NY 13318|14.50|2013|19209
+401.000-1-18|White Jeffrey P|780 Nys Rt 8|White Alicia A786 State Rte 8Cassville, NY 13318|NOT IN ROLLS|2017|9322
+401.000-1-19.1|Curtin Dairy LP|Nys Rt 8|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|34.00|2859|146
+401.000-1-19.2|Chapman Michael A|760 Rte 8|760 State Route 8|1.00|2700|639
+401.000-1-19.3|Chapman Michael A|State Route 8|Cassville, NY 13318|1.83|2896|323
+401.000-1-21.1|Bowee Aaron J|597 East St|Burger Nicole L3241 Valley Pl|35.35|2018|6300
+401.000-1-21.2|Washburn Theresa A|W/S East St|Washburn MichaelWest Winfield, NY 13491|2.81|2013|17605
+401.000-1-22|Washburn Lila A|605 East St|Wasburn Sandra J605 East StCassville, NY 13318|1.70|2004|8541
+401.000-1-23|Washburn David|591 East St|Washburn Wf591 East St|3.51|2029|00621
+401.000-1-24.1|Sharp Lorie|565 East St|Allen Marcel V565 East StCassville, NY 13318|1.83|2916|604
+401.000-1-24.2|Windy Hill Orchard Inc|577 East St|2183 Jensis Rd|41.26|2015|10124
+401.000-1-25.1|Sinvas Empire Realty LLC|Nys Route 8||NOT IN ROLLS|2015|547
+401.000-1-25.2|Curtin Dairy LP|Nys Route 8|9815 Shaul Rd|147.68|2859|146
+401.000-1-26|Lake Chalet Camp LLC|593 St Rte 8|593 St Rte 8Cassville, NY 13318|16.20|2019|4678
+401.000-1-27|Evans William J|617 Nys Rt 8|Evans Catherine617 State Route 8Cassville, NY 13318|12.00|2010|16808
+401.000-1-29.1|Sullivan Rebecca J|647 Nys Rt 8|647 State Route 8Cassville, NY 13318|4.75|2014|11572
+401.000-1-29.2|Jaquay Glenn L|673 Route 8|Jaquay Karen F673 State Rt 8|0.82|2871|28
+401.000-1-30|Pontero Nicholas Jr|677 Nys Rt 8|Pontero Wf677 State Route 8Cassville, NY 13318|2.11|2324|00157
+401.000-1-31.1|Curtin Dairy LP|Nys Rt 8|9815 Shaul Rd|31.90|2837|314
+401.000-1-31.2|Fountain Ronald C|725 Rt 8 N|Fountain Audrey S450 Brennan RdIlion, NY 13357|NOT IN ROLLS|2006|19215
+401.000-1-32.1|Vyacheslan Korogoda|731 Nys Rt 8|1081 Walnut StUtica, NY 13502|NOT IN ROLLS|2009|4667
+401.000-1-32.2|Peduri Lyubov N|729 State Route 8||NOT IN ROLLS|2008|1434
+401.000-1-32.3|Effner Mark|741 Rte 8|741 State Rte 8|1.40|2751|264
+401.000-1-33|Cornacchia Kevin|Nys Rt 8|777 State Route 8Cassville, NY 13318|7.69|2573|00190
+401.000-1-34|Buss Martin P|Nys Rt 8|Cassville, NY 13318|NOT IN ROLLS|2653|407
+401.000-1-35.1|Wheelock Courtney|821 Nys Rt 8|Wheelock Justin821 State Rte 8Cassville, NY 13318|6.71|2017|9464
+401.000-1-35.2|Pritchard Craig A|9740 Cemetery Rd|9740 Cemetery RdCassville, NY 13318|0.68|2815|14
+401.000-1-37|Curtin Dairy LP|Nys Rt 8|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|77.10|2837|314
+401.000-1-38.2|Utica, Chenango and Susq Valle Mt Markham Cent 215601|Mapledale Rd|256 Brighton RdRichfield Springs, NY 13439|12.00|2009|5544
+401.000-1-39|Curtin Dairy, LP|816 Mapledale Rd|9815 Shaul RdCassville, NY 13318|NOT IN ROLLS|2015|2403
+401.000-1-40.1|Larkin Michael P|880 Hardscrabble Rd|Larkin Jennifer M880 Hardscrabble Rd|1.00|2019|7064
+401.000-1-40.2|Burnley Noel B|Mapledale Rd|Burnley Barbara A260 Frutchey DrEast Stroudsburg, PA 18302|151.77|12004|18731
+401.000-1-40.3|Revere Kevin W|871 Maple Dale Rd|Revere GretchenCassville, NY 13318|2.00|2712|257
+401.000-1-41|Krautheim Bruce|775 Mapledale Rd|Krautheim Pamela775 Mapledale RdCassville, NY 13318|1.00|2010|1228
+401.000-1-42.1|Mc Cauley Susan F|Mapledale Rd|101 West 80Th StNew York, NY 10024|6.63|1990|00234
+401.000-1-42.2|Satterlee Larry B|707 Mapledale Rd|707 Mapledale Rd|53.00|2004|28532
+401.000-1-42.3|Alsante Scot D|808 Mapledale Rd|Alsante MicheleCassville, NY 13318|3.40|2745|527
+401.000-1-42.4|Mc Neal Gary A|Mapledale Rd|765 Mapledale Rd|7.50|2558|00203
+401.000-1-42.5|Terns John F|Mapledale Rd|Terns LaurieMapledale RdBridgewater, NY 13313|5.12|2668|00369
+401.000-1-42.6|Curtin Dairy LP|Mapledale Rd|9815 Shaul RdCassville, NY 13318|55.00|2002|02871
+401.000-1-42.7|Satterlee Jacqueline F|739 Mapledale Rd|739 Mapledale Rd|2.00|NOT IN ROLLS|NOT IN ROLLS
+401.000-1-43|Masten Alan|194 Mapledale Rd|194 Mapledale RdBridgewater, NY 13313|2.44|2003|30347
+401.000-1-44.1|Miller Scott D|687 Mapledale Rd|Miller Wf687 Mapledale Rd|19.00|2094|00287
+401.000-1-44.2|Listovitch Lawrence B|683 Mapledale Rd|683 Mapledale Rd|NOT IN ROLLS|2754|324
+401.000-1-45.1|Curtin Dairy LP|Mapledale Rd|9815 Shaul RdCassville, NY 13318|130.00|2860|267
+401.000-1-45.2|Decker Douglas J|553 Mapledale Rd|Oliver-Decker Rebecca A553 Mapledale Rd|10.00|2860|267
+401.000-1-46|Peo Joseph C|564 Mapledale Rd|Cassville, NY 13318|1.98|2016|10732
+401.000-1-47|Ostrander Edward H Jr|9515 Donley Rd|9515 Donley Rd|7.80|2002|02861
+401.000-1-48.1|Dackowsky James J Jr|9491 Donley Rd|9491 Donley Rd|8.40|2016|2836
+401.000-1-48.2|Ross Charles M Jr|9513 Donley Rd|Gridley Sharon MCassville, NY 13318|2.82|2007|10727
+401.000-1-48.3|Egelston Timothy J|Donley Rd|9499 Donley RdCassville, NY 13318|1.00|2752|49
+401.000-1-49.1|Lavoie Almond Joyce|9492 Donley Rd|9444 Donley RdCassville, NY 13318|53.21|2798|686
+401.000-1-49.2|Town of Bridgewater|Donley Rd|PO Box 370Bridgewater, NY 13313|2.40|2016|13850
+401.000-1-49.3|Walton Bethany I|9510 Donley Rd|Cassville, NY 13318|2.91|2010|9836
+401.000-1-49.4|Beck Leslie D|9445 Donley Rd|Beck Angela M9445 Donley RdCassville, NY 13318|3.02|2002|9879
+401.000-1-49.5|Willey Charles J|9433 Donley Rd|Cassville, NY 13318|3.02|2007|24094
+401.000-1-49.6|Deking William A Jr.|9440 Donnelly|Deking Dale M9577 Route 20|2.65|2002|02088
+401.000-1-49.7|Jones Ryan|Donley Rd|Jones SheilaBridgewater, NY 13323|13.00|NOT IN ROLLS|NOT IN ROLLS
+401.000-1-50|Christian Bernice J|Donley Rd|2614 State Route 8West Winfield, NY 13491MAY BE SUBJECT TO PAYMENT|300.48|2007|8786
+401.000-1-51.1|Rafferty Dorothy L|801 White St|DLR Living Trust801 White St|66.00|2003|8433
+401.000-1-51.2|Wadsworth Michael A II|805 White St|805 White StCassville, NY 13318|1.37|2019|15985
+401.000-1-53|Jordan Richard M|804 White St|Jordan BradyCassville, NY 13318|12.02|2710|401
+401.000-1-54|Gorton Rebecca A|808 White St|Cassville, NY 13318|5.34|2019|6510
+401.000-1-55|Lee Brian A|630 Mapledale Rd|Lee Brandy L630 Mapledale Rd|1.25|2004|17439
+401.000-1-56.1|Goodenough John E|906 Hardscrabble Rd|Goodenough Marianne906 Hardscrabble Rd|4.80|2429|00065
+401.000-1-56.2|Goodenough James A|903 Hardscrabble Rd|Hardscrabble RdCassville, NY 13318|4.80|2005|24742
+402.000-1-1|Reyes Efren|984 East St|984 East StCassville, NY 13318|9.00|2002|01061
+402.000-1-2|Hepola Jeffrey|972 East St|972 East StCassville, NY 13318|14.80|2032|00350
+402.000-1-3|Ball David L|East St E|Attn: Harris Lloyd1064 East St|84.00|2042|00883
+402.000-1-4.1|Phillips Peter E|Stone Rd|Sporie Marjorie757 Stone RdWest Winfield, NY 13491MAY BE SUBJECT TO PAYMENT|139.00|2806|680
+402.000-1-4.2|Huntley Living Trust|Stone Rd|Attn: Barbara J. Huntley711 Stone Rd|44.00|2003|00333
+402.000-1-5|Huntley Living Trust|East St|Attn: Barbara J. Huntley711 Stone RdWest Winfield, NY 13491|14.00|NOT IN ROLLS|NOT IN ROLLS
+402.000-1-6|Huntley Living Trust|Gould Rd|Attn: Barbara J. Huntley711 Stone RdWest Winfield, NY 13491|45.40|NOT IN ROLLS|NOT IN ROLLS
+402.000-1-7|Pustay John A|Gould Rd|Pustay Sheri LPO Box 368West Winfield, NY 13491|41.80|2880|257
+402.000-1-8.2|Huntley Living Trust|Lock St|Attn: Barbara J. Huntley711 Stone Rd|190.30|2003|00333
+402.000-1-9|Washburn David|Eo East St|Washburn Wf591 East StCassville, NY 13318|10.00|2109|00907
+402.000-1-10|Bradbury Donald L|560 East St|560 East StCassville, NY 13318|2.00|2007|16513
+402.000-1-11|Peters Robert W Jr|606 East St|Peters Mary Fiona606 East St|199.00|2008|11664
+402.000-1-12|Curtin Dairy LP|East St|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|7.00|2280|00171
+402.000-1-13|McDonald Donald E|Eo East St|McDonald Linnea E950 East StCassville, NY 13318|8.00|2003|23626
+402.000-1-14.2|Demorest Laurie R|790 East St|790 East St|33.00|2011|11112
+402.000-1-15|Mc Donald Donald|850 East St|Mc Donald Wf850 East StCassville, NY 13318|50.00|01947|00718
+402.000-1-16.1|Piersma Robert J Jr|910 East St|Piersma Cisco W910 East StCassville, NY 13318|61.00|2008|14244
+402.000-1-16.3|Williams Barry W|940 East St|Williams Lisa HCassville, NY 13318|8.02|2871|60
+402.000-1-16.4|Vita Sheryl|876 East St|Vita NuovaCassville, NY 13318|2.00|2007|15316
+402.000-1-16.5|Feola Debora|892 East St|892 East St|7.40|2008|6658
+402.000-1-16.6|Coons Charles J|918 East St|Yaworski Katherine LCassville, NY 13318|1.80|2008|11656
+402.000-1-18|Kemp Dustin J|928 East St|928 East StCassvile, NY 13318|NOT IN ROLLS|2017|13242
+406.000-1-1|Spooner James L|Wo Clark Rd|Spooner WfRD 2Waterville, NY 13480|3.15|2179|00254
+406.000-1-2.1|Artessa Anthony A|Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|64.90|2016|16107
+406.000-1-2.2|Holmes Eleanor|Clark Rd|Holmes Robert DPO Box 111|7.30|2567|00239
+406.000-1-2.3|Artessa Anthony A|Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|5.00|2016|16107
+406.000-1-2.4|Artessa Anthony A|Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|5.00|2016|16107
+406.000-1-2.5|Artessa Anthony A|Clark Rd|Artessa Judith4715 E Lake RdHamilton, NY 13346|5.00|2016|16107
+406.000-1-2.6|Benedict Justin M|550 Clark Rd|550 Clark Rd|6.00|2007|18690
+406.000-1-2.7|Stalnaker James A|538 Clark Rd|Stalnaker Patricia E538 Clark RdWaterville, NY 13480|8.00|2013|10420
+406.000-1-2.8|Dziuban Jeremy|532 Clark Rd|Ingalls CourtneyWaterville, NY 13480|20.00|2006|18449
+406.000-1-3.1|Ganey Michael J|462 Bliven Rd|Ganey Trisha L462 Bliven Rd|90.40|2002|02675
+406.000-1-3.2|Simmons Leonard E Jr|483 Bliven Rd|Simmons Tammy Lynn MWaterville, NY 13480|10.00|2014|4931
+406.000-1-3.3|Dye Sharon H|8996 Us Route 20|Plows Douglas8996 Us Route 20|5.04|2002|01059
+406.000-1-4|Meyer John|Us Rt 20|20 Wedgemont DrElkton, MD 21921|150.00|2018|44
+406.000-1-5|Roberts Kenneth S|9019 Us Rt 20|9019 Us Rt 20Waterville, NY 13480|5.10|2003|21248
+406.000-1-6.1|Major Ronald O|9025 Us Rt 20|Major Dorothy EWaterville, NY 13480|9.00|2008|11434
+406.000-1-6.2|Buss Morgan A|9031 Route 20|Holbert Scott A Jr9031 Route 20|1.75|2019|16699
+406.000-1-6.3|Orcutt Dennis|4049 Us Route 20|Deraway Patricia GBridgewater, NY 13313|8.00|NOT IN ROLLS|NOT IN ROLLS
+406.000-1-6.3/60|American Tower Corp.|State Rt. 20|Land ManagementWoburn, MA 01801|0.50|NOT IN ROLLS|NOT IN ROLLS
+406.000-1-7|Christian Bernice J|Rt 20 Ns|2614 State Route 8West Winfield, NY 13491|113.00|2019|15926
+406.000-1-9|Christian Ernest J|Us Rt 20  N|Christian Bernice J2614 State Rt. 8West Winfield, NY 13491|128.60|2004|18819
+406.000-1-10|Estate of Abram Davis|9185 Us Rt 20|Attn: Elaine Snow9296 Fitch RdHubbardsville, NY 13355-1194|1.33|01971|00627
+406.000-1-11|Perez Brian|9189 Rt20w|9189 Rt20wPO Box 171Bridgewater, NY 13313|1.58|2003|27999
+406.000-1-12|Tscharr Caroline|Us Rt 20|16 Highland TerWayne, NJ 07470|1.42|2872|448
+406.000-1-13.1|Davidcheck Victor|9168 Us Rte 20|PO Box 433|26.80|2008|9748
+406.000-1-13.2|Slosek Daniel|9166 State Route 20|PO Box 324Bridgewater, NY 13313|27.04|2018|18180
+406.000-1-14|Gillis Robert|Us Rt 20|PO Box 426North Grafton, MA 01536MAY BE SUBJECT TO PAYMENT|60.00|2017|19082
+406.000-1-15|Swalgin Carl T|9308 Us Rt 20|8768 Us Rt 20Waterville, NY 13480|NOT IN ROLLS|2019|10686
+406.000-1-16|Fitch Stephen W|No Gulf Rd|Fitch ColleenRt 8Bridgewater, NY 13313|220.00|NOT IN ROLLS|NOT IN ROLLS
+406.000-1-18|Carey Paul F|Bliven Rd|PO Box 121Bridgewater, NY 13313|65.60|2817|516
+406.000-1-19.1|Bogan Mark E|Bliven Rd|115 Bliven RdWaterville, NY 13480|3.00|2725|501
+406.000-1-19.2|Bogan Mark E|Bliven Rd|115 Bliven RdWaterville, NY 13480|1.00|10998|2017
+406.000-1-20.1|SPOONER JAMES L|Bliven Rd|SPOONER FAITH E140 BEAVER CREEK Rd|6.50|2008|19846
+406.000-1-20.2|Bradbury William E|93 Bliven Rd|93 Bliven RdWaterville, NY 13480|177.50|2015|2682
+406.000-1-21.1|Mack Richard|Bliven Rd|211 Berrill AveWaterville, NY 13480|20.00|2009|20905
+406.000-1-21.2|Nazor Camron E|Bliven Rd|183 Christian Hill RdGreat Barrongton, MA 01230|84.37|2002|00522
+406.000-1-21.3|Nicholas James F|Bliven Road|Bliven RoadPO Box 283|31.68|2013|17518
+406.000-1-21.4|Wolff Peter C|Bliven Road|Wolff Susan C114 Blooming Grove Rd|58.74|2014|1024
+407.000-1-1.1|Wheeldon Milton S|Us Rt 20|Wheeldon RosellePO Box 25|5.14|2013|20068
+407.000-1-1.2|Swalgin Joseph J|432 Williams Rd|432 Williams RdBridgewater, NY 13313|1.00|2007|6679
+407.000-1-1.3|Williams Danne|389 Williams Rd|389 Williams RdBridgewater, NY 13313|5.20|2427|00013
+407.000-1-1.4|Swalgin Joseph J|422 Williams Rd|Chapman Christina MPO Box 206|1.00|2019|16002
+407.000-1-1.5|Williams Kelly J|444 Williams Rd.|Robinson Howard GPO Box 147|1.00|2587|275
+407.000-1-1.6|Wormuth James R|370 Williams Rd.|Wormuth Debra YPO Box 249|2.00|2885|525
+407.000-1-1.7|Marcelin Emmanuel|Us Rt 20|Marcelin Huguette18 Sherwood Dr|10.12|2003|8396
+407.000-1-1.8|Bhaskar Ashwini|Williams Rd|11 Hamilton AveHighland MLS, NY 10930|40.16|2013|19588
+407.000-1-1.9|Nelson Patrick|412 Williams Rd|Nelson EmilyEaton, NY 13334|50.06|2018|4255
+407.000-1-1.10|Roessler Karl J|Us Rt 20|Roessler Elizabeth CPO Box 267Bridgewater, NY 13313|15.07|2003|21166
+407.000-1-1.11|Roessler Karl J|Us Rt 20|Roessler Elizabeth CPO Box 267|20.19|2003|8431
+407.000-1-1.12|Slosek Dan|Williams Rd|PO Box 324Bridgewater, NY 13313|10.08|2015|12395
+407.000-1-1.13|Khankhel Israr|Us Rt 20|Khankhel Dorina34 Greenwich Ave|18.27|2003|16184
+407.000-1-1.14|Khankhel Israr|Us Rt 20|Khankhel Dorina34 Greenwich Ave|15.10|2003|16118
+407.000-1-1.15|Grochowicz John N|Us Rt 20|Walters Lois A372 Wippoorwill Dr|20.18|2003|10281
+407.000-1-2|Wheeldon Milton S|9331 Us Rt 20|Wheeldon RosellePO Box 25Bridgewater, NY 13313|1.84|2013|1422
+407.000-1-3|Mahar Zane W|Us Rt 20|Mahar GinaU S Rt 20PO Box 251|NOT IN ROLLS|2781|694
+407.000-1-4|Wystozaly John E|346 Williams Rd|Wystozaly Donna346 Williams RdPO Box 321Bridgewater, NY 13313|3.40|2157|00153
+407.000-1-5.1|Williams Linda G|State Route 20|Bridgewater, NY 13313|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+407.000-1-6|Williams Linda|9365 Us Rt 20|Williams Richard|NOT IN ROLLS|2055|00545
+407.000-1-7.1|Galler Anton G|9451 Rt 20|Galler Debra9451 Rt 20|13.04|2016|7136
+407.000-1-7.2|Tilbe Norma|Route 20|Rt 20PO Box 107|4.60|2071|00405
+407.000-1-7.3|Tilbe Robin L|362 Williams Rd|362 Williams RdBridgewater, NY 13313|10.00|2611|97
+407.000-1-8.2|Swalgin John|9197 Rte 20 W|Swalgin CarolBridgewater, NY 13313|3.00|2539|00001
+407.000-1-9.1|Harris Beverly|Route 20|Bridgewater, NY 13313|1.50|2052|00373
+407.000-1-9.3|Williams Dale|Rt 20|Elliott DeidrePO Box 98|8.00|2006|1960
+407.000-1-10.1|Martin Kathleen|Mapledale Rd|Martin KristinaCassville, NY 13318|46.64|2018|12300
+407.000-1-10.2|Martin Kathleen|405 Mapledale Rd|Martin Kristina405 State Rt. 8|5.00|2018|12300
+407.000-1-11|Massey Wm H|Mapledale Rd|Massey Marion LBridgewater, NY 13313|0.65|01856|00617
+407.000-1-12|Palmer Robert|429 Mapledale Rd|Palmer TheresaBox 407Bridgewater, NY 13313|0.40|2345|00111
+407.000-1-13|Palmer Robert L Jr.|429 Mapledale Rd|Palmer Theresa M429 Mapledale RdBridgewater, NY 13313|0.10|2002|00871
+407.000-1-14|Martin Kristina|Mapledale Rd||NOT IN ROLLS|2018|3670
+407.000-1-15|King Alvah|449 Mapledale Rd|449 Mapledale RdCassville, NY 13318|0.62|01963|00502
+407.000-1-16|Vogel Charles E|Mapledale Rd|Vogel Suzanne M66 North St|10.00|2015|6616
+407.000-1-17|Land George|Mapledale Rd|9673 Route 20PO Box 284Bridgewater, NY 13313|NOT IN ROLLS|2958|130
+407.000-1-18|Denison Deborah J|465 Mapledale Rd|465 Mapledale RdCassville, NY 13318|NOT IN ROLLS|2019|7384
+407.000-1-19|Rider Scott|471 Mapledale Rd|Rider KathleenPO Box 355|1.10|2011|14933
+407.000-1-20|Miller Adam|477 Mapledale Rd|Miller Melissa477 Mapledale RdCassville, NY 13318|0.75|2010|11597
+407.000-1-21.1|Lapera Robert J|9528 Donley Rd|9528 Donley Rd|20.00|2895|166
+407.000-1-21.2|Lapera Robert J|9528 Donley Rd S|9528 Donley Rd|8.20|2785|414
+407.000-1-21.3|Hungerford Martin|520 Mapledale Rd|Hungerford Michelle ACassville, NY 13318|1.85|2014|9357
+407.000-1-21.4|CR Properties 2015 LLC|522 Mapledale Rd|White Plains, NY 10604|1.85|2016|16830
+407.000-1-21.5|Vogel Charles E|Donley Rd|Vogel Suzanne MEdmeston, NY 13335|6.11|2015|6616
+407.000-1-21.6|King Matthew A|321 Donley Rd|9583 Donley Rd|0.71|2007|1586
+407.000-1-22|Bommarito Frank|9578 Donley Rd|Bommarito Diane8220 Ceder Forks Rd|NOT IN ROLLS|2794|192
+407.000-1-23|Moffatt Erney E Jr|Donley Rd|2801 State Route 8Cold Brook, NY 13324|NOT IN ROLLS|2018|14795
+407.000-1-24|Amador Alex|9568 Donley Rd|Amador Mariah9568 Donley RdCassville, NY 13318|NOT IN ROLLS|2017|19691
+407.000-1-25.1|Lenz Harry R|9525 Donley Rd|Lenz Kathleen A9525 Donley Rd|5.58|2625|348
+407.000-1-25.2|Evans Jon K|9561 Donley Rd|Cassville, NY 13318|0.65|2923|349
+407.000-1-26.1|King Keith K|9573 Donley Rd|King Carla A9572 Donley Rd|0.80|2528|00176
+407.000-1-26.2|Williams Rick H|9567 Donley Rd|Cassville, NY 13318|1.54|2933|374
+407.000-1-27|Major Kelly|9579 Donley Rd|9579 Donley RdCassville, NY 13318|NOT IN ROLLS|2017|6185
+407.000-1-28|Bagnall Properties LLC|547 Mapledale Rd|PO Box 623|1.30|2013|20791
+407.000-1-29|Effner Mark C|Mapledale Rd|741 State Route 8Cassville, NY 13318|5.00|2007|20636
+407.000-2-1|Washburn Betty|511 Nys Rt 8|Betty Washburn Living Trust511 Nys Rt 8Cassville, NY 13318|4.90|2012|13599
+407.000-2-2.1|Curtin Dairy Lp|590 Nys Rt 8|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|112.86|2005|25819
+407.000-2-2.2|Riker Kenneth R|564 Nys Rt 8|Riker Judith APO Box 294Bridgewater, NY 13313-0294|2.18|2006|18948
+407.000-2-3|Evans Robert W|454 State Route 8|454 State Route 8Cassville, NY 13318|1.07|2013|12377
+407.000-2-4|Jabo Meat LLC|Route 8E|9815 Shaul RdCassville, NY 13318|NOT IN ROLLS|2012|5426
+407.000-2-5.1|JABO Meat|430 Nys Rt 8|9815 Shaul RdCassville, NY 13318|22.60|2009|13612
+407.000-2-5.2|Town of Bridgewater|State Route 8|PO Box 370Bridgewater, NY 13313|0.40|2016|13846
+407.000-2-6|Williams Marian|LANDLOCKED Eo Nys Rt 8|Doris Pavlot1290 Brothertown RdWaterville, NY 13480|5.50|01726|00178
+407.000-2-8|Miner Michael|LANDLOCKED Eo Nys Rt 8|6364 GrandviewRome, NY 13440|4.30|2019|12641
+407.000-2-9|Fitch Stephen W|LANDLOCKED Eo Nys Rt 8|Fitch ColleenRt 8Bridgewater, NY 13313|3.00|2005|22183
+407.000-2-10|Brennan Francis J|LANDLOCKED Eo Nys Rt 8|Attn: Francis Brennan333 Stafford AveWaterville, NY 13480|1.50|01925|00509
+407.000-2-11|Berger Lowell|LANDLOCKED Eo Nys Rt 8|5359 Peterboro RdOneida, NY 13421|8.80|2014|3351
+407.000-2-12|Curtin Dairy|LANDLOCKED Eo Nys Rt 8|9815 Shaul RdCassville, NY 13318|2.01|2010|10143
+407.000-2-13|Rossi Operating Corp|LANDLOCKED Eo Nys Rt 8|Attn: dba Breezy Acres Trailer Route 8 E StPO Box 180Rome, NY 13440|2.01|01960|00463
+407.000-2-14.1|Dairy Curtin|East St|9815 Shaul RdCassville, NY 13318|19.45|2175|00108
+407.000-2-14.3|Helstowski Kenneth|East St|764 Rt 114Sag Harbor, NY 11963|43.00|2006|26722
+407.000-2-14.4|Curtin Dairy LP|East St W|9815 Shaul RdCassville, NY 13318|31.44|2130|00156
+407.000-2-14.5|Lockwood Donald|East St|530 East StCassville, NY 13318|1.00|2146|00524
+407.000-2-14.6|Pavlot Edward T|East St|547 East StCassville, NY 13318|1.25|2125|00111
+407.000-2-15|Davis Kenneth  Jr A|East St|Cassville, NY 13318|NOT IN ROLLS|2802|678
+407.000-2-16|Miller James|536 East St|Collins Jane536 East St|1.18|2402|00125
+407.000-2-17|Welch Christopher M|540 East St|540 East StCassville, NY 13318|1.37|2015|18639
+407.000-2-18.1|Wood Joseph A|437 East St|437 East StCassville, NY 13318|5.00|2006|7003
+407.000-2-18.2|Meixsell Ralph|420 East St.|Meixsell MaureenWest Winfield, NY 13491|41.00|2014|8920
+407.000-2-18.3|Crown Atlantic Company LLC PMB Mt Markham Cent 215601|790 East St|4017 Washington Rd Ste 500McMurray, PA 15317|3.49|2950|243
+407.000-2-18.4|Lynch Darin|466 East St|Lynch Crystal466 East St|6.10|2003|16646
+407.000-2-18.5|Yager Jeffrey A|East St|PO Box 27|54.20|2883|442
+407.000-2-18.6|Curtin Dairy LP|East St|9815 Shaul RdCassville, NY 13318|119.00|2011|2681
+407.000-2-18.7|Tripp Robert L|448 East St|448 East StCassville, NY 13318|1.80|2013|5090
+407.000-2-19|Gates James A|East St|Gates Sandra L7105 County Highway 18West Winfield, NY 13491|72.90|NOT IN ROLLS|NOT IN ROLLS
+407.000-2-20.1|Curtin Dairy LP|No Us Rt 20|9815 Shaul RdCassville, NY 13318|110.20|NOT IN ROLLS|NOT IN ROLLS
+407.000-2-20.2|Ostrosky Charles J|rt 20|PO Box 369Bridgewater, NY 13313|3.20|2013|4411
+407.000-2-21|Ostrosky Charles J|Us Rt 20|PO Box 483Bridgewater, NY 13313|1.30|2440|00069
+407.000-2-22|Ostrosky Charlie|9735 Us Rt 20|PO Box 369Bridgewater, NY 13313|3.00|2796|595
+407.000-2-24|Cintron Wilfredo|402 New York 8 Rte|130 Midfield Rd|1.00|2007|8719
+407.000-2-25|Brady Wayne D|429 Nys Rt 8|Brady Doris EPO Box 178Bridgewater, NY 13313|1.20|2040|00347
+407.000-2-26|Vandawalker Erin|448 Mapledale Rd|Ostrander Harold448 Mapledale RdBridgewater, NY 13313PRIOR OWNER ON 3/01/2020|1.25|2020|3482
+407.000-2-27.1|Northrop James `|452 Mapledale Rd|452 Mapledale RdCassville, NY 13318|1.27|2015|9686
+407.000-2-28|Mahar Gloria|460 Mapledale Rd|Mahar Ralph460 Mapledale RdCassville, NY 13318|0.73|01939|00035
+407.000-2-29|Parry Gerald F|464 Mapledale Rd|Parry Wf464 Mapledale RdPO Box 254|3.60|01974|00417
+407.000-2-31|Hungerford Douglas A|480 Mapledale Rd|Hungerford Mark A480 Mapledale RdCassville, NY 13318|1.28|2008|8726
+407.000-3-1|Lincoln Philip H|9330 Route 20|PO Box 51Bridgewater, NY 13313|30.00|2010|16941
+407.000-3-2.1|Williams Dale|Us Rt 20|Williams DeidreUs Rt 20PO Box 98Bridgewater, NY 13313-0098|26.65|2004|29759
+407.000-3-2.2|Wheelock Michael D|9396 Us Rt 20|PO Box 62Bridgewater, NY 13313|18.32|2010|19947
+407.000-3-2.3|Wheelock Michael D|Us Rte 20|Wheelock Donna ABridgewater, NY 13313|5.01|2016|6931
+407.000-3-3.1|Fitch Willard|Gulf Rd|Fitch WfBox 72Bridgewater, NY 13313|43.50|NOT IN ROLLS|NOT IN ROLLS
+407.000-3-3.2|Fitch Stephen W|87 Gulf Rd|Bridgewater, NY 13313|1.04|2008|5535
+407.000-3-4.1|Williams Dale|Gulf Rd|Gulf RdBridgewater, NY 13313|44.33|NOT IN ROLLS|NOT IN ROLLS
+407.000-3-4.2|Gregory Matthew K|Gulf Rd|Gregory Sarah M491 Fairview DrWest Winfield, NY 13491|43.33|2015|12340
+407.010-1-1.1|Harris Beverly|9487 Us Rt 20|Rt 20Bridgewater, NY 13313|4.00|2052|00373
+407.010-1-2|Stevens John E|44 Cottage St|Stevens Diantha C44 Cottage StPO Box 86Bridgewater, NY 13313|8.89|2010|2084
+407.010-1-3|Demorest Ryan A|60 Cottage St|Tilbe Dana M60 Cottage StBridgewater, NY 13313|0.48|2017|6452
+407.010-1-4|Howard Teddy|Cottage St|221 Conty Hwy 20West Edmeston, NY 13485|NOT IN ROLLS|2008|14188
+407.010-1-5|Montgomery Mark|Cottage St|Montgomery Carrie2514 Main StClayville, NY 13322|0.23|01611|00241
+407.010-1-6|Davis Robert G|30 Cottage St|30 Cottage StBridgewater, NY 13313|NOT IN ROLLS|2018|3883
+407.010-1-7.1|Bradley Mary|26 Cottage St|Bridgewater, NY 13313|1.53|2813|493
+407.010-1-9|DeRidder Ricky L|16 Cottage St|16 Cottage StBridgewater, NY 13313|1.38|2017|18324
+407.010-1-10|Ali Jamil|Nys Rt 8 & Cottage|Ali ChristineRoute 8Bridgewater, NY 13313|0.75|2012|18249
+407.010-1-11|Tilbe Janet H|385 Nys Rt 8|Tilbe Leon IIIBridgewater, NY 13313|NOT IN ROLLS|2014|263
+407.010-1-12|Diehl Barry S|Nys Rt 8|364 Co Highway 18West Winfield, NY 13491|NOT IN ROLLS|2880|527
+407.010-1-13|Massey Michael|Nys Rt 8|393 Nys Rt 8PO Box 32Bridgewater, NY 13313|0.63|2003|21804
+407.010-1-14|Christman Bruce|392 Nys Rt 8|392 NYS Route 8PO Box 504Bridgewater, NY 13313|2.00|2005|19066
+407.010-1-16|Baker John A|376 Eo Nys Rt 8|PO Box 336Bridgewater, NY 13313|0.86|2008|8114
+407.010-1-18|Carey Michael D|Nys Rt 8 & Mill St|Carey CindyPO Box 196Bridgewater, NY 13313|0.30|2564|00152
+407.010-1-19|Masel Patricia A|9 Mill St|Erickson Frederick200 Columbus AveWest  Babylon, NY 11704|NOT IN ROLLS|2011|16917
+407.010-1-20|Combar Natalie T|15 Mill St|98 Harrogate RdNew Hartford, NY 13413|1.25|2015|16894
+407.010-1-21|Martin Kim|35 Mill St|Martin KathleenPleasant StBridgewater, NY 13313|0.46|2427|00011
+407.010-1-22|Kelly Jessica|51 Mill St|51 Mill StBridgewater, NY 13313|0.93|2005|22229
+407.010-1-23|Mohrbacher Richard|56 Mill St|Mohrbacher Heather56 Mill StBridgewater, NY 13313|NOT IN ROLLS|2014|13995
+407.010-1-24|Wood Douglas W|52 Mill St|52 Mill St|NOT IN ROLLS|2003|32915
+407.010-1-25|Land William S|48 Mill St Po Box|18 Mill StPO Box 116Bridgewater, NY 13313|0.84|3004|204
+407.010-1-26|Land Todd H|18 Mill St|22 Mill StPO Box 327Bridgewater, NY 13313|1.30|2746|347
+407.010-1-27|Land Wm S|18 Mill St|Land Wf18 Mill StBridgewater, NY 13313|NOT IN ROLLS|01802|00473
+407.010-1-28|Schlaepfer Rudy J|14 Mill St|Schlaepfer Wf14 Mill StPO Box 83Bridgewater, NY 13313|0.48|01902|00908
+407.010-1-29|Rodriguez David|366 Nys Rt 8 & Mill St|366 Nys Rt 8PO Box 61|NOT IN ROLLS|2019|17271
+407.010-1-30|Denton Charles T|360 Nys Rt 8|Denton Joanne360 State Rt 8PO Box 175|0.73|2716|272
+407.010-1-31|White Emmite 111|352 Nys Rt 8|PO Box 214Bridgewater, NY 13313|NOT IN ROLLS|2004|2503
+407.010-1-32|Wisnoski Shirley|348 Nys Rt 8|348 State Rt 8PO Box 313Bridgewater, NY 13313|0.55|2003|13149
+407.010-1-34|Ostrosky Charles J|Nys Rt 8|9735 Route 20PO Box 369Bridgewater, NY 13313|0.47|2011|4216
+407.010-1-35|Ingber Ronald H|Rt 8 West|Ingber Linda Sue6933 County Hwy 18West Wiinfield, NY 13491|4.00|2004|18417
+407.010-1-36|Roberts Hugh T IV|31 Cottage St|31 Cottage StBridgewater, NY 13313|NOT IN ROLLS|2015|10153
+407.010-1-37|Roys Stephen B Jr|9569 Us Rt 20|Roys Amy LPO Box 222Bridgewater, NY 13313|1.90|2664|00496
+407.010-1-38|Orcutt Robert M|37 Cottage St|Orcutt Christopher MPO Box 282Bridgewater, NY 13313|0.90|2008|9908
+407.010-1-39|Orcutt Gail A|43 Cottage St|Orcutt Christopher MPO Box 282Bridgewater, NY 13313|NOT IN ROLLS|2008|9909
+407.010-1-40|Strong Brett A|47 Cottage St|47 Cottage StBridgewater, NY 13313|NOT IN ROLLS|2018|14229
+407.010-1-41.1|Broadstone DG Northeast LLC|9501 Us Rt 20|800 Clinton Sq|5.84|2018|354
+407.010-1-41.3|Bagnall Property Partners LLC  Mt Markham Cent 215601|Us Rte 20|45 Classic St|10.85|2018|13175
+407.011-1-1|Ratcliffe Timothy|Ns Us Rt 20|Ratcliffe AnnePO Box 246Bridgewater, NY 13313|7.00|2760|325
+407.014-1-1|Dote Lynn R|9522 Us Rte 20|Dote Susan M9522 State Rt 20|NOT IN ROLLS|2831|368
+407.014-1-2|Holmes Reginald|Us Rt 20|9530 State Rt 20Bridgewater, NY 13313|1.20|01972|00699
+407.014-1-3.1|Gardner John C|Us Rte 20|Schuck Fred4052 Bristol Rd|15.90|25888|367
+407.014-1-3.3|Harris Scott|283 Rte 8|Harris LauraPO Box 319Bridgewater, NY 13313|5.01|2677|608
+407.014-1-4|Davis Aaron|287 Nys Rt 8|287 Nys Rt 8PO Box 151Bridgewater, NY 13313|NOT IN ROLLS|2019|15337
+407.014-1-5|Secretary Of Veterans Aff|295 Nys Rte 8|Bridgewater, NY 13313|1.00|2903|193
+407.014-1-6|Dowd Jamie A|299 Nys Rt 8|294 Nys Rt 8 Ws|0.35|2002|00541
+407.014-1-7|Howard Ruth A|301 Nys Rt 8|Howard Robert W301 Nys Rt 8Bridgewater, NY 13313|NOT IN ROLLS|2002|02292
+407.014-1-8|Hunter Lawrence W|Nys Rt 8|305  State Rt. 8PO Box 125Bridgewater, NY 13313|0.32|01883|00051
+407.014-1-9|Kimball Katherine L|311 State Route 8|311 State Rt 8Bridgewater, NY 13313|0.48|2006|17406
+407.014-1-10|McFadden Eric|Nys Rt 8|315 Sate Rt. 8PO Box 424Bridgewater, NY 13313|0.31|2009|3427
+407.014-1-11|Evans William J|317 Nys Rt 8|Evans Catherine617 State Rt 8Cassville, NY 13318|0.17|2018|18683
+407.014-1-12|Evans William J|9612 Us Rt 20 & Nys Rt 8|Evans Catherine617 State Rt 8Cassville, NY 13318|0.23|2018|18683
+407.014-1-13|Evans William J|9592 Us Rt 20|Evans Catherine617 State Rt 8Cassville, NY 13318|0.25|2019|3675
+407.014-1-14|Wilcox Charles|Us Rt 20|Wilcox KathleenPO Box 127Bridgewater, NY 13313|0.25|2914|550
+407.014-1-15|Washburn Ralph F|Us Rt 20|Washburn WfPO Box 101Bridgewater, NY 13313|0.29|02000|00631
+407.014-1-16|Gardner John C|215 Us Rt 20|Gardner John4052 Bristol RdClinton, NY 13323|1.21|2888|361
+407.014-1-17|DeKing Eric L|9577 Us Rt 20|DeKing Christy M9577 State Route 20Bridgewater, NY 13313|NOT IN ROLLS|2009|10545
+407.014-1-18|Denton Kim|45 Us Rt 20 Po Box|Deking Dale MPO Box 201Bridgewater, 13313|NOT IN ROLLS|2847|517
+407.014-1-19|Denton Rodney D|9589 Us Rt 20|Denton Kim M9589 St Rte 20PO Box 201|0.29|2108|00229
+407.014-1-20|Barrett Charles W|Nys Rt 8|State Rt 8PO Box 286|NOT IN ROLLS|2147|00846
+407.014-1-21|Erickson Patricia|335 Us Rt 20 & Nys Rt 8|Erickson Frederick200 Columbus AveWest Babylon, NY 11704|0.31|2010|3037
+407.014-1-22|Lounsberry Real|Us Rt 20 & Nys Rt 8|Attn: Blue Ox CorpBox 157-C-336 State Rt 8Oxford, NY 13830|0.56|2546|00073
+407.014-1-23|Sullivan Rebecca|Us Rt 20|Sullivan Wayne647 State Rte 8Cassville, NY 13318|0.08|2967|490
+407.014-1-24|Sullivan Wayne L|Us Rt 20|Sullivan Rebecc647 State R.t 8Cassville, NY 13318|NOT IN ROLLS|2706|680
+407.014-1-26|Rodriguez Susanne|9643 Us Rt 20|139 Riverside DrUtica, NY 13502|NOT IN ROLLS|2013|5055
+407.014-1-27|Rodriguez Dave|Us Rt 20|6373 Cavanaugh RdMarcy, NY 13403|0.20|2007|7204
+407.014-1-28|Piechowicz Jessica|9647 Route 20|Piechowicz Jim D Jr9647 Route 20|NOT IN ROLLS|2007|24222
+407.014-1-29|Effner Mark|Us Rt 20|Effner Jacqueline DPO Box 16|0.33|2087|00547
+407.014-1-30|Ostrosky Jr Charles J|60 Mill St|PO Box 493Bridgewater, NY 13313|0.29|2011|4219
+407.014-1-31|Ingber Ronald H|Us Rt 20 & Mill St|Ingber Linda S6933 County Hwy 18West Winfield, NY 13491|0.19|2728|205
+407.014-1-32|Denton Paul J|Us Rt 20 & Mill St|1092 East StBridgewater, NY 13313|0.89|3016|141
+407.014-1-33|Kenyon Jack D Jr|9662 E State St|PO Box 426Bridgewater, NY 13313|1.14|2008|19540
+407.014-1-34|Casanova Carol|Us Rt 20||NOT IN ROLLS|2015|10087
+407.014-1-35|Casanova Carol|9654 Rt 20||NOT IN ROLLS|2015|10087
+407.014-1-36|Deraway Patricia G|Us Rt 20|Us Rt 20Bridgewater, NY 13313|NOT IN ROLLS|3020|67
+407.014-1-37.1|Rodriguez Victor|Rte 20 S|Bridgewater, NY 13313|1.22|2014|12752
+407.014-1-37.2|Rodriguez Victor|Rt 20S|9645 State StBridgewater, NY 13313|0.62|2014|12752
+407.014-1-38|Uebler Mary Grace|9632 E State St|Southard TheresaPO Box 274Bridgewater, NY 13313|0.81|2008|4431
+407.014-1-39|Wood Michael L Sr|9630 Us Rt 20|Wood Michael L JrPO Box 266Bridgewater, NY 13313|NOT IN ROLLS|2019|4023
+407.014-1-40.1|Wood Michael L Jr|US Route 20 Ss|PO Box 266|NOT IN ROLLS|2018|8978
+407.014-1-40.2|Wood Michael L Jr|Us Rt 20|Bridgewater, 13313|NOT IN ROLLS|2018|8978
+407.014-1-43|Duh David L|State Route 8|319 Pritchard RdWest Winfield, NY 13491|NOT IN ROLLS|2006|16499
+407.014-1-45|Maddox Investments LLC|320 State Rte 8|111 N main StPO Box 68Clarton, MO 63837|0.71|2008|18420
+407.014-1-46|Woods Michael L Sr|9626 So Us Rt 20|Woods Matthew CPO Box 266Bridgewater, NY 13313|0.66|2019|15530
+407.014-1-48|Bouck Walter III|312 Nys Rt 8|312 Nys Rt 8Bridgewater, NY 13313|0.22|2007|25630
+407.014-1-49|Wood Michael|Nys Rt 8|310 NYS Route 8Bridgewater, NY 13313|0.25|2004|27743
+407.014-1-50|Wood Michael L|302 Nys Rt 8S|PO Box 266Bridgewater, NY 13313-1008|NOT IN ROLLS|2756|199
+407.014-1-51|Fabozzi Richard|Nys Rt 8|South StWest Winfield, NY 13491|1.15|02020|00127
+407.014-1-53.1|Dye Duane|Us Rt 20|Dye ErinPO Box 7Bridgewater, NY 13313|31.22|2008|13207
+407.014-1-53.2|Deraway Patricia G|Us Rt 20|Bridgewater, NY 13313|0.38|3020|67
+407.014-1-54|Coulter Barbara J|236 Nys Rt 8|Coulter Janet CPO Box 368Bridgewater, NY 13313|17.20|2019|10138
+407.014-1-55|Myers Glenn A|254 Nys Rt 8|Myers Tammy R254 State Route 8PO Box 135|0.67|2005|22041
+407.014-1-56|Ernst Paul|247 Nys Rt 8|PO Box 78Bridgewater, NY 13313|0.46|2011|5034
+407.014-1-57|Lien Eric M|Nys Rt 8 & Gulf Rd|PO Box 71Bridgewater, NY 13313|3.30|2764|459
+407.014-1-58|Fairbairn Trevor|32 Gulf Rd|32 Gulf RdBridgewater, NY 13313|1.30|2017|7070
+407.014-1-59|Haar Christopher|Nys Rt 8|Haar Kara259 State Rt 8PO Box 326Bridgewater, NY 13313|10.00|2702|602
+407.014-1-60|deSanno Michael R|271 Route 8|4216 Wood Ridge LnPrince George, VA 32875|0.52|2004|19766
+407.014-1-63.1|Davis Kenneth A Jr|9510 Us Rt 20|534 East St|1.00|2017|6901
+407.014-1-63.2|Bagnall Properties, LLC|Rte 20|PO Box 623Sherburne, NY 13460|6.80|2011|19564
+407.014-1-63.3|Bagnall Properties LLC|Us Rt 20|Sherburne, NY 13460|1.00|2015|18292
+407.015-1-1|Happy's LLC|Us Rt 20|200 Columbus AveNorth Babylon, NY 11704|NOT IN ROLLS|2013|5052
+407.015-1-3|Conklin Terrance A|Us Rt 20|220 Burrows RdWest Winfield, NY 13490|0.24|2018|649
+407.015-1-4|Utica, Chenango and Susq Valle Mt Markham Cent 215601|Village Of Bridgewater|256 Brighton RdRichfield Springs, NY 13439|3.10|2009|5544
+407.015-1-5|Rogers Ross D|9695 E State St|Sheehan Jennifer MPO Box 197Bridgewater, NY 13313|4.00|2007|18668
+407.015-1-6|Adams Joshua J|9703 Us Rt 20|Adams Gena LBridgewater, NY 13313|0.52|2018|18388
+407.015-1-7|Wysluzaly Dale|Us Rt 20|PO Box 43Bridgewater, NY 13313|11.30|2720|18
+407.015-1-10.1|Barretta Kathleen T|9706 US Route 20|614 E Main StLittle Falls, NY 13365|14.50|2013|17508
+407.015-1-11|Rodriguez Moises|Us Rt 20|9638 E State StBridgewater, NY 13313|1.50|2017|14308
+407.015-1-12|Schlaepfer Rudy J|Us Rt 20|14 Mill StBridgewater, NY 13313|1.10|3005|129
+407.015-1-13|Schlaepfer Rudy J|Us Rt 20|14 Mill St|1.25|3005|129
+407.015-1-14|Ostrosky Charles J|Us Rt 20|PO Box 483Bridgewater, NY 13313|0.91|2819|690
+407.018-1-1|McNamara Michael A|Nys Rt 8|McNamara MarciaPO Box 263Bridgewater, NY 13313|2.00|2010|267
+407.018-1-2.1|Fitch Stephen W|Rt 8S|Fitch ColleenRt 8|61.00|2005|22183
+407.018-1-2.2|Comstock Gary|188 Route 8 E|Comstock WfPO Box 12Bridgewater, NY 13313|1.02|2139|00912
+407.018-1-2.3|Beigh Jerome R|Rte 8 South|Beigh Sharon K|NOT IN ROLLS|2012|15716
+407.018-1-3|Beigh Andrew|191 Nys Rt 8|11293 Center StLeonardsville, NY 13364|11.20|2019|14948
+408.000-1-1|Curtin Farms LP|10073 Rt 20 St|9815 Shaul RdCassville, NY 13318MAY BE SUBJECT TO PAYMENT|141.40|2018|9874
+408.000-1-2.1|Dibble Richard S|Us Rt 20|Dibble Caroline M10265 US HIGHWAY 20WEST WINFIELD, NY 13491|219.40|NOT IN ROLLS|NOT IN ROLLS
+408.000-1-3|Huntley Tammy S|10317 Us Rt 20|10317 US Rte 20West Winfield, NY 13491|1.02|2010|6089
+408.000-1-4|Cota William T|Rt20 East|1060 Lamb RdWest Edmeston, NY 13485|0.50|2015|9063
+408.000-1-6|Curtin Dairy LP|Route 20S|9815 Shaul RdCassville, NY 13318|1.00|2837|314
+408.000-1-7|Diehl Barry|10257 Us Rt 20|Delong-Diehl Joshua S364 County HWY 18AWest Winfield, NY 13491|1.50|2015|18742
+408.000-1-8|Pape Rodger A Jr|10221 Us Rt 20|Deller-Pape Amy L10221 Us Rt 20West Winfield, NY 13491|12.70|2002|02845
+408.000-1-9|Slosek Lawrence E|Us Rt 20|RD #2  Box 100AWest Winfield, NY 13491-9601|11.20|2886|187
+408.000-1-10|Koury Philip G|Gould Rd|333 Lamond PlUtica, NY 13502|70.20|2005|56784
+408.000-1-11|Curtin Farms LP|No Us Rt 20|9815 Shaul RdCassville, NY 13318|49.70|NOT IN ROLLS|NOT IN ROLLS
+408.000-1-12|Pavlot Edward T|Eo East St|547 East StCassville, NY 13318MAY BE SUBJECT TO PAYMENT|6.71|01966|00679
+408.000-1-13|Curtin Farms LP|Eo East St|9815 Shaul RdCassville, NY 13318|5.00|2018|9874
+333.000-28-1|State Of New York|8000001|Attn: County TreasurerCounty Office Building Oneida  County PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-28-2|State Of New York|8000002|Attn: County TreasurerCounty Office Building Oneida  Town PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-28-3|State Of New York|8215601|Attn: County TreasurerCounty Office Building Oneida  School PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+333.000-28-4|State Of New York|8252009|Attn: County TrasurerCounty Office Building Oneida  School PurposesUtica, NY 13501|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+394.000-1-1|State N Y Reforest|No White St|Attn: Commissioner Of Finance  No 0120001800 Park Ave|78.00|00941|00316
+394.000-1-2|State N Y Reforest|No White St|Attn: Commissioner Of Finance  No 0170001 & 4800 Park AveUtica, NY 13501|146.44|00934|00405
+394.000-1-18|State N Y Reforest|White St|Attn: Commissioner Of Finance  No 0200001-6800 Park AveUtica, NY 13501|290.94|00934|00407
+394.000-1-19|State N Y Reforest|White St|Attn: Commissioner Of Finance  Lots 78,82 Prop P Proj 11800 Park AveUtica, NY 13501|166.16|2095|00775
+394.000-1-20|State N Y Reforest|No Us Rt 20|Attn: Commissioner Of Finance  No 0220001 Prop L800 Park AveUtica, NY 13501|44.80|01583|00166
+394.000-1-21|State N Y Reforest|White St|Attn: Commissioner Of Finance  No 0160001 Lot 79 Prop G800 Park AveUtica, NY 13501|89.77|00934|00427
+394.000-1-22|State N Y Reforest|White St|c/o Comm. of Finance800 Park AveUtica, NY 13501|211.04|00933|00179
+394.000-1-23|State  N Y Reforest|White St|Attn: Commissioner Of Finance  No 0140001  Lot 81 Prop E800 Park AveUtica, NY 13501|91.27|00933|00175
+394.000-1-24|State N Y Reforest|White St|Attn: Commissioner Of Finance  No 0150001  Lot 81  Prop800 Park AveUtica, NY 13501|76.61|00934|00409
+400.000-1-1|State N Y Reforest|Us Rt 20|Attn: Commissioner Of Finance  No 0230102  Lot 77,78  Pr800 Park AveUtica, NY 13501|174.40|01600|00347
+400.000-1-3|State Of Ny Reforestation|Donley Rd|Attn: Commissioner 0F Finance  0230202 Lot 77  Proj  104800 Park AveUtica, NY 13501|53.66|2225|00203
+400.000-1-13|State N Y Reforest|White St|Attn: Commissioner Of Finance  No 0210001  Lot 91  Prop800 Park AveUtica, NY 13501|85.82|00969|00097
+406.000-1-17|State N Y Reforest|No Gulf Rd|50 Wolf RdForm Albert E Carey|179.79|00949|00342
+407.015-1-10.2|Electric & Gas New York State  Mt Markham Cent 215601|rt 20|89Rochester, NY 14649|0.31|2020|2908
+528.000-1-1|Windstream New York|080040|Attn: Rash & Associates IncPO Box 260888|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+528.000-2-1|Time Warner Of Ilion|080045|PO Box 7467|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+528.000-3-1|NY State Elec & Gas|080010|Attn: Utility Shared Services- Spec Fran 13160Freeport Bldg.New Gloucester, ME 04260|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+528.000-5-1|Citizens Telecom Of Ny|080030|Attn: Tax DeptPO Box 2629CODE  DISTRICT NAME  PARCELSFD011 Bridgewtr fdCODE  DISTRICT NAME215601 Mt Markham Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 5 SPECIAL FRANCHISE|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+628.001-9999-131.600/1001|NY State Elec & Gas|090040|Avangrid Mangmnt Co. Local Tax Transmission PolesOne City Center 5th FloorPortland, ME 04101|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+628.001-9999-131.600/1011|NY State Elec & Gas|090030|Avangrid Mgmnt Co.- Local Tax  Electric Power Sub StaOne City Center 5th FloorPortland, ME 04101|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+628.001-9999-131.600/1881|NY State Elec & Gas|090050|Avangrid Mgmnt Co. - Local Tax DistributionOne City Center 5th FloorPortland, ME 04101|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+628.001-9999-629.000/1881|Windstream New York|090020|Attn: Rash & AssocPO Box 260888|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+628.089-9999-131.600/1001|N Y State Elec Gas Co|090120|Avangrid Mgmnt Co. - Local Tax Transmission PolesOne City Center 5th FloorPortland, ME 04101|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+628.089-9999-131.600/1881|N Y State Elec Gas Co|090130|Avangrid Mgmnt Co. - Local Tax Distribution TransforOne City Center 5th FloorPortland, ME 04101|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+628.089-9999-618.750/1881|Citizens Telecom Of Ny|090100|Attn: Tax Dept3 High Ridge ParkStamford, CT 06905|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+628.089-9999-628.350/1001|M C I Telecommunications|Hardscrable Rd|Dept 013/001PO Box 152206Irving, TX 75015-2206|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+628.089-9999-629.000/1881|Windstream NY Inc|090090|PO Box 260888Plano, TX 75026-0888|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+628.089-9999-844.750/2001|Tennessee Gas Pipeline Co|090110|Attn: Tenneco Energy --Property TaxPO Box 4372Houston, TX 77210-4372|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+628.089-9999-844.750/2002|Tennessee Gas Pipeline Co|090170|Attn: Tenneco Energy --Property TaxPO Box 4372Houston, TX 77210-4372CODE  DISTRICT NAME  PARCELSFD011 Bridgewtr fdCODE  DISTRICT NAME215601 Mt Markham Central252009 Brookfield Central S U B - T O T A L T O T A LROLLSEC DESCRIPTION 6 UTILITIES & N.C.|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+394.000-1-13.1|Freedom Guide Dogs, Inc.|1210 Hardscrabble Rd|1210 Hardscrabble Rd|4.30|2003|15218
+395.000-2-9|Babcock Hill Cemetery|Babcock Hill Rd|Cassville, NY 13318|0.50|00390|00047
+395.000-2-53|N Bridgwater Cemetery|Cemetery St|Cemetery StCassville, NY 13318|0.60|NOT IN ROLLS|NOT IN ROLLS
+400.000-1-42.1|United States Of America|Route 20|1600 Pennsylvania Ave NWWashington, DC 20500|1.40|2728|349
+401.000-1-36|Fairview Cemetery|Cemetery Rd|Cassville, NY 13318|4.20|00510|00047
+401.000-1-38.1|Central N Y Railroad|Twn Bridgewater R O W|1 Railroad StCooperstown, NY 13326|26.50|00000|ChkRolls
+402.000-1-17|East Street Cemetery|East St|Cassville, NY 13318|0.34|01245|00456
+407.000-2-7|Oneida County Brd Legislators  Mt Markham Cent 215601|LANDLOCKED Eo Nys Rt 8|800 Park AveUtica, NY 13501|1.50|2017|2305
+407.000-2-23|Town Of Bridgewater|Nys Rt 8|PO Box 370Bridgewater, NY 13313|26.80|01594|00489
+407.010-1-17|Congregational Church|Nys Rt 8|382 State Rt 8|NOT IN ROLLS|00090|00422
+407.010-1-41.2|Bridgewater Fire Co|Us Rt 20|PO Box 365Bridgewater, NY 13313|3.33|2274|00001
+407.011-1-2|Town Of Bridgewater|Eo Nys Rt 8|PO Box 363Bridgewater, NY 13313|40.00|01594|00489
+407.014-1-3.2|Foot Cemetary|No Address|No Address|NOT IN ROLLS|NOT IN ROLLS|NOT IN ROLLS
+407.014-1-25|Faith Chapel Inc|Us Rt  20|Bridgewater, NY 13313|NOT IN ROLLS|02018|00003
+407.014-1-41|Western Star Lodge|Us Rt 20|Us Rt 20Bridgewater, NY 13313|0.05|00446|00167
+407.014-1-42|Town of Bridgewater|Us Rt 20 & Nys Rt 8|PO Box 370Bridgewater, NY 13313|0.07|2016|13849
+407.014-1-52|Univer Church Cemetar|Nys Rt 8|Nys Rt 8Bridgewater, NY 13313|NOT IN ROLLS|00000|ChkRolls
+407.015-1-2|Bridgewater Historical Society Mt Markham Cent 215601|Us Rt 20|Bridgewater, NY 13313|NOT IN ROLLS|2003|32952
