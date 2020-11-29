@@ -2,5 +2,3 @@ out/
 .idea/
 src/META-INF/
 data/
-
-*.iml

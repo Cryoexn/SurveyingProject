@@ -7,24 +7,48 @@ import java.util.ArrayList;
 
 public class JobSummaryPanel extends JPanel {
 
-    private final int NUM_ITEMS = 10;
-
     private final String jobBaseDir;
     private String jobNum;
-
+    private JScrollPane scp;
+    private JTextField txtAddItem;
+    private Box box;
     private ArrayList<JCheckBox> checks;
-
 
     public JobSummaryPanel(String jobBaseDir, String jobNum) {
         this.jobBaseDir = jobBaseDir;
         this.jobNum = jobNum;
+        this.box = Box.createVerticalBox();
 
-        this.setLayout(new GridBagLayout());
+        this.txtAddItem = new JTextField();
+        this.txtAddItem.addActionListener(e -> {
+            this.checks.add(new JCheckBox(this.txtAddItem.getText()));
+            this.txtAddItem.setText("");
+            this.txtAddItem.requestFocus();
+            saveStateOfCheckList();
+            updateChecklist();
+        });
 
-        checks = new ArrayList<JCheckBox>();
+        this.scp = new JScrollPane(box);
+        this.scp.setHorizontalScrollBarPolicy(ScrollPaneConstants.HORIZONTAL_SCROLLBAR_AS_NEEDED);
+        this.scp.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_AS_NEEDED);
+
+        this.setLayout(new BorderLayout());
+
+        this.checks = new ArrayList<>();
 
         if(this.jobNum != null)
             createCheckList();
+
+        this.add(this.txtAddItem, BorderLayout.SOUTH);
+    }
+
+    private void updateChecklist() {
+        this.box.removeAll();
+
+        for(JCheckBox ck : checks)
+            this.box.add(ck);
+
+        this.revalidate();
     }
 
     public void updateJobNum(String jobNum) {
@@ -37,7 +61,7 @@ public class JobSummaryPanel extends JPanel {
         Font listFont = new Font("Times New Roman", Font.BOLD, 15);
 
         this.checks.clear();
-        this.removeAll();
+        this.box.removeAll();
 
         try {
             File checkList = new File(this.jobBaseDir+this.jobNum+File.separator+this.jobNum+"-ck-list.txt");
@@ -45,54 +69,23 @@ public class JobSummaryPanel extends JPanel {
             if(checkList.exists()) {
                 BufferedReader br = new BufferedReader(new FileReader(checkList));
 
-                String [] lines = new String[NUM_ITEMS];
                 String [] lineComps;
-
-                for(int i = 0; i < lines.length; i++)
-                    lines[i] = br.readLine();
-
+                String line;
                 JCheckBox tempCk;
 
-                for(int i = 0; i < lines.length - 1; i ++) {
-                    lineComps = lines[i].split(",");
+                while((line = br.readLine()) != null) {
+                    lineComps = line.split(",");
                     tempCk = new JCheckBox(lineComps[0].strip(), lineComps[1].strip().equals("X"));
                     tempCk.setForeground(tempCk.isSelected() ? Color.GRAY : Color.BLACK);
                     tempCk.setFont(listFont);
                     tempCk.addActionListener(new CheckBoxListener());
-                    checks.add(tempCk);
+                    this.checks.add(tempCk);
+                    this.box.add(tempCk);
                 }
 
-                JPanel checkBoxPanel = new JPanel();
-                checkBoxPanel.setLayout(new GridBagLayout());
-
-                GridBagConstraints gc = new GridBagConstraints();
-
-                gc.gridx = 0;
-                gc.gridy = 0;
-                gc.gridwidth = 1;
-                gc.weighty = 1;
-                gc.anchor  = GridBagConstraints.LINE_START;
-
-                for(int i = 0; i < checks.size(); i++) {
-                    gc.gridy = i;
-                    checkBoxPanel.add(checks.get(i), gc);
-                }
+                this.add(scp, BorderLayout.CENTER);
 
                 br.close();
-
-                JScrollPane scp = new JScrollPane(checkBoxPanel);
-
-                scp.setBorder(null);
-                scp.setHorizontalScrollBarPolicy(ScrollPaneConstants.HORIZONTAL_SCROLLBAR_AS_NEEDED);
-                scp.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_AS_NEEDED);
-
-                gc.gridx = 0;
-                gc.gridy = 0;
-                gc.gridwidth = 1;
-                gc.weightx = 1;
-                gc.anchor = GridBagConstraints.FIRST_LINE_START;
-
-                this.add(scp, gc);
 
             } else {
                 createCheckListForJobNumber();
@@ -110,7 +103,7 @@ public class JobSummaryPanel extends JPanel {
         for(JCheckBox check : this.checks) {
             checkList.append(check.getText());
             checkList.append(",");
-            checkList.append(check.isSelected() ? "X" : " ");
+            checkList.append(check.isSelected() ? "X" : "O");
             checkList.append("\n");
         }
 
@@ -134,16 +127,16 @@ public class JobSummaryPanel extends JPanel {
         File checkListFile = new File(this.jobBaseDir+this.jobNum+"/"+this.jobNum+"-ck-list.txt");
 
         if(!checkListFile.exists()) {
-            checkList.append("Check in Job-Book, \n");
-            checkList.append("Create Job-Book entry, \n");
-            checkList.append("Get Tax Map Printout, \n");
-            checkList.append("Create Deed Outline, \n");
-            checkList.append("Get Deeds parcels, \n");
-            checkList.append("Note Stored Maps/Deeds, \n");
-            checkList.append("Enter Deeds to CAD, \n");
-            checkList.append("Create Plot Map, \n");
-            checkList.append("Band related Files, \n");
-            checkList.append("Sticky Note Stored Items, \n");
+            checkList.append("Check in Job-Book,O\n");
+            checkList.append("Create Job-Book entry,O\n");
+            checkList.append("Get Tax Map Printout,O\n");
+            checkList.append("Create Deed Outline,O\n");
+            checkList.append("Get Deeds parcels,O\n");
+            checkList.append("Note Stored Maps/Deeds,O\n");
+            checkList.append("Enter Deeds to CAD,O\n");
+            checkList.append("Create Plot Map,O\n");
+            checkList.append("Band related Files,O\n");
+            checkList.append("Sticky Note Stored Items,O\n");
 
             try {
                 BufferedWriter bw = new BufferedWriter(new FileWriter(checkListFile));
